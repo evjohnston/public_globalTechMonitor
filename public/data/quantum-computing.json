@@ -1,6 +1,6 @@
 {
   "technology": "quantum-computing",
-  "generatedAt": "2026-11-02T00:11:15.655Z",
+  "generatedAt": "2026-11-02T10:26:45.090Z",
   "entries": [
     {
       "id": "seed-ibm-roadmap-2025",
@@ -23453,7 +23453,7 @@
       "date": "2025-02-05",
       "url": "https://doi.org/10.1038/s41586-024-08404-x",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 200,
+      "citations": 201,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "university of oxford",
       "relevanceScore": 0.6
@@ -24799,7 +24799,7 @@
       "date": "2024-03-27",
       "url": "https://doi.org/10.1038/s41586-024-07107-7",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 457,
+      "citations": 456,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "ibm",
       "relevanceScore": 0.6
@@ -24894,7 +24894,7 @@
       "date": "2024-08-08",
       "url": "https://doi.org/10.1016/j.comnet.2024.110672",
       "countryEvidence": "institution country codes [IT, IT] → IT",
-      "citations": 272,
+      "citations": 271,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "consorzio nazionale interuniversitario per le telecomunicazioni",
       "relevanceScore": 0.6
@@ -26517,7 +26517,7 @@
       "date": "2023-01-01",
       "url": "https://doi.org/10.1109/comst.2023.3254481",
       "countryEvidence": "institution country codes [US, US, US] → US",
-      "citations": 256,
+      "citations": 255,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "washington university in st louis",
       "relevanceScore": 0.6
@@ -26683,7 +26683,7 @@
       "date": "2023-01-31",
       "url": "https://doi.org/10.1038/s41467-023-36159-y",
       "countryEvidence": "institution country codes [AT, AT, AT, DE, AT, NL] → AT",
-      "citations": 239,
+      "citations": 238,
       "collaboratingCountries": [
         "AT",
         "DE",
@@ -26835,7 +26835,7 @@
       "date": "2023-04-20",
       "url": "https://doi.org/10.1126/science.adf7553",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 196,
+      "citations": 195,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "eth zurich",
       "relevanceScore": 0.6
@@ -27653,7 +27653,7 @@
       "date": "2021-05-19",
       "url": "https://doi.org/10.1103/revmodphys.93.025005",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, AU, CA, CA, CA, CA, US, CA, CA, CA, CH, CA] → CA",
-      "citations": 1948,
+      "citations": 1947,
       "collaboratingCountries": [
         "AU",
         "CA",
@@ -27675,7 +27675,7 @@
       "date": "2022-02-15",
       "url": "https://doi.org/10.1103/revmodphys.94.015004",
       "countryEvidence": "institution country codes [SG, SG, SG, SG, CA, SG, SG, CA, SG, SG, GB, SG, SG, CA, SG, SG, CA, SG, SG, CA, SG, SG, SG, SG, CA, SG, US, SG, US, SG, SG, SG, US, SG, SG, FR, SG, SG, SG, SG, CA, SG, SG, CA, CA] → SG",
-      "citations": 1747,
+      "citations": 1746,
       "collaboratingCountries": [
         "CA",
         "FR",
@@ -27698,7 +27698,7 @@
       "date": "2021-10-25",
       "url": "https://doi.org/10.1103/physrevlett.127.180501",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1058,
+      "citations": 1057,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -27730,7 +27730,7 @@
       "date": "2022-06-01",
       "url": "https://doi.org/10.1038/s41586-022-04725-x",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, US, US, US, CA, CA, CA, CA, CA, CA] → CA",
-      "citations": 1023,
+      "citations": 1022,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -27766,7 +27766,7 @@
       "date": "2022-09-23",
       "url": "https://doi.org/10.1016/j.physrep.2022.08.003",
       "countryEvidence": "institution country codes [US, GB, US, GB, GB, US, US, GB, CN, US, GB, US, GB, GB, GB, GB] → GB",
-      "citations": 1032,
+      "citations": 1031,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -27839,7 +27839,7 @@
       "date": "2021-03-24",
       "url": "https://doi.org/10.1103/physreva.103.032430",
       "countryEvidence": "institution country codes [CA, DE, DE] → DE",
-      "citations": 740,
+      "citations": 739,
       "collaboratingCountries": [
         "CA",
         "DE"
@@ -27881,7 +27881,7 @@
       "date": "2021-05-11",
       "url": "https://doi.org/10.1038/s41467-021-22539-9",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US] → US",
-      "citations": 890,
+      "citations": 889,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "google united states",
       "relevanceScore": 0.6
@@ -27897,7 +27897,7 @@
       "date": "2021-07-07",
       "url": "https://doi.org/10.1038/s41586-021-03585-1",
       "countryEvidence": "institution country codes [FR, FR, FR, FR, AT, AT, FR, FR, FR, FR, AT, FR, ES, FR, FR, FR, ES, FR, FR, FR, FR, FR, FR, FR, FR, DE, AT, FR, FR, FR, FR, AT, FR, FR, FR, FR] → FR",
-      "citations": 683,
+      "citations": 684,
       "collaboratingCountries": [
         "AT",
         "DE",
@@ -28087,7 +28087,7 @@
       "date": "2022-04-20",
       "url": "https://doi.org/10.1038/s41586-022-04603-6",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, GB, GB, GB, US, US, US] → US",
-      "citations": 518,
+      "citations": 519,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -28150,7 +28150,7 @@
       "date": "2022-06-09",
       "url": "https://doi.org/10.1126/science.abn7293",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, AT, US, US, US] → US",
-      "citations": 517,
+      "citations": 516,
       "collaboratingCountries": [
         "AT",
         "US"
@@ -28170,7 +28170,7 @@
       "date": "2021-07-12",
       "url": "https://doi.org/10.1038/s41567-021-01287-z",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US] → US",
-      "citations": 626,
+      "citations": 625,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "ibm",
       "relevanceScore": 0.6
@@ -28320,7 +28320,7 @@
       "date": "2021-02-04",
       "url": "https://doi.org/10.1038/s41567-020-01105-y",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, US, US, US, US, NL, DE, US, US, DE, DE, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 556,
+      "citations": 555,
       "collaboratingCountries": [
         "DE",
         "NL",
@@ -28807,7 +28807,7 @@
       "date": "2021-01-25",
       "url": "https://doi.org/10.1007/s42484-020-00036-4",
       "countryEvidence": "institution country codes [NL, DE, US, US, HU, DE] → DE",
-      "citations": 320,
+      "citations": 321,
       "collaboratingCountries": [
         "DE",
         "HU",
@@ -29172,7 +29172,7 @@
       "date": "2022-07-06",
       "url": "https://doi.org/10.1103/revmodphys.94.035001",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
-      "citations": 299,
+      "citations": 298,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -29511,7 +29511,7 @@
       "date": "2021-06-02",
       "url": "https://doi.org/10.1038/s41586-021-03481-8",
       "countryEvidence": "institution country codes [ES, ES, ES, ES, ES, ES, ES, ES, ES, ES, ES] → ES",
-      "citations": 284,
+      "citations": 285,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "institute of photonic sciences",
       "relevanceScore": 0.6
@@ -30071,7 +30071,7 @@
       "date": "2022-07-06",
       "url": "https://doi.org/10.1038/s41586-022-04764-4",
       "countryEvidence": "institution country codes [DE, DE, AT, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, CN, DE, DE, DE, DE] → DE",
-      "citations": 239,
+      "citations": 240,
       "collaboratingCountries": [
         "AT",
         "CN",
@@ -30193,7 +30193,7 @@
       "date": "2021-06-02",
       "url": "https://doi.org/10.1038/s41586-021-03505-3",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 218,
+      "citations": 219,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -30432,7 +30432,7 @@
       "date": "2021-04-22",
       "url": "https://doi.org/10.1038/s41467-021-22706-y",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 221,
+      "citations": 222,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -118466,7 +118466,7 @@
       "date": "2021-12-03",
       "url": "https://doi.org/10.1103/prxquantum.2.040203",
       "countryEvidence": "institution country codes [US, US, US, US, US] → US",
-      "citations": 369,
+      "citations": 368,
       "ingestedAt": "2026-09-25T14:26:15.922Z",
       "orgId": "massachusetts institute of technology",
       "relevanceScore": 0.6
@@ -131475,7 +131475,7 @@
       "date": "2022-03-07",
       "url": "https://doi.org/10.1002/wcms.1606",
       "countryEvidence": "institution country codes [DE] → DE",
-      "citations": 5061,
+      "citations": 5059,
       "ingestedAt": "2026-10-06T12:35:06.729Z",
       "orgId": "max planck institut für kohlenforschung",
       "relevanceScore": 0.6
@@ -131491,7 +131491,7 @@
       "date": "2025-03-01",
       "url": "https://doi.org/10.1002/wcms.70019",
       "countryEvidence": "institution country codes [DE] → DE",
-      "citations": 1266,
+      "citations": 1265,
       "ingestedAt": "2026-10-06T12:35:06.729Z",
       "orgId": "max planck institut für kohlenforschung",
       "relevanceScore": 0.6
@@ -131507,7 +131507,7 @@
       "date": "2021-03-19",
       "url": "https://doi.org/10.1038/s41467-021-22030-5",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 563,
+      "citations": 562,
       "ingestedAt": "2026-10-06T12:35:06.729Z",
       "orgId": "princeton university",
       "relevanceScore": 0.6
@@ -138784,7 +138784,7 @@
       "date": "2021-01-27",
       "url": "https://doi.org/10.1103/physrevapplied.15.014053",
       "countryEvidence": "institution country codes [US, US, US] → US",
-      "citations": 209,
+      "citations": 210,
       "ingestedAt": "2026-10-06T20:02:24.535Z",
       "orgId": "devcom army research laboratory",
       "relevanceScore": 0.6
@@ -168839,7 +168839,7 @@
       "date": "2023-02-27",
       "url": "https://doi.org/10.1038/s41586-023-05859-2",
       "countryEvidence": "institution country codes [FR, FR, FR, FR, FR, FR, US, FR, FR, FR, FR, FR, FR, FR, US, US, FR, FR, FR, FR, ES, ES, FR, FR, ES, DE, DE, US, US, AT, AT, CH, CH, US, US, FR, FR, FR, US, US, US, FR, FR, FR] → FR",
-      "citations": 188,
+      "citations": 189,
       "collaboratingCountries": [
         "AT",
         "CH",
@@ -177347,6 +177347,86 @@
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
       "abstract": "Can manipulating superconductivity *without* adding energy be achieved through careful electromagnetic design? New theoretical work demonstrates a one percent increase in superconducting transition temperature by coupling a two-dimensional…",
       "ingestedAt": "2026-11-02T00:11:15.655Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-ccelerator-selects-four-quantum-startups-for-commercialization-program",
+      "stage": "adoption",
+      "country": null,
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "Chattanooga Accelerator Selects Four Quantum Startups For Commercialization Program",
+      "org": "",
+      "date": "2026-11-02",
+      "url": "https://thequantuminsider.com/2026/11/02/chattanooga-accelerator-selects-four-quantum-startups-for-commercialization-program/",
+      "publisher": "The Quantum Insider",
+      "countryEvidence": "no location match (auto-classified from The Quantum Insider RSS, unverified)",
+      "abstract": "Insider Brief Chattanooga’s CO.LAB has selected four quantum startups for a yearlong program aimed at turning their technologies into commercial products. The inaugural CO.LAB Q cohort includes Ridge Quantum, which is commercializing…",
+      "ingestedAt": "2026-11-02T10:26:45.090Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-qdmin-nuclear-minima-finding-success-rate",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Researchers Find Nuclear Solution with Quantum Grover Algorithm",
+      "org": "",
+      "date": "2026-11-02",
+      "url": "https://quantumzeitgeist.com/qdmin-nuclear-minima-finding-success-rate/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "After just one iteration using quantum computation, the probability of locating a true nuclear energy minimum jumped from 25% to 92%. This method, dubbed QDMin, intelligently searches for stable configurations without exhaustively…",
+      "ingestedAt": "2026-11-02T10:26:45.090Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-tgeist-com-quantum-sensor-coherence-tenfold-boost-dynamical-decoupling",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Researchers Boost Quantum Sensor Coherence by Tenfold",
+      "org": "",
+      "date": "2026-11-02",
+      "url": "https://quantumzeitgeist.com/quantum-sensor-coherence-tenfold-boost-dynamical-decoupling/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "A tenfold extension of quantum information storage, from milliseconds to tens of milliseconds, now unlocks more sensitive detection of faint signals within noisy environments. This advance stems from a refined pulse technique that shields…",
+      "ingestedAt": "2026-11-02T10:26:45.090Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-mzeitgeist-com-exequantum-bluebik-partnership-titans-thailands-quantum",
+      "stage": "adoption",
+      "country": null,
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "ExeQuantum, Bluebik Titans partner on Thailand’s quantum security",
+      "org": "",
+      "date": "2026-11-02",
+      "url": "https://quantumzeitgeist.com/exequantum-bluebik-partnership-titans-thailands-quantum/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "ExeQuantum has partnered with Bluebik Titans Company Limited, a subsidiary of Bluebik Group (SET: BBIK), to deliver post-quantum cryptography (PQC) services across Thailand’s banking, financial services, insurance, energy, and government…",
+      "ingestedAt": "2026-11-02T10:26:45.090Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-itgeist-com-adaptive-measurements-outperform-static-ones-exponentially",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Researchers Find Adaptive Measurements Outperform Static Ones Exponentially",
+      "org": "",
+      "date": "2026-11-02",
+      "url": "https://quantumzeitgeist.com/adaptive-measurements-outperform-static-ones-exponentially/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Where every alternative requires exponentially more attempts, an adaptive method now learns multi-qubit states using logarithmically fewer copies as qubit count grows. This marks the first demonstration of exponential speedup in quantum…",
+      "ingestedAt": "2026-11-02T10:26:45.090Z",
       "relevanceScore": 0.75
     }
   ],
@@ -186776,12 +186856,12 @@
       "counts": {
         "US": 35,
         "JP": 16,
-        "CN": 84,
+        "CN": 85,
         "DE": 17,
         "FR": 12,
         "SA": 10,
         "IN": 44,
-        "TW": 3,
+        "TW": 2,
         "MX": 5,
         "RU": 18,
         "NL": 4,
@@ -186831,12 +186911,12 @@
       },
       "stageCounts": {
         "innovation": 785,
-        "scaling": 231,
-        "adoption": 130,
+        "scaling": 234,
+        "adoption": 132,
         "investment": 42
       },
       "fundingUsd": 600790,
-      "totalEntries": 9361,
+      "totalEntries": 9366,
       "windowCap": 600
     }
   ],
@@ -186873,7 +186953,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -187073,7 +187153,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -187082,7 +187162,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -187091,7 +187171,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -187482,7 +187562,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -187491,7 +187571,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -187506,7 +187586,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -187515,7 +187595,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -187524,7 +187604,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -187533,7 +187613,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -187542,7 +187622,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -187551,7 +187631,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-02T00:11:15.655Z",
+      "lastSuccessfulPull": "2026-11-02T10:26:45.090Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -187564,182 +187644,182 @@
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
       "marketCapUsd": 12899406647.119999,
-      "asOf": "2026-11-02T00:04:14.286Z",
+      "asOf": "2026-11-02T10:19:59.439Z",
       "url": "https://www.ionq.com"
     },
     {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc. Common Stock",
       "marketCapUsd": 3754898403.75,
-      "asOf": "2026-11-02T00:04:29.529Z",
+      "asOf": "2026-11-02T10:20:14.652Z",
       "url": "https://www.rigetti.com"
     },
     {
       "symbol": "QBTS",
       "name": "D-Wave Quantum Inc. Common Stock",
       "marketCapUsd": 4043023588.2000003,
-      "asOf": "2026-11-02T00:04:44.704Z",
+      "asOf": "2026-11-02T10:20:29.869Z",
       "url": "https://www.dwavequantum.com"
     },
     {
       "symbol": "QUBT",
       "name": "Quantum Computing Inc. Common",
       "marketCapUsd": 1493889282.6,
-      "asOf": "2026-11-02T00:04:59.868Z",
+      "asOf": "2026-11-02T10:20:45.084Z",
       "url": "https://www.quantumcomputinginc.com"
     },
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. Ordinary Shares",
       "marketCapUsd": 273739925.03000003,
-      "asOf": "2026-11-02T00:05:15.048Z",
+      "asOf": "2026-11-02T10:21:00.307Z",
       "url": "https://www.arqit.uk"
     },
     {
       "symbol": "LAES",
       "name": "SEALSQ Corp Ordinary Shares",
       "marketCapUsd": 330647929.08,
-      "asOf": "2026-11-02T00:05:30.220Z",
+      "asOf": "2026-11-02T10:21:15.515Z",
       "url": "https://www.sealsq.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "marketCapUsd": 243661594737.05,
-      "asOf": "2026-11-02T00:05:45.417Z",
+      "asOf": "2026-11-02T10:21:30.720Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
       "marketCapUsd": 3440352959999.9995,
-      "asOf": "2026-11-02T00:06:00.589Z",
+      "asOf": "2026-11-02T10:21:45.935Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
       "marketCapUsd": 3875805198634.32,
-      "asOf": "2026-11-02T00:06:15.767Z",
+      "asOf": "2026-11-02T10:22:01.142Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
       "marketCapUsd": 2598937791847.1,
-      "asOf": "2026-11-02T00:06:30.963Z",
+      "asOf": "2026-11-02T10:22:16.360Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "HON",
       "name": "Honeywell International, Inc.",
       "marketCapUsd": 69197512383.3,
-      "asOf": "2026-11-02T00:06:46.109Z",
+      "asOf": "2026-11-02T10:22:31.595Z",
       "url": "https://www.honeywell.com"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
       "marketCapUsd": 349514400000,
-      "asOf": "2026-11-02T00:07:01.312Z",
+      "asOf": "2026-11-02T10:22:46.808Z",
       "url": "https://www.intel.com"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia Corp",
       "marketCapUsd": 4941442080000,
-      "asOf": "2026-11-02T00:07:16.515Z",
+      "asOf": "2026-11-02T10:23:02.011Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 147138405448,
-      "asOf": "2026-11-02T00:07:31.707Z",
+      "asOf": "2026-11-02T10:23:17.221Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 79206635197.06,
-      "asOf": "2026-11-02T00:07:46.881Z",
+      "asOf": "2026-11-02T10:23:32.484Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 269618221490.40002,
-      "asOf": "2026-11-02T00:08:02.077Z",
+      "asOf": "2026-11-02T10:23:47.702Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 100682651736.31,
-      "asOf": "2026-11-02T00:08:17.272Z",
+      "asOf": "2026-11-02T10:24:02.916Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 51691185488.130005,
-      "asOf": "2026-11-02T00:08:32.462Z",
+      "asOf": "2026-11-02T10:24:18.131Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 17942876042.82,
-      "asOf": "2026-11-02T00:08:47.616Z",
+      "asOf": "2026-11-02T10:24:33.361Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
       "marketCapUsd": 10538890698.32,
-      "asOf": "2026-11-02T00:09:02.802Z",
+      "asOf": "2026-11-02T10:24:48.582Z",
       "url": "https://www.boozallen.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
       "marketCapUsd": 309574426539.87,
-      "asOf": "2026-11-02T00:09:18.031Z",
+      "asOf": "2026-11-02T10:25:03.834Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "marketCapUsd": 603525642197.8,
-      "asOf": "2026-11-02T00:09:33.195Z",
+      "asOf": "2026-11-02T10:25:19.067Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "marketCapUsd": 73130034675.11,
-      "asOf": "2026-11-02T00:09:48.365Z",
+      "asOf": "2026-11-02T10:25:34.306Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "marketCapUsd": 412039754097.23004,
-      "asOf": "2026-11-02T00:10:03.517Z",
+      "asOf": "2026-11-02T10:25:49.567Z",
       "url": "https://www.cisco.com"
     },
     {
       "symbol": "NOK",
       "name": "Nokia Corporation",
       "marketCapUsd": 47924397758.880005,
-      "asOf": "2026-11-02T00:10:18.719Z",
+      "asOf": "2026-11-02T10:26:04.771Z",
       "url": "https://www.nokia.com"
     },
     {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
       "marketCapUsd": 11624190411.2,
-      "asOf": "2026-11-02T00:10:33.876Z",
+      "asOf": "2026-11-02T10:26:20.003Z",
       "url": "https://www.sktelecom.com"
     }
   ],
