@@ -1,6 +1,6 @@
 {
   "technology": "space",
-  "generatedAt": "2026-11-02T21:55:56.670Z",
+  "generatedAt": "2026-11-03T05:31:15.623Z",
   "entries": [
     {
       "id": "seed-falcon9-first-landing-2015",
@@ -12786,13 +12786,6 @@
       "url": "https://doi.org/10.1038/s44459-026-00063-w",
       "countryEvidence": "institution country codes [SA, ES, ES, SA] → SA",
       "citations": 0,
-      "abstract": "Abstract Network-based Global Navigation Satellite Systems (GNSS) support critical infrastructure and autonomous systems, but centralized processing hubs limit scalability, resilience, and latency. We present a global-scale decentralized…",
-      "authors": [
-        "Xue Xian Zheng",
-        "Xing Liu",
-        "Tareq Y. Al-Naffouri"
-      ],
-      "venue": "npj Wireless Technology",
       "collaboratingCountries": [
         "ES",
         "SA"
@@ -12813,14 +12806,6 @@
       "url": "https://doi.org/10.3390/electronics15153459",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Autonomous robotic systems designed for extraterrestrial in situ resource utilization (ISRU) will play a central role in enabling a sustained human presence on the Moon and Mars. These robots are expected to perform tasks such as regolith…",
-      "authors": [
-        "Eyob S. Mengesha",
-        "Vamsi Borra",
-        "Brian K. Friedrich",
-        "Frank X. Li"
-      ],
-      "venue": "Electronics",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "youngstown state university",
       "relevanceScore": 0.6
@@ -12837,16 +12822,6 @@
       "url": "https://doi.org/10.3390/s26154958",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "In this letter, a novel access and handover authentication scheme is proposed for Low Earth Orbit (LEO) satellite networks, aiming to achieve lightweight computation, privacy preservation, and seamless secure handover for massive sensor…",
-      "authors": [
-        "Zhengwei Lv",
-        "Zhengxin Tao",
-        "Qingpeng Yang",
-        "Ziqi Zheng",
-        "Jiaxi Zhou",
-        "Lixia Xiao"
-      ],
-      "venue": "Sensors",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "huazhong university of science and technology",
       "relevanceScore": 0.6
@@ -12863,13 +12838,6 @@
       "url": "https://doi.org/10.1016/j.ast.2026.113442",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Xiuying Liu",
-        "Jixin Ding",
-        "Yanchao He",
-        "Ming Xu"
-      ],
-      "venue": "Aerospace Science and Technology",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -12885,16 +12853,6 @@
       "url": "https://doi.org/10.1016/j.rcim.2026.103395",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
       "citations": 0,
-      "abstract": "Assembly of alignment-sensitive optical systems remains challenging because even small positional or angular errors can measurably affect system performance. In solid-state lasers, such errors can lead to changes in output power, beam…",
-      "authors": [
-        "Arun Paudel",
-        "Philipp Gehrke",
-        "Jonas Niklas Matthes",
-        "Robin Mevert",
-        "Han Rao",
-        "Anna Karoline Rüßeler"
-      ],
-      "venue": "Robotics and Computer-Integrated Manufacturing",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "hearing4all",
       "relevanceScore": 0.6
@@ -12911,12 +12869,6 @@
       "url": "https://doi.org/10.1016/j.econlet.2026.113182",
       "countryEvidence": "institution country codes [GB, SS, IT] → GB",
       "citations": 0,
-      "abstract": "Access to space is now a national security priority, yet its cost varies enormously across nations. Using a novel dataset of over 6,740 rocket launches (1960–2025), we estimate country-level launch costs and country-specific experience…",
-      "authors": [
-        "Alessio Terzi",
-        "Francesco Nicoli"
-      ],
-      "venue": "Economics Letters",
       "collaboratingCountries": [
         "GB",
         "IT",
@@ -12938,13 +12890,6 @@
       "url": "https://doi.org/10.1016/j.combustflame.2026.115170",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
-      "authors": [
-        "Andrew J. Metro",
-        "Robert D. Rockwell",
-        "Andrew D. Cutler",
-        "Chloe E. Dedic"
-      ],
-      "venue": "Combustion and Flame",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "university of virginia",
       "relevanceScore": 0.6
@@ -12961,13 +12906,6 @@
       "url": "https://doi.org/10.1016/j.actamat.2026.122613",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
-      "authors": [
-        "Alex Alberts",
-        "Akshay J. Thomas",
-        "Kamran Daryabeigi",
-        "Ilias Bilionis"
-      ],
-      "venue": "Acta Materialia",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "purdue university west lafayette",
       "relevanceScore": 0.6
@@ -12984,14 +12922,6 @@
       "url": "https://doi.org/10.2514/1.a36762",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Covers advancements in spacecraft and tactical and strategic missile systems, including subsystem design and application, mission design and analysis, materials and structures, developments in space sciences, space processing and…",
-      "authors": [
-        "Christopher D. Tommila",
-        "Richard Linares",
-        "Olivier de Weck",
-        "Ian Claypool"
-      ],
-      "venue": "Journal of Spacecraft and Rockets",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "massachusetts institute of technology",
       "relevanceScore": 0.6
@@ -13008,13 +12938,6 @@
       "url": "https://doi.org/10.9766/kimst.2026.29.4.402",
       "countryEvidence": "institution country codes [KR, KR, KR] → KR",
       "citations": 0,
-      "abstract": "In the present study, the exhaust plume deflector for the rocket launches was designed using computational fluid dynamics. First, a parametric study was conducted to examine the effects of the geometric design parameters such as impinging…",
-      "authors": [
-        "Youngjin Kim",
-        "Won Seok Lee",
-        "Jae Chul Shin"
-      ],
-      "venue": "Journal of the Korea Institute of Military Science and Technology",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "agency for defense development",
       "relevanceScore": 0.6
@@ -13031,15 +12954,6 @@
       "url": "https://doi.org/10.1299/jsmemag.129.1293_52",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "啓太 寺島",
-        "恵一 柳瀬",
-        "治 森",
-        "和宏 宮崎",
-        "晴紀 永田",
-        "充晃 金岡"
-      ],
-      "venue": "Nihon Kikai Gakkaishi/Journal of the Japan Society of Mechanical Engineers",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "国研 宇宙航空研究開発機構",
       "relevanceScore": 0.6
@@ -28388,17 +28302,7 @@
       "date": "2026-08-05",
       "url": "https://worldwide.espacenet.com/patent/search?q=EP4786341",
       "countryEvidence": "Published by EP, a regional or international patent authority rather than a country — not attributable to one nation",
-      "authors": [
-        "SERRANO SERRANO, Manuel",
-        "MONTE ÁLVAREZ, Pablo",
-        "GARCÍA GUZMÁN, Francisco",
-        "ARAUZO ANDRÉS, Inés",
-        "LIWAG SANCHO, Joseph Manuel",
-        "GARCÍA MORENO, Alberto",
-        "CRESPO MENÉNDEZ, Carlos"
-      ],
       "classification": "B64G1/2228, F16B2/06, F16B2/185, F16B21/02, F16B37/0864, E05C19/009, F16B2005/0671",
-      "abstract": "[0001]    Hold down and release device (1), suitable for switching from a hold down or closed position to a release or open position, that comprises:\n- a housing (2) comprising a through hole (3) and several guide means (4) configured to…",
       "ingestedAt": "2026-09-03T18:40:11.356Z",
       "orgId": "occam space s l",
       "relevanceScore": 0.85
@@ -28414,11 +28318,7 @@
       "date": "2026-08-05",
       "url": "https://worldwide.espacenet.com/patent/search?q=EP4786342",
       "countryEvidence": "Published by EP, a regional or international patent authority rather than a country — not attributable to one nation",
-      "authors": [
-        "Behruzi, Kei-Philipp"
-      ],
       "classification": "B64G1/401, B64G1/402, B64G1/4021, F02K9/605, F17C13/002, F17C7/02, F17C2270/0197",
-      "abstract": "Offenbart ist eine Separationsvorrichtung für einen kryogenen Treibstofftank einer Raketenstufe, indem ein zum Kleintriebwerk führender Nebenstrom baulich von einem Hauptstrom zu einem Haupttriebwerk getrennt ist, wobei im Einlassbereich…",
       "ingestedAt": "2026-09-03T18:40:11.356Z",
       "orgId": "arianegroup gmbh",
       "relevanceScore": 0.85
@@ -76288,7 +76188,7 @@
       "authors": [
         "Clement, Roman Lavar"
       ],
-      "classification": "B64G1/409, B64G1/417",
+      "classification": "B64G1/409, B64G1/417, B64G1/422",
       "abstract": "A propulsion system for space travel harnesses quantum vacuum fluctuations via a Bose-Einstein Condensate (BEC) and Magnetic Coherence Focuser (MCF) helix, amplified by 1 THz resonance to a broadly scalable peak energy range starting at…",
       "ingestedAt": "2026-10-16T23:58:37.587Z",
       "orgId": "clement roman lavar",
@@ -86148,7 +86048,7 @@
         "Schroeder, Wayne K."
       ],
       "classification": "B63G8/16, B63H25/46, B64C15/00, B64G1/26, F42B10/661, F42B19/01, G05D1/49, G05D2109/23",
-      "abstract": "[0000]    A monolithic attitude control motor frame includes a monolithic structure including an outer surface of revolution and a plurality of side walls defining a plurality of cavities extending radially from the outer surface of…",
+      "abstract": "A monolithic attitude control motor frame includes a monolithic structure including an outer surface of revolution and a plurality of side walls defining a plurality of cavities extending radially from the outer surface of revolution.…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "lockheed martin",
       "relevanceScore": 0.85
@@ -86168,7 +86068,7 @@
         "Goldberg, Alex S."
       ],
       "classification": "B64G1/002, G08B21/02, G08B5/36",
-      "abstract": "Embodiments of the present disclosure are generally directed to a hazard monitoring system for monitoring potentially hazardous sites, such as a launch site, and informing on actual hazardous conditions. The hazard monitoring system can…",
+      "abstract": "[0000]    Embodiments of the present disclosure are generally directed to a hazard monitoring system for monitoring potentially hazardous sites, such as a launch site, and informing on actual hazardous conditions. The hazard monitoring…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "blue origin manufacturing",
       "relevanceScore": 0.85
@@ -88403,6 +88303,23 @@
       "abstract": "Lockheed Martin Secures $118.9 Million Across Army, Navy, And Space Force Awards, Including $4.7 Billion Satellite Contract Pulse 2.0",
       "ingestedAt": "2026-11-02T21:55:56.670Z",
       "relevanceScore": 0.7
+    },
+    {
+      "id": "rss-s-deploys-defensive-ai-as-it-rolls-out-starlink-across-fleet-ciso-says",
+      "stage": "adoption",
+      "country": null,
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "United Airlines Deploys Defensive AI as it Rolls Out Starlink Across Fleet, CISO Says",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://www.satellitetoday.com/cybersecurity/2026/11/02/united-airlines-deploys-defensive-ai-as-it-rolls-out-starlink-across-fleet-ciso-says/",
+      "publisher": "Via Satellite",
+      "countryEvidence": "no location match (auto-classified from Via Satellite RSS, unverified)",
+      "abstract": "RESTON, Va. — United Airlines is deploying defensive artificial intelligence and operationalizing cybersecurity as it rolls out in-flight Wi-Fi connectivity across the fleet by the end of 2027, according to […] The post United Airlines…",
+      "deploymentStatus": "deployed",
+      "ingestedAt": "2026-11-03T05:31:15.623Z",
+      "relevanceScore": 0.75
     }
   ],
   "trend": [
@@ -92518,6 +92435,68 @@
       "fundingUsd": 0,
       "totalEntries": 4214,
       "windowCap": 600
+    },
+    {
+      "date": "2026-11-03",
+      "counts": {
+        "ID": 4,
+        "IN": 31,
+        "CN": 210,
+        "IT": 19,
+        "TH": 1,
+        "SA": 3,
+        "US": 37,
+        "CZ": 1,
+        "NP": 1,
+        "RO": 2,
+        "KR": 17,
+        "UA": 5,
+        "AT": 1,
+        "JO": 1,
+        "ES": 4,
+        "NL": 3,
+        "DE": 6,
+        "AU": 6,
+        "JP": 5,
+        "NG": 6,
+        "FI": 1,
+        "RU": 19,
+        "FR": 5,
+        "TR": 8,
+        "GB": 6,
+        "CA": 3,
+        "AE": 2,
+        "SE": 2,
+        "KZ": 6,
+        "PT": 1,
+        "MX": 1,
+        "KP": 1,
+        "GR": 3,
+        "BR": 8,
+        "PL": 2,
+        "PK": 1,
+        "IR": 3,
+        "GH": 1,
+        "EG": 2,
+        "UZ": 1,
+        "DZ": 1,
+        "HK": 1,
+        "SK": 1,
+        "BE": 1,
+        "NO": 1,
+        "IL": 1,
+        "ZA": 1,
+        "VN": 1
+      },
+      "stageCounts": {
+        "innovation": 390,
+        "scaling": 18,
+        "adoption": 18,
+        "investment": 24
+      },
+      "fundingUsd": 0,
+      "totalEntries": 4215,
+      "windowCap": 600
     }
   ],
   "notes": [
@@ -92553,7 +92532,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -92570,10 +92549,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-09-19",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-09-20",
           "outcome": "not-attempted"
         },
@@ -92748,12 +92723,16 @@
         {
           "date": "2026-11-02",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-03",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -92762,7 +92741,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -92771,7 +92750,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -92780,7 +92759,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -92797,10 +92776,6 @@
       "lastRunOutcome": "failed",
       "recentMisses": [
         {
-          "date": "2026-09-18",
-          "outcome": "failed"
-        },
-        {
           "date": "2026-09-19",
           "outcome": "failed"
         },
@@ -92975,12 +92950,16 @@
         {
           "date": "2026-11-02",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-03",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -92989,7 +92968,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -93004,7 +92983,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -93013,7 +92992,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -93022,7 +93001,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -93031,7 +93010,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -93047,10 +93026,6 @@
       "key": "pitchbook-transactions",
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
-        {
-          "date": "2026-09-19",
-          "outcome": "not-attempted"
-        },
         {
           "date": "2026-09-20",
           "outcome": "not-attempted"
@@ -93226,12 +93201,16 @@
         {
           "date": "2026-11-02",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-03",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-02T21:55:56.670Z",
+      "lastSuccessfulPull": "2026-11-03T05:31:15.623Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -93244,245 +93223,245 @@
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "marketCapUsd": 34994963427.97,
-      "asOf": "2026-11-02T21:46:38.567Z",
+      "asOf": "2026-11-03T05:21:58.902Z",
       "url": "https://www.rocketlabusa.com"
     },
     {
       "symbol": "LUNR",
       "name": "Intuitive Machines, Inc. Class A Common Stock",
       "marketCapUsd": 1722276261.86,
-      "asOf": "2026-11-02T21:46:53.657Z",
+      "asOf": "2026-11-03T05:22:14.116Z",
       "url": "https://www.intuitivemachines.com"
     },
     {
       "symbol": "RDW",
       "name": "Redwire Corporation",
       "marketCapUsd": 2097437989.5100002,
-      "asOf": "2026-11-02T21:47:08.719Z",
+      "asOf": "2026-11-03T05:22:29.383Z",
       "url": "https://www.rdw.com"
     },
     {
       "symbol": "SPCE",
       "name": "Virgin Galactic Holdings, Inc.",
       "marketCapUsd": 391117429.74,
-      "asOf": "2026-11-02T21:47:23.777Z",
+      "asOf": "2026-11-03T05:22:44.599Z",
       "url": "https://www.virgingalactic.com"
     },
     {
       "symbol": "MNTS",
       "name": "Momentus Inc. Class A Common Stock",
       "marketCapUsd": 42608997.94,
-      "asOf": "2026-11-02T21:47:38.868Z",
+      "asOf": "2026-11-03T05:22:59.844Z",
       "url": "https://www.momentus.space"
     },
     {
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc.",
       "marketCapUsd": 1612998055.8,
-      "asOf": "2026-11-02T21:47:53.931Z",
+      "asOf": "2026-11-03T05:23:15.061Z",
       "url": "https://www.voyagertechnologies.com"
     },
     {
       "symbol": "SIDU",
       "name": "Sidus Space, Inc. Class A Common Stock",
       "marketCapUsd": 110335605.34,
-      "asOf": "2026-11-02T21:48:08.996Z",
+      "asOf": "2026-11-03T05:23:30.319Z",
       "url": "https://www.sidusspace.com"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "marketCapUsd": 12282367825.85,
-      "asOf": "2026-11-02T21:48:24.119Z",
+      "asOf": "2026-11-03T05:23:45.872Z",
       "url": "https://www.ast-science.com"
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
       "marketCapUsd": 4901032411.83,
-      "asOf": "2026-11-02T21:48:39.236Z",
+      "asOf": "2026-11-03T05:24:01.137Z",
       "url": "https://www.planet.com"
     },
     {
       "symbol": "BKSY",
       "name": "BlackSky Technology Inc.",
       "marketCapUsd": 731326998.0200001,
-      "asOf": "2026-11-02T21:48:54.368Z",
+      "asOf": "2026-11-03T05:24:16.425Z",
       "url": "https://www.blacksky.com"
     },
     {
       "symbol": "SPIR",
       "name": "Spire Global, Inc.",
       "marketCapUsd": 346950458.02,
-      "asOf": "2026-11-02T21:49:09.422Z",
+      "asOf": "2026-11-03T05:24:31.709Z",
       "url": "https://www.spire.com"
     },
     {
       "symbol": "VSAT",
       "name": "Viasat Inc",
       "marketCapUsd": 10609952486.199999,
-      "asOf": "2026-11-02T21:49:24.547Z",
+      "asOf": "2026-11-03T05:24:46.949Z",
       "url": "https://www.viasat.com"
     },
     {
       "symbol": "IRDM",
       "name": "Iridium Communications Inc.",
       "marketCapUsd": 4759631500.32,
-      "asOf": "2026-11-02T21:49:39.665Z",
+      "asOf": "2026-11-03T05:25:02.196Z",
       "url": "https://www.iridium.com"
     },
     {
       "symbol": "GSAT",
       "name": "Globalstar, Inc. Common Stock",
       "marketCapUsd": 10663066997,
-      "asOf": "2026-11-02T21:49:54.762Z",
+      "asOf": "2026-11-03T05:25:17.447Z",
       "url": "https://www.globalstar.com"
     },
     {
       "symbol": "TSAT",
       "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares",
       "marketCapUsd": 613989976.1,
-      "asOf": "2026-11-02T21:50:09.884Z",
+      "asOf": "2026-11-03T05:25:32.654Z",
       "url": "https://www.telesat.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 147138405448,
-      "asOf": "2026-11-02T21:50:24.948Z",
+      "asOf": "2026-11-03T05:25:47.875Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 79206635197.06,
-      "asOf": "2026-11-02T21:50:40.014Z",
+      "asOf": "2026-11-03T05:26:03.152Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 269618221490.40002,
-      "asOf": "2026-11-02T21:50:55.137Z",
+      "asOf": "2026-11-03T05:26:18.420Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "marketCapUsd": 135944787207.00002,
-      "asOf": "2026-11-02T21:51:10.193Z",
+      "asOf": "2026-11-03T05:26:33.641Z",
       "url": "https://www.boeing.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 100682651736.31,
-      "asOf": "2026-11-02T21:51:25.275Z",
+      "asOf": "2026-11-03T05:26:48.868Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 51691185488.130005,
-      "asOf": "2026-11-02T21:51:40.359Z",
+      "asOf": "2026-11-03T05:27:04.172Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 17942876042.82,
-      "asOf": "2026-11-02T21:51:55.419Z",
+      "asOf": "2026-11-03T05:27:19.384Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "HII",
       "name": "Huntington Ingalls Industries, Inc.",
       "marketCapUsd": 12486992292.8,
-      "asOf": "2026-11-02T21:52:10.547Z",
+      "asOf": "2026-11-03T05:27:34.597Z",
       "url": "https://www.hii.com"
     },
     {
       "symbol": "KTOS",
       "name": "Kratos Defense & Security Solutions, Inc.",
       "marketCapUsd": 7736076797.89,
-      "asOf": "2026-11-02T21:52:25.611Z",
+      "asOf": "2026-11-03T05:27:49.810Z",
       "url": "https://www.kratosdefense.com"
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment, Inc.",
       "marketCapUsd": 6408998729.22,
-      "asOf": "2026-11-02T21:52:40.673Z",
+      "asOf": "2026-11-03T05:28:05.059Z",
       "url": "https://www.avinc.com"
     },
     {
       "symbol": "TXT",
       "name": "Textron, Inc.",
       "marketCapUsd": 14517578200.300001,
-      "asOf": "2026-11-02T21:52:55.795Z",
+      "asOf": "2026-11-03T05:28:20.270Z",
       "url": "https://www.textron.com"
     },
     {
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd",
       "marketCapUsd": 36540786175.52,
-      "asOf": "2026-11-02T21:53:10.902Z",
+      "asOf": "2026-11-03T05:28:35.491Z",
       "url": "https://www.elbitsystems.com"
     },
     {
       "symbol": "HEI",
       "name": "HEICO Corporation",
       "marketCapUsd": 44912439670.8,
-      "asOf": "2026-11-02T21:53:26.037Z",
+      "asOf": "2026-11-03T05:28:50.781Z",
       "url": "https://www.heico.com"
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
       "marketCapUsd": 63391671635.25,
-      "asOf": "2026-11-02T21:53:41.094Z",
+      "asOf": "2026-11-03T05:29:06.021Z",
       "url": "https://www.transdigm.com"
     },
     {
       "symbol": "ATRO",
       "name": "Astronics Corp",
       "marketCapUsd": 2554308310.96,
-      "asOf": "2026-11-02T21:53:56.184Z",
+      "asOf": "2026-11-03T05:29:21.230Z",
       "url": "https://www.astronics.com"
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corp.",
       "marketCapUsd": 17581164688.44,
-      "asOf": "2026-11-02T21:54:11.244Z",
+      "asOf": "2026-11-03T05:29:36.450Z",
       "url": "https://www.curtisswright.com"
     },
     {
       "symbol": "TDY",
       "name": "Teledyne Technologies Incorporated",
       "marketCapUsd": 30512694638.79,
-      "asOf": "2026-11-02T21:54:26.304Z",
+      "asOf": "2026-11-03T05:29:51.667Z",
       "url": "https://www.teledyne.com"
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
       "marketCapUsd": 11974992785.999998,
-      "asOf": "2026-11-02T21:54:41.363Z",
+      "asOf": "2026-11-03T05:30:06.918Z",
       "url": "https://www.bwxt.com"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "marketCapUsd": 79221922817.8,
-      "asOf": "2026-11-02T21:54:56.442Z",
+      "asOf": "2026-11-03T05:30:22.132Z",
       "url": "https://www.howmet.com"
     },
     {
       "symbol": "TRMB",
       "name": "Trimble Inc. Common Stock",
       "marketCapUsd": 15142699329.119999,
-      "asOf": "2026-11-02T21:55:11.508Z",
+      "asOf": "2026-11-03T05:30:37.372Z",
       "url": "https://www.trimble.com"
     }
   ],
