@@ -1,6 +1,6 @@
 {
   "technology": "space",
-  "generatedAt": "2026-11-04T12:32:39.371Z",
+  "generatedAt": "2026-11-04T20:07:48.147Z",
   "entries": [
     {
       "id": "seed-falcon9-first-landing-2015",
@@ -18305,7 +18305,7 @@
       "date": "2022-03-03",
       "url": "https://doi.org/10.1109/taes.2022.3155711",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, GB, LU, CN] → CN",
-      "citations": 726,
+      "citations": 728,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -18326,7 +18326,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1109/comst.2022.3199901",
       "countryEvidence": "institution country codes [LU, LU, LU, LU, BE, BE, LU, BE, LU, LU, LU] → LU",
-      "citations": 688,
+      "citations": 697,
       "collaboratingCountries": [
         "BE",
         "LU"
@@ -18346,7 +18346,7 @@
       "date": "2021-01-14",
       "url": "https://doi.org/10.1109/jiot.2021.3051603",
       "countryEvidence": "institution country codes [CN, CN, DE, CN, CN, CA, CA, CA] → CN",
-      "citations": 622,
+      "citations": 621,
       "collaboratingCountries": [
         "CA",
         "CN",
@@ -18427,7 +18427,7 @@
       "date": "2021-11-30",
       "url": "https://doi.org/10.1109/comst.2021.3131332",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, JP] → CN",
-      "citations": 536,
+      "citations": 535,
       "collaboratingCountries": [
         "CN",
         "JP"
@@ -18526,7 +18526,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/comst.2021.3078433",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT] → IT",
-      "citations": 449,
+      "citations": 455,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "consorzio nazionale interuniversitario per le telecomunicazioni",
       "relevanceScore": 0.6
@@ -18677,7 +18677,7 @@
       "date": "2021-04-01",
       "url": "https://doi.org/10.1109/mvt.2021.3063706",
       "countryEvidence": "institution country codes [CA, CA] → CA",
-      "citations": 332,
+      "citations": 352,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "carleton university",
       "relevanceScore": 0.6
@@ -18750,7 +18750,7 @@
       "date": "2021-10-19",
       "url": "https://doi.org/10.1109/mcomstd.011.2100038",
       "countryEvidence": "institution country codes [SE, SE, SE, SE, SE] → SE",
-      "citations": 298,
+      "citations": 301,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "ericsson sweden",
       "relevanceScore": 0.6
@@ -18961,7 +18961,7 @@
       "date": "2021-03-24",
       "url": "https://doi.org/10.1109/jiot.2021.3068596",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, GB, CN, CN, CN, CN] → CN",
-      "citations": 259,
+      "citations": 269,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -19026,7 +19026,7 @@
       "date": "2021-05-20",
       "url": "https://doi.org/10.1038/s41598-021-89909-7",
       "countryEvidence": "institution country codes [CA, CA] → CA",
-      "citations": 249,
+      "citations": 252,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "university of british columbia",
       "relevanceScore": 0.6
@@ -19117,7 +19117,7 @@
       "date": "2021-07-01",
       "url": "https://doi.org/10.1109/mcom.001.2001081",
       "countryEvidence": "institution country codes [CN, CN, CN, AU, CN, GB, LU, LU] → CN",
-      "citations": 246,
+      "citations": 245,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -19139,7 +19139,7 @@
       "date": "2022-01-17",
       "url": "https://doi.org/10.1002/wcc.754",
       "countryEvidence": "institution country codes [NL, NL, NL, US, US, US, NL, US, ZA, GB, GB, DE, NG, SE, SE, KE, AU, TT, US] → US",
-      "citations": 238,
+      "citations": 246,
       "collaboratingCountries": [
         "AU",
         "DE",
@@ -19167,7 +19167,7 @@
       "date": "2021-08-25",
       "url": "https://doi.org/10.3847/psj/ac063e",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, CZ, CZ, CZ, CZ, IT, IT, IT, IT, FR, FR, FR, FR, FR, ES, US, US, US] → US",
-      "citations": 233,
+      "citations": 232,
       "collaboratingCountries": [
         "CZ",
         "ES",
@@ -19190,7 +19190,7 @@
       "date": "2023-03-01",
       "url": "https://doi.org/10.1038/s41586-023-05878-z",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, CH, US, IT, IT, IT, IT, IT, US, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, GB, US, US, US, US, IT, US, US, US, CH, US, DE, US, FR, FR, FR, FR, FR, FR, US, US, US, US, US, US, US, US, US, US, ES, ES, DE, US, US, DE, DE, US, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT] → IT",
-      "citations": 234,
+      "citations": 236,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -19311,7 +19311,7 @@
       "date": "2021-01-12",
       "url": "https://doi.org/10.1109/taes.2021.3050663",
       "countryEvidence": "institution country codes [IN, SG, IN, SG] → IN",
-      "citations": 224,
+      "citations": 221,
       "collaboratingCountries": [
         "IN",
         "SG"
@@ -19331,7 +19331,7 @@
       "date": "2021-03-23",
       "url": "https://doi.org/10.1109/jiot.2021.3068141",
       "countryEvidence": "institution country codes [CN, CN, CN, GB, CN] → CN",
-      "citations": 226,
+      "citations": 227,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -19454,7 +19454,7 @@
       "date": "2021-03-05",
       "url": "https://doi.org/10.1109/twc.2021.3062658",
       "countryEvidence": "institution country codes [CN, CN, GB, US, CN, CN, CN, CN] → CN",
-      "citations": 219,
+      "citations": 220,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -19553,7 +19553,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/access.2021.3119634",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 218,
+      "citations": 225,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "george mason university",
       "relevanceScore": 0.6
@@ -19585,7 +19585,7 @@
       "date": "2022-05-26",
       "url": "https://doi.org/10.1016/j.eng.2022.04.013",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 227,
+      "citations": 230,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "xi an institute of space radio technology",
       "relevanceScore": 0.6
@@ -19617,7 +19617,7 @@
       "date": "2021-11-16",
       "url": "https://doi.org/10.1109/mnet.011.2100191",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT, IT] → IT",
-      "citations": 214,
+      "citations": 215,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "consorzio nazionale interuniversitario per le telecomunicazioni",
       "relevanceScore": 0.6
@@ -19691,7 +19691,7 @@
       "date": "2021-06-14",
       "url": "https://doi.org/10.1109/jsac.2021.3088662",
       "countryEvidence": "institution country codes [VN, VN, GB, IE] → VN",
-      "citations": 190,
+      "citations": 191,
       "collaboratingCountries": [
         "GB",
         "IE",
@@ -19712,7 +19712,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/access.2021.3066632",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, AU] → AU",
-      "citations": 194,
+      "citations": 196,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "university of wollongong",
       "relevanceScore": 0.6
@@ -19744,7 +19744,7 @@
       "date": "2021-04-15",
       "url": "https://doi.org/10.1016/j.actaastro.2021.03.029",
       "countryEvidence": "institution country codes [CA, CA] → CA",
-      "citations": 189,
+      "citations": 190,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "carleton university",
       "relevanceScore": 0.6
@@ -19848,7 +19848,7 @@
       "date": "2021-07-01",
       "url": "https://doi.org/10.1109/mnet.011.2100097",
       "countryEvidence": "institution country codes [JP, JP, JP, JP] → JP",
-      "citations": 184,
+      "citations": 185,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "tohoku university",
       "relevanceScore": 0.6
@@ -19884,7 +19884,7 @@
       "date": "2024-11-06",
       "url": "https://doi.org/10.1109/jsac.2024.3492720",
       "countryEvidence": "institution country codes [CN, CN, SE, SE, SA, AU, FR] → CN",
-      "citations": 230,
+      "citations": 235,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -19979,7 +19979,7 @@
       "date": "2021-11-08",
       "url": "https://doi.org/10.1109/jsac.2021.3126073",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP] → JP",
-      "citations": 181,
+      "citations": 182,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "tohoku university",
       "relevanceScore": 0.6
@@ -19995,7 +19995,7 @@
       "date": "2021-06-14",
       "url": "https://doi.org/10.1109/jsac.2021.3088692",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, SG] → CN",
-      "citations": 184,
+      "citations": 185,
       "collaboratingCountries": [
         "CN",
         "SG"
@@ -20097,7 +20097,7 @@
       "date": "2022-08-03",
       "url": "https://doi.org/10.1016/j.comnet.2022.109246",
       "countryEvidence": "institution country codes [AE, NL, QA] → AE",
-      "citations": 180,
+      "citations": 189,
       "collaboratingCountries": [
         "AE",
         "NL",
@@ -20118,7 +20118,7 @@
       "date": "2021-12-01",
       "url": "https://doi.org/10.1109/mcom.005.2100142",
       "countryEvidence": "institution country codes [SE, SE, SE] → SE",
-      "citations": 175,
+      "citations": 181,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "ericsson sweden",
       "relevanceScore": 0.6
@@ -20154,7 +20154,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/mcom.001.2000542",
       "countryEvidence": "institution country codes [CA, TR, CA, CA, CA] → CA",
-      "citations": 167,
+      "citations": 169,
       "collaboratingCountries": [
         "CA",
         "TR"
@@ -20195,7 +20195,7 @@
       "date": "2023-04-20",
       "url": "https://doi.org/10.1002/aisy.202200397",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 169,
+      "citations": 172,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "harbin institute of technology",
       "relevanceScore": 0.6
@@ -20247,7 +20247,7 @@
       "date": "2022-09-23",
       "url": "https://doi.org/10.1016/j.pecs.2022.101038",
       "countryEvidence": "institution country codes [US, IT, RU, IL] → US",
-      "citations": 168,
+      "citations": 166,
       "collaboratingCountries": [
         "IL",
         "IT",
@@ -20368,7 +20368,7 @@
       "date": "2023-01-01",
       "url": "https://doi.org/10.1109/access.2023.3269297",
       "countryEvidence": "institution country codes [VN, CA, VN, VN, VN, VN] → VN",
-      "citations": 164,
+      "citations": 172,
       "collaboratingCountries": [
         "CA",
         "VN"
@@ -20420,7 +20420,7 @@
       "date": "2022-01-11",
       "url": "https://doi.org/10.1109/tits.2022.3140357",
       "countryEvidence": "institution country codes [CN, CN, CN, CA, CN] → CN",
-      "citations": 158,
+      "citations": 157,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -20440,7 +20440,7 @@
       "date": "2023-01-30",
       "url": "https://doi.org/10.1109/jiot.2022.3233383",
       "countryEvidence": "institution country codes [CN, CN, GB, CN, CN] → CN",
-      "citations": 162,
+      "citations": 163,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -20476,7 +20476,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/ojcoms.2021.3093110",
       "countryEvidence": "institution country codes [PK, SA, SA, SA, US, SA, SA] → SA",
-      "citations": 155,
+      "citations": 163,
       "collaboratingCountries": [
         "PK",
         "SA",
@@ -20554,7 +20554,7 @@
       "date": "2021-02-25",
       "url": "https://doi.org/10.1109/twc.2021.3050335",
       "countryEvidence": "institution country codes [DK, DK, DK] → DK",
-      "citations": 167,
+      "citations": 168,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "aalborg university",
       "relevanceScore": 0.6
@@ -20658,7 +20658,7 @@
       "date": "2022-12-19",
       "url": "https://doi.org/10.1109/mcom.002.2200366",
       "countryEvidence": "institution country codes [ES, ES, ES, LU] → ES",
-      "citations": 159,
+      "citations": 168,
       "collaboratingCountries": [
         "ES",
         "LU"
@@ -20678,7 +20678,7 @@
       "date": "2021-02-10",
       "url": "https://doi.org/10.1109/jiot.2021.3058236",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 153,
+      "citations": 152,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "north china electric power university",
       "relevanceScore": 0.6
@@ -20755,7 +20755,7 @@
       "date": "2022-01-06",
       "url": "https://doi.org/10.1016/j.actaastro.2021.12.030",
       "countryEvidence": "institution country codes [NL, NL, NL] → NL",
-      "citations": 154,
+      "citations": 157,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "delft university of technology",
       "relevanceScore": 0.6
@@ -20793,7 +20793,7 @@
       "date": "2022-02-08",
       "url": "https://doi.org/10.1109/twc.2022.3147823",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CA, CN] → CN",
-      "citations": 151,
+      "citations": 152,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -20905,7 +20905,7 @@
       "date": "2021-01-13",
       "url": "https://doi.org/10.1016/j.pecs.2020.100885",
       "countryEvidence": "institution country codes [IL, IL, IN] → IL",
-      "citations": 143,
+      "citations": 145,
       "collaboratingCountries": [
         "IL",
         "IN"
@@ -20925,7 +20925,7 @@
       "date": "2025-05-27",
       "url": "https://doi.org/10.1109/mwc.001.2400371",
       "countryEvidence": "institution country codes [CN, CN, CN, KR, SG, CN] → CN",
-      "citations": 158,
+      "citations": 162,
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -21003,7 +21003,7 @@
       "date": "2021-12-24",
       "url": "https://doi.org/10.1016/j.combustflame.2021.111926",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, HK] → CN",
-      "citations": 140,
+      "citations": 138,
       "collaboratingCountries": [
         "CN",
         "HK"
@@ -21044,7 +21044,7 @@
       "date": "2021-04-30",
       "url": "https://doi.org/10.1109/twc.2021.3075289",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, KR, US] → CN",
-      "citations": 140,
+      "citations": 143,
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -21153,7 +21153,7 @@
       "date": "2021-06-18",
       "url": "https://doi.org/10.1109/twc.2021.3088609",
       "countryEvidence": "institution country codes [LU, LU, LU, LU, LU, LU, LU, LU] → LU",
-      "citations": 139,
+      "citations": 138,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "university of luxembourg",
       "relevanceScore": 0.6
@@ -21169,7 +21169,7 @@
       "date": "2022-08-17",
       "url": "https://doi.org/10.1109/taes.2022.3199191",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, JP, JP, CN] → CN",
-      "citations": 136,
+      "citations": 135,
       "collaboratingCountries": [
         "CN",
         "JP"
@@ -21189,7 +21189,7 @@
       "date": "2021-06-19",
       "url": "https://doi.org/10.1007/s43154-021-00057-2",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 135,
+      "citations": 137,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "california institute of technology",
       "relevanceScore": 0.6
@@ -21245,7 +21245,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.34133/2022/9865174",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
-      "citations": 134,
+      "citations": 137,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "beijing institute of technology",
       "relevanceScore": 0.6
@@ -21261,7 +21261,7 @@
       "date": "2021-06-23",
       "url": "https://doi.org/10.1109/tits.2021.3090017",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CA] → CN",
-      "citations": 134,
+      "citations": 135,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -21317,7 +21317,7 @@
       "date": "2021-08-21",
       "url": "https://doi.org/10.1016/j.jksuci.2021.08.014",
       "countryEvidence": "institution country codes [IN] → IN",
-      "citations": 133,
+      "citations": 132,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "sikkim university",
       "relevanceScore": 0.6
@@ -21333,7 +21333,7 @@
       "date": "2022-01-07",
       "url": "https://doi.org/10.1109/tnsm.2022.3141165",
       "countryEvidence": "institution country codes [CN, CN, GB] → CN",
-      "citations": 130,
+      "citations": 131,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -21353,7 +21353,7 @@
       "date": "2021-12-14",
       "url": "https://doi.org/10.1109/jiot.2021.3121760",
       "countryEvidence": "institution country codes [CN, CN, CN, KR, US] → CN",
-      "citations": 134,
+      "citations": 133,
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -21453,7 +21453,7 @@
       "date": "2021-07-01",
       "url": "https://doi.org/10.1109/mnet.011.2000567",
       "countryEvidence": "institution country codes [US, US, US] → US",
-      "citations": 131,
+      "citations": 132,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "virginia tech",
       "relevanceScore": 0.6
@@ -21576,7 +21576,7 @@
       "date": "2021-01-15",
       "url": "https://doi.org/10.3390/aerospace8010020",
       "countryEvidence": "institution country codes [IT, NL, NL, IT] → IT",
-      "citations": 135,
+      "citations": 136,
       "collaboratingCountries": [
         "IT",
         "NL"
@@ -21632,7 +21632,7 @@
       "date": "2021-05-24",
       "url": "https://doi.org/10.1109/lwc.2021.3083267",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 130,
+      "citations": 132,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "pla army engineering university",
       "relevanceScore": 0.6
@@ -21664,7 +21664,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/access.2021.3133301",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 132,
+      "citations": 133,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "beijing national research center for information science and technology",
       "relevanceScore": 0.6
@@ -21839,7 +21839,7 @@
       "date": "2022-06-01",
       "url": "https://doi.org/10.1029/2021ef002612",
       "countryEvidence": "institution country codes [GB, GB, GB, US] → GB",
-      "citations": 123,
+      "citations": 138,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -22004,7 +22004,7 @@
       "date": "2021-12-30",
       "url": "https://doi.org/10.1016/j.cja.2021.12.013",
       "countryEvidence": "institution country codes [CN, CN, CN, CA, CA, CN, CN, CA] → CN",
-      "citations": 131,
+      "citations": 144,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -22144,7 +22144,7 @@
       "date": "2021-01-20",
       "url": "https://doi.org/10.2514/1.a34838",
       "countryEvidence": "institution country codes [CA, CA] → CA",
-      "citations": 122,
+      "citations": 124,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "carleton university",
       "relevanceScore": 0.6
@@ -22324,7 +22324,7 @@
       "date": "2021-03-05",
       "url": "https://doi.org/10.1016/j.actaastro.2021.02.034",
       "countryEvidence": "institution country codes [NL, NL, US] → NL",
-      "citations": 121,
+      "citations": 123,
       "collaboratingCountries": [
         "NL",
         "US"
@@ -22344,7 +22344,7 @@
       "date": "2023-03-25",
       "url": "https://doi.org/10.1016/j.asr.2023.03.036",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 125,
+      "citations": 130,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "stanford university",
       "relevanceScore": 0.6
@@ -22610,7 +22610,7 @@
       "date": "2022-12-21",
       "url": "https://doi.org/10.2514/1.g006972",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
-      "citations": 122,
+      "citations": 123,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "harbin institute of technology",
       "relevanceScore": 0.6
@@ -22802,7 +22802,7 @@
       "date": "2023-08-08",
       "url": "https://doi.org/10.1016/j.actaastro.2023.08.001",
       "countryEvidence": "institution country codes [LU, LU, LU, LU, LU, LU, LU, LU, LU, LU, LU, LU] → LU",
-      "citations": 121,
+      "citations": 122,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "university of luxembourg",
       "relevanceScore": 0.6
@@ -23434,7 +23434,7 @@
       "org": "VIASAT INC",
       "date": "2024-07-11",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W58P0524C0002_9700_-NONE-_-NONE-",
-      "amountUsd": 18923620,
+      "amountUsd": 37847240,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "viasat",
@@ -24369,7 +24369,7 @@
       "org": "TAPESTRY SOLUTIONS, INC.",
       "date": "2023-09-26",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC23C0048_9700_-NONE-_-NONE-",
-      "amountUsd": 10225787.02,
+      "amountUsd": 20451574.04,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "tapestry solutions",
@@ -24420,7 +24420,7 @@
       "org": "THE BOEING COMPANY",
       "date": "2018-09-17",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J18F0122_9700_W52P1J16D0079_9700",
-      "amountUsd": 6039247.99,
+      "amountUsd": 12078495.98,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "the boeing company",
@@ -24658,7 +24658,7 @@
       "org": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
       "date": "2021-06-28",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0333_9700_W52P1J17D0006_9700",
-      "amountUsd": 800202.38,
+      "amountUsd": 1600404.76,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "general dynamics information technology",
@@ -26273,7 +26273,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2023-05-23",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T23F0040_9700_W15P7T16D0002_9700",
-      "amountUsd": 265478576,
+      "amountUsd": 530957152,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26290,7 +26290,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2024-09-11",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0061_9700_W15P7T16D0002_9700",
-      "amountUsd": 253621571.02,
+      "amountUsd": 507243142.04,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26341,7 +26341,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2021-09-23",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T21F0082_9700_W15P7T16D0002_9700",
-      "amountUsd": 177639490,
+      "amountUsd": 355278980,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26358,7 +26358,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2022-09-06",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T22F0056_9700_W15P7T16D0002_9700",
-      "amountUsd": 163333244.76,
+      "amountUsd": 326666489.52,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26375,7 +26375,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2025-06-25",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0067_9700_W15P7T16D0002_9700",
-      "amountUsd": 93749395,
+      "amountUsd": 187498790,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26392,7 +26392,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2024-09-20",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0434_9700_W519TC24D0024_9700",
-      "amountUsd": 57996086,
+      "amountUsd": 115992172,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26426,7 +26426,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2025-06-22",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0195_9700_W15P7T25D0004_9700",
-      "amountUsd": 38836712.02,
+      "amountUsd": 77673424.04,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26528,7 +26528,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2026-05-11",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0047_9700_W15P7T25D0004_9700",
-      "amountUsd": 26807593.71,
+      "amountUsd": 55552603.78,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26545,7 +26545,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2024-08-01",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0303_9700_W519TC24D0018_9700",
-      "amountUsd": 15728251.29,
+      "amountUsd": 31456502.58,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -26971,7 +26971,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2024-07-02",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0284_9700_W519TC24D0024_9700",
-      "amountUsd": 40470,
+      "amountUsd": 80940,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -27005,7 +27005,7 @@
       "org": "L3HARRIS TECHNOLOGIES, INC.",
       "date": "2025-09-09",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0181_9700_W15P7T16D0002_9700",
-      "amountUsd": 23500,
+      "amountUsd": 47000,
       "countryEvidence": "US federal award recipient (USASpending.gov)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "l3harris technologies",
@@ -60419,7 +60419,7 @@
       "date": "2021-12-20",
       "url": "https://doi.org/10.1038/s41550-021-01550-6",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, JP, FR, JP, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, AU, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, FR, JP, JP, JP, ES, ES, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, GB, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP] → JP",
-      "citations": 333,
+      "citations": 336,
       "collaboratingCountries": [
         "AU",
         "ES",
@@ -60442,7 +60442,7 @@
       "date": "2022-10-10",
       "url": "https://doi.org/10.1109/tnsm.2022.3213370",
       "countryEvidence": "institution country codes [PK, IN, SA, LB, IN, CN, LU, LU, SA, KR, PL, PK] → PK",
-      "citations": 239,
+      "citations": 247,
       "collaboratingCountries": [
         "CN",
         "IN",
@@ -60491,7 +60491,7 @@
       "date": "2022-03-03",
       "url": "https://doi.org/10.1126/science.abj8624",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, FR, FR, FR, FR, FR, FR, FR, FR, US, US, FR, FR, FR, FR, JP, JP, JP, JP, JP, JP, JP, CN, CN, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, ES, ES, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, AU, JP, JP, JP, JP, JP, US, US, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, KR, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, US, FR, FR, FR, FR, FR, FR, FR, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, US, JP, JP, US, US, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, GB, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP, JP] → JP",
-      "citations": 172,
+      "citations": 177,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -60564,7 +60564,7 @@
       "date": "2024-02-19",
       "url": "https://doi.org/10.1109/tits.2024.3362515",
       "countryEvidence": "institution country codes [CN, GB, CN, CN, CN, CN, KR, CN, CN, AU] → CN",
-      "citations": 131,
+      "citations": 132,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -61795,7 +61795,7 @@
       "date": "2021-12-14",
       "url": "https://doi.org/10.1109/jiot.2021.3121796",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, LU, LU] → CN",
-      "citations": 163,
+      "citations": 166,
       "collaboratingCountries": [
         "CN",
         "LU"
@@ -61831,7 +61831,7 @@
       "date": "2021-07-03",
       "url": "https://doi.org/10.1016/j.asr.2021.06.051",
       "countryEvidence": "institution country codes [IN, IN, IN] → IN",
-      "citations": 157,
+      "citations": 158,
       "ingestedAt": "2026-10-06T13:16:38.698Z",
       "orgId": "motilal nehru national institute of technology",
       "relevanceScore": 0.6
@@ -61847,7 +61847,7 @@
       "date": "2025-04-07",
       "url": "https://doi.org/10.1109/mcom.001.2400685",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, SG] → CN",
-      "citations": 138,
+      "citations": 140,
       "collaboratingCountries": [
         "CN",
         "SG"
@@ -61867,7 +61867,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1109/tgrs.2022.3152250",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 127,
+      "citations": 128,
       "ingestedAt": "2026-10-06T13:16:38.698Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -61913,7 +61913,7 @@
       "date": "2023-02-22",
       "url": "https://doi.org/10.1109/tvt.2023.3247431",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, GB] → CN",
-      "citations": 124,
+      "citations": 126,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -66168,7 +66168,7 @@
       "date": "2021-06-15",
       "url": "https://doi.org/10.1109/jsac.2021.3088681",
       "countryEvidence": "institution country codes [MO, CN, CN, CN, AU, US, DE, US] → CN",
-      "citations": 571,
+      "citations": 587,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -66191,7 +66191,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1109/comst.2022.3171135",
       "countryEvidence": "institution country codes [ES, FR, LU, LU, ES, US, LU, LU, US, US, FR, FR, FR, FR] → FR",
-      "citations": 541,
+      "citations": 540,
       "collaboratingCountries": [
         "ES",
         "FR",
@@ -66213,7 +66213,7 @@
       "date": "2022-03-02",
       "url": "https://doi.org/10.1109/twc.2022.3153316",
       "countryEvidence": "institution country codes [CN, CN, SG, CN, CN, SG] → CN",
-      "citations": 468,
+      "citations": 476,
       "collaboratingCountries": [
         "CN",
         "SG"
@@ -66233,7 +66233,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1109/jstars.2022.3148139",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, FR, FR, FR, CN, CN, FR, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 443,
+      "citations": 446,
       "collaboratingCountries": [
         "CN",
         "FR"
@@ -66275,7 +66275,7 @@
       "date": "2023-01-23",
       "url": "https://doi.org/10.1109/tvt.2023.3238771",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, AE] → CN",
-      "citations": 335,
+      "citations": 336,
       "collaboratingCountries": [
         "AE",
         "CN"
@@ -66295,7 +66295,7 @@
       "date": "2021-02-18",
       "url": "https://doi.org/10.1109/tmc.2021.3059691",
       "countryEvidence": "institution country codes [GB, GB, GB, CN, CN, GB, GB] → GB",
-      "citations": 328,
+      "citations": 329,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -66315,7 +66315,7 @@
       "date": "2022-11-04",
       "url": "https://doi.org/10.1109/jiot.2022.3219674",
       "countryEvidence": "institution country codes [SA, SA, AE, SA, SA] → SA",
-      "citations": 317,
+      "citations": 325,
       "collaboratingCountries": [
         "AE",
         "SA"
@@ -66356,7 +66356,7 @@
       "date": "2021-10-01",
       "url": "https://doi.org/10.1109/mwc.010.2000528",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, SG, GB] → CN",
-      "citations": 285,
+      "citations": 286,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -66377,7 +66377,7 @@
       "date": "2021-07-12",
       "url": "https://doi.org/10.1109/tnsm.2021.3096673",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, DE, DE] → CN",
-      "citations": 287,
+      "citations": 290,
       "collaboratingCountries": [
         "CN",
         "DE"
@@ -66413,7 +66413,7 @@
       "date": "2021-07-19",
       "url": "https://doi.org/10.1049/qtc2.12015",
       "countryEvidence": "institution country codes [GB, GB, DE, GB, GB, US, DE, GB, IT, IT, IT, SG, SG, CA, US, GB, GB, GB, GB] → GB",
-      "citations": 272,
+      "citations": 273,
       "collaboratingCountries": [
         "CA",
         "DE",
@@ -66453,7 +66453,7 @@
       "date": "2021-05-01",
       "url": "https://doi.org/10.1007/s11276-021-02632-z",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
-      "citations": 235,
+      "citations": 233,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "beijing jiaotong university",
       "relevanceScore": 0.6
@@ -66508,7 +66508,7 @@
       "date": "2022-02-01",
       "url": "https://doi.org/10.1016/j.jnca.2022.103341",
       "countryEvidence": "institution country codes [KR, KR] → KR",
-      "citations": 222,
+      "citations": 225,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "chosun university",
       "relevanceScore": 0.6
@@ -66524,7 +66524,7 @@
       "date": "2024-01-08",
       "url": "https://doi.org/10.1109/tmc.2024.3350886",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, SG, CN, SG, CA, CN] → CN",
-      "citations": 231,
+      "citations": 234,
       "collaboratingCountries": [
         "CA",
         "CN",
@@ -66545,7 +66545,7 @@
       "date": "2021-12-01",
       "url": "https://doi.org/10.1109/comst.2021.3131711",
       "countryEvidence": "institution country codes [CN, CN, CA, CA, CA] → CA",
-      "citations": 213,
+      "citations": 215,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -66585,7 +66585,7 @@
       "date": "2021-06-14",
       "url": "https://doi.org/10.1109/jsac.2021.3088679",
       "countryEvidence": "institution country codes [CN, GB, CN, CN, US] → CN",
-      "citations": 210,
+      "citations": 207,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -66606,7 +66606,7 @@
       "date": "2021-02-16",
       "url": "https://doi.org/10.1175/bams-d-19-0304.1",
       "countryEvidence": "institution country codes [GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, GB, FR, DE, NL, GB, FR, DE, NL] → GB",
-      "citations": 202,
+      "citations": 214,
       "collaboratingCountries": [
         "DE",
         "FR",
@@ -66628,7 +66628,7 @@
       "date": "2022-01-11",
       "url": "https://doi.org/10.1109/tvt.2022.3141799",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
-      "citations": 211,
+      "citations": 212,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "jilin university",
       "relevanceScore": 0.6
@@ -66644,7 +66644,7 @@
       "date": "2021-01-05",
       "url": "https://doi.org/10.1109/tcomm.2021.3049387",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, US] → CN",
-      "citations": 198,
+      "citations": 199,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -66664,7 +66664,7 @@
       "date": "2022-01-19",
       "url": "https://doi.org/10.1109/tvt.2022.3143839",
       "countryEvidence": "institution country codes [CN, GB, CN, CN, GB] → CN",
-      "citations": 201,
+      "citations": 202,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -66700,7 +66700,7 @@
       "date": "2022-04-06",
       "url": "https://doi.org/10.1109/jiot.2021.3052542",
       "countryEvidence": "institution country codes [CN, US, CN, CN, CN] → CN",
-      "citations": 200,
+      "citations": 201,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -66720,7 +66720,7 @@
       "date": "2023-01-27",
       "url": "https://doi.org/10.1109/jiot.2023.3240173",
       "countryEvidence": "institution country codes [CN, CN, CA, CA, CN, CN] → CN",
-      "citations": 211,
+      "citations": 214,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -66740,7 +66740,7 @@
       "date": "2022-02-16",
       "url": "https://doi.org/10.1109/jiot.2022.3151639",
       "countryEvidence": "institution country codes [CN, CN, CN, SG, KR, US] → CN",
-      "citations": 199,
+      "citations": 202,
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -66782,7 +66782,7 @@
       "date": "2021-11-17",
       "url": "https://doi.org/10.1038/s41586-021-04015-y",
       "countryEvidence": "institution country codes [FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR] → FR",
-      "citations": 187,
+      "citations": 189,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "thrustme france",
       "relevanceScore": 0.6
@@ -66952,7 +66952,7 @@
       "date": "2021-03-11",
       "url": "https://doi.org/10.1109/jiot.2021.3065583",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, PL, CN] → CN",
-      "citations": 179,
+      "citations": 178,
       "collaboratingCountries": [
         "CN",
         "PL"
@@ -66972,7 +66972,7 @@
       "date": "2021-01-18",
       "url": "https://doi.org/10.3390/aerospace8010022",
       "countryEvidence": "institution country codes [IE, DE, IE] → IE",
-      "citations": 178,
+      "citations": 182,
       "collaboratingCountries": [
         "DE",
         "IE"
@@ -67080,7 +67080,7 @@
       "date": "2021-07-08",
       "url": "https://doi.org/10.1016/j.adhoc.2021.102600",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT] → IT",
-      "citations": 166,
+      "citations": 172,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "polytechnic university of bari",
       "relevanceScore": 0.6
@@ -67112,7 +67112,7 @@
       "date": "2023-03-01",
       "url": "https://doi.org/10.1038/s41586-023-05805-2",
       "countryEvidence": "institution country codes [US, US, CZ, US, CZ, US, US, US, CL, US, US, US, US, CL, US, CL, GB, GB, CZ, CZ, US, US, US, GB, GB, DK, GB, US, US, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, GB, GB, DE, KR, CL, CL, IR, US, US, US, US, US, US] → US",
-      "citations": 166,
+      "citations": 170,
       "collaboratingCountries": [
         "CL",
         "CZ",
@@ -67253,7 +67253,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1109/access.2022.3208571",
       "countryEvidence": "institution country codes [US, US, US, US, GB] → US",
-      "citations": 157,
+      "citations": 163,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -67273,7 +67273,7 @@
       "date": "2021-06-14",
       "url": "https://doi.org/10.1109/jsac.2021.3088663",
       "countryEvidence": "institution country codes [CN, HK, CN, CN, CN, CN, HK, US] → CN",
-      "citations": 152,
+      "citations": 154,
       "collaboratingCountries": [
         "CN",
         "HK",
@@ -67294,7 +67294,7 @@
       "date": "2025-03-19",
       "url": "https://doi.org/10.1038/s41586-025-08739-z",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, ZA, ZA, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 155,
+      "citations": 161,
       "collaboratingCountries": [
         "CN",
         "ZA"
@@ -67314,7 +67314,7 @@
       "date": "2021-06-16",
       "url": "https://doi.org/10.1109/jsac.2021.3088689",
       "countryEvidence": "institution country codes [US, US, CN, KR, US, US, CN, CN] → US",
-      "citations": 152,
+      "citations": 156,
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -67335,7 +67335,7 @@
       "date": "2023-01-01",
       "url": "https://doi.org/10.1109/taes.2023.3268610",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 160,
+      "citations": 164,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "the university of texas at austin",
       "relevanceScore": 0.6
@@ -67351,7 +67351,7 @@
       "date": "2021-06-02",
       "url": "https://doi.org/10.1016/j.jnca.2021.103114",
       "countryEvidence": "institution country codes [PK, PK, PK, PK, PK] → PK",
-      "citations": 145,
+      "citations": 146,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "university of engineering and technology taxila",
       "relevanceScore": 0.6
@@ -67367,7 +67367,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/access.2021.3092039",
       "countryEvidence": "institution country codes [KR, KR, KR] → KR",
-      "citations": 147,
+      "citations": 150,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "yonsei university",
       "relevanceScore": 0.6
@@ -67406,7 +67406,7 @@
       "date": "2022-05-03",
       "url": "https://doi.org/10.1109/tnse.2022.3171600",
       "countryEvidence": "institution country codes [CN, FI, CN, CN, GB, CA, CA] → CN",
-      "citations": 151,
+      "citations": 150,
       "collaboratingCountries": [
         "CA",
         "CN",
@@ -67428,7 +67428,7 @@
       "date": "2023-07-31",
       "url": "https://doi.org/10.1038/s41550-023-02038-1",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, US, CN, CN, CN] → CN",
-      "citations": 145,
+      "citations": 149,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -67484,7 +67484,7 @@
       "date": "2021-06-14",
       "url": "https://doi.org/10.1109/jsac.2021.3088684",
       "countryEvidence": "institution country codes [CN, CN, AU, CN] → CN",
-      "citations": 141,
+      "citations": 142,
       "collaboratingCountries": [
         "AU",
         "CN"
@@ -67504,7 +67504,7 @@
       "date": "2021-08-24",
       "url": "https://doi.org/10.3847/psj/abf840",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, DE, DE, US, US, US, US, US, US, US, US] → US",
-      "citations": 139,
+      "citations": 140,
       "collaboratingCountries": [
         "DE",
         "US"
@@ -67675,7 +67675,7 @@
       "date": "2021-08-20",
       "url": "https://doi.org/10.1109/twc.2021.3104633",
       "countryEvidence": "institution country codes [GB, GB, GB, GB] → GB",
-      "citations": 136,
+      "citations": 134,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "queen mary university of london",
       "relevanceScore": 0.6
@@ -67691,7 +67691,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/ojcoms.2021.3075201",
       "countryEvidence": "institution country codes [SA, SA, SA] → SA",
-      "citations": 135,
+      "citations": 150,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "king abdullah university of science and technology",
       "relevanceScore": 0.6
@@ -67749,7 +67749,7 @@
       "date": "2022-08-04",
       "url": "https://doi.org/10.1109/jsac.2022.3196320",
       "countryEvidence": "institution country codes [CN, KR, US, GB, CA, GB, AU, CN, CA] → CN",
-      "citations": 135,
+      "citations": 136,
       "collaboratingCountries": [
         "AU",
         "CA",
@@ -67813,7 +67813,7 @@
       "date": "2023-01-01",
       "url": "https://doi.org/10.34133/space.0037",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 132,
+      "citations": 137,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -67829,7 +67829,7 @@
       "date": "2022-08-24",
       "url": "https://doi.org/10.1109/tcomm.2022.3201122",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CA] → CN",
-      "citations": 126,
+      "citations": 127,
       "collaboratingCountries": [
         "CA",
         "CN"
@@ -67849,7 +67849,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1109/access.2021.3070908",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 127,
+      "citations": 129,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -67885,7 +67885,7 @@
       "date": "2021-02-15",
       "url": "https://doi.org/10.1016/j.pss.2021.105185",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, US, US, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, IT, US, US, IT, IT, US, US, IT, IT, US, US, IT, IT, US, US, IT, IT, IT, IT, IT] → IT",
-      "citations": 125,
+      "citations": 126,
       "collaboratingCountries": [
         "IT",
         "US"
@@ -67925,7 +67925,7 @@
       "date": "2021-09-12",
       "url": "https://doi.org/10.1007/s10291-021-01175-2",
       "countryEvidence": "institution country codes [CN, CN] → CN",
-      "citations": 123,
+      "citations": 124,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "pla information engineering university",
       "relevanceScore": 0.6
@@ -67982,7 +67982,7 @@
       "date": "2022-08-23",
       "url": "https://doi.org/10.1109/jiot.2022.3201017",
       "countryEvidence": "institution country codes [CN, CN, CN, MO, CN, CN] → CN",
-      "citations": 125,
+      "citations": 126,
       "collaboratingCountries": [
         "CN",
         "MO"
@@ -68023,7 +68023,7 @@
       "date": "2021-06-04",
       "url": "https://doi.org/10.1109/tits.2021.3082539",
       "countryEvidence": "institution country codes [CN, CN, CN, GB, CN, CN, CA] → CN",
-      "citations": 123,
+      "citations": 124,
       "collaboratingCountries": [
         "CA",
         "CN",
@@ -68044,7 +68044,7 @@
       "date": "2023-11-09",
       "url": "https://doi.org/10.1109/tvt.2023.3331363",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
-      "citations": 124,
+      "citations": 128,
       "ingestedAt": "2026-10-06T20:45:27.505Z",
       "orgId": "communication university of china",
       "relevanceScore": 0.6
@@ -68616,7 +68616,7 @@
       "url": "https://doi.org/10.1016/j.rineng.2026.113332",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "The Solar Close Observation and Proximity Experiment (SCOPE) mission, targeting a perihelion of 5 R ⊙ , faces an extreme unsteady thermal environment, in which the sun-facing side must withstand a solar radiation heat flux as high as 2.52…",
+      "abstract": "The Solar Close Observation and Proximity Experiment (SCOPE) mission, targeting a perihelion of 5 R, faces an extreme unsteady thermal environment, in which the sun-facing side must withstand a solar radiation heat flux as high as…",
       "authors": [
         "Jingxing Wang",
         "Jiang Tian",
@@ -73472,7 +73472,7 @@
       "date": "2026-10-13",
       "url": "https://doi.org/10.1093/mnras/stag1941",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 0,
+      "citations": 1,
       "abstract": "Abstract Formed from the debris of planet formation, interstellar comets provide invaluable insights into the chemical compositions of planetary systems outside of our Solar System. Spectroscopic observations of 3I/ATLAS, the third…",
       "authors": [
         "Tessa Frincke",
@@ -74226,7 +74226,7 @@
       "date": "2026-10-14",
       "url": "https://doi.org/10.3847/2041-8213/aea6b6",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US] → US",
-      "citations": 0,
+      "citations": 1,
       "abstract": "Abstract Near-Earth asteroid (469219) Kamo‘oalewa is a uniquely stable quasi-satellite of the Earth and a target of the Tianwen-2 spacecraft mission. Here we report observations taken with JWST’s NIRSpec instrument in integral field unit…",
       "authors": [
         "Benjamin N. L. Sharkey",
@@ -75459,8 +75459,8 @@
       "date": "2026-10-14",
       "url": "https://doi.org/10.1007/s44205-026-00226-5",
       "countryEvidence": "inferred from raw affiliation text \"NewOrbit Space Ltd, Reading, UK\" → GB",
-      "citations": 0,
-      "abstract": "The AURA Air-Breathing Electric Propulsion System under development at NewOrbit Space has the goal for sustained operation at Ultra-low Earth orbits for Earth observation and telecommunication applications. The performance of the…",
+      "citations": 1,
+      "abstract": "Abstract The AURA Air-Breathing Electric Propulsion System under development at NewOrbit Space has the goal for sustained operation at Ultra-low Earth orbits for Earth observation and telecommunication applications. The performance of the…",
       "authors": [
         "Alexander Schwertheim",
         "Norman Gondol",
@@ -78898,7 +78898,7 @@
       "url": "https://doi.org/10.1038/s41534-026-01382-0",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Space-based entanglement distribution, as the backbone of the quantum Internet, is poised to enable global quantum networking from infrastructure to application platforms. Satellite-based quantum key distribution (SatQKD), with the…",
+      "abstract": "Abstract Space-based entanglement distribution, as the backbone of the quantum Internet, is poised to enable global quantum networking from infrastructure to application platforms. Satellite-based quantum key distribution (SatQKD), with…",
       "authors": [
         "Xingyu Wang",
         "Jiahao Li",
@@ -85523,7 +85523,7 @@
       "source": "paper",
       "title": "Thermally unfavorable conditions of volatile existence in near-Earth asteroid 1998 KY26, the Hayabusa extended mission’s target",
       "org": "Georgia Institute of Technology",
-      "date": "2026-10-01",
+      "date": "2026-10-28",
       "url": "https://doi.org/10.1016/j.icarus.2026.117361",
       "countryEvidence": "institution country codes [US, US] → US",
       "citations": 0,
@@ -85569,7 +85569,7 @@
       "source": "paper",
       "title": "Adaptive Load Balancing and Hybrid Scheduling for Energy-Efficient NB-IoT Operation in Integrated Terrestrial–Non-Terrestrial Networks",
       "org": "Brno University of Technology",
-      "date": "2026-10-01",
+      "date": "2026-10-29",
       "url": "https://doi.org/10.1016/j.iot.2026.102151",
       "countryEvidence": "institution country codes [CZ, FI, CZ, CZ, FI, CZ, CZ, CZ] → CZ",
       "citations": 0,
@@ -86014,7 +86014,7 @@
       "date": "2026-10-29",
       "url": "https://doi.org/10.5194/angeo-44-1211-2026",
       "countryEvidence": "institution country codes [GB, DE, AT, AT, AT, CZ, CZ, DE, GB, AT, AT, AT, AT, GB, US, AT, AT, AT, GB, DE, GB, GB, GB, GB, GB] → AT",
-      "citations": 0,
+      "citations": 1,
       "abstract": "Abstract. Before reaching the Jovian system in 2031, the ESA Jupiter Icy Moons Explorer (Juice) spacecraft will perform three Earth flybys. As well as providing gravitational assistance, these flybys are prime opportunities to assess…",
       "authors": [
         "Adrian Thomas LaMoury",
@@ -86668,7 +86668,7 @@
       "date": "2026-10-30",
       "url": "https://doi.org/10.5194/angeo-44-1243-2026",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, DE, DE, GB, IT, ES, IT, IT, DE, IT, IT, DE, FR, FR, FR, FR, DE, IT, DE, FR, DE, FR, FR, ES, FR, ES, ES, IT, IT, DE, DE, DE, GB, ES, IT, IT] → IT",
-      "citations": 1,
+      "citations": 3,
       "abstract": "Abstract. The Jupiter Icy Moons Explorer (JUICE) spacecraft, launched in April 2023, will reach the Jovian system in July 2031 and will conduct an extensive science campaign of the Jupiter system, with a strong focus on Jupiter itself and…",
       "authors": [
         "C. Tubiana",
@@ -87262,7 +87262,7 @@
       "source": "paper",
       "title": "Conspicuity collapse: Escalating broadcast on surveillance failure bounds low-altitude airspace density",
       "org": "FPT University",
-      "date": "2026-10-01",
+      "date": "2026-10-30",
       "url": "https://doi.org/10.1016/j.adhoc.2026.104457",
       "countryEvidence": "institution country codes [VN, VN, VN, VN, VN, VN, VN, VN, VN, VN] → VN",
       "citations": 0,
@@ -87302,15 +87302,16 @@
     {
       "id": "oa-W7224949708",
       "stage": "innovation",
-      "country": null,
+      "country": "CN",
       "provenance": "live",
       "source": "paper",
-      "title": "Proactive Resource Scheduling for Networked Radar Remote Sensing via Joint Spatio-Temporal Prediction and Hierarchical Reinforcement Learning",
-      "org": "",
-      "date": "2026-10-01",
+      "title": "Proactive resource scheduling for networked radar remote sensing via joint spatio-temporal prediction and hierarchical reinforcement learning",
+      "org": "Anhui Police College",
+      "date": "2026-10-31",
       "url": "https://doi.org/10.1016/j.rineng.2026.113865",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
+      "abstract": "Networked radar systems have become indispensable for large-scale remote sensing missions, yet their operational effectiveness remains fundamentally constrained by conventional reactive scheduling paradigms that mobilize resources only…",
       "authors": [
         "Mengyu Li",
         "Shunshun Fu",
@@ -87318,19 +87319,20 @@
       ],
       "venue": "Results in Engineering",
       "ingestedAt": "2026-10-31T17:38:22.985Z",
+      "orgId": "anhui police college",
       "relevanceScore": 0.6
     },
     {
       "id": "oa-W7224954183",
       "stage": "innovation",
-      "country": null,
+      "country": "MO",
       "provenance": "live",
       "source": "paper",
-      "title": "Delay-Adaptive LEO Link-Quality Prediction via a Filter Hypernetwork",
-      "org": "",
-      "date": "2026-10-01",
+      "title": "Delay-adaptive LEO link-quality prediction via a filter hypernetwork",
+      "org": "Macao Polytechnic University",
+      "date": "2026-10-30",
       "url": "https://doi.org/10.1016/j.phycom.2026.103446",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [MO, MO, MO, MO, MO, MO] → MO",
       "citations": 0,
       "authors": [
         "Xuan Cheng",
@@ -87342,6 +87344,7 @@
       ],
       "venue": "Physical Communication",
       "ingestedAt": "2026-10-31T17:38:22.985Z",
+      "orgId": "macao polytechnic university",
       "relevanceScore": 0.6
     },
     {
@@ -87371,7 +87374,7 @@
       "date": "2022-01-26",
       "url": "https://doi.org/10.1109/tcomm.2022.3142290",
       "countryEvidence": "institution country codes [KR, KR, KR, KR] → KR",
-      "citations": 152,
+      "citations": 154,
       "ingestedAt": "2026-10-31T17:38:22.985Z",
       "orgId": "korea advanced institute of science and technology",
       "relevanceScore": 0.6
@@ -88042,7 +88045,7 @@
       "date": "2026-11-02",
       "url": "https://doi.org/10.2514/1.g010294",
       "countryEvidence": "institution country codes [NZ, US, NZ] → NZ",
-      "citations": 0,
+      "citations": 2,
       "abstract": "Renewed interest in cislunar space has created opportunities for sustained operations in extremely low-lunar orbits (eLLOs), where altitudes below 50 km enable close surface proximity. However, these orbits are strongly perturbed by the…",
       "authors": [
         "Jack Yarndley",
@@ -88421,21 +88424,26 @@
     {
       "id": "oa-W7211990963",
       "stage": "innovation",
-      "country": null,
+      "country": "TR",
       "provenance": "live",
       "source": "paper",
       "title": "Calibration of CNEOS Fireball Velocities and the Robustness of Nominally Hyperbolic Events",
-      "org": "",
+      "org": "Iğdır Üniversitesi",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.newast.2026.102688",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [TR, US] → TR",
       "citations": 0,
       "authors": [
         "Volkan Duran",
         "Abraham Loeb"
       ],
       "venue": "New Astronomy",
+      "collaboratingCountries": [
+        "TR",
+        "US"
+      ],
       "ingestedAt": "2026-11-03T14:09:42.157Z",
+      "orgId": "iğdır üniversitesi",
       "relevanceScore": 0.6
     },
     {
@@ -88566,6 +88574,7 @@
       "url": "https://doi.org/10.1109/mc.2026.3734598",
       "countryEvidence": "institution country codes [US, US] → US",
       "citations": 0,
+      "abstract": "This article provides a critical analysis of Dr. Dario Amodei’s policy essay, “We Must Pace the Frontier,” which argues for a measured slowdown in artificial intelligence capability growth to allow safety and alignment to keep pace with…",
       "authors": [
         "James Bret Michael",
         "James Bret Michael"
@@ -88608,14 +88617,14 @@
     {
       "id": "oa-W7225120961",
       "stage": "innovation",
-      "country": null,
+      "country": "CN",
       "provenance": "live",
       "source": "paper",
       "title": "Thermodynamic-Cycle-Based Investigation of Heterogeneous-working-fluid matching in Air Turbo-rocket Engine: Effects of Fuel Type and Inlet Air Precooling",
-      "org": "",
+      "org": "Nanjing University of Aeronautics and Astronautics",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.energy.2026.143030",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [SG, CN, CN, CN, SG, CN] → CN",
       "citations": 0,
       "authors": [
         "Changpeng Cai",
@@ -88625,20 +88634,25 @@
         "Haibo Zhang"
       ],
       "venue": "Energy",
+      "collaboratingCountries": [
+        "CN",
+        "SG"
+      ],
       "ingestedAt": "2026-11-03T14:09:42.157Z",
+      "orgId": "nanjing university of aeronautics and astronautics",
       "relevanceScore": 0.6
     },
     {
       "id": "oa-W7225128107",
       "stage": "innovation",
-      "country": null,
+      "country": "CN",
       "provenance": "live",
       "source": "paper",
       "title": "Inversion optimization of three-dimensional thermal field estimation for hypervelocity impact damage detection from space debris",
-      "org": "",
+      "org": "University of Electronic Science and Technology of China",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.infrared.2026.106989",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "authors": [
         "Yan Gao",
@@ -88650,6 +88664,7 @@
       ],
       "venue": "Infrared Physics & Technology",
       "ingestedAt": "2026-11-03T14:09:42.157Z",
+      "orgId": "university of electronic science and technology of china",
       "relevanceScore": 0.6
     },
     {
@@ -88909,6 +88924,670 @@
       "citations": 123,
       "ingestedAt": "2026-11-04T12:32:39.371Z",
       "orgId": "gujarat university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W312424167",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "A Philosophical Launch: Of a Fire on the Moon Ignites into MoonFire",
+      "org": "",
+      "date": "2026-11-04",
+      "url": "https://doi.org/10.68910/3a3nyz28",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "In 1969, Life magazine chose Norman Mailer to cover the moonshot in a series of three installments which became the longest serialized feature ever to appear in the publication. Compiled into one volume in 1970, Of A Fire on the Moon was…",
+      "authors": [
+        "Nicole Depolo"
+      ],
+      "venue": "The Mailer review/Mailer review",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7166728419",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Stable ballistic prograde cyclers in the three-body problem",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1103/6jy8-bls1",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "We report the first continuous families of stable, ballistic, prograde cycler orbits in the circular restricted three-body problem: periodic trajectories that alternately undergo temporary capture and orbit each primary. We construct…",
+      "authors": [
+        "Shane Ross",
+        "Michael Roberts-Tsoukkas"
+      ],
+      "venue": "Physical review. E",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7224901824",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Nongravitational motion of 3I/ATLAS far from the Sun: robust detection, weak constraints on the activity law",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1051/0004-6361/202662573",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "3I/ATLAS provides an unprecedented astrometric dataset for studying nongravitational (NG) effects in an interstellar object, but existing orbital solutions are highly sensitive to assumptions regarding the heliocentric activity law and the…",
+      "authors": [
+        "Małgorzata Królikowska",
+        "F. Spada",
+        "Luke Dones"
+      ],
+      "venue": "Astronomy and Astrophysics",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225151556",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Rapid 3D Grain Burnback Simulation Based on a Minimum Distance Field Method and Hybrid Surface Reconstruction",
+      "org": "Northwestern Polytechnical University",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.3390/aerospace13111018",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "A GPU-based minimum distance field method is presented for rapid three-dimensional geometric burnback analysis of homogeneous propellant grains under spatially uniform and isotropic regression. An adapted three-dimensional jump flooding…",
+      "authors": [
+        "Haoyang Wang",
+        "Futing Bao",
+        "Kun’ao Wu",
+        "Yujing Zhao",
+        "Wei Li",
+        "Lin Sun"
+      ],
+      "venue": "Aerospace",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "northwestern polytechnical university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225154378",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Correlations between ultraviolet/infrared radiation of gas-phase species in rocket plumes and engine operating states",
+      "org": "Harbin Institute of Technology",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1016/j.icheatmasstransfer.2026.112953",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Mingdong Hou",
+        "Yutong Zhu",
+        "Tanxiao Zhu",
+        "Yiqiang Sun",
+        "Zhihong He",
+        "Shikui Dong"
+      ],
+      "venue": "International Communications in Heat and Mass Transfer",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "harbin institute of technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225155524",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "SDKP: A Synthetic Multi-Task Dataset for Monocular 6-DoF Pose Estimation of Non-Cooperative Spacecraft",
+      "org": "Wuhan Institute of Technology",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.3390/data11110294",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "Monocular six-degree-of-freedom (6-DoF) pose estimation of non-cooperative spacecraft is a fundamental technology for on-orbit servicing, space debris removal, and autonomous rendezvous and docking missions. Existing deep learning-based…",
+      "authors": [
+        "zhixiang wang",
+        "Liang Ye",
+        "shifan bi",
+        "Chenyin Lin",
+        "Hanyu Hong"
+      ],
+      "venue": "Data",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "wuhan institute of technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225158649",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Dual Dynamic Cross-Linking HTPB Polyurethane Elastomers with Disulfide and Cu-MOF Coordination Interactions",
+      "org": "Nanjing University of Science and Technology",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1021/acsapm.6c04051",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, ES] → CN",
+      "citations": 0,
+      "abstract": "Abstract Hydroxyl-terminated polybutadiene-based polyurethane (HTPB-PU) elastomers are often constrained by insufficient mechanical strength, poor intrinsic damage-recovery capability, and inadequate long-term durability, which restrict…",
+      "authors": [
+        "Qian Guo",
+        "Shuo Ren",
+        "Yingyi Wu",
+        "Yanchun Li",
+        "Ramón Artiaga"
+      ],
+      "venue": "ACS Applied Polymer Materials",
+      "collaboratingCountries": [
+        "CN",
+        "ES"
+      ],
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "nanjing university of science and technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225167890",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Chronotopological bordering for space race: technology of future and security betwixt and between indigenous territories",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1016/j.geoforum.2026.104898",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Shu‐Mei Huang",
+        "Ho-Ching LEUNG",
+        "Wei-Cheng Chen",
+        "Kai Limadjakan",
+        "Yu-Fang Cheng",
+        "Sera Mika"
+      ],
+      "venue": "Geoforum",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225168907",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "ESTIMATION OF REACTION WHEEL DEGRADATION AND ITS IMPACT ON ATTITUDE STABILIZATION OF A LOW EARTH ORBIT SATELLITE",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.62441/actainnovations.vi.3082",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "Reaction wheel (RW) bearing degradation is a primary driver of precision-pointing loss and premature end-of-life in low Earth orbit (LEO) satellites. This paper presents a physics-guided simulation framework for estimating RW degradation…",
+      "authors": [
+        "Arulmurugan S",
+        "Chandrika M.B",
+        "Bino Prince D. Raja"
+      ],
+      "venue": "Acta Innovations",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225170745",
+      "stage": "innovation",
+      "country": "AE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Exploring Beyond Earth: Reconceptualizing Space Exploration as a Human Rights Imperative",
+      "org": "Ajman University",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.12688/f1000research.193222.1",
+      "countryEvidence": "institution country codes [AE, AE, EG, AE] → AE",
+      "citations": 0,
+      "abstract": "Background Humanity’s transition from episodic exploration to long-duration human habitation poses a fundamental structural challenge to public international law. International human rights law developed within a terrestrial matrix…",
+      "authors": [
+        "Sana Rawaqa",
+        "Jamal Barafi",
+        "Yasser Sayed Attia",
+        "Abdullah Abdullatif"
+      ],
+      "venue": "F1000Research",
+      "collaboratingCountries": [
+        "AE",
+        "EG"
+      ],
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "ajman university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225176510",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Contrasting turbulent mixing and afterburning responses in helium-injected solid–gas hybrid rocket plumes",
+      "org": "Beijing Jiaotong University",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1016/j.icheatmasstransfer.2026.113025",
+      "countryEvidence": "institution country codes [CN, SG, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Yuxin Chen",
+        "Ming Lv",
+        "Zhi Ning"
+      ],
+      "venue": "International Communications in Heat and Mass Transfer",
+      "collaboratingCountries": [
+        "CN",
+        "SG"
+      ],
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "beijing jiaotong university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225179079",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Toward low impact docking: an admittance control approach integrated with contact proprioception",
+      "org": "Harbin Institute of Technology",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1108/ir-12-2025-0451",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "Purpose Low impact docking presents significant challenges, particularly in achieving accurate contact force perception and effective compliant control in uncertain space environments. The purpose of this study is to develop a robust,…",
+      "authors": [
+        "Congcong Xu",
+        "Kaixuan Li",
+        "Gangfeng Liu",
+        "Wei Wang",
+        "Jie Zhao"
+      ],
+      "venue": "Industrial Robot the international journal of robotics research and application",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "harbin institute of technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225189325",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "VLT/X-Shooter spectroscopic characterisation of the Didymos system, target of the ESA Hera mission",
+      "org": "",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1051/0004-6361/202662577",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "The Didymos--Dimorphos system was the target of the NASA Double Asteroid Redirection Test (DART) mission and is also the destination of the ESA Hera spacecraft. Ground-based spectroscopy provides an insight into its overall surface…",
+      "authors": [
+        "George Pantelimon Prodan",
+        "J. de Leόn",
+        "M. Popescu",
+        "Tomas Kohout",
+        "D. Korda",
+        "Cyrielle Opitom"
+      ],
+      "venue": "Astronomy and Astrophysics",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225198601",
+      "stage": "innovation",
+      "country": "NZ",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Scott Base: lessons for a Mars exploration programme",
+      "org": "University of Waikato",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.1017/s0954102026100947",
+      "countryEvidence": "institution country codes [NZ] → NZ",
+      "citations": 0,
+      "abstract": "Abstract Scott Base is New Zealand’s year-round Antarctic research station, and it provides an operationally established template for designing sustained human presence in extreme, remote environments such as Mars. This Perspective article…",
+      "authors": [
+        "Jacob T. H. Anderson"
+      ],
+      "venue": "Antarctic Science",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "university of waikato",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225203085",
+      "stage": "innovation",
+      "country": "KR",
+      "provenance": "live",
+      "source": "paper",
+      "title": "A One-Dimensional Combustion-Path Model for Wave-Speed Deficits and Axial Force in Non-Premixed Rotating Detonation Rocket Engines",
+      "org": "Chungbuk National University",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.3390/aerospace13111017",
+      "countryEvidence": "institution country codes [KR, KR] → KR",
+      "citations": 0,
+      "abstract": "A one-dimensional combustion-path model is developed to relate wave-speed deficits to axial-force production in non-premixed rotating detonation rocket engines. Incoming propellant is partitioned into full detonation, attenuated-front…",
+      "authors": [
+        "박정호",
+        "Kyubok Ahn"
+      ],
+      "venue": "Aerospace",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "chungbuk national university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225169863",
+      "stage": "innovation",
+      "country": "VN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Outage Fairness Optimization for Channel‐Sorted NOMA in Multi‐Antenna Satellite Downlinks",
+      "org": "Ton Duc Thang University",
+      "date": "2026-11-02",
+      "url": "https://doi.org/10.1002/sat.70097",
+      "countryEvidence": "institution country codes [VN, VN] → VN",
+      "citations": 0,
+      "abstract": "ABSTRACT This paper investigates a multiuser non‐orthogonal multiple access (NOMA) downlink satellite network, where a ‐antenna satellite serves single antenna ground terminals over Shadowed‐Rician fading channels. By ordering effective…",
+      "authors": [
+        "Chi‐Bao Le",
+        "Tin Van Tran"
+      ],
+      "venue": "International Journal of Satellite Communications and Networking",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "ton duc thang university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225174486",
+      "stage": "innovation",
+      "country": "RU",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Calculation and design of the flow path for a low-flow centrifugal compressor of rocket and space modules",
+      "org": "Academician M.F. Reshetnev Information Satellite Systems (Russia)",
+      "date": "2026-11-02",
+      "url": "https://doi.org/10.25206/2588-0373-2026-10-3-78-86",
+      "countryEvidence": "institution country codes [RU] → RU",
+      "citations": 0,
+      "abstract": "Low-flow centrifugal pumps have become widely used in modern rocket and space modules-ranging from low-thrust turbopump feed systems to electric pump units for spacecraft thermal control systems–delivering heads of up to 2.5 × 105 J/kg at…",
+      "authors": [
+        "Oleg V. Shilkin",
+        "А. А. Кишкин",
+        "А В Делков",
+        "Yu. N. Shevchenko"
+      ],
+      "venue": "Omsk Scientific Bulletin Series Aviation-Rocket and Power Engineering",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "academician m f reshetnev information satellite systems russia",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225176171",
+      "stage": "innovation",
+      "country": "RU",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Current Trends in the Development of Astronautics in the Context of Shaping Russia’s Technological Sovereignty",
+      "org": "Moscow State Institute of International Relations",
+      "date": "2026-11-02",
+      "url": "https://doi.org/10.24833/2782-7062-2026-5-3-51-63",
+      "countryEvidence": "institution country codes [RU, RU, RU, RU] → RU",
+      "citations": 0,
+      "abstract": "The present research analyzes the key trends in the development of astronautics in the light of international political and legal and scientific and technical dimensions. The technical trends were compared with the corresponding reaction…",
+      "authors": [
+        "S. V. Melnikova",
+        "A. A. Arutyunyan",
+        "N. E. Avakyan",
+        "M. S. Khlystov"
+      ],
+      "venue": "Governance and Politics",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "moscow state institute of international relations",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225185544",
+      "stage": "innovation",
+      "country": "BR",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Building a Governance Framework for Commercial Space Accident Investigations: Lessons from the HANBIT-Nano Investigation",
+      "org": "Academia da Força Aérea",
+      "date": "2026-11-02",
+      "url": "https://doi.org/10.1177/21680256261504185",
+      "countryEvidence": "institution country codes [BR] → BR",
+      "citations": 0,
+      "abstract": "The expansion of the New Space paradigm has driven the growth of commercial spaceflight, exposing critical gaps in international accident investigation frameworks. While civil aviation relies on globally harmonized mechanisms established…",
+      "authors": [
+        "Alexander Coelho Simão"
+      ],
+      "venue": "New Space",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "academia da força aérea",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7167621701",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Deep reinforcement learning-guided genetic meta-control for dynamic satellite task planning problem",
+      "org": "Xiangtan University",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.swevo.2026.102592",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Zhongxiang Chang",
+        "Shihui Xing",
+        "Haoran Song",
+        "Xiaolu Liu",
+        "Xiaoming Wang",
+        "Hongjie Fu"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "xiangtan university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7172533531",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Thermal performance and heat transfer mechanisms of multilayer graded-pressure membrane envelopes for lunar habitats under low-gravity conditions",
+      "org": "",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133844",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Jingjing Shao",
+        "Hongyuan Mei"
+      ],
+      "venue": "Applied Thermal Engineering",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225140679",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Effects of muzzle brake geometry on near field shock evolution and wall force impulse in a cased telescoped ammunition rarefaction wave gun",
+      "org": "Nanjing University of Science and Technology",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1063/5.0354432",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "A cased telescoped charge configuration and rearward gas ejection in a rarefaction wave gun jointly modify pressure release before and after projectile muzzle exit, producing an underexpanded central jet, multiple lateral jets, and strong…",
+      "authors": [
+        "Ren-Jiu Chang",
+        "Xiaochun Xue",
+        "Birong Peng",
+        "Yonggang Yu"
+      ],
+      "venue": "Physics of Fluids",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "nanjing university of science and technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225164293",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Topology-aware graph representations for predictive path computation rule selection in non-terrestrial networks",
+      "org": "",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.comnet.2026.112900",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Tomohiro Korikawa",
+        "Chikako Takasaki",
+        "Kyota Hattori",
+        "Takaaki Moriya",
+        "Daisuke Ikegami"
+      ],
+      "venue": "Computer Networks",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225175312",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "A diagnostic framework for identifying combustion-efficiency limitations in a solid fuel ramjet combustor under different inlet air conditions",
+      "org": "Beijing Institute of Technology",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133880",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Ya Chang",
+        "Qiusha Ke",
+        "Zhiwen Wu",
+        "Yifan Wu",
+        "Yuanhua Dong"
+      ],
+      "venue": "Applied Thermal Engineering",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "beijing institute of technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225186030",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Space food production brings cultivation and processing together",
+      "org": "",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.xinn.2026.101634",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Huayu Yang",
+        "Ke Li",
+        "Bowen Yan",
+        "Haibing Li",
+        "Pei Guo",
+        "Zhengyi Wang"
+      ],
+      "venue": "The Innovation",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "gnews-VPMjdFZmpuNnktbTBGQnZXcG5MR2tNUXA0LUwycGc5S2FQX054bEpVbnE2U24yeWo-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "org": "",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTVhQWJMS090SVlCWE9JNkR6b1VBSnhoVkNZNVNzLU93dVozLXpFSzZiNTB3cTRNWUNxTzdkV3hMZktlUWJhSFRUVG1aVFZUNmtyeFhCM21zcnBBbWFtanlpaXgwSkNteThZRTVPMjdFZmpuNnktbTBGQnZXcG5MR2tNUXA0LUwycGc5S2FQX054bEpVbnE2U24yeWo?oc=5",
+      "publisher": "NASA (.gov)",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "NASA Space Grant Students Fuel Agency’s Inspiration Tour NASA (.gov)",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-VWWGtvUHpLcG1oTHMtYm1hWExjVUtHWXkzeUN4aFRqUzZaM2dNRGNMU243ZEVoWDc-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "org": "",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdtamRycHpvaVVwcWZPLXFWR2RSSXo1R05Xbl91a2FVQW1VQlA5OVR2N1dIc2JfcUs1YVJsVVhSSnI0V0NGWFNDdTFZZjFjOWdMY295cFVGSy1BbndyVnZ4NnNlbkZIVjYtc0prMkxlWDYtbDFqTzVWWGtvUHpLcG1oTHMtYm1hWExjVUtHWXkzeUN4aFRqUzZaM2dNRGNMU243ZEVoWDc?oc=5",
+      "publisher": "NASA (.gov)",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications NASA (.gov)",
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "oa-W4401726109",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Multi-Objective Optimization for Multi-UAV-Assisted Mobile Edge Computing",
+      "org": "Jilin University",
+      "date": "2024-08-21",
+      "url": "https://doi.org/10.1109/tmc.2024.3446819",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, SG, CN] → CN",
+      "citations": 121,
+      "collaboratingCountries": [
+        "CN",
+        "SG"
+      ],
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "jilin university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W3110123607",
+      "stage": "innovation",
+      "country": "KR",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Energy-Efficient Resource Allocation in Multi-UAV-Assisted Two-Stage Edge Computing for Beyond 5G Networks",
+      "org": "Kyung Hee University",
+      "date": "2022-02-23",
+      "url": "https://doi.org/10.1109/tits.2022.3150176",
+      "countryEvidence": "institution country codes [KR, KR, KR, KR, US, KR] → KR",
+      "citations": 121,
+      "collaboratingCountries": [
+        "KR",
+        "US"
+      ],
+      "ingestedAt": "2026-11-04T20:07:48.147Z",
+      "orgId": "kyung hee university",
       "relevanceScore": 0.6
     }
   ],
@@ -93093,24 +93772,29 @@
     {
       "date": "2026-11-04",
       "counts": {
-        "CN": 215,
-        "NZ": 1,
+        "CN": 228,
+        "AE": 3,
+        "NZ": 2,
+        "KR": 20,
         "EG": 3,
         "IT": 21,
-        "US": 42,
-        "KR": 19,
+        "US": 43,
         "BE": 3,
+        "VN": 3,
+        "RU": 21,
+        "BR": 9,
+        "TR": 9,
         "ID": 4,
         "SK": 2,
-        "VN": 1,
         "AU": 7,
         "IN": 31,
         "TH": 1,
         "SA": 4,
-        "CZ": 1,
+        "CZ": 2,
         "NP": 1,
         "RO": 2,
         "UA": 5,
+        "MO": 2,
         "AT": 1,
         "JO": 1,
         "ES": 4,
@@ -93119,21 +93803,16 @@
         "JP": 5,
         "NG": 6,
         "FI": 1,
-        "RU": 19,
         "FR": 5,
-        "TR": 8,
         "GB": 6,
         "CA": 3,
         "PK": 2,
-        "AE": 2,
         "SE": 2,
-        "MO": 1,
         "KZ": 6,
         "PT": 1,
         "MX": 1,
         "KP": 1,
         "GR": 3,
-        "BR": 8,
         "PL": 2,
         "IR": 3,
         "GH": 1,
@@ -93145,13 +93824,13 @@
         "ZA": 1
       },
       "stageCounts": {
-        "innovation": 399,
+        "innovation": 429,
         "scaling": 18,
         "adoption": 18,
-        "investment": 22
+        "investment": 24
       },
       "fundingUsd": 0,
-      "totalEntries": 4253,
+      "totalEntries": 4282,
       "windowCap": 600
     }
   ],
@@ -93188,7 +93867,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -93388,7 +94067,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -93397,7 +94076,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -93406,7 +94085,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -93415,18 +94094,12 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-04T01:50:49.734Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
       "key": "agency-grants",
-      "lastRunOutcome": "failed",
-      "recentMisses": [
-        {
-          "date": "2026-11-04",
-          "outcome": "failed"
-        }
-      ]
+      "lastRunOutcome": "ok"
     },
     {
       "sourceName": "SAM.gov Opportunities (federal solicitations)",
@@ -93621,7 +94294,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -93630,7 +94303,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -93645,7 +94318,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -93654,7 +94327,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -93663,7 +94336,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -93672,7 +94345,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -93872,7 +94545,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-04T12:32:39.371Z",
+      "lastSuccessfulPull": "2026-11-04T20:07:48.147Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -93885,245 +94558,245 @@
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "marketCapUsd": 34803140131.27,
-      "asOf": "2026-11-04T12:03:53.026Z",
+      "asOf": "2026-11-04T19:58:12.995Z",
       "url": "https://www.rocketlabusa.com"
     },
     {
       "symbol": "LUNR",
       "name": "Intuitive Machines, Inc. Class A Common Stock",
       "marketCapUsd": 1691607799.8400002,
-      "asOf": "2026-11-04T12:04:08.098Z",
+      "asOf": "2026-11-04T19:58:28.131Z",
       "url": "https://www.intuitivemachines.com"
     },
     {
       "symbol": "RDW",
       "name": "Redwire Corporation",
       "marketCapUsd": 2029939985.08,
-      "asOf": "2026-11-04T12:04:23.136Z",
+      "asOf": "2026-11-04T19:58:43.181Z",
       "url": "https://www.rdw.com"
     },
     {
       "symbol": "SPCE",
       "name": "Virgin Galactic Holdings, Inc.",
       "marketCapUsd": 378989757.5,
-      "asOf": "2026-11-04T12:04:38.202Z",
+      "asOf": "2026-11-04T19:58:58.294Z",
       "url": "https://www.virgingalactic.com"
     },
     {
       "symbol": "MNTS",
       "name": "Momentus Inc. Class A Common Stock",
       "marketCapUsd": 40851925.86,
-      "asOf": "2026-11-04T12:04:53.361Z",
+      "asOf": "2026-11-04T19:59:13.410Z",
       "url": "https://www.momentus.space"
     },
     {
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc.",
       "marketCapUsd": 1515351559.8,
-      "asOf": "2026-11-04T12:05:08.402Z",
+      "asOf": "2026-11-04T19:59:28.477Z",
       "url": "https://www.voyagertechnologies.com"
     },
     {
       "symbol": "SIDU",
       "name": "Sidus Space, Inc. Class A Common Stock",
       "marketCapUsd": 106286592.30000001,
-      "asOf": "2026-11-04T12:05:23.445Z",
+      "asOf": "2026-11-04T19:59:43.548Z",
       "url": "https://www.sidusspace.com"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "marketCapUsd": 11137172680.75,
-      "asOf": "2026-11-04T12:05:38.485Z",
+      "asOf": "2026-11-04T19:59:58.634Z",
       "url": "https://www.ast-science.com"
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
       "marketCapUsd": 4915586331.39,
-      "asOf": "2026-11-04T12:05:53.551Z",
+      "asOf": "2026-11-04T20:00:13.689Z",
       "url": "https://www.planet.com"
     },
     {
       "symbol": "BKSY",
       "name": "BlackSky Technology Inc.",
       "marketCapUsd": 713729314.24,
-      "asOf": "2026-11-04T12:06:08.611Z",
+      "asOf": "2026-11-04T20:00:28.749Z",
       "url": "https://www.blacksky.com"
     },
     {
       "symbol": "SPIR",
       "name": "Spire Global, Inc.",
       "marketCapUsd": 340300900.2,
-      "asOf": "2026-11-04T12:06:23.722Z",
+      "asOf": "2026-11-04T20:00:43.795Z",
       "url": "https://www.spire.com"
     },
     {
       "symbol": "VSAT",
       "name": "Viasat Inc",
       "marketCapUsd": 10364747144.4,
-      "asOf": "2026-11-04T12:06:38.766Z",
+      "asOf": "2026-11-04T20:00:58.847Z",
       "url": "https://www.viasat.com"
     },
     {
       "symbol": "IRDM",
       "name": "Iridium Communications Inc.",
       "marketCapUsd": 4649410686.24,
-      "asOf": "2026-11-04T12:06:53.838Z",
+      "asOf": "2026-11-04T20:01:13.958Z",
       "url": "https://www.iridium.com"
     },
     {
       "symbol": "GSAT",
       "name": "Globalstar, Inc. Common Stock",
       "marketCapUsd": 10853525180.3,
-      "asOf": "2026-11-04T12:07:08.887Z",
+      "asOf": "2026-11-04T20:01:29.077Z",
       "url": "https://www.globalstar.com"
     },
     {
       "symbol": "TSAT",
       "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares",
       "marketCapUsd": 617206187,
-      "asOf": "2026-11-04T12:07:23.932Z",
+      "asOf": "2026-11-04T20:01:44.130Z",
       "url": "https://www.telesat.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 147611964960,
-      "asOf": "2026-11-04T12:07:38.974Z",
+      "asOf": "2026-11-04T20:01:59.172Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 78178088296.7,
-      "asOf": "2026-11-04T12:07:54.119Z",
+      "asOf": "2026-11-04T20:02:14.297Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 275042972493.36,
-      "asOf": "2026-11-04T12:08:09.196Z",
+      "asOf": "2026-11-04T20:02:29.415Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "marketCapUsd": 137339499101.40001,
-      "asOf": "2026-11-04T12:08:24.237Z",
+      "asOf": "2026-11-04T20:02:44.460Z",
       "url": "https://www.boeing.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 101198779020.5,
-      "asOf": "2026-11-04T12:08:39.276Z",
+      "asOf": "2026-11-04T20:02:59.506Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 51702357532.11,
-      "asOf": "2026-11-04T12:08:54.358Z",
+      "asOf": "2026-11-04T20:03:14.578Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 16906310396.48,
-      "asOf": "2026-11-04T12:09:09.506Z",
+      "asOf": "2026-11-04T20:03:29.611Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "HII",
       "name": "Huntington Ingalls Industries, Inc.",
       "marketCapUsd": 12488962595.800001,
-      "asOf": "2026-11-04T12:09:24.619Z",
+      "asOf": "2026-11-04T20:03:44.688Z",
       "url": "https://www.hii.com"
     },
     {
       "symbol": "KTOS",
       "name": "Kratos Defense & Security Solutions, Inc.",
       "marketCapUsd": 7717249645.79,
-      "asOf": "2026-11-04T12:09:39.655Z",
+      "asOf": "2026-11-04T20:03:59.863Z",
       "url": "https://www.kratosdefense.com"
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment, Inc.",
       "marketCapUsd": 6277881318.06,
-      "asOf": "2026-11-04T12:09:54.730Z",
+      "asOf": "2026-11-04T20:04:14.944Z",
       "url": "https://www.avinc.com"
     },
     {
       "symbol": "TXT",
       "name": "Textron, Inc.",
       "marketCapUsd": 14864848157.25,
-      "asOf": "2026-11-04T12:10:09.795Z",
+      "asOf": "2026-11-04T20:04:29.993Z",
       "url": "https://www.textron.com"
     },
     {
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd",
       "marketCapUsd": 35460047245.18,
-      "asOf": "2026-11-04T12:10:24.940Z",
+      "asOf": "2026-11-04T20:04:45.041Z",
       "url": "https://www.elbitsystems.com"
     },
     {
       "symbol": "HEI",
       "name": "HEICO Corporation",
       "marketCapUsd": 47198870816.600006,
-      "asOf": "2026-11-04T12:10:39.985Z",
+      "asOf": "2026-11-04T20:05:00.116Z",
       "url": "https://www.heico.com"
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
       "marketCapUsd": 66776253261,
-      "asOf": "2026-11-04T12:10:55.037Z",
+      "asOf": "2026-11-04T20:05:15.191Z",
       "url": "https://www.transdigm.com"
     },
     {
       "symbol": "ATRO",
       "name": "Astronics Corp",
       "marketCapUsd": 2619682088.24,
-      "asOf": "2026-11-04T12:11:10.074Z",
+      "asOf": "2026-11-04T20:05:30.238Z",
       "url": "https://www.astronics.com"
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corp.",
       "marketCapUsd": 18384488845.44,
-      "asOf": "2026-11-04T12:11:25.211Z",
+      "asOf": "2026-11-04T20:05:45.287Z",
       "url": "https://www.curtisswright.com"
     },
     {
       "symbol": "TDY",
       "name": "Teledyne Technologies Incorporated",
       "marketCapUsd": 30763015272.99,
-      "asOf": "2026-11-04T12:11:40.253Z",
+      "asOf": "2026-11-04T20:06:00.406Z",
       "url": "https://www.teledyne.com"
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
       "marketCapUsd": 12077609403.599998,
-      "asOf": "2026-11-04T12:11:55.379Z",
+      "asOf": "2026-11-04T20:06:15.519Z",
       "url": "https://www.bwxt.com"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "marketCapUsd": 88726008528.8,
-      "asOf": "2026-11-04T12:12:10.453Z",
+      "asOf": "2026-11-04T20:06:30.595Z",
       "url": "https://www.howmet.com"
     },
     {
       "symbol": "TRMB",
       "name": "Trimble Inc. Common Stock",
       "marketCapUsd": 15298929827.28,
-      "asOf": "2026-11-04T12:12:25.498Z",
+      "asOf": "2026-11-04T20:06:45.719Z",
       "url": "https://www.trimble.com"
     }
   ],
