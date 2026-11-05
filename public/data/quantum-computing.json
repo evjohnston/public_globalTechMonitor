@@ -1,6 +1,6 @@
 {
   "technology": "quantum-computing",
-  "generatedAt": "2026-11-05T01:19:22.969Z",
+  "generatedAt": "2026-11-05T10:11:47.012Z",
   "entries": [
     {
       "id": "seed-ibm-roadmap-2025",
@@ -181914,6 +181914,22 @@
       "ingestedAt": "2026-11-04T19:19:57.359Z",
       "orgId": "quantinuum united states",
       "relevanceScore": 0.6
+    },
+    {
+      "id": "rss-ic-evidence-of-topological-superconductivity-in-ti-josephson-junctions",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "University of Cologne Uncovers Spectroscopic Evidence of Topological Superconductivity in TI Josephson Junctions",
+      "org": "",
+      "date": "2026-11-05",
+      "url": "https://quantumcomputingreport.com/university-of-cologne-uncovers-spectroscopic-evidence-of-topological-superconductivity-in-ti-josephson-junctions/",
+      "publisher": "Quantum Computing Report",
+      "countryEvidence": "no location match (auto-classified from Quantum Computing Report RSS, unverified)",
+      "abstract": "Physicists at the University of Cologne have found direct spectroscopic evidence for topological superconductivity in topological insulator Josephson junctions. This research supports the Fu-Kane theoretical model and offers a way to…",
+      "ingestedAt": "2026-11-05T10:11:47.012Z",
+      "relevanceScore": 0.75
     }
   ],
   "trend": [
@@ -191612,12 +191628,12 @@
       },
       "stageCounts": {
         "innovation": 792,
-        "scaling": 232,
+        "scaling": 233,
         "adoption": 119,
         "investment": 42
       },
       "fundingUsd": 499998,
-      "totalEntries": 9616,
+      "totalEntries": 9617,
       "windowCap": 600
     }
   ],
@@ -191654,7 +191670,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -191854,7 +191870,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -191863,7 +191879,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -191872,7 +191888,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -192263,7 +192279,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -192272,7 +192288,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -192287,7 +192303,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -192296,7 +192312,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -192305,7 +192321,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -192314,7 +192330,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -192323,7 +192339,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -192332,7 +192348,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-05T01:19:22.969Z",
+      "lastSuccessfulPull": "2026-11-05T10:11:47.012Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -192344,183 +192360,183 @@
     {
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
-      "marketCapUsd": 12877936263.22,
-      "asOf": "2026-11-05T01:11:22.511Z",
+      "marketCapUsd": 12684702808.119999,
+      "asOf": "2026-11-05T10:05:00.370Z",
       "url": "https://www.ionq.com"
     },
     {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc. Common Stock",
-      "marketCapUsd": 3699826560.4950004,
-      "asOf": "2026-11-05T01:11:37.688Z",
+      "marketCapUsd": 3741547653.8700004,
+      "asOf": "2026-11-05T10:05:15.614Z",
       "url": "https://www.rigetti.com"
     },
     {
       "symbol": "QBTS",
       "name": "D-Wave Quantum Inc. Common Stock",
-      "marketCapUsd": 3936728132.3599997,
-      "asOf": "2026-11-05T01:11:52.866Z",
+      "marketCapUsd": 3940524398.6400003,
+      "asOf": "2026-11-05T10:05:30.853Z",
       "url": "https://www.dwavequantum.com"
     },
     {
       "symbol": "QUBT",
       "name": "Quantum Computing Inc. Common",
       "marketCapUsd": 1455410316.23,
-      "asOf": "2026-11-05T01:12:08.062Z",
+      "asOf": "2026-11-05T10:05:46.145Z",
       "url": "https://www.quantumcomputinginc.com"
     },
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. Ordinary Shares",
-      "marketCapUsd": 261036165,
-      "asOf": "2026-11-05T01:12:23.302Z",
+      "marketCapUsd": 241371440.57,
+      "asOf": "2026-11-05T10:06:01.432Z",
       "url": "https://www.arqit.uk"
     },
     {
       "symbol": "LAES",
       "name": "SEALSQ Corp Ordinary Shares",
-      "marketCapUsd": 308154872.68,
-      "asOf": "2026-11-05T01:12:38.495Z",
+      "marketCapUsd": 321650706.52,
+      "asOf": "2026-11-05T10:06:16.650Z",
       "url": "https://www.sealsq.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "marketCapUsd": 236318006082.19998,
-      "asOf": "2026-11-05T01:12:53.689Z",
+      "marketCapUsd": 240363123127.6,
+      "asOf": "2026-11-05T10:06:31.918Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
-      "marketCapUsd": 3442688819999.9995,
-      "asOf": "2026-11-05T01:13:08.887Z",
+      "marketCapUsd": 3552105420000,
+      "asOf": "2026-11-05T10:06:47.174Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "marketCapUsd": 3868973099646.48,
-      "asOf": "2026-11-05T01:13:24.101Z",
+      "marketCapUsd": 4127478932001.5996,
+      "asOf": "2026-11-05T10:07:02.441Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
-      "marketCapUsd": 2710745641931.14,
-      "asOf": "2026-11-05T01:13:39.277Z",
+      "marketCapUsd": 2876619183545.1797,
+      "asOf": "2026-11-05T10:07:17.683Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "HON",
       "name": "Honeywell International, Inc.",
-      "marketCapUsd": 71010409240.5,
-      "asOf": "2026-11-05T01:13:54.452Z",
+      "marketCapUsd": 72411284084.7,
+      "asOf": "2026-11-05T10:07:32.933Z",
       "url": "https://www.honeywell.com"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
-      "marketCapUsd": 321823250000,
-      "asOf": "2026-11-05T01:14:09.652Z",
+      "marketCapUsd": 309705050000,
+      "asOf": "2026-11-05T10:07:48.186Z",
       "url": "https://www.intel.com"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia Corp",
-      "marketCapUsd": 4990943430000,
-      "asOf": "2026-11-05T01:14:24.856Z",
+      "marketCapUsd": 4832539110000,
+      "asOf": "2026-11-05T10:08:03.428Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
-      "marketCapUsd": 147611964960,
-      "asOf": "2026-11-05T01:14:40.057Z",
+      "marketCapUsd": 137457000985.6,
+      "asOf": "2026-11-05T10:08:18.729Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
-      "marketCapUsd": 78178088296.7,
-      "asOf": "2026-11-05T01:14:55.248Z",
+      "marketCapUsd": 74633579296.15001,
+      "asOf": "2026-11-05T10:08:33.945Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "marketCapUsd": 275042972493.36,
-      "asOf": "2026-11-05T01:15:10.441Z",
+      "marketCapUsd": 267769487939.64,
+      "asOf": "2026-11-05T10:08:49.206Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
-      "marketCapUsd": 101198779020.5,
-      "asOf": "2026-11-05T01:15:25.640Z",
+      "marketCapUsd": 98596524702.83,
+      "asOf": "2026-11-05T10:09:04.499Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
-      "marketCapUsd": 51702357532.11,
-      "asOf": "2026-11-05T01:15:40.867Z",
+      "marketCapUsd": 48363778389.42,
+      "asOf": "2026-11-05T10:09:19.715Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
-      "marketCapUsd": 16906310396.48,
-      "asOf": "2026-11-05T01:15:56.043Z",
+      "marketCapUsd": 16552240488.960001,
+      "asOf": "2026-11-05T10:09:34.925Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
-      "marketCapUsd": 10363818155.359999,
-      "asOf": "2026-11-05T01:16:11.216Z",
+      "marketCapUsd": 10516262274.4,
+      "asOf": "2026-11-05T10:09:50.144Z",
       "url": "https://www.boozallen.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
-      "marketCapUsd": 303090735430.56,
-      "asOf": "2026-11-05T01:16:26.419Z",
+      "marketCapUsd": 293154895444.2,
+      "asOf": "2026-11-05T10:10:05.391Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
-      "marketCapUsd": 598222294067.88,
-      "asOf": "2026-11-05T01:16:41.594Z",
+      "marketCapUsd": 576700567354.6,
+      "asOf": "2026-11-05T10:10:20.628Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "marketCapUsd": 70488379764.90001,
-      "asOf": "2026-11-05T01:16:56.772Z",
+      "marketCapUsd": 66492710780.11001,
+      "asOf": "2026-11-05T10:10:35.866Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
-      "marketCapUsd": 405968170312.81,
-      "asOf": "2026-11-05T01:17:11.937Z",
+      "marketCapUsd": 408491425911.52997,
+      "asOf": "2026-11-05T10:10:51.104Z",
       "url": "https://www.cisco.com"
     },
     {
       "symbol": "NOK",
       "name": "Nokia Corporation",
-      "marketCapUsd": 47476506191.04,
-      "asOf": "2026-11-05T01:17:27.161Z",
+      "marketCapUsd": 46244804379.479996,
+      "asOf": "2026-11-05T10:11:06.375Z",
       "url": "https://www.nokia.com"
     },
     {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
-      "marketCapUsd": 11716324020.8,
-      "asOf": "2026-11-05T01:17:42.335Z",
+      "marketCapUsd": 12011919351.6,
+      "asOf": "2026-11-05T10:11:21.617Z",
       "url": "https://www.sktelecom.com"
     }
   ],
