@@ -1,6 +1,6 @@
 {
   "technology": "biotechnology",
-  "generatedAt": "2026-11-06T01:58:44.597Z",
+  "generatedAt": "2026-11-06T10:49:32.598Z",
   "entries": [
     {
       "id": "seed-samsung-biologics-plant4-2022",
@@ -914805,11 +914805,11 @@
       "source": "paper",
       "title": "Cytochrome c is Highly Compact upon Transfer into the Gas Phase from Strong Acids as Revealed by High-Pressure ESI Ion Mobility-Mass Spectrometry",
       "org": "Tohoku University",
-      "date": "2026-10-16",
+      "date": "2026-10-15",
       "url": "https://doi.org/10.1021/jasms.6c00385",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP] → JP",
       "citations": 0,
-      "abstract": "Abstract A substantial increase in the acidity of the protein solution (e.g., from pH 2 to pH 1) is known to induce the compaction of fully unfolded proteins, such as cytochrome c, into a non-native yet highly compact molten globule state,…",
+      "abstract": "A substantial increase in the acidity of the protein solution (e.g., from pH 2 to pH 1) is known to induce the compaction of fully unfolded proteins, such as cytochrome c, into a non-native yet highly compact molten globule state, referred…",
       "authors": [
         "Shunsuke Kamioka",
         "Keijiro Ohshimo",
@@ -916212,7 +916212,7 @@
       "org": "University of California, San Francisco",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1158/2326-6066.cir-26-0608",
-      "countryEvidence": "institution country codes [US, US, FR, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
+      "countryEvidence": "institution country codes [US, US, FR, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
       "citations": 0,
       "abstract": "Engineered T-cell therapies are limited by progressive dysfunction under chronic tumor antigen exposure, and genetic perturbation of negative regulators has emerged as a promising strategy to sustain effector activity. We reanalyzed a…",
       "authors": [
@@ -916286,7 +916286,7 @@
       "org": "University of California, Los Angeles",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1158/2326-6066.cir-26-0181",
-      "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US] → US",
+      "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US] → US",
       "citations": 1,
       "abstract": "T-cell exhaustion limits durable antitumor responses and remains a barrier to adoptive cell therapies (ACT) in solid tumors. To identify regulators of T-cell persistence, we performed genome-wide CRISPR knockout screens in primary human…",
       "authors": [
@@ -916853,7 +916853,7 @@
       "org": "St George’s University Hospitals NHS Foundation Trust",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1186/s13053-026-00360-z",
-      "countryEvidence": "institution country codes [GB, GB, GB, NL, GB, GB, GB] → GB",
+      "countryEvidence": "institution country codes [GB, GB, GB, GB, NL, GB, GB, GB] → GB",
       "citations": 0,
       "abstract": "Abstract Background Lynch syndrome is one of the most common inherited cancer predispositions. Widespread implementation of tumour-based screening and increased awareness and availability of germline genetic testing has substantially…",
       "authors": [
@@ -916969,7 +916969,7 @@
       "org": "University of Birmingham",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1099/mic.0.001758",
-      "countryEvidence": "institution country codes [GB, GB, US, US, CN, CN, GB, GB] → GB",
+      "countryEvidence": "institution country codes [GB, GB, US, US, CN, GB, GB] → GB",
       "citations": 0,
       "abstract": "Inorganic phosphate (Pi) limitation is a pervasive environmental constraint that shapes microbial behaviour in soil and plant-associated niches. To determine how Pi scarcity influences the pathogenic potential of rice-infecting…",
       "authors": [
@@ -920952,10 +920952,10 @@
       "provenance": "live",
       "source": "paper",
       "title": "A PhoP-regulated type II secretion system drives bacterial competition in Serratia marcescens",
-      "org": "Instituto de Biología Molecular y Celular de Rosario",
+      "org": "Consejo Nacional de Investigaciones Científicas y Técnicas",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1128/spectrum.02169-26",
-      "countryEvidence": "institution country codes [AR, AR, AR, AR] → AR",
+      "countryEvidence": "institution country codes [AR, AR, AR, AR, AR, AR, AR, AR, AR, AR, AR, AR] → AR",
       "citations": 0,
       "abstract": "ABSTRACT Serratia marcescens is an enteric bacterium that can act as an opportunistic pathogen, with increasing incidence in clinical settings. This is largely due to its ability to express a broad repertoire of virulence factors and…",
       "authors": [
@@ -920966,7 +920966,7 @@
       ],
       "venue": "Microbiology Spectrum",
       "ingestedAt": "2026-10-16T14:20:09.653Z",
-      "orgId": "instituto de biología molecular y celular de rosario",
+      "orgId": "consejo nacional de investigaciones científicas y técnicas",
       "relevanceScore": 0.6
     },
     {
@@ -928706,9 +928706,9 @@
       "country": "US",
       "provenance": "live",
       "source": "paper",
-      "title": "Two heads are better than one: Single stranded DNA translocation of UvrD-family dimers vs. monomers",
+      "title": "Two Heads Are Better Than One: Single Stranded DNA Translocation of UvrD-family Dimers vs. Monomers",
       "org": "Washington University in St. Louis",
-      "date": "2026-10-01",
+      "date": "2026-10-15",
       "url": "https://doi.org/10.1016/j.jmb.2026.170069",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
@@ -931145,7 +931145,7 @@
       "source": "paper",
       "title": "Development of antiviral LNA gapmers targeting functional stem-loop structures in tick-borne flavivirus genomes",
       "org": "",
-      "date": "2026-10-01",
+      "date": "2026-10-15",
       "url": "https://doi.org/10.1016/j.omtn.2026.103144",
       "countryEvidence": "no institution country on record",
       "citations": 0,
@@ -933828,7 +933828,7 @@
       "org": "Peking University",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1093/lifemedi/lnag039",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Abstract Trophoblast lineages are essential for placental development and play indispensable roles in mammalian development. However, the regulatory mechanisms governing trophoblast lineage specification, particularly trophectoderm…",
       "authors": [
@@ -937776,7 +937776,7 @@
       "org": "Lanzhou University",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1007/s12672-026-06136-0",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Lung cancer is the leading cause of cancer-related deaths worldwide. It is characterised by complex molecular mechanisms, high rates of treatment resistance, and intricate disease progression mechanisms. Lung adenocarcinoma is the most…",
       "authors": [
@@ -938110,7 +938110,7 @@
       "org": "Shaanxi Provincial People's Hospital",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1186/s12876-026-05389-x",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Abstract Background Cholangiocarcinoma is a relatively uncommon cancer, accounting for approximately 3% of all gastrointestinal malignancies. However, its global incidence has been steadily rising over the past few decades, and the precise…",
       "authors": [
@@ -939110,7 +939110,7 @@
       "org": "Chinese PLA General Hospital",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1186/s40364-026-01021-y",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Persistent CAR-T donor cells after CAR-T-bridged allogeneic hematopoietic stem cell transplantation (allo-HSCT) may complicate hematopoietic recovery. When CAR-T and HSCT cells share the same donor, standard donor chimerism cannot…",
       "authors": [
@@ -939611,14 +939611,14 @@
     {
       "id": "oa-W7222627433",
       "stage": "innovation",
-      "country": null,
+      "country": "US",
       "provenance": "live",
       "source": "paper",
       "title": "Cellular stress tolerance governs genetic transformability in recalcitrant Candida species",
-      "org": "",
+      "org": "University of Tennessee at Knoxville",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1038/s44512-026-00008-x",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [US, US, US, US, US] → US",
       "citations": 2,
       "abstract": "ABSTRACT Candida species are fungal pathogens whose rapidly increasing antifungal resistance poses a substantial public health challenge. High-throughput CRISPR-based screening could accelerate antifungal target discovery, yet its…",
       "authors": [
@@ -939630,6 +939630,7 @@
       ],
       "venue": "npj Fungal Science",
       "ingestedAt": "2026-10-17T13:16:11.995Z",
+      "orgId": "university of tennessee at knoxville",
       "relevanceScore": 0.6
     },
     {
@@ -943443,7 +943444,7 @@
       "org": "Guangxi University of Chinese Medicine",
       "date": "2026-10-15",
       "url": "https://doi.org/10.1177/15473287261497533",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Bone marrow-derived leptin receptor-expressing (LepR + ) stromal cells (LepR + BMSCs) have been identified as the primary source of osteoblasts, adipocytes, and fibroblasts in the bone marrow, and they play key roles in the maintenance of…",
       "authors": [
@@ -945064,11 +945065,11 @@
       "country": "IE",
       "provenance": "live",
       "source": "paper",
-      "title": "Performance Evaluation of a Novel Size-Based Microfluidic Platform for Rare Cell Detection in Blood and Malignant Effusions",
+      "title": "Performance evaluation of a novel size-based microfluidic platform for rare cell detection in blood and malignant effusions",
       "org": "Trinity College Dublin",
-      "date": "2026-10-01",
+      "date": "2026-10-16",
       "url": "https://doi.org/10.1016/j.jlb.2026.100678",
-      "countryEvidence": "institution country codes [IE, IE, US, IE, IE, US, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE] → IE",
+      "countryEvidence": "institution country codes [IE, IE, US, IE, IE, US, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, IE, CA, IE, CA, IE, IE, IE, IE, IE] → IE",
       "citations": 0,
       "abstract": "Background Circulating tumour cells (CTCs) are promising minimally invasive biomarkers of tumour dissemination and disease biology, but low abundance and phenotypic heterogeneity make them challenging to isolate, particularly in non-small…",
       "authors": [
@@ -945081,6 +945082,7 @@
       ],
       "venue": "The Journal of Liquid Biopsy",
       "collaboratingCountries": [
+        "CA",
         "IE",
         "US"
       ],
@@ -946678,7 +946680,7 @@
       "source": "paper",
       "title": "Retraction Notice to: Recurrent ZNF83-E293VMutationPromotesBladder Cancer Progression through the NF-κB Pathway via Transcriptional Dysregulation of S100A8",
       "org": "",
-      "date": "2026-10-01",
+      "date": "2026-10-16",
       "url": "https://doi.org/10.1016/j.ymthe.2026.10.013",
       "countryEvidence": "no institution country on record",
       "citations": 0,
@@ -951595,7 +951597,7 @@
       "org": "Fudan University",
       "date": "2026-10-17",
       "url": "https://doi.org/10.1080/22221751.2026.2751804",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Continued SARS-CoV-2 antigenic drift and the persistent risk of zoonotic sarbecovirus spillover highlight the need for broadly protective countermeasures. Here, we longitudinally profiled the B-cell receptor (BCR) repertoire of a single…",
       "authors": [
@@ -953326,7 +953328,7 @@
       "source": "paper",
       "title": "Bioinspired viscoelastic-piezoelectric hydrogels reconstruct the mechano-electrical microenvironment to cellular responses associated with osteogenesis in vitro",
       "org": "Fujian University of Traditional Chinese Medicine",
-      "date": "2026-10-01",
+      "date": "2026-10-17",
       "url": "https://doi.org/10.1016/j.jmbbm.2026.107689",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
@@ -954405,7 +954407,7 @@
       "provenance": "live",
       "source": "paper",
       "title": "Recombinant sucrose isomerases in Pichia pastoris for the production of isomaltulose as an alternative sweetener",
-      "org": "National University of Quilmes",
+      "org": "Consejo Nacional de Investigaciones Científicas y Técnicas",
       "date": "2026-10-17",
       "url": "https://doi.org/10.1016/j.fbp.2026.10.012",
       "countryEvidence": "institution country codes [AR, AR, CO, AR, AR, AR] → AR",
@@ -954422,7 +954424,7 @@
         "CO"
       ],
       "ingestedAt": "2026-10-18T18:19:30.154Z",
-      "orgId": "national university of quilmes",
+      "orgId": "consejo nacional de investigaciones científicas y técnicas",
       "relevanceScore": 0.6
     },
     {
@@ -954583,7 +954585,7 @@
       "date": "2026-10-17",
       "url": "https://doi.org/10.1016/j.ejmech.2026.119442",
       "countryEvidence": "institution country codes [IN] → IN",
-      "citations": 0,
+      "citations": 1,
       "authors": [
         "Manish Pathak"
       ],
@@ -954956,7 +954958,7 @@
       "org": "Tianjin First Center Hospital",
       "date": "2026-10-17",
       "url": "https://doi.org/10.1016/j.neo.2026.101383",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Antibody-drug conjugates (ADCs) and chimeric antigen receptor (CAR)-engineered cells can converge on the same surface antigens in urothelial carcinoma (UC) yet depend on distinct biological steps. This creates a central uncertainty after…",
       "authors": [
@@ -959875,7 +959877,7 @@
       "org": "Foshan University",
       "date": "2026-10-18",
       "url": "https://doi.org/10.34133/csbj.0253",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "authors": [
         "Yue Wang",
@@ -972938,9 +972940,9 @@
       "org": "German Cancer Research Center",
       "date": "2026-10-18",
       "url": "https://doi.org/10.1080/2162402x.2026.2745295",
-      "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
+      "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
       "citations": 0,
-      "abstract": ", coupled with upregulation of genes involved in inflammatory resolution, findings consistent with attenuation of GB-derived inflammatory stress and immunosuppression. Collectively, we showcase that CD70-directed CAR-T cell therapy…",
+      "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has shown limited efficacy in glioblastoma (GB), largely because of the immunosuppressive tumor microenvironment (TME). We have previously demonstrated that the ligand-based mCD70-directed…",
       "authors": [
         "Alexandros Kourtesakis",
         "Dennis Alexander Agardy",
@@ -1044196,7 +1044198,7 @@
       "url": "https://doi.org/10.48095/ccko2026368",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Východiska: Fúze s genem RET představují vzácnou, avšak klinicky významnou genetickou alteraci u nemalobuněčného karcinomu plic (NSCLC), zejména adenokarcinomu, s prevalencí přibližně 1-2 %.Identifikace této driver mutace umožnila zavedení…",
+      "abstract": "BACKGROUND: RET gene fusions represent a rare but clinically relevant genetic alteration in non-small cell lung cancer (NSCLC), particularly in adenocarcinoma, with a prevalence of approximately 1-2%. Identification of this driver mutation…",
       "authors": [
         "Miriam Šuranová",
         "Ondřej Bílek",
@@ -1151950,10 +1151952,10 @@
       "provenance": "live",
       "source": "paper",
       "title": "Diagnosing Rare Genetic Diseases From Facial Images Using Visual Prompting With Multimodal Large Language Models: Diagnostic Accuracy Study",
-      "org": "Sichuan University",
+      "org": "West China Hospital of Sichuan University",
       "date": "2026-10-15",
       "url": "https://doi.org/10.2196/105860",
-      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "BACKGROUND: Rare genetic diseases often present with recognizable facial phenotypes. Whether multimodal large language models (MLLMs) can prioritize the diagnosis of rare genetic diseases from facial images and whether image enhancement or…",
       "authors": [
@@ -1151966,7 +1151968,7 @@
       ],
       "venue": "JMIR Medical Informatics",
       "ingestedAt": "2026-11-03T13:59:46.847Z",
-      "orgId": "sichuan university",
+      "orgId": "west china hospital of sichuan university",
       "relevanceScore": 0.6
     },
     {
@@ -1180298,16 +1180300,16 @@
     {
       "id": "oa-W7225174856",
       "stage": "innovation",
-      "country": "NI",
+      "country": "US",
       "provenance": "live",
       "source": "paper",
       "title": "Treatment of diabetic foot chronic ulcers and neuropathy with placenta-derived stem cells",
-      "org": "National Autonomous University of Nicaragua",
+      "org": "Universidad Nacional Autónoma de Nicaragua-León",
       "date": "2026-10-16",
       "url": "https://doi.org/10.1093/stcltm/szag085",
-      "countryEvidence": "institution country codes [NI, US, NI, NI, NI, NI, NI, US, US, US] → NI",
+      "countryEvidence": "institution country codes [NI, US, US, NI, NI, NI, NI, NI, US, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Abstract Aim This first in human study sought to determine the safety and clinical effects of placenta-derived stem cells (PSCs) administered by injection in a dose-escalation trial in diabetic subjects with foot ulceration (DFU) and…",
+      "abstract": "AIM: This first in human study sought to determine the safety and clinical effects of placenta-derived stem cells (PSCs) administered by injection in a dose-escalation trial in diabetic subjects with foot ulceration (DFU) and peripheral…",
       "authors": [
         "Michael H. Carstens",
         "Arlen Beatriz Ríos",
@@ -1180322,7 +1180324,7 @@
         "US"
       ],
       "ingestedAt": "2026-11-05T10:45:33.913Z",
-      "orgId": "national autonomous university of nicaragua",
+      "orgId": "universidad nacional autónoma de nicaragua león",
       "relevanceScore": 0.6
     },
     {
@@ -1197432,6 +1197434,36 @@
       "abstract": "Researchers used an AI-guided engineering approach to create a broadly protective bird flu vaccine that is designed to remain effective across a wide range of existing and future H5Nx variants. The post Bird Flu Vaccine Developed Using AI…",
       "ingestedAt": "2026-11-06T01:58:44.597Z",
       "relevanceScore": 0.75
+    },
+    {
+      "id": "oa-W7225234617",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Ginkgolide B Inhibits Colorectal Cancer Growth via Regulation of the PI3K/AKT/MAPK Pathways: A Comprehensive Analysis Using Network Pharmacology, Molecular Docking, and Verification in Cellular and Animal Models",
+      "org": "Central South University",
+      "date": "2026-10-16",
+      "url": "https://doi.org/10.31083/fbl55020",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, US, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "BACKGROUND: , has shown antitumor activity in several malignancies. However, the molecular mechanisms underlying GB action against colorectal cancer (CRC) remain incompletely understood. Thus, this study aimed to systematically investigate…",
+      "authors": [
+        "Qi Liu",
+        "Xin Sun",
+        "Aikelimu Aisikaer",
+        "Altannavch Nyamsambuu",
+        "Maonan Wang",
+        "Gang Yin"
+      ],
+      "venue": "Frontiers in Bioscience-Landmark",
+      "collaboratingCountries": [
+        "CN",
+        "US"
+      ],
+      "ingestedAt": "2026-11-06T10:49:32.598Z",
+      "orgId": "central south university",
+      "relevanceScore": 0.6
     }
   ],
   "trend": [
@@ -1202271,13 +1202303,13 @@
         "HR": 1
       },
       "stageCounts": {
-        "innovation": 9344,
+        "innovation": 9345,
         "scaling": 6,
         "adoption": 2,
         "investment": 58
       },
       "fundingUsd": 0,
-      "totalEntries": 48531,
+      "totalEntries": 48532,
       "windowCap": 600
     }
   ],
@@ -1202314,7 +1202346,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -1202514,7 +1202546,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -1202523,7 +1202555,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -1202532,7 +1202564,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -1202541,7 +1202573,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -1202751,7 +1202783,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -1202760,7 +1202792,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -1202775,7 +1202807,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -1202784,7 +1202816,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -1202793,7 +1202825,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -1202802,7 +1202834,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -1203002,7 +1203034,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-06T01:58:44.597Z",
+      "lastSuccessfulPull": "2026-11-06T10:49:32.598Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -1203014,491 +1203046,491 @@
     {
       "symbol": "CRSP",
       "name": "CRISPR Therapeutics AG",
-      "marketCapUsd": 5022217093.075,
-      "asOf": "2026-11-06T01:37:15.594Z",
+      "marketCapUsd": 4710359479.280001,
+      "asOf": "2026-11-06T10:31:07.431Z",
       "url": "https://www.crisprtx.com"
     },
     {
       "symbol": "NTLA",
       "name": "Intellia Therapeutics, Inc",
-      "marketCapUsd": 1724959590.8300002,
-      "asOf": "2026-11-06T01:37:30.739Z",
+      "marketCapUsd": 1555406292.3,
+      "asOf": "2026-11-06T10:31:22.639Z",
       "url": "https://www.intelliatx.com"
     },
     {
       "symbol": "BEAM",
       "name": "Beam Therapeutics Inc. Common Stock",
-      "marketCapUsd": 2876143946.7599998,
-      "asOf": "2026-11-06T01:37:45.896Z",
+      "marketCapUsd": 2677432310.28,
+      "asOf": "2026-11-06T10:31:37.900Z",
       "url": "https://www.beamtx.com"
     },
     {
       "symbol": "EDIT",
       "name": "Editas Medicine, Inc. Common Stock",
-      "marketCapUsd": 417737695.20000005,
-      "asOf": "2026-11-06T01:38:01.023Z",
+      "marketCapUsd": 391629089.25,
+      "asOf": "2026-11-06T10:31:53.161Z",
       "url": "https://www.editasmedicine.com"
     },
     {
       "symbol": "CRBU",
       "name": "Caribou Biosciences, Inc. Common Stock",
-      "marketCapUsd": 47643018.7772,
-      "asOf": "2026-11-06T01:38:16.205Z",
+      "marketCapUsd": 44201657.6099,
+      "asOf": "2026-11-06T10:32:08.414Z",
       "url": "https://www.cariboubio.com"
     },
     {
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics,, Inc. Common Stock",
-      "marketCapUsd": 2005857128.7899997,
-      "asOf": "2026-11-06T01:38:31.365Z",
+      "marketCapUsd": 1855866758.97,
+      "asOf": "2026-11-06T10:32:23.635Z",
       "url": "https://www.sarepta.com"
     },
     {
       "symbol": "RARE",
       "name": "Ultragenyx Pharmaceutical Inc.",
-      "marketCapUsd": 1749017006.88,
-      "asOf": "2026-11-06T01:38:46.538Z",
+      "marketCapUsd": 1586957738.76,
+      "asOf": "2026-11-06T10:32:38.850Z",
       "url": "https://www.ultragenyx.com"
     },
     {
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc. Common Stock",
-      "marketCapUsd": 9211268436.48,
-      "asOf": "2026-11-06T01:39:01.742Z",
+      "marketCapUsd": 8897449968,
+      "asOf": "2026-11-06T10:32:54.119Z",
       "url": "https://www.krystalbio.com"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
-      "marketCapUsd": 21574664742.08,
-      "asOf": "2026-11-06T01:39:16.917Z",
+      "marketCapUsd": 20982660656.16,
+      "asOf": "2026-11-06T10:33:09.353Z",
       "url": "https://www.alnylam.com"
     },
     {
       "symbol": "IONS",
       "name": "Ionis Pharmaceuticals, Inc. Common Stock",
-      "marketCapUsd": 6672300528.3,
-      "asOf": "2026-11-06T01:39:32.086Z",
+      "marketCapUsd": 6447951693.599999,
+      "asOf": "2026-11-06T10:33:24.591Z",
       "url": "https://www.ionis.com"
     },
     {
       "symbol": "ARWR",
       "name": "Arrowhead Research Corporation",
-      "marketCapUsd": 8708337890.55,
-      "asOf": "2026-11-06T01:39:47.249Z",
+      "marketCapUsd": 8116481673.82,
+      "asOf": "2026-11-06T10:33:39.820Z",
       "url": "https://www.arrowheadpharma.com"
     },
     {
       "symbol": "RNA",
       "name": "Atrium Therapeutics, Inc. Common Stock",
-      "marketCapUsd": 148476981.24,
-      "asOf": "2026-11-06T01:40:02.415Z",
+      "marketCapUsd": 142318949.76,
+      "asOf": "2026-11-06T10:33:55.026Z",
       "url": "https://www.aviditybiosciences.com"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
-      "marketCapUsd": 103154568999.81999,
-      "asOf": "2026-11-06T01:40:17.580Z",
+      "marketCapUsd": 96399497757.94,
+      "asOf": "2026-11-06T10:34:10.275Z",
       "url": "https://www.modernatx.com"
     },
     {
       "symbol": "BNTX",
       "name": "BioNTech SE American Depositary Share",
-      "marketCapUsd": 22487085926,
-      "asOf": "2026-11-06T01:40:32.791Z",
+      "marketCapUsd": 21287113534.8,
+      "asOf": "2026-11-06T10:34:25.520Z",
       "url": "https://www.biontech.de"
     },
     {
       "symbol": "NVAX",
       "name": "Novavax Inc",
-      "marketCapUsd": 1756671981.9,
-      "asOf": "2026-11-06T01:40:47.954Z",
+      "marketCapUsd": 1613169200.28,
+      "asOf": "2026-11-06T10:34:40.727Z",
       "url": "https://www.novavax.com"
     },
     {
       "symbol": "LEGN",
       "name": "Legend Biotech Corporation American Depositary Shares",
-      "marketCapUsd": 4428501164.01,
-      "asOf": "2026-11-06T01:41:03.088Z",
+      "marketCapUsd": 4383768829.0199995,
+      "asOf": "2026-11-06T10:34:55.967Z",
       "url": "https://www.legendbiotech.com"
     },
     {
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc. Common Stock",
-      "marketCapUsd": 3940851458.3999996,
-      "asOf": "2026-11-06T01:41:18.244Z",
+      "marketCapUsd": 3505998883.6800003,
+      "asOf": "2026-11-06T10:35:11.213Z",
       "url": "https://www.iovance.com"
     },
     {
       "symbol": "ALLO",
       "name": "Allogene Therapeutics, Inc. Common Stock",
-      "marketCapUsd": 411134148.39,
-      "asOf": "2026-11-06T01:41:33.378Z",
+      "marketCapUsd": 376585060.29,
+      "asOf": "2026-11-06T10:35:26.479Z",
       "url": "https://www.allogene.com"
     },
     {
       "symbol": "SANA",
       "name": "Sana Biotechnology, Inc. Common Stock",
-      "marketCapUsd": 766363230.72,
-      "asOf": "2026-11-06T01:41:48.545Z",
+      "marketCapUsd": 700503890.5799999,
+      "asOf": "2026-11-06T10:35:41.715Z",
       "url": "https://www.sana.com"
     },
     {
       "symbol": "FATE",
       "name": "Fate Therapeutics, Inc.",
-      "marketCapUsd": 250424874.26,
-      "asOf": "2026-11-06T01:42:03.678Z",
+      "marketCapUsd": 221667950.9,
+      "asOf": "2026-11-06T10:35:56.954Z",
       "url": "https://www.fatetherapeutics.com"
     },
     {
       "symbol": "VCEL",
       "name": "Vericel Corporation",
-      "marketCapUsd": 2328876804.72,
-      "asOf": "2026-11-06T01:42:18.822Z",
+      "marketCapUsd": 2651478472.92,
+      "asOf": "2026-11-06T10:36:12.189Z",
       "url": "https://www.vcel.com"
     },
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
-      "marketCapUsd": 96275818935.53,
-      "asOf": "2026-11-06T01:42:33.944Z",
+      "marketCapUsd": 93403071891.09999,
+      "asOf": "2026-11-06T10:36:27.431Z",
       "url": "https://www.regeneron.com"
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals Inc",
-      "marketCapUsd": 139202324532.96,
-      "asOf": "2026-11-06T01:42:49.129Z",
+      "marketCapUsd": 137544188145,
+      "asOf": "2026-11-06T10:36:42.641Z",
       "url": "https://www.vrtx.com"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
-      "marketCapUsd": 258681601752.40002,
-      "asOf": "2026-11-06T01:43:04.286Z",
+      "marketCapUsd": 248970740617.19998,
+      "asOf": "2026-11-06T10:36:57.903Z",
       "url": "https://www.amgen.com"
     },
     {
       "symbol": "GILD",
       "name": "Gilead Sciences Inc",
-      "marketCapUsd": 216414281370.72,
-      "asOf": "2026-11-06T01:43:19.494Z",
+      "marketCapUsd": 207843541547.97998,
+      "asOf": "2026-11-06T10:37:13.167Z",
       "url": "https://www.gilead.com"
     },
     {
       "symbol": "BIIB",
       "name": "Biogen Inc. Common Stock",
-      "marketCapUsd": 37614333944.58,
-      "asOf": "2026-11-06T01:43:34.690Z",
+      "marketCapUsd": 36057786996.39,
+      "asOf": "2026-11-06T10:37:28.399Z",
       "url": "https://www.biogen.com"
     },
     {
       "symbol": "ZLAB",
       "name": "Zai Lab Limited American Depositary Shares",
-      "marketCapUsd": 2830508530.8,
-      "asOf": "2026-11-06T01:43:49.868Z",
+      "marketCapUsd": 2805679508.6000004,
+      "asOf": "2026-11-06T10:37:43.641Z",
       "url": "https://www.zailaboratory.com"
     },
     {
       "symbol": "RXRX",
       "name": "Recursion Pharmaceuticals, Inc. Class A Common Stock",
-      "marketCapUsd": 2418667254.12,
-      "asOf": "2026-11-06T01:44:05.085Z",
+      "marketCapUsd": 2181787471.5,
+      "asOf": "2026-11-06T10:37:58.879Z",
       "url": "https://www.recursion.com"
     },
     {
       "symbol": "SDGR",
       "name": "Schrodinger, Inc. Common Stock",
-      "marketCapUsd": 2133456510.56,
-      "asOf": "2026-11-06T01:44:20.250Z",
+      "marketCapUsd": 2152157917.56,
+      "asOf": "2026-11-06T10:38:14.113Z",
       "url": "https://www.schrodinger.com"
     },
     {
       "symbol": "ABSI",
       "name": "Absci Corporation Common Stock",
-      "marketCapUsd": 1798514824.8000002,
-      "asOf": "2026-11-06T01:44:35.382Z",
+      "marketCapUsd": 1611455553.9,
+      "asOf": "2026-11-06T10:38:29.324Z",
       "url": "https://www.absci.com"
     },
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc. Class A Common Stock",
-      "marketCapUsd": 13791387773.57,
-      "asOf": "2026-11-06T01:44:50.542Z",
+      "marketCapUsd": 12846547293.910002,
+      "asOf": "2026-11-06T10:38:44.560Z",
       "url": "https://www.tempus.com"
     },
     {
       "symbol": "DNA",
       "name": "Ginkgo Bioworks Holdings, Inc.",
-      "marketCapUsd": 784514227.0500001,
-      "asOf": "2026-11-06T01:45:05.770Z",
+      "marketCapUsd": 670709158.9200001,
+      "asOf": "2026-11-06T10:38:59.799Z",
       "url": "https://www.ginkgobioworks.com"
     },
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation Common Stock",
-      "marketCapUsd": 9453221388.92,
-      "asOf": "2026-11-06T01:45:20.916Z",
+      "marketCapUsd": 7996584596.14,
+      "asOf": "2026-11-06T10:39:15.076Z",
       "url": "https://www.twistbioscience.com"
     },
     {
       "symbol": "CDXS",
       "name": "Codexis, Inc.",
-      "marketCapUsd": 118266226.2,
-      "asOf": "2026-11-06T01:45:36.066Z",
+      "marketCapUsd": 111695880.3,
+      "asOf": "2026-11-06T10:39:30.291Z",
       "url": "https://www.codexis.com"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
-      "marketCapUsd": 34252848000,
-      "asOf": "2026-11-06T01:45:51.217Z",
+      "marketCapUsd": 31449600000,
+      "asOf": "2026-11-06T10:39:45.592Z",
       "url": "https://www.illumina.com"
     },
     {
       "symbol": "PACB",
       "name": "Pacific Biosciences of California, Inc.",
-      "marketCapUsd": 792618435.4499999,
-      "asOf": "2026-11-06T01:46:06.339Z",
+      "marketCapUsd": 755318744.37,
+      "asOf": "2026-11-06T10:40:00.823Z",
       "url": "https://www.pacb.com"
     },
     {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. Class A Common Stock",
-      "marketCapUsd": 8797259663.359999,
-      "asOf": "2026-11-06T01:46:21.512Z",
+      "marketCapUsd": 7564705214.08,
+      "asOf": "2026-11-06T10:40:16.066Z",
       "url": "https://www.10xgenomics.com"
     },
     {
       "symbol": "QTRX",
       "name": "Quanterix Corporation Common Stock",
-      "marketCapUsd": 143770917.6,
-      "asOf": "2026-11-06T01:46:36.637Z",
+      "marketCapUsd": 130528859.39999999,
+      "asOf": "2026-11-06T10:40:31.275Z",
       "url": "https://www.quanterix.com"
     },
     {
       "symbol": "SEER",
       "name": "Seer, Inc. Class A Common Stock",
-      "marketCapUsd": 94132425.5,
-      "asOf": "2026-11-06T01:46:51.775Z",
+      "marketCapUsd": 90256384.44999999,
+      "asOf": "2026-11-06T10:40:46.486Z",
       "url": "https://www.seer.bio"
     },
     {
       "symbol": "NAUT",
       "name": "Nautilus Biotechnolgy, Inc. Common Stock",
-      "marketCapUsd": 291682853.25,
-      "asOf": "2026-11-06T01:47:06.950Z",
+      "marketCapUsd": 273850713.75,
+      "asOf": "2026-11-06T10:41:01.745Z",
       "url": "https://www.nautilus.bio"
     },
     {
       "symbol": "NTRA",
       "name": "Natera, Inc. Common Stock",
-      "marketCapUsd": 56364694795.1,
-      "asOf": "2026-11-06T01:47:22.106Z",
+      "marketCapUsd": 52433883279.2,
+      "asOf": "2026-11-06T10:41:16.972Z",
       "url": "https://www.natera.com"
     },
     {
       "symbol": "GH",
       "name": "Guardant Health, Inc. Common Stock",
-      "marketCapUsd": 22622790338.600002,
-      "asOf": "2026-11-06T01:47:37.313Z",
+      "marketCapUsd": 20589718363.100002,
+      "asOf": "2026-11-06T10:41:32.239Z",
       "url": "https://www.guardanthealth.com"
     },
     {
       "symbol": "MYGN",
       "name": "Myriad Genetics Inc",
-      "marketCapUsd": 575810862.9,
-      "asOf": "2026-11-06T01:47:52.440Z",
+      "marketCapUsd": 601953000,
+      "asOf": "2026-11-06T10:41:47.474Z",
       "url": "https://www.myriad.com"
     },
     {
       "symbol": "QGEN",
       "name": "QIAGEN N.V.",
-      "marketCapUsd": 10496218162.43,
-      "asOf": "2026-11-06T01:48:07.588Z",
+      "marketCapUsd": 10502413058.06,
+      "asOf": "2026-11-06T10:42:02.676Z",
       "url": "https://www.qiagen.com"
     },
     {
       "symbol": "SOPH",
       "name": "SOPHiA GENETICS SA Ordinary Shares",
-      "marketCapUsd": 597038497.37,
-      "asOf": "2026-11-06T01:48:22.734Z",
+      "marketCapUsd": 567058085.02,
+      "asOf": "2026-11-06T10:42:17.961Z",
       "url": "https://www.sophiagenetics.com"
     },
     {
       "symbol": "GRAL",
       "name": "GRAIL, Inc. Common Stock",
-      "marketCapUsd": 6416751176.44,
-      "asOf": "2026-11-06T01:48:37.855Z",
+      "marketCapUsd": 5331446214.2699995,
+      "asOf": "2026-11-06T10:42:33.193Z",
       "url": "https://www.grail.com"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
-      "marketCapUsd": 261643485346.87997,
-      "asOf": "2026-11-06T01:48:52.984Z",
+      "marketCapUsd": 250817011683.92,
+      "asOf": "2026-11-06T10:42:48.430Z",
       "url": "https://www.thermofisher.com"
     },
     {
       "symbol": "DHR",
       "name": "Danaher Corporation",
-      "marketCapUsd": 165152513666.22,
-      "asOf": "2026-11-06T01:49:08.113Z",
+      "marketCapUsd": 159113863462.36002,
+      "asOf": "2026-11-06T10:43:03.659Z",
       "url": "https://www.danaher.com"
     },
     {
       "symbol": "A",
       "name": "Agilent Technologies Inc.",
-      "marketCapUsd": 49949335063.17999,
-      "asOf": "2026-11-06T01:49:23.263Z",
+      "marketCapUsd": 48429738540.12,
+      "asOf": "2026-11-06T10:43:18.939Z",
       "url": "https://www.agilent.com"
     },
     {
       "symbol": "RVTY",
       "name": "Revvity, Inc.",
-      "marketCapUsd": 17790219911.43,
-      "asOf": "2026-11-06T01:49:38.439Z",
+      "marketCapUsd": 16830576862.830002,
+      "asOf": "2026-11-06T10:43:34.151Z",
       "url": "https://www.revvity.com"
     },
     {
       "symbol": "BIO",
       "name": "Bio-Rad Laboratories, Inc.Class A",
-      "marketCapUsd": 10160239118.25,
-      "asOf": "2026-11-06T01:49:53.593Z",
+      "marketCapUsd": 9923496705,
+      "asOf": "2026-11-06T10:43:49.359Z",
       "url": "https://www.bio-rad.com"
     },
     {
       "symbol": "WAT",
       "name": "Waters Corp",
-      "marketCapUsd": 45940816703.6,
-      "asOf": "2026-11-06T01:50:08.762Z",
+      "marketCapUsd": 44514254131.88,
+      "asOf": "2026-11-06T10:44:04.590Z",
       "url": "https://www.waters.com"
     },
     {
       "symbol": "BRKR",
       "name": "Bruker Corporation",
-      "marketCapUsd": 9719000767.64,
-      "asOf": "2026-11-06T01:50:23.936Z",
+      "marketCapUsd": 8845981886.960001,
+      "asOf": "2026-11-06T10:44:19.833Z",
       "url": "https://www.bruker.com"
     },
     {
       "symbol": "RGEN",
       "name": "Repligen Corp",
-      "marketCapUsd": 11391210111.599998,
-      "asOf": "2026-11-06T01:50:39.068Z",
+      "marketCapUsd": 10769871378.24,
+      "asOf": "2026-11-06T10:44:35.095Z",
       "url": "https://www.repligen.com"
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories International, Inc.",
-      "marketCapUsd": 15634990307.43,
-      "asOf": "2026-11-06T01:50:54.243Z",
+      "marketCapUsd": 14999125520.339998,
+      "asOf": "2026-11-06T10:44:50.301Z",
       "url": "https://www.criver.com"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
-      "marketCapUsd": 1263067546507.69,
-      "asOf": "2026-11-06T01:51:09.400Z",
+      "marketCapUsd": 1215626466156.6301,
+      "asOf": "2026-11-06T10:45:05.511Z",
       "url": "https://www.lilly.com"
     },
     {
       "symbol": "PFE",
       "name": "Pfizer Inc.",
-      "marketCapUsd": 175498496439.07,
-      "asOf": "2026-11-06T01:51:24.624Z",
+      "marketCapUsd": 170311629542.04,
+      "asOf": "2026-11-06T10:45:20.759Z",
       "url": "https://www.pfizer.com"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
-      "marketCapUsd": 370963927489.68005,
-      "asOf": "2026-11-06T01:51:39.792Z",
+      "marketCapUsd": 362243201394.72,
+      "asOf": "2026-11-06T10:45:35.961Z",
       "url": "https://www.merck.com"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCapUsd": 665187972701.12,
-      "asOf": "2026-11-06T01:51:54.949Z",
+      "marketCapUsd": 655558731637.12,
+      "asOf": "2026-11-06T10:45:51.165Z",
       "url": "https://www.jnj.com"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
-      "marketCapUsd": 521146315497.98,
-      "asOf": "2026-11-06T01:52:10.098Z",
+      "marketCapUsd": 509497724041.44,
+      "asOf": "2026-11-06T10:46:06.376Z",
       "url": "https://www.abbvie.com"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co.",
-      "marketCapUsd": 131209869491.89,
-      "asOf": "2026-11-06T01:52:25.246Z",
+      "marketCapUsd": 129043138511.03,
+      "asOf": "2026-11-06T10:46:21.621Z",
       "url": "https://www.bms.com"
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
-      "marketCapUsd": 293138952586.89996,
-      "asOf": "2026-11-06T01:52:40.419Z",
+      "marketCapUsd": 289788970376.5,
+      "asOf": "2026-11-06T10:46:36.860Z",
       "url": "https://www.astrazeneca.com"
     },
     {
       "symbol": "NVS",
       "name": "Novartis AG",
-      "marketCapUsd": 311585116908.56,
-      "asOf": "2026-11-06T01:52:55.554Z",
+      "marketCapUsd": 305824815013.96,
+      "asOf": "2026-11-06T10:46:52.068Z",
       "url": "https://www.novartis.com"
     },
     {
       "symbol": "SNY",
       "name": "Sanofi American Depositary Shares (Each representing one-half of one ordinary share)",
-      "marketCapUsd": 113744640953.9,
-      "asOf": "2026-11-06T01:53:10.714Z",
+      "marketCapUsd": 112402804026.7,
+      "asOf": "2026-11-06T10:47:07.302Z",
       "url": "https://www.sanofi.com"
     },
     {
       "symbol": "GSK",
       "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
-      "marketCapUsd": 102528619579.65,
-      "asOf": "2026-11-06T01:53:25.880Z",
+      "marketCapUsd": 101045312082.31,
+      "asOf": "2026-11-06T10:47:22.549Z",
       "url": "https://www.gsk.com"
     },
     {
       "symbol": "NVO",
       "name": "Novo-Nordisk A/S",
-      "marketCapUsd": 185981959330.32,
-      "asOf": "2026-11-06T01:53:41.018Z",
+      "marketCapUsd": 177692578497.19998,
+      "asOf": "2026-11-06T10:47:37.787Z",
       "url": "https://www.novonordisk.com"
     },
     {
       "symbol": "TAK",
       "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
-      "marketCapUsd": 67284547541.64,
-      "asOf": "2026-11-06T01:53:56.189Z",
+      "marketCapUsd": 67699884254.86,
+      "asOf": "2026-11-06T10:47:52.991Z",
       "url": "https://www.takeda.com"
     },
     {
       "symbol": "ZTS",
       "name": "ZOETIS INC.",
-      "marketCapUsd": 36859545298.4,
-      "asOf": "2026-11-06T01:54:11.323Z",
+      "marketCapUsd": 33929789960.22,
+      "asOf": "2026-11-06T10:48:08.194Z",
       "url": "https://www.zoetis.com"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
-      "marketCapUsd": 8179822960,
-      "asOf": "2026-11-06T01:54:26.507Z",
+      "marketCapUsd": 8033039839.999999,
+      "asOf": "2026-11-06T10:48:23.428Z",
       "url": "https://www.corteva.com"
     },
     {
       "symbol": "BIOX",
       "name": "Bioceres Crop Solutions Corp. Ordinary Shares",
-      "marketCapUsd": 16170946.7794,
-      "asOf": "2026-11-06T01:54:41.676Z",
+      "marketCapUsd": 13560876.8375,
+      "asOf": "2026-11-06T10:48:38.664Z",
       "url": "https://www.biocerescrops.com"
     }
   ],
