@@ -1,6 +1,6 @@
 {
   "technology": "biotechnology",
-  "generatedAt": "2026-11-06T19:23:16.993Z",
+  "generatedAt": "2026-11-07T01:10:27.060Z",
   "entries": [
     {
       "id": "seed-samsung-biologics-plant4-2022",
@@ -192868,16 +192868,6 @@
       "url": "https://doi.org/10.1016/j.humimm.2026.111810",
       "countryEvidence": "institution country codes [IL, IL, IL, IL, US, US, US, US, IL] → IL",
       "citations": 0,
-      "abstract": "BACKGROUND: The success of hematopoietic stem cell transplantation (HSCT) depends critically on human leukocyte antigen (HLA) matching between donor and recipient. While traditional matching focuses on five classical HLA loci (A, B, C,…",
-      "authors": [
-        "Ofek Kirshenboim",
-        "Amit Kabya",
-        "Regev Yehezkel-Imra",
-        "Yuli Tshuva",
-        "Martin Maiers",
-        "Loren Gragert"
-      ],
-      "venue": "Human Immunology",
       "collaboratingCountries": [
         "IL",
         "US"
@@ -192898,14 +192888,6 @@
       "url": "https://doi.org/10.3390/cancers18162557",
       "countryEvidence": "institution country codes [PL, PL, TJ, PL, PL] → PL",
       "citations": 0,
-      "abstract": "Background/Objectives: Evaluation of renal tumour masses relies on conventional imaging, which cannot reliably characterise the histopathological type, and no validated blood-based diagnostic marker is available for renal cell carcinoma.…",
-      "authors": [
-        "Tomasz Milecki",
-        "Jan Stępka",
-        "Joanna Wesoły",
-        "Wojciech A. Cieślikowski"
-      ],
-      "venue": "Cancers",
       "collaboratingCountries": [
         "PL",
         "TJ"
@@ -192926,11 +192908,6 @@
       "url": "https://doi.org/10.5281/zenodo.21860379",
       "countryEvidence": "institution country codes [US] → US",
       "citations": 0,
-      "abstract": "Artificial intelligence (AI) has become an effective tool that leverages personal information to deliver faster solutions to complex problems. A revolutionary approach to drug discovery, formulation, and dosage form testing is presented by…",
-      "authors": [
-        "Mediterranean Journal of Pharmacy and Pharmaceutical Sciences"
-      ],
-      "venue": "Mediterranean Journal of pharmacy and Pharmaceutical Sciences",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "american pharmacists association foundation",
       "relevanceScore": 0.6
@@ -192947,16 +192924,6 @@
       "url": "https://doi.org/10.1021/acssensors.6c01378",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Circulating tumor cells (CTCs) are critical biomarkers for cancer prognosis and treatment monitoring, yet their detection remains challenging due to low abundance and phenotypic heterogeneity. Herein, we developed a dual-aptamer-conjugated…",
-      "authors": [
-        "Na Gan",
-        "Peiran Liu",
-        "Tingting Zeng",
-        "Si Chen",
-        "Yazhi Mo",
-        "Jie Zhong"
-      ],
-      "venue": "ACS Sensors",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "chengdu university",
       "relevanceScore": 0.6
@@ -192973,10 +192940,6 @@
       "url": "https://doi.org/10.1016/j.compchemeng.2026.109838",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Dimitrios I. Gerogiorgis"
-      ],
-      "venue": "Computers & Chemical Engineering",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "relevanceScore": 0.6
     },
@@ -192992,16 +192955,6 @@
       "url": "https://doi.org/10.1021/acsami.6c14869",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, BD, BD, CN, CN, CN, CN, CN, CN, CN, CN, BD] → CN",
       "citations": 0,
-      "abstract": "Colorectal cancer (CRC) remains a leading cause of cancer mortality worldwide. 5-Fluorouracil (5-FU) is a first-line chemotherapeutic widely used in CRC treatment, but its systemic administration often causes severe toxicity due to…",
-      "authors": [
-        "Lei Zhou",
-        "Yue Fei",
-        "Ziyi Wang",
-        "Xiaohui Wang",
-        "Luya Zhu",
-        "Furong Zhao"
-      ],
-      "venue": "ACS Applied Materials & Interfaces",
       "collaboratingCountries": [
         "BD",
         "CN"
@@ -193022,12 +192975,6 @@
       "url": "https://doi.org/10.1021/acssensors.6c01863",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "RNA has emerged beyond its traditional biological role to become a premier biorecognition element in biosensor design. While single-target RNA sensors demonstrate high specificity, multi-pocket variants, such as the tetrahydrofolate (THF)…",
-      "authors": [
-        "Dian Chen",
-        "Yu Liu"
-      ],
-      "venue": "ACS Sensors",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "shanghai jiao tong university",
       "relevanceScore": 0.6
@@ -193044,11 +192991,6 @@
       "url": "https://doi.org/10.1016/j.talanta.2026.130409",
       "countryEvidence": "institution country codes [TW, IN] → TW",
       "citations": 0,
-      "authors": [
-        "Sindhuja Kotteeswaran",
-        "Mani Govindasamy"
-      ],
-      "venue": "Talanta",
       "collaboratingCountries": [
         "IN",
         "TW"
@@ -193069,16 +193011,6 @@
       "url": "https://doi.org/10.1021/acs.analchem.6c03110",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, BD, CN] → CN",
       "citations": 0,
-      "abstract": "Cell membrane receptors are pivotal targets in precise therapeutics, yet their ubiquitous expression across tissues remains a fundamental barrier to achieving cell-specific intervention. To overcome the limitations of conventional…",
-      "authors": [
-        "Xia Liu",
-        "Ying Zhao",
-        "夏国玺",
-        "Minglei Zhang",
-        "Jiabo Wang",
-        "Yusi Bu"
-      ],
-      "venue": "Analytical Chemistry",
       "collaboratingCountries": [
         "BD",
         "CN"
@@ -193099,14 +193031,6 @@
       "url": "https://doi.org/10.1038/s41598-026-65927-1",
       "countryEvidence": "institution country codes [ET, ET, ET, ET] → ET",
       "citations": 0,
-      "abstract": "Abstract Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb) , remains a leading global health challenge, exacerbated by the limitations of the current Bacillus Calmette–Guérin (BCG) vaccine and the emergence of…",
-      "authors": [
-        "Abebe Tesfaye Gessese",
-        "Mebrie Zemene Kinde",
-        "Tegegne Eshetu",
-        "Tekeba Sisay"
-      ],
-      "venue": "Scientific Reports",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of gondar",
       "relevanceScore": 0.6
@@ -193123,16 +193047,6 @@
       "url": "https://doi.org/10.1111/ejh.70290",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT] → IT",
       "citations": 0,
-      "abstract": "The authors declare no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analyzed during the current study. Figure S1: From graft-versus-leukemia immunity to engineered hematopoietic…",
-      "authors": [
-        "Fortunato Morabito",
-        "Enrica Antonia Martino",
-        "Antonella Bruzzese",
-        "Nicola Amodio",
-        "Ernesto Vigna",
-        "Massimo Gentile"
-      ],
-      "venue": "European Journal Of Haematology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "azienda ospedaliera di cosenza",
       "relevanceScore": 0.6
@@ -193149,16 +193063,6 @@
       "url": "https://doi.org/10.1186/s12864-026-13239-z",
       "countryEvidence": "institution country codes [RU, RU, IT, CH, CH, RU, IT, CH, RU, RU, IT, CH] → RU",
       "citations": 0,
-      "abstract": "Abstract Background Accurate species-level identification of bacteria in complex environmental samples is essential for applications in biotechnology, ecological monitoring, and clinical diagnostics. Short-read platforms such as Illumina…",
-      "authors": [
-        "Ida Romano",
-        "Edoardo Pasolli",
-        "Jean‐Claude Walser",
-        "Valeria Ventorino",
-        "Sonja Reinhard",
-        "Giuseppina Magaraci"
-      ],
-      "venue": "BMC Genomics",
       "collaboratingCountries": [
         "CH",
         "IT",
@@ -193180,16 +193084,6 @@
       "url": "https://doi.org/10.1002/adhm.71513",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT Fibrosis remains a major challenge in wound repair due to the dual role of fibroblast in tissue regeneration and fibrotic deposition. Early fibroblast activation supports wound closure, whereas sustained activation during…",
-      "authors": [
-        "Shuangli Zhu",
-        "Qiuyue Ma",
-        "Ayang Zhao",
-        "Yuhui Lu",
-        "Yilei Lu",
-        "Xinghui Si"
-      ],
-      "venue": "Advanced Healthcare Materials",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "harbin institute of technology",
       "relevanceScore": 0.6
@@ -193206,16 +193100,6 @@
       "url": "https://doi.org/10.1021/cbe.6c00032",
       "countryEvidence": "institution country codes [CN, KR, CN, CN, US, CN, CN, CN, CN, CN, CN, CN, KR, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Abstract 3′-O-amino-deoxyribonucleoside triphosphates (3′-ONH2-dNTPs) are crucial reversible terminators for template-independent DNA synthesis. Owing to the structural complexity of purine bases, here we propose a chemo-enzymatic process…",
-      "authors": [
-        "Qin He",
-        "Shuai Cheng",
-        "Jianqing Yue",
-        "Shu Zong",
-        "Congyu Li",
-        "Xuerong Qi"
-      ],
-      "venue": "Chem & Bio Engineering",
       "collaboratingCountries": [
         "CN",
         "KR",
@@ -193237,16 +193121,6 @@
       "url": "https://doi.org/10.1094/phytofr-02-26-0019-a",
       "countryEvidence": "institution country codes [BR, BR, BR, BR, BR, BR] → BR",
       "citations": 0,
-      "abstract": "Here, we present the first complete chromosome-scale genome assembly of a Brazilian Cunninghamella blakesleeana strain UFAC-CB2.1. We combined Nanopore long reads with high-quality Illumina paired-end reads to produce a final assembly…",
-      "authors": [
-        "THALYA RODRIGUES",
-        "Pedro Fernando Vilanova",
-        "Maria Juliana Calderan‐Rodrigues",
-        "Clarice Maia Carvalho",
-        "Cláudia Barros Monteiro-Vitorello",
-        "Leila Priscila Peters"
-      ],
-      "venue": "PhytoFrontiers™",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "universidade federal do acre",
       "relevanceScore": 0.6
@@ -193263,12 +193137,6 @@
       "url": "https://doi.org/10.1016/j.jpba.2026.117696",
       "countryEvidence": "institution country codes [US, US, US] → US",
       "citations": 0,
-      "authors": [
-        "Hermes Licea‐Perez",
-        "Kasie Fang",
-        "Kevin Colizza"
-      ],
-      "venue": "Journal of Pharmaceutical and Biomedical Analysis",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "glaxosmithkline united states",
       "relevanceScore": 0.6
@@ -193285,16 +193153,6 @@
       "url": "https://doi.org/10.1021/acssensors.6c01536",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, GB, CN] → CN",
       "citations": 0,
-      "abstract": "Reliable electrochemical sensing can be hindered by environmental variability such as pH fluctuations, ionic strength, and nonspecific adsorption, which compromise signal fidelity and quantitative accuracy. Here, we present a dual-stage…",
-      "authors": [
-        "Wenjun He",
-        "Jihong Sun",
-        "Mark Leach",
-        "Zhenzhen Jiang",
-        "Jiafeng Zhou",
-        "Pengfei Song"
-      ],
-      "venue": "ACS Sensors",
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -193315,16 +193173,6 @@
       "url": "https://doi.org/10.1002/adfm.202527407",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, SG, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT Plasma DNA analysis remains a pivotal noninvasive approach for cancer diagnosis; however, the low abundance and rapid degradation of circulating tumor DNA (ctDNA) present significant challenges for sample preservation and…",
-      "authors": [
-        "Qiangting Zheng",
-        "Yi Gu",
-        "Xinglei Su",
-        "Hongyu Shen",
-        "Fengyang Zhao",
-        "Yi Zhang"
-      ],
-      "venue": "Advanced Functional Materials",
       "collaboratingCountries": [
         "CN",
         "SG"
@@ -193345,14 +193193,6 @@
       "url": "https://doi.org/10.1016/j.colsurfb.2026.116064",
       "countryEvidence": "institution country codes [MO, CN, MO, CN, CN, MO] → MO",
       "citations": 0,
-      "authors": [
-        "Guizhen Li",
-        "Haoran Zeng",
-        "Shiying Li",
-        "Liwei Guo",
-        "Wenwei Zhong"
-      ],
-      "venue": "Colloids and Surfaces B Biointerfaces",
       "collaboratingCountries": [
         "CN",
         "MO"
@@ -193373,12 +193213,6 @@
       "url": "https://doi.org/10.1177/03008916261473076",
       "countryEvidence": "institution country codes [IT, IT, IT, IT] → IT",
       "citations": 0,
-      "abstract": "The increasing complexity of precision medicine has highlighted the limitations of traditional randomized clinical trials (RCTs) when applied to highly stratified populations and biologically heterogeneous diseases. In this context, master…",
-      "authors": [
-        "Matteo Janni",
-        "Celeste Cagnazzo"
-      ],
-      "venue": "Tumori Journal",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "ospedale sant anna",
       "relevanceScore": 0.6
@@ -193395,13 +193229,6 @@
       "url": "https://doi.org/10.1016/j.compbiolchem.2026.109316",
       "countryEvidence": "institution country codes [IR, IR, IR, IR] → IR",
       "citations": 0,
-      "authors": [
-        "Mohammad-Matin Karbalaee-Alinazari",
-        "Ava Hashempour",
-        "Fatemeh Hassanzadeh",
-        "Zahra Hassanzadeh"
-      ],
-      "venue": "Computational Biology and Chemistry",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "shiraz university of medical sciences",
       "relevanceScore": 0.6
@@ -193418,16 +193245,6 @@
       "url": "https://doi.org/10.1186/s12859-026-06568-z",
       "countryEvidence": "institution country codes [CN, US, CN, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Hybridization is a pivotal evolutionary process that shapes speciation and genetic diversity across the tree of life. Traditional methods for hybridization inference rely on site-pattern summary statistics and lack the ability to capture…",
-      "authors": [
-        "Xinzheng Du",
-        "Lin Tang",
-        "Tao Li",
-        "Zhihan Zhang",
-        "Wei Wang",
-        "Ruimin Wang"
-      ],
-      "venue": "BMC Bioinformatics",
       "collaboratingCountries": [
         "CN",
         "US"
@@ -193448,14 +193265,6 @@
       "url": "https://doi.org/10.1016/j.mineng.2026.110746",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Jianyong He",
-        "Linfeng Xu",
-        "Shan Li",
-        "Li Wang",
-        "Zhiyong Gao"
-      ],
-      "venue": "Minerals Engineering",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "zhengzhou university",
       "relevanceScore": 0.6
@@ -193472,16 +193281,6 @@
       "url": "https://doi.org/10.1002/cbic.70496",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Actinoplanes teichomyceticus is a well‐established producer of bioactive secondary metabolites, including the glycopeptide antibiotic teicoplanin. Although its antibiotic biosynthetic capacity has been extensively investigated, its…",
-      "authors": [
-        "Abiodun S. Oyedele",
-        "Somnath Jana",
-        "KyuOk Jeon",
-        "Navin Vazrala",
-        "Donald F. Stec",
-        "Kwangho Kim"
-      ],
-      "venue": "ChemBioChem",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "vanderbilt university",
       "relevanceScore": 0.6
@@ -193498,14 +193297,6 @@
       "url": "https://doi.org/10.1002/cbic.70499",
       "countryEvidence": "institution country codes [FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR] → FR",
       "citations": 0,
-      "abstract": "Using a set of spectroscopic experiments, we investigated the binding of Cu 2+ and Cu + to a comprehensive series of nucleic acid‐related molecules, ranging from individual nucleobases to oligonucleotides up to six nucleotides in length.…",
-      "authors": [
-        "Joana Pereira",
-        "Mathilde Brachet",
-        "Philippe Barthélémy",
-        "Bruno Aliès"
-      ],
-      "venue": "ChemBioChem",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "centre national de la recherche scientifique",
       "relevanceScore": 0.6
@@ -193522,14 +193313,6 @@
       "url": "https://doi.org/10.1002/ejoc.70741",
       "countryEvidence": "institution country codes [PL, AT, AT, PL] → PL",
       "citations": 0,
-      "abstract": "Artificial photo‐biocatalytic cascades offer an attractive platform for the sustainable and selective synthesis of high‐value chiral molecules. Here, we report a sequential one‐pot/two‐step cascade that integrates metal‐free photoredox…",
-      "authors": [
-        "Natalia Antos",
-        "Tamara Reiter",
-        "Wolfgang Kroutil",
-        "Paweł Borowiecki"
-      ],
-      "venue": "European Journal of Organic Chemistry",
       "collaboratingCountries": [
         "AT",
         "PL"
@@ -193550,7 +193333,6 @@
       "url": "https://doi.org/10.1038/s41404-026-3638-4",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "venue": "BDJ In Practice",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "relevanceScore": 0.6
     },
@@ -193566,16 +193348,6 @@
       "url": "https://doi.org/10.1016/j.ejca.2026.116980",
       "countryEvidence": "institution country codes [ES, ES, ES, ES, ES, ES, ES, ES, ES, ES, ES, ES] → ES",
       "citations": 0,
-      "abstract": "BACKGROUND: Colorectal cancer is the third most common malignancy worldwide. Although current screening relies on faecal occult blood testing (FOBT), its sensitivity for advanced adenomas (key precursor lesions) remains limited. Indeed,…",
-      "authors": [
-        "Alejandro G. del Hierro",
-        "Sandra Izquierdo",
-        "Carolina G. de Castro",
-        "Ángel De Prado",
-        "Aida-Fiz López",
-        "Álvaro Martín‐Muñoz"
-      ],
-      "venue": "European Journal of Cancer",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "instituto de biomedicina y genética molecular de valladolid",
       "relevanceScore": 0.6
@@ -193592,13 +193364,6 @@
       "url": "https://doi.org/10.1021/acs.jcim.6c01596",
       "countryEvidence": "institution country codes [US, US, US] → US",
       "citations": 0,
-      "abstract": "Predicting biologically relevant protein-protein interactions remains a major challenge in structural biology. Here, we present ProtLID2.0, a residue-specific pharmacophore framework that generates coordinate-based interaction preferences…",
-      "authors": [
-        "Steven Grudman",
-        "Christopher B. McClain",
-        "András Fiser"
-      ],
-      "venue": "Journal of Chemical Information and Modeling",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "albert einstein college of medicine",
       "relevanceScore": 0.6
@@ -193615,13 +193380,6 @@
       "url": "https://doi.org/10.1038/s41598-026-66223-8",
       "countryEvidence": "institution country codes [IR, IR, IR] → IR",
       "citations": 0,
-      "abstract": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) plays a central role in cholesterol homeostasis by promoting the degradation of low-density lipoprotein receptors (LDLR), making it an attractive therapeutic target for cardiovascular…",
-      "authors": [
-        "Behnaz Horri",
-        "Hassan Behnejad",
-        "Jahan B. Ghasemi"
-      ],
-      "venue": "Scientific Reports",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of tehran",
       "relevanceScore": 0.6
@@ -193638,16 +193396,6 @@
       "url": "https://doi.org/10.1002/imo2.70130",
       "countryEvidence": "institution country codes [CN, CN, CN, US, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Long-read metagenomics links variants, repeats, and mobile elements across individual molecules and can reveal lineage turnover that is obscured at the species level. The strength of the resulting inference, however, depends on the type…",
-      "authors": [
-        "Yanhua Han",
-        "Yunjuan Peng",
-        "Minghui Li",
-        "Xiaoyuan Wei",
-        "Jianmin Chai",
-        "Jiangchao Zhao"
-      ],
-      "venue": "iMetaOmics.",
       "collaboratingCountries": [
         "CN",
         "US"
@@ -193668,12 +193416,6 @@
       "url": "https://doi.org/10.1016/j.yrtph.2026.106217",
       "countryEvidence": "institution country codes [JP, JP, JP] → JP",
       "citations": 0,
-      "authors": [
-        "Ryota Kobayashi",
-        "Ryoko Matsuyama",
-        "Hiroyuki Asano"
-      ],
-      "venue": "Regulatory Toxicology and Pharmacology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "sumitomo chemical japan",
       "relevanceScore": 0.6
@@ -193690,12 +193432,6 @@
       "url": "https://doi.org/10.37349/etat.2026.1002396",
       "countryEvidence": "institution country codes [TR, SE] → TR",
       "citations": 0,
-      "abstract": "Primary bone sarcomas are rare and biologically heterogeneous malignancies for which therapeutic progress remains limited, particularly in metastatic and recurrent disease. Advances in genomic and molecular profiling have revealed…",
-      "authors": [
-        "Sude Yarar",
-        "Panagiotis Tsagozis"
-      ],
-      "venue": "Exploration of Targeted Anti-tumor Therapy",
       "collaboratingCountries": [
         "SE",
         "TR"
@@ -193716,11 +193452,6 @@
       "url": "https://doi.org/10.5281/zenodo.21860380",
       "countryEvidence": "institution country codes [US] → US",
       "citations": 0,
-      "abstract": "Artificial intelligence (AI) has become an effective tool that leverages personal information to deliver faster solutions to complex problems. A revolutionary approach to drug discovery, formulation, and dosage form testing is presented by…",
-      "authors": [
-        "Mediterranean Journal of Pharmacy and Pharmaceutical Sciences"
-      ],
-      "venue": "Mediterranean Journal of pharmacy and Pharmaceutical Sciences",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "american pharmacists association foundation",
       "relevanceScore": 0.6
@@ -193737,15 +193468,6 @@
       "url": "https://doi.org/10.1016/j.compbiolchem.2026.109315",
       "countryEvidence": "institution country codes [EG, EG, EG, EG, DE, EG] → EG",
       "citations": 0,
-      "authors": [
-        "Muhammad I. Ismail",
-        "Mai Adel",
-        "Eman M. E. Dokla",
-        "Samy Mohamady",
-        "Hossam Elgabarty",
-        "Khaled A. M. Abouzid"
-      ],
-      "venue": "Computational Biology and Chemistry",
       "collaboratingCountries": [
         "DE",
         "EG"
@@ -193766,11 +193488,6 @@
       "url": "https://doi.org/10.1111/apt.70913",
       "countryEvidence": "institution country codes [TW, TW, TW] → TW",
       "citations": 1,
-      "authors": [
-        "Li‐Tong Lin",
-        "Cheng‐Hsien Hung"
-      ],
-      "venue": "Alimentary Pharmacology & Therapeutics",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "taichung veterans general hospital",
       "relevanceScore": 0.6
@@ -193787,11 +193504,6 @@
       "url": "https://doi.org/10.1080/87559129.2026.2712604",
       "countryEvidence": "institution country codes [CA, CA] → CA",
       "citations": 0,
-      "authors": [
-        "Yi Fan",
-        "Xianqin Yang"
-      ],
-      "venue": "Food Reviews International",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "agriculture and agri food canada",
       "relevanceScore": 0.6
@@ -193808,15 +193520,6 @@
       "url": "https://doi.org/10.1016/j.archoralbio.2026.106715",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP, JP] → JP",
       "citations": 0,
-      "authors": [
-        "Toru Shibui",
-        "Akihiro Hosoya",
-        "Masami Takahashi",
-        "Shunichi Shibata",
-        "Yuri Seki-Kishimoto",
-        "Hiroaki Takebe"
-      ],
-      "venue": "Archives of Oral Biology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "health sciences university of hokkaido",
       "relevanceScore": 0.6
@@ -193833,16 +193536,6 @@
       "url": "https://doi.org/10.1021/acssensors.6c01689",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, US, CN, CN, CN, CN, CN, CN, CN, CN, CN, US, CN, US, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "CRISPR/Cas12a has emerged as a powerful tool for nucleic acid detection; however, its clinical utility is severely hampered by intrinsic limitations in single-nucleotide variant (SNV) discrimination, reliance on pre-processed…",
-      "authors": [
-        "Miaojin Zhou",
-        "Kun Du",
-        "Mingjun Jiang",
-        "Xin Xu",
-        "Xinran Su",
-        "Yixi Xie"
-      ],
-      "venue": "ACS Sensors",
       "collaboratingCountries": [
         "CN",
         "US"
@@ -193863,15 +193556,6 @@
       "url": "https://doi.org/10.1186/s12859-026-06579-w",
       "countryEvidence": "institution country codes [NG, GB, NG, NG, NG, NG] → NG",
       "citations": 0,
-      "abstract": "The emergence and re-emergence of viral pathogens with pandemic potential necessitate robust computational frameworks capable of interpreting sequence variation in evolutionary and functional contexts. Lassa virus (LASV) and Ebola virus…",
-      "authors": [
-        "Olatunji Matthew Kolawole",
-        "Damilola M. Olayemi",
-        "Damilare I. Taiwo",
-        "Caroline F. Kolawole",
-        "George E. Ejembi"
-      ],
-      "venue": "BMC Bioinformatics",
       "collaboratingCountries": [
         "GB",
         "NG"
@@ -193892,12 +193576,6 @@
       "url": "https://doi.org/10.1038/s41598-026-63009-w",
       "countryEvidence": "institution country codes [US, IN, IN] → IN",
       "citations": 0,
-      "abstract": "Mitochondrial genomes (mtDNA) are widely used in insect phylogenetics, yet their reliability for resolving ancient and rapid radiations, such as in Diptera, remains confounded by systematic bias. We analyzed 112 dipteran mitogenomes,…",
-      "authors": [
-        "Debajyoti Kabiraj",
-        "Pulakeswar Basumatary"
-      ],
-      "venue": "Scientific Reports",
       "collaboratingCountries": [
         "IN",
         "US"
@@ -193918,13 +193596,6 @@
       "url": "https://doi.org/10.1016/j.epidem.2026.100941",
       "countryEvidence": "institution country codes [KE, KE, KE] → KE",
       "citations": 0,
-      "abstract": "BACKGROUND: Gains in malaria transmission reduction achieved through insecticide-treated nets (ITNs) are reversing amid emerging artemisinin partial resistance. While sensitive diagnostics are key to monitoring resistant parasite-driven…",
-      "authors": [
-        "Cole O. Andrew",
-        "Odhiambo John",
-        "Gilbert Kokwaro"
-      ],
-      "venue": "Epidemics",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "strathmore university",
       "relevanceScore": 0.6
@@ -193941,15 +193612,6 @@
       "url": "https://doi.org/10.1002/cpt.70427",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "The NAT2 pharmacogene is essential in drug metabolism, particularly for aromatic amines and hydrazines. Genetic variations in NAT2 categorize individuals as rapid, intermediate, or poor metabolizers based on their acetylation capacity to…",
-      "authors": [
-        "Shobana John",
-        "Erin C. Boone",
-        "Byunggil Yoo",
-        "Laura B. Ramsey",
-        "Andrea Gaedigk"
-      ],
-      "venue": "Clinical Pharmacology & Therapeutics",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "children s mercy hospital",
       "relevanceScore": 0.6
@@ -193966,11 +193628,6 @@
       "url": "https://doi.org/10.1016/j.clineuro.2026.109609",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Yusheng Zhu",
-        "Zihan Ye"
-      ],
-      "venue": "Clinical Neurology and Neurosurgery",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "wenzhou medical university",
       "relevanceScore": 0.6
@@ -193987,16 +193644,6 @@
       "url": "https://doi.org/10.1021/acsami.6c10083",
       "countryEvidence": "institution country codes [PL, US, PL, PL, PL, PL, PL, PL, PL] → PL",
       "citations": 0,
-      "abstract": "Targeted and on-demand drug delivery technologies have attracted considerable interest for personalized cancer therapies. In this study, we developed a UV-crosslinkable and thermo-responsive gelatin methacrylate…",
-      "authors": [
-        "Zahra Moazzami Goudarzi",
-        "Sohrab Asgaran",
-        "Magdalena Osial",
-        "Njemuwa Nwaji",
-        "Dorota Kołbuk",
-        "Arkadiusz Gradys"
-      ],
-      "venue": "ACS Applied Materials & Interfaces",
       "collaboratingCountries": [
         "PL",
         "US"
@@ -194017,16 +193664,6 @@
       "url": "https://doi.org/10.1515/pac-2026-0807",
       "countryEvidence": "institution country codes [PK, PK, PK, PK, PK, PK, SA, PK] → PK",
       "citations": 0,
-      "abstract": "Abstract The ongoing prevalence of SARS-CoV-2 variations highlights the urgent need for novel antiviral agents targeting key viral proteins. The papain-like protease (PLpro) is pivotal in viral replication and immune evasion, rendering it…",
-      "authors": [
-        "Rafaqat Hussain",
-        "Hina Sarfraz",
-        "Tahir Ali Chohan",
-        "Uzma Azam",
-        "Umair Khurshid",
-        "Shoaib Khan"
-      ],
-      "venue": "Pure and Applied Chemistry",
       "collaboratingCountries": [
         "PK",
         "SA"
@@ -194047,16 +193684,6 @@
       "url": "https://doi.org/10.3390/microorganisms14081750",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "CRISPR-based assays have shown the potential to enhance the diagnosis of tuberculosis (TB), but evidence remains limited owing to scarce independent validation. We prospectively evaluated a tandem qPCR-CRISPR assay detecting Mycobacterium…",
-      "authors": [
-        "Ying Wang",
-        "Zhe Song",
-        "Jianfeng Zeng",
-        "Yajuan Dong",
-        "Houming Liu",
-        "J X Zeng"
-      ],
-      "venue": "Microorganisms",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national clinical research center for digestive diseases",
       "relevanceScore": 0.6
@@ -194073,16 +193700,6 @@
       "url": "https://doi.org/10.1111/jir.70150",
       "countryEvidence": "institution country codes [NL, FR, NL, NL, NL, NL, NL, NL, NL, NL, NL, FR, NL, NL] → NL",
       "citations": 0,
-      "abstract": "BACKGROUND: Healthcare decision-making for individuals with rare genetic neurodevelopmental disorders associated with intellectual disabilities can be complex and value-laden, in which parents often play a central role. To ensure that…",
-      "authors": [
-        "Mirthe J Klein Haneveld",
-        "Louise Cox",
-        "Petri J.C.M. Embregts",
-        "Alistair Niemeijer",
-        "Martina C. Cornel",
-        "Charlotte M. W. Gaasterland"
-      ],
-      "venue": "Journal of Intellectual Disability Research",
       "collaboratingCountries": [
         "FR",
         "NL"
@@ -194103,16 +193720,6 @@
       "url": "https://doi.org/10.1021/acsnano.6c09188",
       "countryEvidence": "institution country codes [NL, BE, NL, BE, NL, NL, BE, BE, BE, BE, BE, NL, NL, BE] → BE",
       "citations": 0,
-      "abstract": "Membrane proteins are central to cellular function and constitute the majority of drug targets, yet their structural and functional characterization at the single-molecule level requires stabilization within a native-like lipid…",
-      "authors": [
-        "Juliette Gevers",
-        "Koen Martens",
-        "Maarten Fauvart",
-        "Steven Vanuytsel",
-        "Gerard Carrera I Cardona",
-        "Florian Lucas"
-      ],
-      "venue": "ACS Nano",
       "collaboratingCountries": [
         "BE",
         "NL"
@@ -194133,16 +193740,6 @@
       "url": "https://doi.org/10.1002/adhm.71545",
       "countryEvidence": "institution country codes [MO, MO, CN, CN, CN, CN, CN, CN, CN, MO, MO, CN] → CN",
       "citations": 0,
-      "abstract": "Depression is a leading global health burden, yet current pharmacotherapy remains constrained by depression-specific challenges that extend beyond simple blood-brain barrier (BBB) penetration, including delayed onset of action, poor…",
-      "authors": [
-        "Mijia Zhang",
-        "Enyao He",
-        "Youlan Xiong",
-        "Anrui Xiong",
-        "Xin Peng",
-        "Yongzhou Wang"
-      ],
-      "venue": "Advanced Healthcare Materials",
       "collaboratingCountries": [
         "CN",
         "MO"
@@ -194163,16 +193760,6 @@
       "url": "https://doi.org/10.1002/btm2.70170",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Abstract The endoplasmic reticulum (ER) is an indispensable organelle responsible for the synthesis and transport of proteins and membrane lipids, playing a critical role in numerous physiological and pathological processes. Leveraging the…",
-      "authors": [
-        "Chao Sun",
-        "Lici Wang",
-        "Tao Li",
-        "Lei Duan",
-        "Yan Dong",
-        "Ji Li"
-      ],
-      "venue": "Bioengineering & Translational Medicine",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "second hospital of shandong university",
       "relevanceScore": 0.6
@@ -194189,16 +193776,6 @@
       "url": "https://doi.org/10.3390/pharmaceutics18080979",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Breast cancer treatment still faces challenges including local recurrence, systemic toxicity, tumor heterogeneity, drug resistance, and immunosuppression. Conventional systemic administration provides limited exposure at the tumor site and…",
-      "authors": [
-        "Yuhang Jiao",
-        "Huiling Zuo",
-        "Jiaxin Chen",
-        "Shihao Zheng",
-        "Sen Tong",
-        "Xiaoyi Feng"
-      ],
-      "venue": "Pharmaceutics",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "yunnan university of traditional chinese medicine",
       "relevanceScore": 0.6
@@ -194215,11 +193792,6 @@
       "url": "https://doi.org/10.3329/jnujsci.v12i2.90162",
       "countryEvidence": "institution country codes [BD] → BD",
       "citations": 0,
-      "abstract": "Plant bioinformatics has emerged as a cornerstone of modern plant science by enabling the large-scale analysis and interpretation of genomic and post-genomic data for crop improvement. The rapid advancement of high-throughput sequencing…",
-      "authors": [
-        "Anika Tabassum"
-      ],
-      "venue": "Jagannath University Journal of Science",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "jagannath university",
       "relevanceScore": 0.6
@@ -194236,16 +193808,6 @@
       "url": "https://doi.org/10.34172/apb.47309",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Ultrasound (US), known for its non-invasive nature and high tissue penetration, has demonstrated remarkable potential in medical diagnostic imaging and tumor therapy. Nanocarriers, through the use of nanomaterials, has exhibited…",
-      "authors": [
-        "Yaqing Gao",
-        "yixuan wang",
-        "Kexin Meng",
-        "Fengjing Fan",
-        "fei li",
-        "Yongjun Liu"
-      ],
-      "venue": "Advanced Pharmaceutical Bulletin",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "shandong provincial qianfoshan hospital",
       "relevanceScore": 0.6
@@ -194262,11 +193824,6 @@
       "url": "https://doi.org/10.1002/prm2.70047",
       "countryEvidence": "institution country codes [ET] → ET",
       "citations": 0,
-      "abstract": "Abstract The increasing availability of heterogeneous biomedical data, including genomics, transcriptomics, proteomics, metabolomics, medical imaging, electronic health records, digital pathology, and wearable sensor data, has accelerated…",
-      "authors": [
-        "Gedion Mengistu Dejen"
-      ],
-      "venue": "Precision Medical Sciences",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "arba minch university",
       "relevanceScore": 0.6
@@ -194283,16 +193840,6 @@
       "url": "https://doi.org/10.3390/jfb17080393",
       "countryEvidence": "institution country codes [RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO, RO] → RO",
       "citations": 1,
-      "abstract": "Magnetite (Fe3O4) nanoparticles have been explored for biomedical applications. Their surface behavior in physiological-like environments has not been fully established. Fe3O4 nanoparticles obtained by chemical co-precipitation were…",
-      "authors": [
-        "Marian RAŞCOV",
-        "Angela Spoială",
-        "Ludmila Motelică",
-        "Roxana Truşcă",
-        "Cristina Chircov",
-        "Roxana Cristina POPESCU"
-      ],
-      "venue": "Journal of Functional Biomaterials",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "universitatea națională de știință și tehnologie politehnica bucurești",
       "relevanceScore": 0.6
@@ -194309,16 +193856,6 @@
       "url": "https://doi.org/10.3390/v18080869",
       "countryEvidence": "institution country codes [RU, CN, RU, RU, RU, RU, RU, RU, RU, RU, CN] → RU",
       "citations": 0,
-      "abstract": "Pseudomonas aeruginosa poses major public health threats, due to its robust, treatment-resistant biofilms, which contribute to multi-drug resistance. Bacteriophages offer a promising alternative. This study evaluates giant Phikzvirus and…",
-      "authors": [
-        "Yueqi Wang",
-        "Maria Bourkaltseva",
-        "Alexander Burykin",
-        "Sergey Krylov",
-        "Elena Pleteneva",
-        "Victor Krylov"
-      ],
-      "venue": "Viruses",
       "collaboratingCountries": [
         "CN",
         "RU"
@@ -194339,16 +193876,6 @@
       "url": "https://doi.org/10.3390/metabo16080561",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Background/Objectives: Clematis huchouensis Tamura, a genuine medicinal herb endemic to Huzhou, Zhejiang Province. However, its secondary metabolic profile and organ-specific distribution of bioactive constituents remain largely…",
-      "authors": [
-        "Minyan Song",
-        "Yan Yang",
-        "Guoping Ni",
-        "Yan Zhang",
-        "Yiming Zhang",
-        "Lixia Zhou"
-      ],
-      "venue": "Metabolites",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "huzhou vocational and technical college",
       "relevanceScore": 0.6
@@ -194365,16 +193892,6 @@
       "url": "https://doi.org/10.1002/pro.70721",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "Cryo-electron tomography (cryo-ET) enables structural characterization of biomolecules under near-native conditions. Existing approaches for interpreting the resulting three-dimensional volumes are computationally expensive and have…",
-      "authors": [
-        "Chengxuan Li",
-        "August George",
-        "Reece Neff",
-        "Doo Nam Kim",
-        "Trevor Moser",
-        "Kate Baldwin"
-      ],
-      "venue": "Protein Science",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "pacific northwest national laboratory",
       "relevanceScore": 0.6
@@ -194391,11 +193908,6 @@
       "url": "https://doi.org/10.3390/v18080868",
       "countryEvidence": "institution country codes [TR] → TR",
       "citations": 0,
-      "abstract": "Aquaculture has become the leading source of global aquatic food production, and its continued expansion has been accompanied by an increasing burden of bacterial diseases. Aeromonas spp. are among the most damaging bacterial pathogens in…",
-      "authors": [
-        "İfakat Tulay ÇAĞATAY"
-      ],
-      "venue": "Viruses",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "akdeniz university",
       "relevanceScore": 0.6
@@ -194412,15 +193924,6 @@
       "url": "https://doi.org/10.1111/trf.70364",
       "countryEvidence": "institution country codes [KR, KR, KR, KR, KR, KR, KR, KR] → KR",
       "citations": 0,
-      "abstract": "BACKGROUND: Antibody identification testing is essential for preventing hemolytic transfusion reactions from unexpected red cell antibodies. Although automated interpretation is desirable to improve efficiency and consistency, conventional…",
-      "authors": [
-        "Jiwoo Lee",
-        "Yousun Chung",
-        "Dae‐Hyun Ko",
-        "Eun Young Song",
-        "Hyungsuk Kim"
-      ],
-      "venue": "Transfusion",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "seoul national university",
       "relevanceScore": 0.6
@@ -194437,16 +193940,6 @@
       "url": "https://doi.org/10.1002/hon.70229",
       "countryEvidence": "institution country codes [RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU] → RU",
       "citations": 0,
-      "abstract": "The role of allogeneic hematopoietic cell transplantation (alloSCT) in chronic lymphocytic leukemia (CLL) has decreased in recent years due to the emergence of new effective targeted agents for the treatment of this disease. However, for a…",
-      "authors": [
-        "N. Mikhailova",
-        "Maria Kislova",
-        "Maria Ivanova",
-        "Julia A. Zhuravleva",
-        "Е. А. Дмитриева",
-        "Elena Kondakova"
-      ],
-      "venue": "Hematological Oncology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "first pavlov state medical university of st petersburg",
       "relevanceScore": 0.6
@@ -194463,16 +193956,6 @@
       "url": "https://doi.org/10.3390/cimb48080805",
       "countryEvidence": "institution country codes [PL, PL, PL, PL, PL, PL] → PL",
       "citations": 0,
-      "abstract": "Accurate measurement of messenger RNA (mRNA) concentration and encapsulation efficiency remains a challenging task during mRNA-lipid nanoparticle (LNP) formulation development and quality control. RiboGreen-based fluorescence assays are…",
-      "authors": [
-        "Agnieszka Klusek",
-        "Kamil Adasiewicz",
-        "Andżelika Bystrzejewska",
-        "Piotr J. Rudzki",
-        "Maciej Wieczorek",
-        "Ewelina Juszczyk"
-      ],
-      "venue": "Current Issues in Molecular Biology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "celon pharma poland",
       "relevanceScore": 0.6
@@ -194489,14 +193972,6 @@
       "url": "https://doi.org/10.1002/btm2.70167",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Cardiovascular diseases remain the leading cause of global mortality, yet traditional preclinical models fail to accurately capture the physiological and genetic complexity of the human heart, hindering the development of targeted…",
-      "authors": [
-        "Rongfang Xie",
-        "Haiyang Zhao",
-        "Yuqing Lei",
-        "Xinrui Wang"
-      ],
-      "venue": "Bioengineering & Translational Medicine",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "fujian medical university",
       "relevanceScore": 0.6
@@ -194513,15 +193988,6 @@
       "url": "https://doi.org/10.1111/vcp.70137",
       "countryEvidence": "institution country codes [GB, GB, GB, GB] → GB",
       "citations": 0,
-      "abstract": "BACKGROUND: Progressive feline leukemia virus (FeLV) infection and anemia of suspected immune-mediated origin (ASIMO) are associated with similar hematologic abnormalities, including anemia, neutropenia, and lymphocytosis. Cats with ASIMO…",
-      "authors": [
-        "Nancy Kelly",
-        "Katie McCallum",
-        "Will Bayton",
-        "Tyler Willard",
-        "Cassia Hare"
-      ],
-      "venue": "Veterinary Clinical Pathology",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of cambridge",
       "relevanceScore": 0.6
@@ -194538,12 +194004,6 @@
       "url": "https://doi.org/10.48022/mbl.2605.05014",
       "countryEvidence": "institution country codes [KR, KR] → KR",
       "citations": 0,
-      "abstract": "Species of the genus Vibrio are marine bacteria characterized by rapid growth and high metabolic flexibility [1].Among them, Vibrio diazotrophicus, first described in 1982, is a Gram-negative marine non-cyanobacterial diazotroph capable of…",
-      "authors": [
-        "Hyeok Ju Yang",
-        "Young Jin Ko"
-      ],
-      "venue": "Microbiology and Biotechnology Letters",
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "jeju national university",
       "relevanceScore": 0.6
@@ -194560,16 +194020,6 @@
       "url": "https://doi.org/10.1093/infdis/jiag413",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, SG, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "BACKGROUND: Activation of the host immune system is a promising strategy for treating hepatitis B (HBV). The stimulator of interferon genes (STING) signaling pathway acts as an innate immune sensor for viral DNA. We aimed to determine…",
-      "authors": [
-        "Mingyuan Zhang",
-        "Xiaomei Wang",
-        "Hongqin Xu",
-        "Hao Meng",
-        "Jie Zhou",
-        "Xiaoyu Wen"
-      ],
-      "venue": "The Journal of Infectious Diseases",
       "collaboratingCountries": [
         "CN",
         "SG"
@@ -194590,16 +194040,6 @@
       "url": "https://doi.org/10.32634/0869-8155-2026-408-07-82-89",
       "countryEvidence": "institution country codes [FR, RU, FR, RU, FR, RU, FR, FR, FR] → FR",
       "citations": 0,
-      "abstract": "The results of optimizing somatic cell culture conditions for bovine embryo cloning using the Handmade cloning (HMC) method are presented. We analyzed the effects of culture medium composition, fibroblast passage number and trichostatin A…",
-      "authors": [
-        "А. В. Прохин",
-        "A. B. Kuznetsov",
-        "G.B. Nemkovskiy",
-        "D. S. Shapovalova",
-        "G. A. Kazarin",
-        "A. V. Shunaev"
-      ],
-      "venue": "Agrarian science",
       "collaboratingCountries": [
         "FR",
         "RU"
@@ -270775,11 +270215,6 @@
       "url": "https://openalex.org/W7166601636",
       "countryEvidence": "institution country codes [ZA] → ZA",
       "citations": 0,
-      "abstract": "The problem of antibiotic resistance especially in animal farming has spurred the search for the new antimicrobial agents able to replace the traditional antibiotics. In our study, we measured the bactericidal activity of the extracts of…",
-      "authors": [
-        "Нікіта ЗАДОЯН"
-      ],
-      "venue": "The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Series pedagogy",
       "ingestedAt": "2026-09-02T23:33:46.041Z",
       "orgId": "lyceum college",
       "relevanceScore": 0.6
@@ -301842,15 +301277,6 @@
       "url": "https://doi.org/10.1016/j.jgar.2026.08.005",
       "countryEvidence": "institution country codes [KR, KR, KR, KR, KR, JP] → KR",
       "citations": 0,
-      "abstract": "OBJECTIVES: Carbapenemase-producing Enterobacterales have disseminated globally, largely via highly transmissible plasmids. Their emergence in companion animals is of particular concern, indicating that clinically important…",
-      "authors": [
-        "Jae Young Oh",
-        "Su Min Kwak",
-        "Lan Hee Kim",
-        "Sungpyo Kim",
-        "Sungwoo Bae"
-      ],
-      "venue": "Journal of Global Antimicrobial Resistance",
       "collaboratingCountries": [
         "JP",
         "KR"
@@ -301871,13 +301297,6 @@
       "url": "https://doi.org/10.1093/bib/bbag465",
       "countryEvidence": "institution country codes [BD, CN, BD, CN, BD, CN] → BD",
       "citations": 0,
-      "abstract": "Abstract Spatial transcriptomics (ST) has emerged as a powerful approach for profiling gene expression in spatial tissue context; yet, its quantitative accuracy remains substantially compromised by amplification bias introduced during the…",
-      "authors": [
-        "Yuting Shan",
-        "Yanyan Piao",
-        "Qinyu Ge"
-      ],
-      "venue": "Briefings in Bioinformatics",
       "collaboratingCountries": [
         "BD",
         "CN"
@@ -1218355,6 +1217774,511 @@
       "abstract": "Kos Biotechnology Partners Announces Investment in Fathom Therapeutics to Advance Novel, AI-Driven Drug Discovery Platform PR Newswire",
       "ingestedAt": "2026-11-06T19:23:16.993Z",
       "relevanceScore": 0.7
+    },
+    {
+      "id": "epo-US20260347846",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS AND COMPOSITIONS FOR HYPERCHOLESTEROLEMIA AND RELATED DISORDERS",
+      "org": "Galatea Bio, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347846",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "KATSANIS, Nicholas"
+      ],
+      "classification": "A61K31/712, A61K31/7125, A61P3/06, C12N15/113, C12N2310/14, C12N2310/3125, C12N2310/315, C12N2310/321, C12N2310/322, C12N2310/3231, C12N2320/30",
+      "abstract": "Described are methods directed towards analysis of disease and administering a nucleic acid molecule or a salt thereof configured to hybridize to a PDZK1 sequence to subject.",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "galatea bio",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260345659",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS AND COMPOSITIONS FOR IMPROVING PANCREATIC BETA CELL FUNCTION AND GLUCOSE HOMEOSTASIS",
+      "org": "President and Fellows of Harvard College",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260345659",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kory, Nora",
+        "Kong, Byungsoo"
+      ],
+      "classification": "A61K31/7076, A61P3/10, C12Q1/6876, G01N33/5735, G01N33/68, C12Q2600/158",
+      "abstract": "[0000]    The present invention provides methods for detecting the presence of cellular senescence in a subject, the methods comprising detecting the level of biomarkers solute carrier family 25 member 51 (SLC25A51) and/or nicotinamide…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "president and fellows of harvard college",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347497",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Antibodies and Antigen Binding Fragments Against CD155 Methods of Use Thereof",
+      "org": "Tasrif Pharmaceutical, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347497",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Karim, Aftab S.",
+        "Holgate, Robert",
+        "Hearn, Arron"
+      ],
+      "classification": "A61K35/17, A61K40/11, A61K40/15, A61K40/31, A61K40/4202, A61K47/6849, A61P35/00, C07K16/2803, C07K16/2809, C07K16/2863, C07K16/2881, C07K16/2896, C12N5/0636, C12N5/0646, A61K2039/505, A61K2039/54, A61K2239/13, C07K2317/31, C07K2317/53, C07K2317/565, C07K2317/732, C07K2317/734, C07K2317/76, C12N2510/00",
+      "abstract": "[0000]    A humanized antibody or antigen binding fragment that binds to the poliovirus receptor (PVR) can be utilized in the preparation of antibody drug conjugates (ADCs) to target nucleic acids, peptides and proteins, drugs and…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "tasrif pharmaceutical",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347768",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DISEASE MARKERS OF EARLY AGE-RELATED MACULAR DEGENERATION USING A NOVEL BRUCH'S MEMBRANE MODE",
+      "org": "Vargis Elizabeth",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347768",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Vargis, Elizabeth",
+        "Jones, Justin A.",
+        "Weatherston, Dillon",
+        "Rickabaugh, Emilee"
+      ],
+      "classification": "C12N5/0621, C12N2503/02, C12N2503/04, C12N2533/50",
+      "abstract": "[0000]    The present disclosure highlights the use of the physical properties of αHM to produce compositions for the modeling of disease including AMD. Thus, described herein is compositions and systems comprising αHM and methods of using…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "vargis elizabeth",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347837",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "GENOME-EDITED BIRDS",
+      "org": "The State of Israel, Ministry of Agriculture & Rural Development Agricultural R",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347837",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CINNAMON, Yuval",
+        "BEN-TAL COHEN, Enbal"
+      ],
+      "classification": "C07K14/34, C07K14/4703, C12N15/111, C12N15/85, C12N15/907, C12N9/222, C12N9/6472, C12N2310/20, C12N2830/002, C12Y304/22056",
+      "abstract": "The present disclosure provides DNA editing agents and exogenous polynucleotide cassettes for generating chimeric bird cells and chimeric birds. The polynucleotide cassettes can be used to produce conditionally-lethal phenotype in male…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "the state of israel ministry of agriculture rural development agricultural r",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347936",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS FOR DETERMINING SEPSIS SEVERITY AND TREATING SEPSIS USING DRP1-RELATED GENES",
+      "org": "WANG Ting",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347936",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "WANG, Ting",
+        "BLACK, Stephen",
+        "FENG, Anlin",
+        "POKHAREL, Marissa"
+      ],
+      "classification": "C12Q1/6883, C12Q2600/118, C12Q2600/158",
+      "abstract": "[0000]    The subject invention provides a Drp1-associated gene signature for sepsis prognosis, and also a method of characterizing sepsis survival risk in a subject by a sepsis survival score calculated as a linear combination of gene…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "wang ting",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260344627",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "TRANS-SPLICING METHODS AND COMPOSITIONS FOR GENERATION OF SINGLE SEX OFFSPRING",
+      "org": "LAWLER Joseph Fenton",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260344627",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "LAWLER, Joseph Fenton"
+      ],
+      "classification": "A01K67/0278, C07K14/34, C07K14/415, C12N15/111, C12N15/8509, C12N15/907, C12N9/224, C12N9/226, C12N9/641, C12N9/6427, A01K2217/072, A01K2227/30, C07K2319/85, C12N2310/20, C12N2830/42, C12Y304/21001, C12Y304/21004, C12Y304/22002",
+      "abstract": "[0000]    Described herein are methods and compositions for generating single sex offspring using a trans-splicing approach, which can be enhanced by the use of one or more of a protein intermediary such as an RNA binding framework.…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "lawler joseph fenton",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347835",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ALLELE-SPECIFIC CRISPR gRNAS TARGETING MYH7 TO TREAT CARDIOMYOPATHY",
+      "org": "The J. David Gladstone Institutes, a testamentary trust established under the Will of J. David",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347835",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Dierks, Philip H.",
+        "Simental, Eric Alexander",
+        "Conklin, Bruce"
+      ],
+      "classification": "C12N15/11, C12N15/907, C12N9/226, C12N2310/20, C12N2320/34",
+      "abstract": "[0000]    Provided are guide RNAs, compositions, ribonucleoprotein complexes, expression systems, and methods for allele-specific editing of the MYH7 gene to treat cardiomyopathy. The guide RNAs target common single nucleotide…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "the j david gladstone institutes a testamentary trust established under the will of j david",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347780",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ISOGENIC CARDIAC ORGANOIDS AND METHODS OF MAKING AND USING THE SAME",
+      "org": "Mei Ying",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347780",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Mei, Ying",
+        "Arhontoulis, Dimitrios C.",
+        "Kerr, Charles M.",
+        "Silver, Sophia"
+      ],
+      "classification": "A61K35/34, C12N5/0657, C12N5/0668, C12N5/069, C12N2506/45, C12N2513/00",
+      "abstract": "This invention relates to relates to isogenic three-dimensional (3D) cardiac organoids, such as those comprising four different cardiac cell types that comprise cardiomyocytes (CMs) and nonmyocytes, and methods of making and using the…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "mei ying",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347449",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "NOVEL COMPLEMENT SYSTEM INHIBITING ANTIBODIES",
+      "org": "4D MOLECULAR THERAPEUTICS INC.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347449",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHEN, TIMOTHY TSENG-HUI",
+        "MAROJU, SHILPA",
+        "CALTON, MELISSA",
+        "CROZE, ROXANNE",
+        "KANTARDZHIEVA, ALBENA"
+      ],
+      "classification": "A61K48/005, C07K16/18, C12N15/86, C12N2750/14143",
+      "abstract": "Novel anti-C3 and anti-C5 antibodies capable of modulating complement activity by specifically binding to human complement factor C3, C3a, C3b, and/or C5 are provided. Also described herein are recombinant AAV (rAAV) comprising a variant…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "4d molecular therapeutics",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347882",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPOSITIONS AND METHODS RELATED TO MEGAKARYOCYTE-DERIVED EXTRACELLULAR VESICLES FOR TREATING MYELOPROLIFERATIVE NEOPLASMS",
+      "org": "STRM.bio Incorporated",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347882",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "THON, Jonathan"
+      ],
+      "classification": "A61K48/0033, A61K9/1272, A61P35/00, C12N15/111, C12N15/88, C12N15/907, C12N5/0644, C12N9/22, C12N2310/20, C12N2506/11",
+      "abstract": "[0000]    Disclosed herein are compositions and methods related to treating myeloproliferative diseases or disorders, such as MPN, using megakaryocyte-derived extracellular vesicles, including megakaryocyte-derived extracellular vesicles…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "strm bio incorporated",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260345695",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPOSITION AND METHOD FOR DELIVERING A DRUG ACROSS THE BLOOD-BRAIN BARRIER USING BACTERIAL EXTRACELLULAR VESICLES",
+      "org": "LISCURE BIOSCIENCES CO., LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260345695",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHIN, Hwa Sup"
+      ],
+      "classification": "A61K35/744, A61K9/5184, A61P25/00, A61P25/16, A61P25/28, A61P29/00, C12N15/113, C12N15/88, C12N2310/11, C12N2320/32",
+      "abstract": "Extracellular vesicles derived from a strain, loaded with a drug, are disclosed. The extracellular vesicles are capable of crossing the blood-brain barrier (BBB), and thus can deliver the drug to the whole brain, including deep regions…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "liscure biosciences",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347756",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ENGINEERED BACTERIAL STRAINS WITH MODIFIED SUGAR TRANSPORT FOR BIOPROCESSING APPLICATIONS",
+      "org": "The Trustees of Princeton University",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347756",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Conway, Jonathan",
+        "Tjo, Hansen"
+      ],
+      "classification": "C07K14/195, C12N1/16, C12N1/20, C12N9/14, C12Y306/01003, C12R2001/01, C12R2001/645",
+      "abstract": "A genetically engineered bacterial strain comprising a genome comprising a dis of at least one sugar transporter gene locus, wherein the deletion reduces or eliminates the ability of the strain to utilize at least one sugar substrate for…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "the trustees of princeton university",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347396",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPOSITIONS AND METHODS FOR SUPPRESSION OF ANTI-DRUG ANTIBODIES AND DELIVERY OF PROTEIN DRUGS",
+      "org": "University of Florida Research Foundation, Incorporated",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347396",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Hudalla, Gregory Allan",
+        "Melgar, Lucas"
+      ],
+      "classification": "C07K5/0808, C07K7/06, C12N9/16, C12Y301/03005, A61K38/00, C07K2319/00",
+      "abstract": "Aspects of the application relate to a protein or peptide comprising a charge-complementary peptide and a protease inhibitor (e.g., leupeptin). In some embodiments, the protein or peptide further comprises a therapeutic protein or…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "university of florida research foundation incorporated",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347887",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "C2-C9 FATTY ACIDS IN ETHANOL PRODUCTION",
+      "org": "Zinpro Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347887",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "STARK, PETER A.",
+        "SOCHA, MICHAEL THOMAS",
+        "KENDING, CORY SHAWN"
+      ],
+      "classification": "C12P7/06",
+      "abstract": "[0000]    This disclosure relates to the addition of C2 to C9 fatty acids, salts, or combinations thereof to the yeast fermentation step in ethanol production to increase the yield of ethanol produced. The fermentation step in ethanol…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "zinpro",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347861",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "FREQUENCY MODULATED CONTROL OF OPTOGENETICS AND CELLULAR FUNCTIONS",
+      "org": "University of Southern California",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347861",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "WANG, Yingxiao",
+        "HO, Phuong"
+      ],
+      "classification": "C07K14/43595, C07K14/705, C07K14/70503, C12N15/635",
+      "abstract": "A system for frequency-modulated control of cellular functions in a mammalian cell includes an optogenetic circuit having one or both of a first light-responsive protein interaction module comprising a dimerization system responsive to…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "university of southern california",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347802",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "4,3-alpha- glucanotransferase mutant for modulating product specificity",
+      "org": "Jiangnan University",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347802",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BAI, Yuxiang",
+        "LI, Xiaoxiao",
+        "JIN, Zhengyu",
+        "CHEN, Ying"
+      ],
+      "classification": "C12N9/1051",
+      "abstract": "[0000]    The present disclosure belongs to the technical fields of enzyme engineering and starch modification, and provides a 4,3-alpha-glucanotransferase mutant for modulating product specificity. The method identifies key amino acid…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "jiangnan university",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347867",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Systems and Methods for In-Plant Indigo Biosynthesis via Fusion Enzyme Constructs",
+      "org": "Windham Jonathan Keith",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347867",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Windham, Jonathan Keith"
+      ],
+      "classification": "C12N15/8223, C12N15/8245, C12N15/825, C12N9/0061, C12N9/0073, C12N9/1051, C12N9/2445, C12N9/88, C12Y110/03002, C12Y114/13008, C12Y204/0122, C12Y302/01021, C12Y401/99001, C07K2319/60",
+      "abstract": "The present invention provides a genetically engineered fusion enzyme, Indicase, that enables the in planta biosynthesis of indigo pigment within plant fiber cells. Indicase comprises a β-glucosidase domain from Persicaria tinctoria and a…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "windham jonathan keith",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260345764",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "LARGE-SCALE FLAVIVIRAL VACCINE PRODUCTION AND MANUFACTURE",
+      "org": "Takeda Vaccines, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260345764",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Santangelo, David Joseph",
+        "Livengood, Jill A.",
+        "Lee, Yockann",
+        "Luo, Weiwen"
+      ],
+      "classification": "A61K39/12, A61K2039/5254, A61K2039/70, C12N2770/24134, C12N2770/24151",
+      "abstract": "The present invention provides methods for large-scale flaviviral vaccine production and manufacture. The methods provided herein are specifically contemplated for large-scale production and manufacture of live, attenuated flaviviral…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "takeda vaccines",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260353049",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "REDUNDANT MULTI-SENSOR DETECTION SYSTEM, CARTRIDGE AND SYSTEM FOR ANALYTE IDENTIFICATION",
+      "org": "HUMMER MATTHEW",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260353049",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "HUMMER, MATTHEW",
+        "HUMMER, GREGORY J."
+      ],
+      "classification": "C01B32/194, C09D11/037, C12Q1/04, C12Q1/70, G01N33/483, G01N33/50, G01S19/13, G01S19/39, G08B21/12, H04Q9/00, H04W4/38, B64U10/13, B64U2101/19, B64U2101/55, B64U2201/104, B64U2201/20, C01B2204/32, C01P2002/82, C01P2006/10, C01P2006/12, C01P2006/22, H04Q2209/40, H04Q2209/50",
+      "abstract": "A system, cartridge assembly, and method for detecting an analyte using a plurality of sensors arranged in an array are disclosed. A cartridge includes multiple sensing regions configured to receive portions of a sample, and an instrument…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "hummer matthew",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260345819",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Cyclohexane lipidoids for nucleic acid transfection and use thereof",
+      "org": "USTAV ORGANICKE CHEMIE A BIOCHEMIE AV CR V.V.I.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260345819",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Cigler, Petr",
+        "Grantz Saskova, Klara",
+        "Vanek, Vaclav",
+        "Hejdankova, Zuzana",
+        "Loukotova, Lenka",
+        "Svec, Pavel",
+        "Priss, Anastasiia",
+        "Petrezselyova, Silvia"
+      ],
+      "classification": "A61K48/0033, A61K8/42, A61K9/1271, A61K9/5123, C07C233/62, C07C237/10, C07D207/12, C07D311/00, C12N15/88, C07C2601/14",
+      "abstract": "A lipidoid of general formula I,wherein X is selected from —C(═O)NH—, —C(═O)O—, —C(═S)O—, —C(═O)S—, —C(═S)S—, —C(═O)NHNH—, —CH2—, —O—, —OC(═O)—, —S—, —SC(═O)—, —NH—, —NHNH—, —NHC(═O)—, —NHNHC(═O)—, —C≡C—, —CH═CH—, a five-membered…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "ustav organicke chemie a biochemie av cr v v i",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347783",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEM AND METHOD FOR EXTRACTION AND CRYOPRESERVATION OF BONE MARROW",
+      "org": "Ossium Health, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347783",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Woods, Erik J.",
+        "Johnstone, Brian H.",
+        "Gu, Dongsheng",
+        "Sherry, Aubrey Marie",
+        "Musall, Kelsey Gwen",
+        "Woods, John R.",
+        "Hardin, James",
+        "Hooks, Alan"
+      ],
+      "classification": "A01N1/125, A61B17/1611, C12N5/0663, A61B2017/00831",
+      "abstract": "[0000]    Methods are provided for extracting bone marrow cells from bone obtained from deceased donors, for preparing the bone marrow for cryopreservation and for obtaining desired cells from cryopreserved and fresh bone marrow.",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "ossium health",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260347919",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Hybrid Algorithmic-Quantum Logic Framework for Multilayer Biomarker Analysis and Diagnostic Indexing Using HAQ Diagnostic Index",
+      "org": "Chhalliyil Pradheep",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260347919",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Chhalliyil, Pradheep"
+      ],
+      "classification": "C12Q1/6851, G01N33/5308, G01N2800/50, G01N2800/52",
+      "abstract": "[0000]    A multilayer diagnostic system is disclosed for early detection of disease risk, molecular imbalance, and physiological stress using non-invasive and minimally invasive sampling of multiple biofluids, including but not limited to…",
+      "ingestedAt": "2026-11-07T01:10:27.060Z",
+      "orgId": "chhalliyil pradheep",
+      "relevanceScore": 0.85
     }
   ],
   "trend": [
@@ -1223207,6 +1223131,80 @@
       "fundingUsd": 0,
       "totalEntries": 49366,
       "windowCap": 600
+    },
+    {
+      "date": "2026-11-07",
+      "counts": {
+        "ID": 4,
+        "IL": 6,
+        "CN": 141,
+        "PT": 2,
+        "DE": 17,
+        "US": 86,
+        "NO": 3,
+        "GB": 16,
+        "JP": 17,
+        "CA": 6,
+        "DK": 5,
+        "AU": 11,
+        "MA": 2,
+        "FR": 5,
+        "PR": 1,
+        "PL": 6,
+        "ZA": 3,
+        "PK": 7,
+        "IR": 12,
+        "AT": 5,
+        "HK": 4,
+        "BE": 3,
+        "VN": 7,
+        "BR": 11,
+        "IN": 28,
+        "SE": 4,
+        "EG": 4,
+        "RU": 9,
+        "KR": 10,
+        "TN": 1,
+        "ES": 5,
+        "TH": 4,
+        "RO": 4,
+        "UA": 1,
+        "IT": 13,
+        "TR": 6,
+        "UZ": 1,
+        "NL": 2,
+        "BD": 1,
+        "LK": 2,
+        "AR": 2,
+        "IQ": 1,
+        "CH": 4,
+        "NE": 1,
+        "SA": 4,
+        "JO": 1,
+        "CZ": 1,
+        "SG": 1,
+        "FI": 3,
+        "HR": 1,
+        "TW": 1,
+        "IE": 1,
+        "MY": 2,
+        "CM": 1,
+        "GR": 1,
+        "CL": 1,
+        "KE": 1,
+        "KZ": 1,
+        "NG": 2,
+        "LT": 2
+      },
+      "stageCounts": {
+        "innovation": 9914,
+        "scaling": 6,
+        "adoption": 2,
+        "investment": 59
+      },
+      "fundingUsd": 0,
+      "totalEntries": 49389,
+      "windowCap": 600
     }
   ],
   "notes": [
@@ -1223242,7 +1223240,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -1223258,10 +1223256,6 @@
       "key": "arxiv-fallback",
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
-        {
-          "date": "2026-09-23",
-          "outcome": "not-attempted"
-        },
         {
           "date": "2026-09-24",
           "outcome": "not-attempted"
@@ -1223437,12 +1223431,16 @@
         {
           "date": "2026-11-06",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -1223451,7 +1223449,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -1223460,7 +1223458,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -1223469,7 +1223467,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -1223496,10 +1223494,6 @@
       "lastRunOutcome": "failed",
       "recentMisses": [
         {
-          "date": "2026-09-22",
-          "outcome": "failed"
-        },
-        {
           "date": "2026-09-23",
           "outcome": "failed"
         },
@@ -1223674,12 +1223668,16 @@
         {
           "date": "2026-11-06",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -1223688,7 +1223686,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -1223703,7 +1223701,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -1223712,7 +1223710,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -1223721,7 +1223719,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -1223730,7 +1223728,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -1223746,10 +1223744,6 @@
       "key": "pitchbook-transactions",
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
-        {
-          "date": "2026-09-23",
-          "outcome": "not-attempted"
-        },
         {
           "date": "2026-09-24",
           "outcome": "not-attempted"
@@ -1223925,12 +1223919,16 @@
         {
           "date": "2026-11-06",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-06T19:23:16.993Z",
+      "lastSuccessfulPull": "2026-11-07T01:10:27.060Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -1223943,490 +1223941,490 @@
       "symbol": "CRSP",
       "name": "CRISPR Therapeutics AG",
       "marketCapUsd": 4710359479.280001,
-      "asOf": "2026-11-06T19:04:40.507Z",
+      "asOf": "2026-11-07T00:51:51.495Z",
       "url": "https://www.crisprtx.com"
     },
     {
       "symbol": "NTLA",
       "name": "Intellia Therapeutics, Inc",
       "marketCapUsd": 1555406292.3,
-      "asOf": "2026-11-06T19:04:55.742Z",
+      "asOf": "2026-11-07T00:52:06.674Z",
       "url": "https://www.intelliatx.com"
     },
     {
       "symbol": "BEAM",
       "name": "Beam Therapeutics Inc. Common Stock",
       "marketCapUsd": 2677432310.28,
-      "asOf": "2026-11-06T19:05:10.980Z",
+      "asOf": "2026-11-07T00:52:21.827Z",
       "url": "https://www.beamtx.com"
     },
     {
       "symbol": "EDIT",
       "name": "Editas Medicine, Inc. Common Stock",
       "marketCapUsd": 391629089.25,
-      "asOf": "2026-11-06T19:05:26.279Z",
+      "asOf": "2026-11-07T00:52:36.985Z",
       "url": "https://www.editasmedicine.com"
     },
     {
       "symbol": "CRBU",
       "name": "Caribou Biosciences, Inc. Common Stock",
       "marketCapUsd": 44201657.6099,
-      "asOf": "2026-11-06T19:05:41.521Z",
+      "asOf": "2026-11-07T00:52:52.217Z",
       "url": "https://www.cariboubio.com"
     },
     {
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics,, Inc. Common Stock",
       "marketCapUsd": 1855866758.97,
-      "asOf": "2026-11-06T19:05:56.760Z",
+      "asOf": "2026-11-07T00:53:07.406Z",
       "url": "https://www.sarepta.com"
     },
     {
       "symbol": "RARE",
       "name": "Ultragenyx Pharmaceutical Inc.",
       "marketCapUsd": 1586957738.76,
-      "asOf": "2026-11-06T19:06:11.996Z",
+      "asOf": "2026-11-07T00:53:22.615Z",
       "url": "https://www.ultragenyx.com"
     },
     {
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc. Common Stock",
       "marketCapUsd": 8897449968,
-      "asOf": "2026-11-06T19:06:27.279Z",
+      "asOf": "2026-11-07T00:53:37.764Z",
       "url": "https://www.krystalbio.com"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "marketCapUsd": 20982660656.16,
-      "asOf": "2026-11-06T19:06:42.525Z",
+      "asOf": "2026-11-07T00:53:52.933Z",
       "url": "https://www.alnylam.com"
     },
     {
       "symbol": "IONS",
       "name": "Ionis Pharmaceuticals, Inc. Common Stock",
       "marketCapUsd": 6447951693.599999,
-      "asOf": "2026-11-06T19:06:57.736Z",
+      "asOf": "2026-11-07T00:54:08.070Z",
       "url": "https://www.ionis.com"
     },
     {
       "symbol": "ARWR",
       "name": "Arrowhead Research Corporation",
       "marketCapUsd": 8116481673.82,
-      "asOf": "2026-11-06T19:07:12.960Z",
+      "asOf": "2026-11-07T00:54:23.274Z",
       "url": "https://www.arrowheadpharma.com"
     },
     {
       "symbol": "RNA",
       "name": "Atrium Therapeutics, Inc. Common Stock",
       "marketCapUsd": 142318949.76,
-      "asOf": "2026-11-06T19:07:28.228Z",
+      "asOf": "2026-11-07T00:54:38.424Z",
       "url": "https://www.aviditybiosciences.com"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "marketCapUsd": 96399497757.94,
-      "asOf": "2026-11-06T19:07:43.497Z",
+      "asOf": "2026-11-07T00:54:53.572Z",
       "url": "https://www.modernatx.com"
     },
     {
       "symbol": "BNTX",
       "name": "BioNTech SE American Depositary Share",
       "marketCapUsd": 21287113534.8,
-      "asOf": "2026-11-06T19:07:58.731Z",
+      "asOf": "2026-11-07T00:55:08.710Z",
       "url": "https://www.biontech.de"
     },
     {
       "symbol": "NVAX",
       "name": "Novavax Inc",
       "marketCapUsd": 1613169200.28,
-      "asOf": "2026-11-06T19:08:13.938Z",
+      "asOf": "2026-11-07T00:55:23.883Z",
       "url": "https://www.novavax.com"
     },
     {
       "symbol": "LEGN",
       "name": "Legend Biotech Corporation American Depositary Shares",
       "marketCapUsd": 4383768829.0199995,
-      "asOf": "2026-11-06T19:08:29.205Z",
+      "asOf": "2026-11-07T00:55:39.024Z",
       "url": "https://www.legendbiotech.com"
     },
     {
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc. Common Stock",
       "marketCapUsd": 3505998883.6800003,
-      "asOf": "2026-11-06T19:08:44.476Z",
+      "asOf": "2026-11-07T00:55:54.178Z",
       "url": "https://www.iovance.com"
     },
     {
       "symbol": "ALLO",
       "name": "Allogene Therapeutics, Inc. Common Stock",
       "marketCapUsd": 376585060.29,
-      "asOf": "2026-11-06T19:08:59.684Z",
+      "asOf": "2026-11-07T00:56:09.351Z",
       "url": "https://www.allogene.com"
     },
     {
       "symbol": "SANA",
       "name": "Sana Biotechnology, Inc. Common Stock",
       "marketCapUsd": 700503890.5799999,
-      "asOf": "2026-11-06T19:09:14.954Z",
+      "asOf": "2026-11-07T00:56:24.535Z",
       "url": "https://www.sana.com"
     },
     {
       "symbol": "FATE",
       "name": "Fate Therapeutics, Inc.",
       "marketCapUsd": 221667950.9,
-      "asOf": "2026-11-06T19:09:30.220Z",
+      "asOf": "2026-11-07T00:56:39.707Z",
       "url": "https://www.fatetherapeutics.com"
     },
     {
       "symbol": "VCEL",
       "name": "Vericel Corporation",
       "marketCapUsd": 2651478472.92,
-      "asOf": "2026-11-06T19:09:45.455Z",
+      "asOf": "2026-11-07T00:56:54.888Z",
       "url": "https://www.vcel.com"
     },
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
       "marketCapUsd": 93403071891.09999,
-      "asOf": "2026-11-06T19:10:00.666Z",
+      "asOf": "2026-11-07T00:57:10.034Z",
       "url": "https://www.regeneron.com"
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals Inc",
       "marketCapUsd": 137544188145,
-      "asOf": "2026-11-06T19:10:15.941Z",
+      "asOf": "2026-11-07T00:57:25.167Z",
       "url": "https://www.vrtx.com"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "marketCapUsd": 248970740617.19998,
-      "asOf": "2026-11-06T19:10:31.176Z",
+      "asOf": "2026-11-07T00:57:40.319Z",
       "url": "https://www.amgen.com"
     },
     {
       "symbol": "GILD",
       "name": "Gilead Sciences Inc",
       "marketCapUsd": 207843541547.97998,
-      "asOf": "2026-11-06T19:10:46.414Z",
+      "asOf": "2026-11-07T00:57:55.475Z",
       "url": "https://www.gilead.com"
     },
     {
       "symbol": "BIIB",
       "name": "Biogen Inc. Common Stock",
       "marketCapUsd": 36057786996.39,
-      "asOf": "2026-11-06T19:11:01.658Z",
+      "asOf": "2026-11-07T00:58:10.601Z",
       "url": "https://www.biogen.com"
     },
     {
       "symbol": "ZLAB",
       "name": "Zai Lab Limited American Depositary Shares",
       "marketCapUsd": 2805679508.6000004,
-      "asOf": "2026-11-06T19:11:16.917Z",
+      "asOf": "2026-11-07T00:58:25.708Z",
       "url": "https://www.zailaboratory.com"
     },
     {
       "symbol": "RXRX",
       "name": "Recursion Pharmaceuticals, Inc. Class A Common Stock",
       "marketCapUsd": 2181787471.5,
-      "asOf": "2026-11-06T19:11:32.148Z",
+      "asOf": "2026-11-07T00:58:40.804Z",
       "url": "https://www.recursion.com"
     },
     {
       "symbol": "SDGR",
       "name": "Schrodinger, Inc. Common Stock",
       "marketCapUsd": 2152157917.56,
-      "asOf": "2026-11-06T19:11:47.381Z",
+      "asOf": "2026-11-07T00:58:55.952Z",
       "url": "https://www.schrodinger.com"
     },
     {
       "symbol": "ABSI",
       "name": "Absci Corporation Common Stock",
       "marketCapUsd": 1611455553.9,
-      "asOf": "2026-11-06T19:12:02.603Z",
+      "asOf": "2026-11-07T00:59:11.063Z",
       "url": "https://www.absci.com"
     },
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc. Class A Common Stock",
       "marketCapUsd": 12846547293.910002,
-      "asOf": "2026-11-06T19:12:17.843Z",
+      "asOf": "2026-11-07T00:59:26.178Z",
       "url": "https://www.tempus.com"
     },
     {
       "symbol": "DNA",
       "name": "Ginkgo Bioworks Holdings, Inc.",
       "marketCapUsd": 670709158.9200001,
-      "asOf": "2026-11-06T19:12:33.053Z",
+      "asOf": "2026-11-07T00:59:41.306Z",
       "url": "https://www.ginkgobioworks.com"
     },
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation Common Stock",
       "marketCapUsd": 7996584596.14,
-      "asOf": "2026-11-06T19:12:48.365Z",
+      "asOf": "2026-11-07T00:59:56.485Z",
       "url": "https://www.twistbioscience.com"
     },
     {
       "symbol": "CDXS",
       "name": "Codexis, Inc.",
       "marketCapUsd": 111695880.3,
-      "asOf": "2026-11-06T19:13:03.604Z",
+      "asOf": "2026-11-07T01:00:11.670Z",
       "url": "https://www.codexis.com"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
       "marketCapUsd": 31449600000,
-      "asOf": "2026-11-06T19:13:18.834Z",
+      "asOf": "2026-11-07T01:00:26.836Z",
       "url": "https://www.illumina.com"
     },
     {
       "symbol": "PACB",
       "name": "Pacific Biosciences of California, Inc.",
       "marketCapUsd": 755318744.37,
-      "asOf": "2026-11-06T19:13:34.067Z",
+      "asOf": "2026-11-07T01:00:41.982Z",
       "url": "https://www.pacb.com"
     },
     {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. Class A Common Stock",
       "marketCapUsd": 7564705214.08,
-      "asOf": "2026-11-06T19:13:49.362Z",
+      "asOf": "2026-11-07T01:00:57.145Z",
       "url": "https://www.10xgenomics.com"
     },
     {
       "symbol": "QTRX",
       "name": "Quanterix Corporation Common Stock",
       "marketCapUsd": 130528859.39999999,
-      "asOf": "2026-11-06T19:14:04.611Z",
+      "asOf": "2026-11-07T01:01:12.328Z",
       "url": "https://www.quanterix.com"
     },
     {
       "symbol": "SEER",
       "name": "Seer, Inc. Class A Common Stock",
       "marketCapUsd": 90256384.44999999,
-      "asOf": "2026-11-06T19:14:19.875Z",
+      "asOf": "2026-11-07T01:01:27.516Z",
       "url": "https://www.seer.bio"
     },
     {
       "symbol": "NAUT",
       "name": "Nautilus Biotechnolgy, Inc. Common Stock",
       "marketCapUsd": 273850713.75,
-      "asOf": "2026-11-06T19:14:35.083Z",
+      "asOf": "2026-11-07T01:01:42.707Z",
       "url": "https://www.nautilus.bio"
     },
     {
       "symbol": "NTRA",
       "name": "Natera, Inc. Common Stock",
       "marketCapUsd": 52433883279.2,
-      "asOf": "2026-11-06T19:14:50.324Z",
+      "asOf": "2026-11-07T01:01:57.874Z",
       "url": "https://www.natera.com"
     },
     {
       "symbol": "GH",
       "name": "Guardant Health, Inc. Common Stock",
       "marketCapUsd": 20589718363.100002,
-      "asOf": "2026-11-06T19:15:05.531Z",
+      "asOf": "2026-11-07T01:02:13.029Z",
       "url": "https://www.guardanthealth.com"
     },
     {
       "symbol": "MYGN",
       "name": "Myriad Genetics Inc",
       "marketCapUsd": 601953000,
-      "asOf": "2026-11-06T19:15:20.797Z",
+      "asOf": "2026-11-07T01:02:28.169Z",
       "url": "https://www.myriad.com"
     },
     {
       "symbol": "QGEN",
       "name": "QIAGEN N.V.",
       "marketCapUsd": 10502413058.06,
-      "asOf": "2026-11-06T19:15:36.080Z",
+      "asOf": "2026-11-07T01:02:43.330Z",
       "url": "https://www.qiagen.com"
     },
     {
       "symbol": "SOPH",
       "name": "SOPHiA GENETICS SA Ordinary Shares",
       "marketCapUsd": 567058085.02,
-      "asOf": "2026-11-06T19:15:51.398Z",
+      "asOf": "2026-11-07T01:02:58.519Z",
       "url": "https://www.sophiagenetics.com"
     },
     {
       "symbol": "GRAL",
       "name": "GRAIL, Inc. Common Stock",
       "marketCapUsd": 5331446214.2699995,
-      "asOf": "2026-11-06T19:16:06.615Z",
+      "asOf": "2026-11-07T01:03:13.693Z",
       "url": "https://www.grail.com"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
       "marketCapUsd": 250817011683.92,
-      "asOf": "2026-11-06T19:16:21.861Z",
+      "asOf": "2026-11-07T01:03:28.970Z",
       "url": "https://www.thermofisher.com"
     },
     {
       "symbol": "DHR",
       "name": "Danaher Corporation",
       "marketCapUsd": 159113863462.36002,
-      "asOf": "2026-11-06T19:16:37.102Z",
+      "asOf": "2026-11-07T01:03:44.107Z",
       "url": "https://www.danaher.com"
     },
     {
       "symbol": "A",
       "name": "Agilent Technologies Inc.",
       "marketCapUsd": 48429738540.12,
-      "asOf": "2026-11-06T19:16:52.340Z",
+      "asOf": "2026-11-07T01:03:59.313Z",
       "url": "https://www.agilent.com"
     },
     {
       "symbol": "RVTY",
       "name": "Revvity, Inc.",
       "marketCapUsd": 16830576862.830002,
-      "asOf": "2026-11-06T19:17:07.621Z",
+      "asOf": "2026-11-07T01:04:14.488Z",
       "url": "https://www.revvity.com"
     },
     {
       "symbol": "BIO",
       "name": "Bio-Rad Laboratories, Inc.Class A",
       "marketCapUsd": 9923496705,
-      "asOf": "2026-11-06T19:17:22.878Z",
+      "asOf": "2026-11-07T01:04:29.634Z",
       "url": "https://www.bio-rad.com"
     },
     {
       "symbol": "WAT",
       "name": "Waters Corp",
       "marketCapUsd": 44514254131.88,
-      "asOf": "2026-11-06T19:17:38.089Z",
+      "asOf": "2026-11-07T01:04:44.779Z",
       "url": "https://www.waters.com"
     },
     {
       "symbol": "BRKR",
       "name": "Bruker Corporation",
       "marketCapUsd": 8845981886.960001,
-      "asOf": "2026-11-06T19:17:53.331Z",
+      "asOf": "2026-11-07T01:04:59.960Z",
       "url": "https://www.bruker.com"
     },
     {
       "symbol": "RGEN",
       "name": "Repligen Corp",
       "marketCapUsd": 10769871378.24,
-      "asOf": "2026-11-06T19:18:08.606Z",
+      "asOf": "2026-11-07T01:05:15.119Z",
       "url": "https://www.repligen.com"
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories International, Inc.",
       "marketCapUsd": 14999125520.339998,
-      "asOf": "2026-11-06T19:18:23.839Z",
+      "asOf": "2026-11-07T01:05:30.276Z",
       "url": "https://www.criver.com"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
       "marketCapUsd": 1215626466156.6301,
-      "asOf": "2026-11-06T19:18:39.046Z",
+      "asOf": "2026-11-07T01:05:45.422Z",
       "url": "https://www.lilly.com"
     },
     {
       "symbol": "PFE",
       "name": "Pfizer Inc.",
       "marketCapUsd": 170311629542.04,
-      "asOf": "2026-11-06T19:18:54.285Z",
+      "asOf": "2026-11-07T01:06:00.607Z",
       "url": "https://www.pfizer.com"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "marketCapUsd": 362243201394.72,
-      "asOf": "2026-11-06T19:19:09.502Z",
+      "asOf": "2026-11-07T01:06:15.768Z",
       "url": "https://www.merck.com"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "marketCapUsd": 655558731637.12,
-      "asOf": "2026-11-06T19:19:24.732Z",
+      "asOf": "2026-11-07T01:06:30.917Z",
       "url": "https://www.jnj.com"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "marketCapUsd": 509497724041.44,
-      "asOf": "2026-11-06T19:19:39.957Z",
+      "asOf": "2026-11-07T01:06:46.104Z",
       "url": "https://www.abbvie.com"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co.",
       "marketCapUsd": 129043138511.03,
-      "asOf": "2026-11-06T19:19:55.199Z",
+      "asOf": "2026-11-07T01:07:01.285Z",
       "url": "https://www.bms.com"
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
       "marketCapUsd": 289788970376.5,
-      "asOf": "2026-11-06T19:20:10.431Z",
+      "asOf": "2026-11-07T01:07:16.445Z",
       "url": "https://www.astrazeneca.com"
     },
     {
       "symbol": "NVS",
       "name": "Novartis AG",
       "marketCapUsd": 305824815013.96,
-      "asOf": "2026-11-06T19:20:25.740Z",
+      "asOf": "2026-11-07T01:07:31.621Z",
       "url": "https://www.novartis.com"
     },
     {
       "symbol": "SNY",
       "name": "Sanofi American Depositary Shares (Each representing one-half of one ordinary share)",
       "marketCapUsd": 112402804026.7,
-      "asOf": "2026-11-06T19:20:40.947Z",
+      "asOf": "2026-11-07T01:07:46.764Z",
       "url": "https://www.sanofi.com"
     },
     {
       "symbol": "GSK",
       "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
       "marketCapUsd": 101045312082.31,
-      "asOf": "2026-11-06T19:20:56.178Z",
+      "asOf": "2026-11-07T01:08:01.928Z",
       "url": "https://www.gsk.com"
     },
     {
       "symbol": "NVO",
       "name": "Novo-Nordisk A/S",
       "marketCapUsd": 177692578497.19998,
-      "asOf": "2026-11-06T19:21:11.417Z",
+      "asOf": "2026-11-07T01:08:17.134Z",
       "url": "https://www.novonordisk.com"
     },
     {
       "symbol": "TAK",
       "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
       "marketCapUsd": 67699884254.86,
-      "asOf": "2026-11-06T19:21:26.632Z",
+      "asOf": "2026-11-07T01:08:32.292Z",
       "url": "https://www.takeda.com"
     },
     {
       "symbol": "ZTS",
       "name": "ZOETIS INC.",
       "marketCapUsd": 33929789960.22,
-      "asOf": "2026-11-06T19:21:41.861Z",
+      "asOf": "2026-11-07T01:08:47.465Z",
       "url": "https://www.zoetis.com"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
       "marketCapUsd": 8033039839.999999,
-      "asOf": "2026-11-06T19:21:57.100Z",
+      "asOf": "2026-11-07T01:09:02.658Z",
       "url": "https://www.corteva.com"
     },
     {
       "symbol": "BIOX",
       "name": "Bioceres Crop Solutions Corp. Ordinary Shares",
       "marketCapUsd": 13560876.8375,
-      "asOf": "2026-11-06T19:22:12.312Z",
+      "asOf": "2026-11-07T01:09:17.811Z",
       "url": "https://www.biocerescrops.com"
     }
   ],

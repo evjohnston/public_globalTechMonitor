@@ -1,6 +1,6 @@
 {
   "technology": "artificial-intelligence",
-  "generatedAt": "2026-11-06T19:03:10.930Z",
+  "generatedAt": "2026-11-07T00:50:37.939Z",
   "entries": [
     {
       "id": "seed-china-ai-plan-2017",
@@ -145646,14 +145646,6 @@
       "url": "https://doi.org/10.4208/cicp.oa-2025-0222",
       "countryEvidence": "institution country codes [AR, AR, AR, AR, AR, UY] → AR",
       "citations": 0,
-      "abstract": "We propose a deep learning approach to the first-order system least-squares (FOSLS) framework. This method reformulates the problem as a convex minimization task; by simultaneously approximating the solution, gradient, and Lagrange…",
-      "authors": [
-        "Gabriel Acosta",
-        "Francisco M. Bersetche",
-        "Elena Belén",
-        "Juan Pablo Borthagaray"
-      ],
-      "venue": "Communications in Computational Physics",
       "collaboratingCountries": [
         "AR",
         "UY"
@@ -145674,11 +145666,6 @@
       "url": "https://doi.org/10.1007/s44163-026-01876-y",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "Existing deep learning (DL)-driven English neural machine translation systems treat translation quality and inference efficiency as independent optimization objectives that resist synergistic improvement. This paper proposes a joint…",
-      "authors": [
-        "Fang Zhang"
-      ],
-      "venue": "Discover Artificial Intelligence",
       "ingestedAt": "2026-08-09T09:49:08.155Z",
       "orgId": "xi an international studies university",
       "relevanceScore": 0.6
@@ -145695,13 +145682,6 @@
       "url": "https://doi.org/10.1007/s10207-026-01310-5",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Muhammad Arham Tariq",
-        "Allah Bux Sargano",
-        "Zulfiqar Habib",
-        "Xiaowei Huang"
-      ],
-      "venue": "International Journal of Information Security",
       "ingestedAt": "2026-08-09T09:49:08.155Z",
       "relevanceScore": 0.6
     },
@@ -148132,7 +148112,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN3FJTDB3UnRwZ1NockJzcmczNzZaczcxWmJzWmswM3p6eDQ2OU1YWUtncklCWFZubFJ4OVk5TzRDYXJWTDJ4bmNSNjl2aEtmUlpBZ0hFLVExaFRhT1UtWHJLZG5VWl9ZaUQ5MzB5MG02ZVQwRDhqNjJoUkJoRHVBYXVYUWVfMV8ydXZ0LThIZ0w3UHlqb2o3blBidXZyTkdyNW9BcGtyb1ZxV0NxaE9DYnJsNmZyUXQ2REFxQXc0RHFjbk92U2UtUmJ1RU02eUh6T2VqQWZzYXhXQzVSMGZwU3BQVzY?oc=5",
       "publisher": "kalkine.ca",
       "countryEvidence": "matched \"Canada\" (auto-classified from Google News RSS, unverified)",
-      "abstract": "Artificial Intelligence ETFs, Robotics Funds and Semiconductor ETFs Lead Canada's Hottest Investment Trend kalkine.ca",
       "ingestedAt": "2026-08-09T21:41:23.340Z",
       "relevanceScore": 0.7
     },
@@ -149478,13 +149457,6 @@
       "url": "https://doi.org/10.1111/anzs.70063",
       "countryEvidence": "institution country codes [BR, BR, BR] → BR",
       "citations": 0,
-      "abstract": "ABSTRACT In many fields of research, it is common to conduct experiments where several observations of the response variable are made on the same subject over non‐random conditions, generating longitudinal studies. A wide variety of…",
-      "authors": [
-        "João Victor B. de Freitas",
-        "Caio L. N. Azevedo",
-        "Juvêncio S. Nobre"
-      ],
-      "venue": "Australian & New Zealand Journal of Statistics",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "universidade estadual de campinas unicamp",
       "relevanceScore": 0.6
@@ -149501,15 +149473,6 @@
       "url": "https://doi.org/10.3390/bdcc10080265",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ViTs have achieved excellent performance in image recognition tasks, but their large parameter counts and high computational complexity limit their deployment on resource-constrained devices. Most existing ViT pruning methods adopt…",
-      "authors": [
-        "Zhiyue Li",
-        "Tong Liu",
-        "Feng Huang",
-        "Xinzhi Huang",
-        "Zhihao Zou"
-      ],
-      "venue": "Big Data and Cognitive Computing",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "chengdu university of technology",
       "relevanceScore": 0.6
@@ -149526,12 +149489,6 @@
       "url": "https://doi.org/10.1007/s44163-026-01798-9",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "To address the challenges of high-dynamic motion analysis and health tracking in smart gymnasiums, this paper proposes the Student Pose-aware Recovery Network (STUPOSRENet). Taking multi-angle high-definition physical education video…",
-      "authors": [
-        "Zhendong Ren",
-        "Ning He"
-      ],
-      "venue": "Discover Artificial Intelligence",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "quanzhou normal university",
       "relevanceScore": 0.6
@@ -149548,15 +149505,6 @@
       "url": "https://doi.org/10.1016/j.engappai.2026.115740",
       "countryEvidence": "institution country codes [IN, IN, IN, IN, IN, IN, IN, IN] → IN",
       "citations": 0,
-      "authors": [
-        "Ch Nanda Krishna",
-        "S.J.R.K. Padminivalli V",
-        "Aravapalli Rama Satish",
-        "Kondragunta Rama Krishnaiah",
-        "Dr Jalaiah Saikam",
-        "Popuri Srinivasarao"
-      ],
-      "venue": "Engineering Applications of Artificial Intelligence",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "srm university",
       "relevanceScore": 0.6
@@ -149573,16 +149521,6 @@
       "url": "https://doi.org/10.1002/adom.71589",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT Artificial synapses for emulating the synaptic behaviors and neuromorphic computing have been extensively exploited based on the temporal response of diverse physical and chemical processes. In these synaptic devices, operating in…",
-      "authors": [
-        "Zemin Mei",
-        "Jiahe Yan",
-        "Yuelan He",
-        "Yujia Zhai",
-        "Jianrong Qiu",
-        "Xiaofeng Liu"
-      ],
-      "venue": "Advanced Optical Materials",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "zhejiang university",
       "relevanceScore": 0.6
@@ -149599,12 +149537,6 @@
       "url": "https://doi.org/10.3390/rs18162671",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "Zero-shot SAR ship recognition aims to identify unseen ship categories without annotated SAR samples, offering a promising solution for open-category maritime remote sensing. Although synthetic aperture radar (SAR) provides all-weather and…",
-      "authors": [
-        "Rui Zhu",
-        "Tianwen Zhang"
-      ],
-      "venue": "Remote Sensing",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "southwest jiaotong university",
       "relevanceScore": 0.6
@@ -149621,15 +149553,6 @@
       "url": "https://doi.org/10.1002/cpt.70421",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US] → US",
       "citations": 0,
-      "abstract": "This study aims to design and validate a large language model (LLM) framework for systematic extraction of medication dosing across multiple therapeutic classes using electronic health record (EHR) data. Manual dose annotations were…",
-      "authors": [
-        "Max Weaver",
-        "Natasha Petry",
-        "Jeremy Cauwels",
-        "Roxana Lupu",
-        "Amanda Massmann"
-      ],
-      "venue": "Clinical Pharmacology & Therapeutics",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "sanford health",
       "relevanceScore": 0.6
@@ -149646,12 +149569,6 @@
       "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.85453",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Brain tumor segmentation from multi-modal MRI is dominated by U-Net family architectures paired with Dice-based losses. In prior matched-condition work on BraTS 2020, it was established that the top five configurations of decoder…",
-      "authors": [
-        "S. U. Chavali",
-        "P. V. Kumar -"
-      ],
-      "venue": "International Journal For Multidisciplinary Research",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "relevanceScore": 0.6
     },
@@ -149667,12 +149584,6 @@
       "url": "https://doi.org/10.3390/make8080233",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "Detecting a few hundred fraudulent transactions among hundreds of thousands is an extreme class-imbalance problem where one miss can cost a full transaction value. Stacking heterogeneous classifiers is the standard recipe, yet under a…",
-      "authors": [
-        "Xinyao Liu",
-        "Guixiang Zhu"
-      ],
-      "venue": "Machine Learning and Knowledge Extraction",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "nanjing university of finance and economics",
       "relevanceScore": 0.6
@@ -149689,7 +149600,6 @@
       "url": "https://doi.org/10.1038/s41404-026-3655-3",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "venue": "BDJ In Practice",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "relevanceScore": 0.6
     },
@@ -149705,15 +149615,6 @@
       "url": "https://doi.org/10.1007/s44519-026-00003-9",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Shuiying Xiang",
-        "Xintao Zeng",
-        "Yanan Han",
-        "Shuai Wang",
-        "Chengyang Yu",
-        "Dianzhuang Zheng"
-      ],
-      "venue": "PhotoniX Synergy",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "relevanceScore": 0.6
     },
@@ -149729,14 +149630,6 @@
       "url": "https://doi.org/10.1080/00207721.2026.2711378",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Meng Li",
-        "Li-Bing Wu",
-        "Dong‐Xiang Gao",
-        "Qingkun Yu",
-        "Shuyan Qi"
-      ],
-      "venue": "International Journal of Systems Science",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "university of science and technology liaoning",
       "relevanceScore": 0.6
@@ -149753,15 +149646,6 @@
       "url": "https://doi.org/10.1007/s40477-026-01212-1",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT] → IT",
       "citations": 0,
-      "authors": [
-        "Marco Moschetta",
-        "Alessia Spitaleri",
-        "Federico Cofone",
-        "Fabio Panarelli",
-        "Corrado Caiazzo",
-        "Amato Antonio Stabile Ianora"
-      ],
-      "venue": "Journal of Ultrasound",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "university of bari aldo moro",
       "relevanceScore": 0.6
@@ -149778,11 +149662,6 @@
       "url": "https://doi.org/10.71229/5cn8a439",
       "countryEvidence": "institution country codes [IQ] → IQ",
       "citations": 0,
-      "abstract": "Large language models (LLMs) embedded in enterprise workflows cannot structurally distinguish legitimate instructions from adversarial ones in the same token stream, making prompt injection OWASP's top LLM risk for two consecutive editions…",
-      "authors": [
-        "Fatimah Alhamzawi"
-      ],
-      "venue": "Al-Noor Journal of Engineering Management and Computer Science",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "university of al qadisiyah",
       "relevanceScore": 0.6
@@ -149799,13 +149678,6 @@
       "url": "https://doi.org/10.1007/s11227-026-08752-7",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Yiming Ouyang",
-        "Yuanzhen Jia",
-        "Jianhua Li",
-        "Qi Wang"
-      ],
-      "venue": "The Journal of Supercomputing",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "hefei university of technology",
       "relevanceScore": 0.6
@@ -149822,12 +149694,6 @@
       "url": "https://doi.org/10.1080/23080477.2026.2698472",
       "countryEvidence": "institution country codes [IN] → IN",
       "citations": 0,
-      "abstract": "This comprehensive review attempts to provide a complete overview of the many kinds of artifacts affecting electroencephalogram (EEG) signals with an emphasis on brain–computer interface (BCI) applications. The review involved a thorough…",
-      "authors": [
-        "P Yugandhar Reddy",
-        "Edara Sreenivasa Reddy"
-      ],
-      "venue": "Smart Science",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "acharya nagarjuna university",
       "relevanceScore": 0.6
@@ -149844,11 +149710,6 @@
       "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.85541",
       "countryEvidence": "institution country codes [IN] → IN",
       "citations": 0,
-      "abstract": "Applications include (but are not limited to) the use of artificial intelligence to screen post mortem images, classifing histopathology, prioritising digital evidence, identifying a person, detection of manipulated media and to support…",
-      "authors": [
-        "VIMAL JHA"
-      ],
-      "venue": "International Journal For Multidisciplinary Research",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "jagannath university",
       "relevanceScore": 0.6
@@ -149865,14 +149726,6 @@
       "url": "https://doi.org/10.1002/asjc.70201",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT In this article, we study a class of distributed adaptive time‐varying group formation tracking (TGFT) problems for linear multi‐agent systems (MASs) with multiple leaders under a directed topology, where the followers' inputs are…",
-      "authors": [
-        "Qing Ye",
-        "Xisheng Zhan",
-        "Jie Wu",
-        "Tao Han"
-      ],
-      "venue": "Asian Journal of Control",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "hubei normal university",
       "relevanceScore": 0.6
@@ -149889,12 +149742,6 @@
       "url": "https://doi.org/10.37547/tajet/volume08issue08-01",
       "countryEvidence": "institution country codes [LT, US] → LT",
       "citations": 0,
-      "abstract": "The rapid evolution of cloud computing has transformed digital infrastructures from passive data storage environments into intelligent computational ecosystems capable of autonomous decision-making, adaptive optimization, and cognitive…",
-      "authors": [
-        "Dr. Tomas Kazlauskas",
-        "Dr. Rasa Petrauskaite"
-      ],
-      "venue": "The American Journal of Engineering And Technology",
       "collaboratingCountries": [
         "LT",
         "US"
@@ -149915,15 +149762,6 @@
       "url": "https://doi.org/10.1007/s12650-026-01151-3",
       "countryEvidence": "institution country codes [CN, US, CN, US, CN, US, CN, CN, US, CN, CN, US] → CN",
       "citations": 0,
-      "authors": [
-        "Shida Gao",
-        "Yong Tang",
-        "Kai Yu",
-        "Lisha Zhou",
-        "Liwen Xie",
-        "Dongliang Guo"
-      ],
-      "venue": "Journal of Visualization",
       "collaboratingCountries": [
         "CN",
         "US"
@@ -149944,11 +149782,6 @@
       "url": "https://doi.org/10.1007/s43926-026-00461-0",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "This paper addresses the trilemma of efficiency, Byzantine resilience, and differential privacy in asynchronous federated learning (FL) for edge IoT. The proposed DAG-AF 2 L framework is a fully decentralized architecture built on a…",
-      "authors": [
-        "Liping He"
-      ],
-      "venue": "Discover Internet of Things",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "guangdong police college",
       "relevanceScore": 0.6
@@ -149965,14 +149798,6 @@
       "url": "https://doi.org/10.1007/s10462-026-11674-8",
       "countryEvidence": "institution country codes [KR, KR, KR, KR] → KR",
       "citations": 0,
-      "abstract": "Multivariate time series (MTS) analysis is increasingly important for extracting insights from complex, interdependent temporal data in domains such as healthcare, finance, and industrial monitoring. Recent advances in deep learning have…",
-      "authors": [
-        "Vaishnavi Vats",
-        "Huisu Kim",
-        "Eduardo Linares",
-        "Young‐Kyoon Suh"
-      ],
-      "venue": "Artificial Intelligence Review",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "kyungpook national university",
       "relevanceScore": 0.6
@@ -149989,12 +149814,6 @@
       "url": "https://doi.org/10.30574/wjaets.2026.20.2.0404",
       "countryEvidence": "institution country codes [ID] → ID",
       "citations": 0,
-      "abstract": "Mad Thabi'i is the most basic elongation rule in Quran recitation; however, many students at Diniyah Takmiliyah Awaliyah (DTA) As-Salaam still have difficulty in applying it correctly, while manual evaluation by teachers is limited by time…",
-      "authors": [
-        "Raden Marissa Lestari",
-        "Syarif Hidayatulloh"
-      ],
-      "venue": "World Journal of Advanced Engineering Technology and Sciences",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "sunan gunung djati state islamic university bandung",
       "relevanceScore": 0.6
@@ -150011,14 +149830,6 @@
       "url": "https://doi.org/10.1038/s41598-026-65702-2",
       "countryEvidence": "institution country codes [IN, IN, IN, YE] → IN",
       "citations": 0,
-      "abstract": "Retrieval-augmented generation (RAG) improves question answering by grounding large language models in retrieved passages, but long contexts increase prompt-token cost and latency. We introduce HLLC, a deterministic, generator-agnostic…",
-      "authors": [
-        "Faraz Masood",
-        "Saurav Singh",
-        "Arman Rasool Faridi",
-        "Ali Haider Shamsan"
-      ],
-      "venue": "Scientific Reports",
       "collaboratingCountries": [
         "IN",
         "YE"
@@ -150039,12 +149850,6 @@
       "url": "https://doi.org/10.37547/ijasr-06-08-05",
       "countryEvidence": "institution country codes [US, FJ] → US",
       "citations": 0,
-      "abstract": "The recognition of handwritten Kannada characters remains a challenging research problem due to the script’s complex structural variations, diverse stroke patterns, and high intra-class variability. Conventional character recognition…",
-      "authors": [
-        "Dr. Jone Vakalalabure",
-        "Dr. Mereani Naidu"
-      ],
-      "venue": "International Journal of Advance Scientific Research",
       "collaboratingCountries": [
         "FJ",
         "US"
@@ -150065,13 +149870,6 @@
       "url": "https://doi.org/10.1038/s41598-026-66419-y",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Drone-based road defect detection is essential for efficient pavement inspection, but remains challenging due to scale variation, low resolution, blurred boundaries, and interference from shadows, lane markings, vegetation, and road…",
-      "authors": [
-        "Xiang Li",
-        "Wenyuan Xu",
-        "Bo Liu"
-      ],
-      "venue": "Scientific Reports",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "northeast forestry university",
       "relevanceScore": 0.6
@@ -150088,16 +149886,6 @@
       "url": "https://doi.org/10.1111/dom.71212",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, RO, CN, RO, CN, RO, CN, CN, TW, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "BACKGROUND: To evaluate and recalibrate commonly used 10-year cardiovascular disease (CVD) risk prediction models in two Chinese cohorts: the general population and adults with type 2 diabetes. METHODS: We analysed data from the Wuzhong…",
-      "authors": [
-        "Xikang Fan",
-        "Jiaxi Zhou",
-        "Mengxia Li",
-        "Yu Qin",
-        "Pei Pei",
-        "Dianjianyi Sun"
-      ],
-      "venue": "Diabetes Obesity and Metabolism",
       "collaboratingCountries": [
         "CN",
         "RO",
@@ -150119,13 +149907,6 @@
       "url": "https://doi.org/10.36341/rabit.v11i2.8498",
       "countryEvidence": "institution country codes [ID, ID, ID] → ID",
       "citations": 0,
-      "abstract": "Klasifikasi sentimen pada teks media sosial berbahasa Indonesia masih menjadi tantangan karena ejaan informal, pencampuran kode bahasa, ekspresi budaya yang spesifik, dan ketidakseimbangan kelas dapat mengurangi reliabilitas model. Dengan…",
-      "authors": [
-        "Fendi Elyon Ramadhan",
-        "Giat Karyono",
-        "Purwadi"
-      ],
-      "venue": "Rabit Jurnal Teknologi dan Sistem Informasi Univrab",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "universitas wijayakusuma purwokerto",
       "relevanceScore": 0.6
@@ -150142,13 +149923,6 @@
       "url": "https://doi.org/10.51401/jinteks.v8i2.7974",
       "countryEvidence": "institution country codes [ID, ID, ID] → ID",
       "citations": 0,
-      "abstract": "Ketimpangan distribusi kelas yang ekstrem pada data ulasan pelanggan menjadi tantangan utama yang memicu bias prediksi pada model pembelajaran mesin. Penelitian ini bertujuan untuk menguji efektivitas penanganan extreme class imbalance…",
-      "authors": [
-        "Risca Lusiana Pratiwi",
-        "Ginabila",
-        "Zulia Imami Alfianti"
-      ],
-      "venue": "Jurnal Informatika Teknologi dan Sains (Jinteks)",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "universitas informatika dan bisnis indonesia",
       "relevanceScore": 0.6
@@ -150165,12 +149939,6 @@
       "url": "https://doi.org/10.1007/s44163-026-01862-4",
       "countryEvidence": "institution country codes [IN, IN, IN] → IN",
       "citations": 0,
-      "abstract": "The increasing incidence of fraudulent university admissions, coordinated agent networks, and manipulated ranking disclosures has introduced structured cyber-risk vulnerabilities in higher education systems, where existing analytical…",
-      "authors": [
-        "Anjali Rawat",
-        "Anand Rajavat"
-      ],
-      "venue": "Discover Artificial Intelligence",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "devi ahilya vishwavidyalaya",
       "relevanceScore": 0.6
@@ -150187,14 +149955,6 @@
       "url": "https://doi.org/10.13052/jicts2245-800x.1434",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "The deployment of real-time artificial intelligence inference services on shared cloud infrastructure poses significant challenges due to resource contention, latency variability, and tail-latency amplification. While cloud platforms offer…",
-      "authors": [
-        "Ma Rui",
-        "Shi Bingfeng",
-        "Ma Xin",
-        "Wei Bin"
-      ],
-      "venue": "Journal of ICT Standardization",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "heilongjiang earthquake agency",
       "relevanceScore": 0.6
@@ -150211,16 +149971,6 @@
       "url": "https://doi.org/10.3390/rs18162674",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, JP] → CN",
       "citations": 0,
-      "abstract": "Adverse weather poses a major challenge to ground-based electro-optical (EO) aircraft surveillance. Existing parameter-efficient fine-tuning (PEFT) methods operate mainly in the spatial domain and treat weather as a generic domain shift…",
-      "authors": [
-        "Yingwei Xia",
-        "Yu Tian",
-        "Wang Xi",
-        "Fan Wang",
-        "Yong Liu",
-        "Nanhao Liang"
-      ],
-      "venue": "Remote Sensing",
       "collaboratingCountries": [
         "CN",
         "JP"
@@ -150241,12 +149991,6 @@
       "url": "https://doi.org/10.3390/bs16081365",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "Generative artificial intelligence (GenAI) is increasingly used as a cognitive aid in education, yet no single process measure captures how learners monitor and control GenAI-assisted work. Guided by a reciprocal monitoring-control account…",
-      "authors": [
-        "LI Shi-jin",
-        "Junjian Liu"
-      ],
-      "venue": "Behavioral Sciences",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "hangzhou normal university",
       "relevanceScore": 0.6
@@ -150263,12 +150007,6 @@
       "url": "https://doi.org/10.13052/jcsm2245-1439.1541",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "abstract": "To make image information more authentic and complete and to prevent splicing tampered image data from affecting social fairness, this paper proposes an algorithm based on Deep Convolutional Neural Networks to detect splicing tampered…",
-      "authors": [
-        "Yuxuan Liu",
-        "Siyi Feng"
-      ],
-      "venue": "Journal of Cyber Security and Mobility",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "nanjing xiaozhuang university",
       "relevanceScore": 0.6
@@ -150285,14 +150023,6 @@
       "url": "https://doi.org/10.64539/sjcs.v2i2.2026.475",
       "countryEvidence": "institution country codes [VN, VN, VN] → VN",
       "citations": 0,
-      "abstract": "Deepfake technology poses an increasingly serious threat to personal reputation and social trust, necessitating the development of accurate yet computationally efficient detection systems. Although large pre-trained vision models offer…",
-      "authors": [
-        "Tam Thanh Thi Pham",
-        "Thao Thanh Thi Nguyen",
-        "Thái Hoàng Lê",
-        "Hai Son Tran"
-      ],
-      "venue": "Scientific Journal of Computer Science",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "ho chi minh city university of education",
       "relevanceScore": 0.6
@@ -150309,16 +150039,6 @@
       "url": "https://doi.org/10.3390/land15081437",
       "countryEvidence": "institution country codes [CN, CN, RU, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Cropland non-grain and non-agriculturalization monitoring (CNNM) is of great significance for ensuring national food security. Recently, semantic segmentation has been a promising approach that can fully exploit the advantages of…",
-      "authors": [
-        "Zhao Deng",
-        "Ming Cheng",
-        "Junde Xie",
-        "Tianyong Wan",
-        "Pengzhi Yang",
-        "Jianbo Tan"
-      ],
-      "venue": "Land",
       "collaboratingCountries": [
         "CN",
         "RU"
@@ -150339,11 +150059,6 @@
       "url": "https://doi.org/10.1007/s44163-026-01894-w",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "Abstract Basketball tactical states span possession phase, defensive coverage, pressure intensity, and offensive organization, and therefore cannot be represented reliably by a single mutually exclusive label. A temporal-order-aware Swin…",
-      "authors": [
-        "Zhixiang Jin"
-      ],
-      "venue": "Discover Artificial Intelligence",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "huazhong agricultural university",
       "relevanceScore": 0.6
@@ -150360,16 +150075,6 @@
       "url": "https://doi.org/10.3390/informatics13080127",
       "countryEvidence": "institution country codes [NG, NG, NG, NG, NG, ZA, NG] → NG",
       "citations": 0,
-      "abstract": "The adoption of federated learning (FL) has been on the rise in recent years due to the decentralized approach to data handling. Vertical federated learning is a type of FL that allows different parties to train shared models on…",
-      "authors": [
-        "Nureni Ayofe Azeez",
-        "Oluwatobi Sunday Malomo",
-        "Omotolani Mary Okerinde",
-        "Abdullateef Akorede Ademoye",
-        "Damilola Seun Aaron",
-        "Charles VanDer Vyver"
-      ],
-      "venue": "Informatics",
       "collaboratingCountries": [
         "NG",
         "ZA"
@@ -150390,16 +150095,6 @@
       "url": "https://doi.org/10.1002/jum.70401",
       "countryEvidence": "institution country codes [AT, AT, IR, AT, AT, MY, MY, MY, MY, PL, US, AT, AT, AT, MY, MY, AU, AT, AT, AT] → AT",
       "citations": 0,
-      "abstract": "OBJECTIVES: The 2022 update of the Ovarian-Adnexal Reporting and Data System (O-RADS) improves risk stratification of adnexal lesions; however, radiologist interpretation remains subject to inter-observer variability and conservative…",
-      "authors": [
-        "Ali Abbasian Ardakani",
-        "Afshin Mohammadi",
-        "Alisa Mohebbi",
-        "Anushya Vijayananthan",
-        "Sook Sam Leong",
-        "Yi Ting Lim"
-      ],
-      "venue": "Journal of Ultrasound in Medicine",
       "collaboratingCountries": [
         "AT",
         "AU",
@@ -150424,15 +150119,6 @@
       "url": "https://doi.org/10.13052/jcsm2245-1439.1546",
       "countryEvidence": "institution country codes [CN, CN, IN, CN, CN, IN, CN, CN, IN, CN, CN, IN, CN, CN, IN] → CN",
       "citations": 0,
-      "abstract": "Under the normalized network security situation of artificial intelligence-assisted attacks, deep semantic obfuscation has become the core means of vulnerability hiding. Attackers evade detection by legitimizing semantic associations and…",
-      "authors": [
-        "Yao Hu",
-        "Shihua Wen",
-        "Huipeng Wang",
-        "Yang Jie",
-        "Lingjian Chen"
-      ],
-      "venue": "Journal of Cyber Security and Mobility",
       "collaboratingCountries": [
         "CN",
         "IN"
@@ -150453,12 +150139,6 @@
       "url": "https://doi.org/10.1080/19393555.2026.2710614",
       "countryEvidence": "institution country codes [IN, IN] → IN",
       "citations": 0,
-      "abstract": "Medical Image Classification and segmentation are the crucial procedures in clinical diagnosis. Typically, regions of interest (ROI) are properly split to extract significant data for additional disease categorization. These techniques are…",
-      "authors": [
-        "Eda Bhagya Lakshmi",
-        "A. K. Velmurugan"
-      ],
-      "venue": "Information Security Journal A Global Perspective",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "koneru lakshmaiah education foundation",
       "relevanceScore": 0.6
@@ -150475,15 +150155,6 @@
       "url": "https://doi.org/10.1038/s41598-026-65115-1",
       "countryEvidence": "institution country codes [IN, IN, IN, IN, IN] → IN",
       "citations": 0,
-      "abstract": "Skin diseases constitute one of the most prevalent dermatological disorders worldwide and their early and precise diagnosis is essential for reducing diagnostic delays as well minimizing disease associated mortality. Motivated by this…",
-      "authors": [
-        "Sarvachan Verma",
-        "Sachin Jain",
-        "Rupa Rani",
-        "Bipin Kumar",
-        "Gautam Kumar"
-      ],
-      "venue": "Scientific Reports",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "institute of management technology",
       "relevanceScore": 0.6
@@ -150500,15 +150171,6 @@
       "url": "https://doi.org/10.7759/cureus.114196",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Background Timely melanoma treatment is essential to minimise disease progression. Current guidelines recommend completion of diagnostic assessment, specialist referral, staging and definitive surgery within six weeks of biopsy. Toowoomba…",
-      "authors": [
-        "San Jack Low",
-        "Damian Fry",
-        "Patrick C Litchfield",
-        "Kelsey Reinheimer",
-        "Chinthani Madigasekara"
-      ],
-      "venue": "Cureus",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "relevanceScore": 0.6
     },
@@ -150524,14 +150186,6 @@
       "url": "https://doi.org/10.3390/math14162877",
       "countryEvidence": "institution country codes [GB, TR, GB, TR, GB, TR, GB, TR] → GB",
       "citations": 0,
-      "abstract": "Facility location decisions directly affect operational costs, service quality, and customer allocation. However, minimising total cost may result in an imbalanced distribution of customers among open facilities, requiring both objectives…",
-      "authors": [
-        "Muhammed  Resul Aydin",
-        "Mehmet Emin Aydın",
-        "Mehmet Emin Aydın",
-        "Mehmet Emin Aydın"
-      ],
-      "venue": "Mathematics",
       "collaboratingCountries": [
         "GB",
         "TR"
@@ -150552,12 +150206,6 @@
       "url": "https://doi.org/10.1016/j.jeap.2026.101757",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Rongxin Lin",
-        "Jing Chen",
-        "Fei Deng"
-      ],
-      "venue": "Journal of English for Academic Purposes",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "sun yat sen university",
       "relevanceScore": 0.6
@@ -150574,13 +150222,6 @@
       "url": "https://doi.org/10.1007/s00778-026-01000-7",
       "countryEvidence": "institution country codes [GB, GB, GB] → GB",
       "citations": 0,
-      "abstract": "Abstract Large collections of tabular data from data lakes, web tables and open data portals often originate from heterogeneous sources, leading to representational inconsistencies. Understanding and organizing such repositories therefore…",
-      "authors": [
-        "Zhenyu Wu",
-        "Jiaoyan Chen",
-        "Norman W. Paton"
-      ],
-      "venue": "The VLDB Journal",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "university of manchester",
       "relevanceScore": 0.6
@@ -150597,12 +150238,6 @@
       "url": "https://doi.org/10.13052/jicts2245-800x.1436",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Chinese large language models (CLLMs) are rapidly transitioning from research to deployed infrastructure across multiple sectors. Yet current evaluation practice remains fragmented and benchmark-centric, conflating language quality with…",
-      "authors": [
-        "Aijia Zhong",
-        "Lei Li"
-      ],
-      "venue": "Journal of ICT Standardization",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "yunnan university of finance and economics",
       "relevanceScore": 0.6
@@ -150619,11 +150254,6 @@
       "url": "https://doi.org/10.32628/ijsrset26134218",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "In response to the problem of ORB-SLAM2 system mistakenly matching two points with similar appearances but not corresponding points during ORB feature matching. This article optimizes the SLAM system algorithm through deep neural networks,…",
-      "authors": [
-        "GU zhe-xiong"
-      ],
-      "venue": "International Journal of Scientific Research in Science Engineering and Technology",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "nanjing normal university",
       "relevanceScore": 0.6
@@ -150640,11 +150270,6 @@
       "url": "https://doi.org/10.13052/jicts2245-800x.1431",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "The current research on neural machine translation (NMT) rarely involves phrase processing, which leads to poor translation quality. This paper first gives a brief introduction to NMT and the Transformer model. Then, a statistical machine…",
-      "authors": [
-        "Danqiangyu Zhou"
-      ],
-      "venue": "Journal of ICT Standardization",
       "ingestedAt": "2026-08-10T10:28:53.403Z",
       "orgId": "civil aviation flight university of china",
       "relevanceScore": 0.6
@@ -158083,14 +157708,6 @@
       "url": "https://doi.org/10.3390/jimaging12080368",
       "countryEvidence": "institution country codes [RO, RO, RO, RO] → RO",
       "citations": 0,
-      "abstract": "In recent years, there has been increased attention on classifying histopathological images through hybrid decision-level fusion, and the challenge of exploring data fusion to improve classification accuracy in colon cancer has become…",
-      "authors": [
-        "Simona Moldovanu",
-        "Adina Cocu",
-        "Diana Ştefănescu",
-        "Cătălin Anghel"
-      ],
-      "venue": "Journal of Imaging",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "dunarea de jos university of galati",
       "relevanceScore": 0.6
@@ -158107,14 +157724,6 @@
       "url": "https://doi.org/10.5206/eei.v36i2.24148",
       "countryEvidence": "institution country codes [DE, US, DE, DE] → DE",
       "citations": 0,
-      "abstract": "This single-case experimental study examined the effectiveness of the colour-coded paragraph-writing intervention (CCPWI) with three fifth-grade students attending a German lower-secondary school that provides inclusive special education.…",
-      "authors": [
-        "Matthias Grünke",
-        "Kathy Ewoldt",
-        "Anne Barwasser",
-        "Susanne Hoff"
-      ],
-      "venue": "Exceptionality Education International",
       "collaboratingCountries": [
         "DE",
         "US"
@@ -158135,16 +157744,6 @@
       "url": "https://doi.org/10.3390/s26165050",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Speech emotion recognition (SER) infers affective states from speech signals, but positional encoding for acoustic tokens remains underexplored in Transformer-based SER. Existing models often reuse encodings designed for text and do not…",
-      "authors": [
-        "Shicong Huang",
-        "Jinghao Zhang",
-        "Jingchao Xu",
-        "Qi Zhang",
-        "Zihan Li",
-        "Songyang Wang"
-      ],
-      "venue": "Sensors",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "qinhuangdao science and technology bureau",
       "relevanceScore": 0.6
@@ -158161,11 +157760,6 @@
       "url": "https://doi.org/10.66715/jirf/2026.v1.i1.6673",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Research Paper | 2026 | March | Volume 1 | Issue 1 | Page 66-731. Gurmeet Kaur, Research Scholar, Department of Computer Applications, CT University, Punjab, India2. Dr. Arvind Kumar, Professor, School of Engineering and Technology, CT…",
-      "authors": [
-        "Dr. Gurmit Kaur"
-      ],
-      "venue": "The Journal of Integrated Research Frontiers",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "relevanceScore": 0.6
     },
@@ -158181,12 +157775,6 @@
       "url": "https://doi.org/10.3390/s26165052",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Evaluating whether an intellectual property (IP) prototype faithfully preserves the visual identity and semantic intent of its original concept design is an important yet challenging task in product design and creative prototyping.…",
-      "authors": [
-        "Yangfan Feng",
-        "Wen Zhao"
-      ],
-      "venue": "Sensors",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "china university of mining and technology",
       "relevanceScore": 0.6
@@ -158203,13 +157791,6 @@
       "url": "https://doi.org/10.1002/acs.70139",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT This paper investigates the optimal control problem of quadrotor unmanned aerial vehicles (UAVs) under uncertain dynamics and external environmental disturbances. First, the quadrotor UAV model with disturbances is considered, and…",
-      "authors": [
-        "Siyi Zhang",
-        "Yan Zhang",
-        "Zhengrong Xiang"
-      ],
-      "venue": "International Journal of Adaptive Control and Signal Processing",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "nanjing university of science and technology",
       "relevanceScore": 0.6
@@ -158226,16 +157807,6 @@
       "url": "https://doi.org/10.1002/cjce.70531",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Abstract The high‐stakes nature of chemical production drives the demand for efficient and precise fault diagnosis techniques. However, chemical process data exhibit complex temporal evolution patterns alongside spatial correlation…",
-      "authors": [
-        "Pengfei Qin",
-        "Wenyu Zhang",
-        "Xin Ren",
-        "YinPing Cai",
-        "Guangyan Liu",
-        "Baoxu Wang"
-      ],
-      "venue": "The Canadian Journal of Chemical Engineering",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "binzhou technician college",
       "relevanceScore": 0.6
@@ -158252,16 +157823,6 @@
       "url": "https://doi.org/10.3390/app16167930",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Hydropower-generator rotors contain numerous closely spaced bolted joints, making full-coverage contact instrumentation impractical, while single-view vision methods are vulnerable to missing or ambiguous evidence during rotation. This…",
-      "authors": [
-        "Jiaxuan Lyu",
-        "Jiang Guo",
-        "Fang Yuan",
-        "Yingbing Ran",
-        "Haipeng Gong",
-        "Tao Wu"
-      ],
-      "venue": "Applied Sciences",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "wuhan university",
       "relevanceScore": 0.6
@@ -158278,16 +157839,6 @@
       "url": "https://doi.org/10.1093/bioinformatics/btag553",
       "countryEvidence": "institution country codes [CN, CN, CN, HK, CN, CN, CN, DE, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "MOTIVATION: Drug repositioning accelerates clinical translation by identifying new therapeutic indications for approved drugs. However, therapeutic associations in biomolecular networks often exist indirectly, through transitive chains and…",
-      "authors": [
-        "Xiaobo Zhu",
-        "Lei Wang",
-        "Runzhou Tang",
-        "Zhi-An Huang",
-        "Yu-an Huang",
-        "Feng Tan"
-      ],
-      "venue": "Bioinformatics",
       "collaboratingCountries": [
         "CN",
         "DE",
@@ -158309,13 +157860,6 @@
       "url": "https://doi.org/10.3329/jnujsci.v12i2.89622",
       "countryEvidence": "institution country codes [BD, BD, BD] → BD",
       "citations": 0,
-      "abstract": "Background:Feature selection is essential for building accurate and interpretable predictive models, particularly in high-dimensional datasets where multicollinearity, noise, and redundant variables can severely degrade model performance.…",
-      "authors": [
-        "Md Sanwar Hossain",
-        "Md Ashraf Ul Alam",
-        "Md Kamruzzaman"
-      ],
-      "venue": "Jagannath University Journal of Science",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "jagannath university",
       "relevanceScore": 0.6
@@ -158332,13 +157876,6 @@
       "url": "https://doi.org/10.3390/info17080761",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Multimodal aspect-based sentiment analysis (MABSA) predicts the sentiment polarity associated with a specified aspect by jointly exploiting textual and visual information. Existing models may be sensitive to limited prompting examples,…",
-      "authors": [
-        "Lei Pan",
-        "Tong Geng",
-        "Yuheng Liu"
-      ],
-      "venue": "Information",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "zhongyuan university of technology",
       "relevanceScore": 0.6
@@ -158355,16 +157892,6 @@
       "url": "https://doi.org/10.3390/a19080659",
       "countryEvidence": "institution country codes [PK, PK, PK, PK, PK, PK, PK, TH] → PK",
       "citations": 0,
-      "abstract": "Early identification of depression risk from social media text can support large-scale screening and timely follow-up. However, posts are often emotionally complex and linguistically ambiguous, which makes robust detection challenging.…",
-      "authors": [
-        "Sahar Ajmal",
-        "Muhammad Shoaib",
-        "Faiza Iqbal",
-        "Awais Azam",
-        "Muhammad Shahzad Sarfraz",
-        "Ekkarat Boonchieng"
-      ],
-      "venue": "Algorithms",
       "collaboratingCountries": [
         "PK",
         "TH"
@@ -158385,12 +157912,6 @@
       "url": "https://doi.org/10.3390/s26165058",
       "countryEvidence": "institution country codes [TR, TR] → TR",
       "citations": 0,
-      "abstract": "Minimizing unplanned downtime is critical for maintaining productivity in modern manufacturing. While combining sensor networks with machine learning provides a practical way to detect mechanical failures early, conventional data-driven…",
-      "authors": [
-        "Ahmet Erdem Oner",
-        "Meral Bayraktar"
-      ],
-      "venue": "Sensors",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "kocaeli üniversitesi",
       "relevanceScore": 0.6
@@ -158407,12 +157928,6 @@
       "url": "https://doi.org/10.3390/electronics15163534",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "Monocular 3D lane detection faces challenges due to the loss of directional detail in distant markings during feature downsampling and geometric ambiguity between lateral curvature and road elevation under single-view projection. R-A3D…",
-      "authors": [
-        "Chengzhi Hong",
-        "Bijun Li"
-      ],
-      "venue": "Electronics",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "wuhan university",
       "relevanceScore": 0.6
@@ -158429,11 +157944,6 @@
       "url": "https://doi.org/10.3329/jnujsci.v12i1.89618",
       "countryEvidence": "institution country codes [BD] → BD",
       "citations": 0,
-      "abstract": "In today's world, uncertainty is a crucial concept across nearly all areas of business, economics, science, and engineering. Numerous theories have been proposed to manage these uncertain or ambiguous data. Among these, the picture fuzzy…",
-      "authors": [
-        "Mohammad Kamrul Hasan"
-      ],
-      "venue": "Jagannath University Journal of Science",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "bangladesh university of business and technology",
       "relevanceScore": 0.6
@@ -158450,15 +157960,6 @@
       "url": "https://doi.org/10.3390/app16167929",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, IT, IT, IT, IT, IT] → IT",
       "citations": 0,
-      "abstract": "Deep learning classifiers have achieved high accuracy on plant disease recognition tasks, but their decision-making processes remain opaque. Counterfactual explanations (CFs), minimally modified inputs flipping a classifier’s prediction,…",
-      "authors": [
-        "Antonio Di Marino",
-        "Vincenzo Bevilacqua",
-        "Angelo Ciaramella",
-        "Ivanoe De Falco",
-        "Giovanna Sannino"
-      ],
-      "venue": "Applied Sciences",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "institute for high performance computing and networking",
       "relevanceScore": 0.6
@@ -158475,11 +157976,6 @@
       "url": "https://doi.org/10.1002/prm2.70047",
       "countryEvidence": "institution country codes [ET] → ET",
       "citations": 0,
-      "abstract": "Abstract The increasing availability of heterogeneous biomedical data, including genomics, transcriptomics, proteomics, metabolomics, medical imaging, electronic health records, digital pathology, and wearable sensor data, has accelerated…",
-      "authors": [
-        "Gedion Mengistu Dejen"
-      ],
-      "venue": "Precision Medical Sciences",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "arba minch university",
       "relevanceScore": 0.6
@@ -158496,11 +157992,6 @@
       "url": "https://doi.org/10.37547/ibast/volume06issue08-02",
       "countryEvidence": "institution country codes [CA] → CA",
       "citations": 0,
-      "abstract": "Image super-resolution (ISR) has emerged as a critical computer vision task aimed at reconstructing high-resolution visual information from low-resolution inputs. Although deep learning-based approaches have significantly improved…",
-      "authors": [
-        "Dr. Chinedu Okafor"
-      ],
-      "venue": "International Bulletin of Applied Sciences and Technology",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "artificial intelligence in medicine canada",
       "relevanceScore": 0.6
@@ -158517,14 +158008,6 @@
       "url": "https://doi.org/10.5565/rev/elcvia.2402",
       "countryEvidence": "institution country codes [IN, IN, IN] → IN",
       "citations": 0,
-      "abstract": "Gait recognition has emerged as an important biometric modality due to its non-invasive nature and suitability for surveillance and security applications. However, achieving robustness under real-world variations in viewpoint, clothing,…",
-      "authors": [
-        "Sachin Mandlik",
-        "Rekha Labade",
-        "Sachin Chaudhari",
-        "Balasaheb Agarkar"
-      ],
-      "venue": "ELCVIA Electronic Letters on Computer Vision and Image Analysis",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "savitribai phule pune university",
       "relevanceScore": 0.6
@@ -158541,11 +158024,6 @@
       "url": "https://doi.org/10.1080/00220388.2026.2710538",
       "countryEvidence": "institution country codes [GB] → GB",
       "citations": 0,
-      "abstract": "In Our Lives in Their Portfolios, Brett Christophers explores the central question of how and why it matters when the key assets of everyday life are owned and controlled by asset managers rather t...",
-      "authors": [
-        "Hannah Hasenberger"
-      ],
-      "venue": "The Journal of Development Studies",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "london school of economics and political science",
       "relevanceScore": 0.6
@@ -158562,11 +158040,6 @@
       "url": "https://doi.org/10.51986/ijcc-2026.vol1.08",
       "countryEvidence": "institution country codes [US, US] → US",
       "citations": 0,
-      "abstract": "Artificial intelligence (AI) continues to exert a significant influence on mathematics education through personalised learning, adaptive instruction, automated feedback, and intelligent learning support. While existing literature has…",
-      "authors": [
-        "Tirivanhu Muchuweni"
-      ],
-      "venue": "Interdisciplinary Journal of Critical Communications",
       "ingestedAt": "2026-08-11T16:11:00.783Z",
       "orgId": "savannah state university",
       "relevanceScore": 0.6
@@ -362052,13 +361525,6 @@
       "url": "https://doi.org/10.1016/j.eswa.2026.133929",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Longtao Wang",
-        "Qingtian Zeng",
-        "Guiyuan Yuan",
-        "Hua Duan"
-      ],
-      "venue": "Expert Systems with Applications",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "shandong university of science and technology",
       "relevanceScore": 0.6
@@ -362075,12 +361541,6 @@
       "url": "https://doi.org/10.1016/j.nlp.2026.100229",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Emanuelle Marreira",
-        "Carlos MaurÃ­cio Figueiredo",
-        "Tiago de Melo"
-      ],
-      "venue": "Natural Language Processing Journal",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362096,14 +361556,6 @@
       "url": "https://doi.org/10.1016/j.eswa.2026.133951",
       "countryEvidence": "institution country codes [CN, AT, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Haoxuan Yin",
-        "Chen Tang",
-        "Yangfan Wang",
-        "Lian Yan",
-        "Jingchi Jiang"
-      ],
-      "venue": "Expert Systems with Applications",
       "collaboratingCountries": [
         "AT",
         "CN"
@@ -362124,15 +361576,6 @@
       "url": "https://doi.org/10.1016/j.inffus.2026.104692",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Chuang-Wei Liu",
-        "Mengtan Zhang",
-        "Nachuan Ma",
-        "Jin Wu",
-        "Hanli Wang",
-        "Qijun Chen"
-      ],
-      "venue": "Information Fusion",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "tongji university",
       "relevanceScore": 0.6
@@ -362149,13 +361592,6 @@
       "url": "https://doi.org/10.1016/j.ijar.2026.109796",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "文科选",
-        "Dun Liu",
-        "Zhihang Yu",
-        "Libo Zhang"
-      ],
-      "venue": "International Journal of Approximate Reasoning",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "southwest jiaotong university",
       "relevanceScore": 0.6
@@ -362172,13 +361608,6 @@
       "url": "https://doi.org/10.1016/j.neucom.2026.134760",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Yi Liu",
-        "Yuan  Ge Hong",
-        "Гао Лин",
-        "Li  Fei Xu"
-      ],
-      "venue": "Neurocomputing",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362194,12 +361623,6 @@
       "url": "https://doi.org/10.1016/j.eswa.2026.133972",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Masaki Matsuoka",
-        "Xinyue Niu",
-        "Akira Furui"
-      ],
-      "venue": "Expert Systems with Applications",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362215,14 +361638,6 @@
       "url": "https://doi.org/10.1016/j.sigpro.2026.110867",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Xun Zhang",
-        "Yuanyang Bu",
-        "Yongqiang Zhao",
-        "Kai Feng",
-        "Yang Guo"
-      ],
-      "venue": "Signal Processing",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "northwestern polytechnical university",
       "relevanceScore": 0.6
@@ -362239,14 +361654,6 @@
       "url": "https://doi.org/10.1016/j.imavis.2026.106156",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Ting Zhang",
-        "Dong Wei",
-        "Haolin Ruan",
-        "Yuxuan Liao",
-        "Tian Lei"
-      ],
-      "venue": "Image and Vision Computing",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "shenzhen technology university",
       "relevanceScore": 0.6
@@ -362263,15 +361670,6 @@
       "url": "https://doi.org/10.1016/j.rineng.2026.112396",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Xiaobin Chen",
-        "Jingbo Dai",
-        "Jianming Liao",
-        "Huaying Luo",
-        "Ruiyu Gui",
-        "Min Zhang"
-      ],
-      "venue": "Results in Engineering",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362287,15 +361685,6 @@
       "url": "https://doi.org/10.1016/j.measurement.2026.122837",
       "countryEvidence": "institution country codes [CN, CN, CN, GB, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Jianhua Ma",
-        "Yongzhang Zhou",
-        "Luhao HE",
-        "ZHAO Yichao",
-        "G. Liu",
-        "Caiping Jiang"
-      ],
-      "venue": "Measurement",
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -362316,14 +361705,6 @@
       "url": "https://doi.org/10.1016/j.ress.2026.113277",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Runze Liu",
-        "Jinjun Tang",
-        "Benxiao Lou",
-        "Xiaoran Gong",
-        "Ziyun Luo"
-      ],
-      "venue": "Reliability Engineering & System Safety",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362339,14 +361720,6 @@
       "url": "https://doi.org/10.1016/j.cam.2026.118047",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Suthep Suantai",
-        "Preeyanuch Chuasukand",
-        "Watcharaporn Cholamjiak",
-        "Bing Tan",
-        "Pronpat Peeyada"
-      ],
-      "venue": "Journal of Computational and Applied Mathematics",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362362,11 +361735,6 @@
       "url": "https://doi.org/10.1016/j.inffus.2026.104698",
       "countryEvidence": "institution country codes [CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "Jiale Yan",
-        "Bo Zhao"
-      ],
-      "venue": "Information Fusion",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "orgId": "wuhan university",
       "relevanceScore": 0.6
@@ -362383,16 +361751,6 @@
       "url": "https://doi.org/10.69888/ftscl.2026.000751",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Accurate crowd counting is of great importance to a wide range of real-world applications such as public safety monitoring, traffic management, event organisation, urban planning and emergency response. However, existing crowd counting…",
-      "authors": [
-        "Saw Mya Nandar",
-        "Hlaing Htake Khaung Tin",
-        "Bhopendra Singh",
-        "Mykhailo Paslavskyi",
-        "Andino Maseleno",
-        "András Szeberényi"
-      ],
-      "venue": "FMDB transactions on sustainable computer letters.",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362408,11 +361766,6 @@
       "url": "https://doi.org/10.69888/ftscl.2026.000749",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "A new framework for Neuro-Symbolic Machine Learning (NS-ML) to enhance the adaptive decision intelligence of distributed smart systems is introduced. As smart environments become more complex, the transparency and reasoning of traditional…",
-      "authors": [
-        "Rajesh Mannam"
-      ],
-      "venue": "FMDB transactions on sustainable computer letters.",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362428,13 +361781,6 @@
       "url": "https://doi.org/10.69888/ftscl.2026.000748",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "The speed of cyberattack evolution and the growing sophistication of new attacks have revealed critical limitations of traditional IDS, specifically in terms of adaptability and interpretability. Although modern machine learning models are…",
-      "authors": [
-        "Alycia Sebastian",
-        "S. Silvia Priscila",
-        "B. M. Praveen"
-      ],
-      "venue": "FMDB transactions on sustainable computer letters.",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -362450,16 +361796,6 @@
       "url": "https://doi.org/10.69888/ftscl.2026.000752",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Human-computer interaction has progressed significantly in recent years, yet existing digital assistants continue to suffer from limitations in emotional engagement, personalisation, and expressive communication. Most current AI systems…",
-      "authors": [
-        "A. Shyam Sundhar",
-        "J. Angelin Jeba",
-        "Varsha Ramkumar",
-        "M. Rehena Sulthana",
-        "Rejwan Bin Sulaiman",
-        "R. P. P. Ranaweera"
-      ],
-      "venue": "FMDB transactions on sustainable computer letters.",
       "ingestedAt": "2026-09-02T19:07:15.008Z",
       "relevanceScore": 0.6
     },
@@ -1387524,6 +1386860,2130 @@
       "abstract": "America's AI Investment Boom: How Artificial Intelligence Is Reshaping the US Business Landscape Business News This Week",
       "ingestedAt": "2026-11-06T19:03:10.930Z",
       "relevanceScore": 0.7
+    },
+    {
+      "id": "epo-CN123050690",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "一种用于数据生成的人工智能网络模型及其训练方法和装置",
+      "org": "罗伯特·博世有限公司",
+      "date": "2026-11-06",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN123050690",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "吴又佳",
+        "张凯旋"
+      ],
+      "classification": "G06N3/0455, G06N3/047, G06N3/0475, G06N3/0895, G06N3/09, G06N7/01",
+      "abstract": "本发明涉及一种基于人工智能网络模型生成数据的方法，包括：在由第一数据和第二数据构成的数据对的经编码的潜在空间中采样，以获得数据对的潜在空间样本，其中，数据对的第一数据和第二数据之间具有函数对应关系，并且数据对的第一数据和第二数据中的一者被掩码；通过人工智能网络模型对数据对的潜在空间样本进行解码，以生成由第一输出数据和第二输出数据构成的输出数据对；以及对输出数据对进行过滤，以获得第一输出数据或第二输出数据满足预定条件的目标数据对。",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "罗伯特 博世有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352680",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "IOBHUNTER - AUTOMATED DISCOVERY AND ANALYSIS OF BENIGN INDICATORS FOR INTERNET DOMAINS",
+      "org": "Palo Alto Networks, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352680",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Chen, Zhenhua",
+        "Liu, Daiping",
+        "Wang, Shu",
+        "Fei, Fan"
+      ],
+      "classification": "G06F16/33295, G06F16/906, G06F16/9535, G06N20/00, G06N20/20, G06N3/042, G06N3/044, G06N3/045, G06N3/08, G06N5/022, H04L63/1425",
+      "abstract": "[0000]    The present application discloses a method, system, and computer system for identifying false positive classifications based on an automated discovery of benign indicators. The method includes: (i) obtaining an indication of a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "palo alto networks",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350298",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Generative Artificial Intelligence Systems and Methods for Converting Unstructured Forms into Structured Data Sets",
+      "org": "Insurance Services Office, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350298",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Li, Miao",
+        "Nangpal, Ashish",
+        "Vasu Kumar, Deepika",
+        "Yaramala, Kishore Reddy",
+        "Strohm, Sara Rachel",
+        "Ghimire, Pradeep"
+      ],
+      "classification": "G06F16/35, G06F40/103, G06F40/174, G06F40/205, G06F40/30, G06N20/00, G06N20/20, G06N3/02, G06N3/044, G06N3/08, G06N5/01, G06N7/01, G06Q40/08, G06V30/414",
+      "abstract": "Generative artificial intelligence systems and methods for converting unstructured forms to structured data sets are provided. The system includes a document processor that executes a structured data generation software engine. The system…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "insurance services office",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350161",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MACHINE LEARNING TECHNIQUES FOR DETECTING AND PREVENTING RANSOMWARE ATTACKS",
+      "org": "Rapid7, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350161",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Roter, Tom",
+        "Millar, Stuart",
+        "Kamanovsky, Denis"
+      ],
+      "classification": "G06F21/554, G06F21/56, G06F21/566, G06N20/00, G06N3/0464, G06F2221/034",
+      "abstract": "[0000]    Techniques for mitigating malware attacks in a computer environment by applying one or more trained machine learning (ML) models to features derived from file system application programming interface (API) calls made by computer…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "rapid7",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350166",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "NETWORK FLOW MODEL FOR SECURITY GRAPH BASED THREAT DETECTION",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350166",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "ELDAN, Aviv David",
+        "MATCHORO, Ron",
+        "KARPOVSKY, Andrey"
+      ],
+      "classification": "G06F16/9024, G06F21/552, G06F21/566, G06F21/577, G06N20/00, G06N20/20, G06N3/044, G06N3/045, G06N3/08, G06N5/01, G06N5/022, H04L41/0806, H04L41/12, H04L41/147, H04L41/16, H04L43/10, H04L43/50, H04L63/1408, H04L63/1425, H04L63/1433, G06F2221/033, G06F2221/2141, G06N7/01, H04L41/082, H04L41/0823, H04L41/0895, H04L41/22, H04L43/026, H04L43/20",
+      "abstract": "[0000]    In various examples, a security graph is generated based on computing resources within a computing environment, and a machine learning model is used to determine placement information for threat scanners. For example, control…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350874",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DYNAMIC MODEL INPUT CREATION FOR AI-AUGMENTED IMAGE GENERATION",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350874",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "KAZEMI ALAMOUTI, Zeinab",
+        "LIU, Youjun",
+        "SETH, Rolly",
+        "MEDEROS, Brittany Elizabeth"
+      ],
+      "classification": "G06N20/00, G06N3/0475, G06T11/00, G06T11/10, G06T11/60, G06T5/73, G06T2200/24",
+      "abstract": "[0000]    The disclosed technology includes a graphics design tool that to augments user-provided content with AI-generated graphics. The graphics design tool generates an AI-augmented graphics by operations that include: creating a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350430",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR AN ANALYTIC PLATFORM",
+      "org": "Fidelity Information Services, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350430",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GHOSH, Ranadhir"
+      ],
+      "classification": "G06F16/2237, G06F16/3344, G06F16/383, G06F40/20, G06N20/00, G06N20/20, G06N3/045, G06N3/08, G06N5/02, G06N5/022, G06N5/025",
+      "abstract": "Systems and methods are disclosed for constructing a data model using an analytic platform. One method may include receiving a data project, the data project including a solution request, determining, based on the solution request, a first…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fidelity information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352566",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS FOR ONLINE LEARNING OF OVER-THE-AIR COMBINER",
+      "org": "InterDigital Patent Holdings, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352566",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Koc, Asil",
+        "Pietraski, Philip",
+        "Zhang, Guodong",
+        "Arfaoui, Mohamed Amine",
+        "Kaewell, John"
+      ],
+      "classification": "G06N20/00, G06N3/04, G06N3/045, G06N3/0455, G06N3/08, G06N3/084, H04L25/0224, H04L25/03165, H04L25/03343, H04L41/16, H04L5/0048, H04L5/0051, H04L67/34, H04W72/044, H04W72/1268",
+      "abstract": "A first device (e.g., WTRU, base station, network node) may receive first configuration information. The first configuration information may indicate that the first device is to participate in online learning of an OTA combiner at a second…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "interdigital patent holdings",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351056",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ARTIFICAL INTELLIGENCE (AI) BASED VEHICLE INSPECTION AND SERVICING SYSTEM AND METHOD",
+      "org": "State Farm Mutual Automobile Insurance Company",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351056",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Williams, Aaron",
+        "Hurliman, John"
+      ],
+      "classification": "G06F3/011, G06F3/167, G06N3/084, G06Q10/20, G06T7/0004, G06V20/20, G07C5/008, G07C5/0808, G07C5/0816, G06N20/00, G06T2207/20081, G06T2207/30252",
+      "abstract": "[0000]    A computer system may be configured to: (a) receive vehicle data from a vehicle controller of a vehicle, the vehicle data collected by one or more vehicle sensors in communication with the vehicle controller, the vehicle data…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "state farm mutual automobile insurance company",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349976",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "LARGE LANGUAGE MODEL (LLM)-ASSISTED QUALITY EVALUATION AND REFINEMENT OF AN ARTIFICIAL INTELLIGENCE (AI) ASSISTANT SYSTEM",
+      "org": "Zoom Communications, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349976",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Chen, Guohao",
+        "Chen, Zheng",
+        "Han, Jianbing",
+        "Huang, Tao",
+        "Lu, Ying",
+        "Ni, Kai",
+        "Tan, Jun",
+        "Tian, Wang",
+        "Tu, Yuangang",
+        "Yun, Xi"
+      ],
+      "classification": "G06F16/215, G06F40/40, G06N20/00, G06N3/044, G06N3/047, G06N3/0475, G06N5/022, G06N5/04, G06N5/041",
+      "abstract": "[0000]    Systems and methods of Large Language Model (LLM)-assisted quality evaluation of an Artificial Intelligent (AI) assistant system are provided. A communication platform selects one or more test datasets from communication data…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "zoom communications",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350607",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "TRANSACTION VALIDATION OPTIMIZATION USING GENERATIVE ARTIFICIAL INTELLIGENCE",
+      "org": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350607",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BALASUBRAMANIAN, Balamurali",
+        "CHANDRA, Vikas"
+      ],
+      "classification": "G06N20/00, G06Q20/34, G06Q20/401, G06Q20/405",
+      "abstract": "Examples use a machine learning model to select a first subset of validation rules from a plurality of validation rules. This first subset of validation rules is applied to a first payment card transaction, thereby identifying the first…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "mastercard international incorporated",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350365",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DERIVING FAITHFUL EXPLANATIONS FOR DEEP MODELS",
+      "org": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350365",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Le, Franck Vinh",
+        "CHAKRABORTY, SUPRIYO"
+      ],
+      "classification": "G06N3/0475",
+      "abstract": "[0000]    A method, system, and computer program product configured to perform operations including: generating a prediction using a trained machine learning model based on an original input including a plurality of input parameters;…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "ibm",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349769",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR AUTONOMOUS DATA MAPPING DURING CODE DEVELOPMENT",
+      "org": "Fidelity Information Services, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349769",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GHOSH, Ranadhir"
+      ],
+      "classification": "G06F16/254, G06F40/30, G06F8/70, G06F9/453, G06N20/00",
+      "abstract": "[0000]    A computer implemented method for autonomous data mapping during code development, the method including: receiving a support ticket, the support ticket including support ticket metadata; mapping the support ticket metadata to a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fidelity information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350375",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ARTIFICIAL INTELLIGENCE MODEL QUANTIZATION METHOD AND SYSTEM",
+      "org": "SAMSUNG SDS CO., LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350375",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHOI, Ji Eun",
+        "BAEK, Dae Hyeon",
+        "SON, Ji Myoung",
+        "LEE, Hyo Jung"
+      ],
+      "classification": "G06N3/048, G06N3/0495",
+      "abstract": "[0000]    Provided is an artificial intelligence (AI) model quantization method. The quantization method according to an embodiment may include: obtaining an input activation matrix X and a weight matrix W of an AI model; sequentially…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "samsung sds",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349782",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR A MULTI-AGENTIC ARTIFICIAL INTELLIGENCE ANALYTIC PLATFORM",
+      "org": "Fidelity Information Services, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349782",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GHOSH, Ranadhir"
+      ],
+      "classification": "G06F9/485, G06N20/00, G06N5/045, G06Q20/4016, G06Q40/00, G06Q40/02, G06Q40/03",
+      "abstract": "[0000]    A computer-implemented method for applying analysis by a cloud-based analytics platform, the method including: receiving a data object from a user, the data object including metadata; determining, based on the metadata, a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fidelity information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350367",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CONDITIONAL INFERENCE-TIME POLICY ENFORCEMENT SYSTEM FOR GENERATIVE AI MODELS",
+      "org": "OpenAI OpCo, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350367",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Douglas, William",
+        "Guan, Melody Yun Jia",
+        "Miller, Kyle",
+        "Vallone, Andrea",
+        "Weng, Li",
+        "Yu, Jieqi",
+        "Zhang, Chong",
+        "Zhang, Eric"
+      ],
+      "classification": "G06N3/042, G06N3/0475",
+      "abstract": "[0000]    The present disclosure relates to systems, non-transitory computer-readable media, and methods for providing policy guidance to a generative artificial intelligence model. In particular, in some embodiments, the disclosed systems…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "openai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350472",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CONTROLLABLE GUIDANCE FOR GENERATIVE ARTIFICIAL INTELLIGENCE MODEL",
+      "org": "Stability AI Ltd",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350472",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Novack, Zachary",
+        "Evans, Zach",
+        "Zukowski, Zachary",
+        "Taylor, Josiah",
+        "Parker, Julian",
+        "Pons, Jordi",
+        "CARR, CJ"
+      ],
+      "classification": "G06N20/00, G10H1/0025, G10H2210/111",
+      "abstract": "Techniques include receiving a first latent space representation, the first latent space representation generated based at least in part on inputting a prompt indicating a feature of first content to a first model. Techniques further…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "stability ai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350347",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SCALE-INVARIANT INVERSE-SQUARE KERNEL FOR GRAPH NEURAL-NETWORK MESSAGE PASSING",
+      "org": "Washburn Jonathan",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350347",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Washburn, Jonathan"
+      ],
+      "classification": "G06N3/042",
+      "abstract": "[0000]    A graph neural-network message-passing technique computes edge weights using a deterministic scale-normalized inverse-square kernel. For edges between nodes having associated coordinates, a deterministic graph scale is computed…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "washburn jonathan",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350407",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEM AND METHOD OF GENERATING AN ENTANGLEMENT WITNESS FOR DETECTING ENTANGLEMENT IN A QUANTUM SYSTEM",
+      "org": "THE GOVERNING COUNCIL OF THE UNIVERSITY OF TORONTO",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350407",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "ROSEBUSH, Aiden Roel",
+        "QIAN, Li",
+        "GREENWOOD, Alexander Charles"
+      ],
+      "classification": "G06N10/20, G06N3/094",
+      "abstract": "There is provided a system and method for generating an entanglement witness for detecting entanglement in a quantum system. The method including: receiving a target entangled state; training a machine learning model to generate the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "the governing council of the university of toronto",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350384",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Hardware-Efficient Separable Tensor Networks",
+      "org": "Nintendo Co., Ltd.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350384",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "DELATTRE, Alexandre",
+        "CORROYER, Mickaël"
+      ],
+      "classification": "G06N3/0495, G06N3/08, G06T3/4046",
+      "abstract": "A flexible-rank flexible-precision neural network architecture significantly reduces the number of parameters without creating a dimensional bottleneck. A low-precision quantization method quantizes weights of these neural networks to…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nintendo",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350531",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "REFRIGERATOR APPLIANCE FOOD MANAGEMENT MACHINE LEARNING MODEL",
+      "org": "Haier US Appliance Solutions, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350531",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Padron, Jose Rafael",
+        "Jackson, Timothy Ray"
+      ],
+      "classification": "G06N20/00, G06Q10/087, G06T7/62, G06T7/70, G06T7/90",
+      "abstract": "[0000]    A method of inventory management within a refrigerator appliance includes a controller of the refrigerator appliance initiating a predetermined machine learning model for operating the refrigerator appliance, and performing a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "haier us appliance solutions",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349713",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMMON MULTI-AGENT FRAMEWORK FOR DIFFERENT AGENTIC BACKENDS",
+      "org": "NUTANIX, INC.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349713",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GEORGE, Johnu",
+        "SNEHLATA,",
+        "PRASAD, Jay"
+      ],
+      "classification": "G06F11/302, G06F8/71, G06N3/0475",
+      "abstract": "[0000]    Common multi-agent framework for different agentic backends include one or more non-transitory computer-readable media storing program instructions that, when executed by one or more processors associated with a first computing…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nutanix",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349684",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "TRANSFORMING UX DESIGNS INTO CODE USING MACHINE LEARNING MODEL",
+      "org": "AidenAi, Inc",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349684",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kamadi, Srinivas"
+      ],
+      "classification": "G06F8/10, G06F8/35, G06F8/36, G06F8/38, G06F8/427, G06F8/447, G06F8/60, G06N20/00",
+      "abstract": "A system for transforming at least one of User Interface (UI) design or User Experience (UX) design into target platform outputs is disclosed. The system includes at least one processor and a memory storing executable instructions. The…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "aidenai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350409",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DATASET SELECTION USING MODEL MIXING",
+      "org": "Fujitsu Limited",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350409",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "VINKEN, Kasper",
+        "TAO, Zhixu",
+        "COOPER, Avraham",
+        "YEH, Haowei",
+        "BOIX, Xavier"
+      ],
+      "classification": "G06N3/096",
+      "abstract": "[0000]    According to an embodiment, a method to select datasets to finetune a model includes obtaining a pretrained model and a plurality of candidate datasets for finetuning the pretrained model for a target task. A plurality of…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fujitsu limited",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350540",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "System and Method for AI-Powered Dynamic Advertisement Generation, Testing, and Optimization Across Multiple Channels",
+      "org": "TapText llc",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350540",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Doumar, Steve"
+      ],
+      "classification": "G06F16/9554, G06F16/9558, G06F21/32, G06F21/6245, G06K19/06037, G06K7/1417, G06N20/00, G06Q10/06315, G06Q10/10, G06Q10/40, G06Q30/016, G06Q30/0201, G06Q30/0207, G06Q30/0212, H04M3/523, H04M3/527, H04M3/53308, H04M3/53333, H04W4/14, G06F2221/2139, G06Q30/0267",
+      "abstract": "[0000]    A system and method for AI-powered dynamic advertisement generation, testing, and optimization. The system comprises a multi-platform adaptive ad campaign manager, an AI-powered advertisement generator, a personalization engine,…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "taptext",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352907",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND NON-TRANSITORY COMPUTER-READABLE MEDIUM",
+      "org": "NEC Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352907",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "ISHII, Asuka",
+        "Ikeda, Hiroo"
+      ],
+      "classification": "G06N3/0455, G06T7/70, G06V10/761, G06V10/7715, G06V40/23, H04N21/2541, G06T2207/30196",
+      "abstract": "An information processing device according to the present disclosure includes a posture detection unit, a choreography digitalization unit, a similarity determination unit, and a rights management unit. The posture detection unit detects…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nec",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350390",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ADVERSARIAL ACCELERATION OF RECTIFIED FLOWS",
+      "org": "Stability AI Ltd",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350390",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Novack, Zachary",
+        "Evans, Zach",
+        "Zukowski, Zachary",
+        "Taylor, Josiah",
+        "Parker, Julian",
+        "Pons, Jordi",
+        "CARR, CJ"
+      ],
+      "classification": "G06F18/214, G06F18/22, G06N3/0475, G06N3/08",
+      "abstract": "Techniques include obtaining ground truth training data including first content, wherein the ground truth training data includes a first latent space representation of the first content. Techniques further include generating, based at…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "stability ai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350342",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "STRUCTURED HIGHER-ORDER MODELING FOR MULTI-MODAL COLLABORATIVE AUTONOMOUS SYSTEMS",
+      "org": "Raytheon Company",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350342",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Lore, Kin Gwn"
+      ],
+      "classification": "G06N3/006, G06N3/042, G06N3/0455, G06N3/088, G06N5/022",
+      "abstract": "A method includes receiving data of multiple modalities using at least one transceiver of a node in a multi-modal collaborative autonomous system. The method also includes processing modality-specific embeddings of the received data and…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "raytheon company",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350484",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHOD FOR ESTIMATION OF DISTRIBUTION OF LARGE LANGUAGE MODEL (LLM) ENSEMBLE JUDGMENT",
+      "org": "Honda Motor Co., Ltd.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350484",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Qu, Huaizhi",
+        "Yun, Sukwon",
+        "Siddiqui, Faizan",
+        "Lee, Kwonjoon",
+        "Chen, Tianlong"
+      ],
+      "classification": "G06N20/20",
+      "abstract": "[0000]    A method for maximum a posteriori (MAP) estimations of large language model (LLM) ensemble judgment performance is provided. The method may model a judgement distribution as a mixture of beta-binomial distributions to reflect…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "honda motor",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350463",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Model Merging in Distributed Stream Clustering",
+      "org": "CrowdStrike, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350463",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Swain, Pradeep Kumar"
+      ],
+      "classification": "G06F18/23, G06N20/00",
+      "abstract": "[0000]    A distributed stream clustering service clusters streaming data for fast and efficient analysis. A stream clustering model is distributed to computer nodes, and the computer nodes use the stream clustering model to cluster the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "crowdstrike",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350471",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHOD AND ELECTRONIC DEVICE FOR USING ARTIFICIAL INTELLIGENCE MODEL TO PERFORM PLURALITY OF TASKS BASED ON TASK TYPES",
+      "org": "SAMSUNG ELECTRONICS CO., LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350471",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "PARK, Dongwon",
+        "YI, Eojindl",
+        "CHO, Yooshin",
+        "SHIN, Jaewook"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "A method includes obtaining an input prompt and reference data determining at least one task type corresponding to the input prompt, adding, to the input prompt, a token indicating the determined at least one task type, based on the at…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "samsung electronics",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350026",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ARTIFICIAL INTELLIGENCE BASED THREE LEVEL HIERARCHICAL REINFORCEMENT LEARNING SYSTEM FOR ADAPTIVE DISTRIBUTED QUERY EXECUTION IN APACHE SPARK",
+      "org": "JOSHI Kanagaddi Sunil",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350026",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "JOSHI, Kanagaddi Sunil"
+      ],
+      "classification": "G06F16/24544, G06F16/24549, G06F16/2471, G06F9/5088, G06N3/092",
+      "abstract": "[0000]    The present invention discloses an artificial intelligence based three level hierarchical reinforcement learning system for adaptive distributed query execution in Apache Spark and method thereof. The invention comprises a query…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "joshi kanagaddi sunil",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350549",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ENTERPRISE FRAMEWORK TO DETERMINE AND PREDICT THE EXTRA DISPATCH",
+      "org": "Dell Products L.P.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350549",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Sethi, Parminder Singh",
+        "Nalam, Lakshmi Saroja",
+        "Kumar, Praveen"
+      ],
+      "classification": "G06N3/0442, G06Q10/04, G06Q10/20",
+      "abstract": "[0000]    Methods, system, and non-transitory processor-readable storage medium for a dispatch analysis system are provided herein. An example method includes training, by a dispatch analysis system, a K-means clustering model using…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "dell products l p",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350415",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPUTER SYSTEM AND METHOD FOR TRAINING AND UTILIZING A MACHINE LEARNING MODEL FOR DETERMINING PERSONALIZED COSTS ASSOCIATED WITH HEALTHCARE AND LONG-TERM CARE",
+      "org": "The Prudential Insurance Company of America",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350415",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Zhao, Wei",
+        "Tu, Yamei"
+      ],
+      "classification": "G06N3/04, G06N3/0985",
+      "abstract": "A computer system and method/process for training a machine learning (ML) model for determining personalized costs associated with both long-term care (LTC) and healthcare, expressed as predictive distribution. One or more external and…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "the prudential insurance company of america",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350389",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Recognition-Theoretic Loss Function for Machine-Learning Models: Four-Term Objective With Fixed Coefficients Derived From Recognition-Physics Constants",
+      "org": "Washburn Jonathan",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350389",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Washburn, Jonathan"
+      ],
+      "classification": "G06N3/042, G06N3/0455, G06N3/0464, G06N3/08",
+      "abstract": "[0000]    A machine-learning training objective combines a data-fit loss with a recognition-cost coupling term, a phi-depth resonance term, and an action-gradient penalty term. A scalar activation-energy field psi is derived from an…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "washburn jonathan",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350377",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEM AND METHOD FOR ARTIFICIAL INTELLIGENCE MODEL COMPRESSION AND OFFLINE OPTIMIZATION",
+      "org": "Wasted Potential Studios LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350377",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Ridder, Joseph"
+      ],
+      "classification": "G06N3/0495",
+      "abstract": "A multi-tiered Artificial Intelligence (AI) model compression system includes a memory and a processor. The memory is configured to store simulation data of a simulation, wherein the stored simulation data comprises data relating to at…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "wasted potential studios",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349977",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ARTIFICIAL INTELLIGENCE GENERATION OF A DATA VALIDATION PROGRAM TO VALIDATE AND TRANSFORM DATA",
+      "org": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349977",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Wang, Yu Ying YY",
+        "Yin, Jian Dong",
+        "Dang, Wang Hu",
+        "Chen, Yao",
+        "Wang, Fan",
+        "Jia, Zhi Yong"
+      ],
+      "classification": "G06F16/215, G06F16/2365, G06N3/0475",
+      "abstract": "Provided are a method, system, and computer program product for artificial intelligence generation of a data validation program. Data requirements are received comprising a description of data to be validated. Artificial intelligence…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "ibm",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350408",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MULTIMODAL LARGE LANGUAGE MODELS FOR DRIVING",
+      "org": "VOLKSWAGEN AKTIENGESELLSCHAFT",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350408",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "SHAMSOSHOARA, Alireza",
+        "AGHAZADEH, Pedram"
+      ],
+      "classification": "G06N3/096",
+      "abstract": "[0000]    A pretrained multimodal language model is integrated with specific tools specializing in specific capabilities which the pretrained multimodal language model lacks. The pretrained multimodal language model is fine-tuned to…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "volkswagen aktiengesellschaft",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349809",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MACHINE LEARNING SYSTEMS FOR SCHEDULING A TASK TO BE PERFORMED WITHIN A RESOURCE CONSTRAINT",
+      "org": "Truist Bank",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349809",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Sharan, Sweta",
+        "Kapil, Narayan"
+      ],
+      "classification": "G06F9/5027, G06N20/00",
+      "abstract": "[0000]    In some examples, a system can use machine learning to schedule a task of one or more tasks to be performed by a target entity within a resource constraint. The system can access training data that can include historical…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "truist bank",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352276",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DEVICE AND METHOD FOR DEEP LEARNING BASED CHANNEL STATE INFORMATION FEEDBACK FOR WIRELESS LAN",
+      "org": "SAMSUNG ELECTRONICS CO., LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352276",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "JEON, Eun Sung",
+        "JEON, Yoseb",
+        "SHIN, Junyong",
+        "KIM, Inhyoung"
+      ],
+      "classification": "G06N3/08, H04B7/0617, H04B7/0626, H04L25/0202, H04L41/16",
+      "abstract": "[0000]    According to an embodiment, a method of communication between a first device and a second device in a wireless communication system comprising the first device and the second device, the method being executed by at least one…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "samsung electronics",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350474",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEM AND METHOD FOR CLASSIFICATION TRAINING USING CLASS-CONDITIONAL DIVERGENCE-BASED OPTIMIZATION",
+      "org": "FAIR ISAAC CORPORATION",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350474",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Fahner, Gerald"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "The current subject matter relates to methods, systems, and computer-readable media that are operative to result in tuning performance of a model architecture. Consistent with this approach, a training dataset is processed using a model…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fair isaac",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352521",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "END-TO-END LEARNING FRAMEWORK FOR MIMO COMMUNICATIONS",
+      "org": "Samsung Electronics Co., Ltd.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352521",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHAHINE, Karl",
+        "KIM, Hyeji",
+        "BAE, Jung Hyun"
+      ],
+      "classification": "G06N3/045, G06N3/08, H04B7/0413, H04L25/03165, H04L2025/03426",
+      "abstract": "A communication system includes a transmitter processing chain and a receiver processing chain for multiple-input multiple-output (MIMO) communications, in which respective signal-processing functions are implemented as learnable neural…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "samsung electronics",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350469",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "LEARNING DEVICE AND FUTURE TRAJECTORY PREDICTION SYSTEM",
+      "org": "TOYOTA JIDOSHA KABUSHIKI KAISHA",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350469",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "TANAKA, Kohtaro",
+        "USUI, Yoshiyuki",
+        "KAWANAI, Taichi"
+      ],
+      "classification": "G01S13/58, G06N20/00",
+      "abstract": "[0000]    Identifier matching is performed on a first object and a second object recognized by a first recognition and position estimator with low performance and a second recognition and position estimator with high performance,…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "toyota jidosha kabushiki kaisha",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352564",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DATA CONTROLS FOR A DISTRIBUTED CLOUD ENVIRONMENT",
+      "org": "Bank of America Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352564",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "V, Sukanya",
+        "Maghnani, Vinod"
+      ],
+      "classification": "G06N3/044, G06N3/0455, H04L41/16, H04L67/10",
+      "abstract": "Systems, methods, and apparatus are provided for data controls for a distributed cloud environment. A first AI/ML model may include a recurrent neural network (RNN). The first AI/ML model may weight an input sequence based on criticality…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "bank of america",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350412",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "TRANSFER LEARNING FOR TRAINING ARTIFICIAL INTELLIGENCE MODELS WITH IMAGES FROM IMAGING FLOW CYTOMETERS",
+      "org": "Cytek Biosciences, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350412",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Venkatachalam, Vidya",
+        "Gray, Maxwell H."
+      ],
+      "classification": "G01N15/1433, G06N3/0464, G06N3/096, G06N3/0985, G06V10/82, G06V10/87",
+      "abstract": "Methods of speeding the training of a convolutional neural network (CNN) to classify new images of biological cells captured by an imaging flow cytometer (IFC) are disclosed. Transfer learning with and without mapping is used based on the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "cytek biosciences",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350538",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR IMPLEMENTING MACHINE LEARNING TECHNIQUES FOR REPORT GENERATION",
+      "org": "Fidelity Information Services, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350538",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "PATERSON, Kieron",
+        "BAGGA, Angad",
+        "PADHI, Gopal",
+        "DEMIDOVA, Julia",
+        "SHIRADHONKAR, Mayur",
+        "SHUKLA, Sudhanshu",
+        "DAKE, Joel Earl",
+        "MALLAIAH, Gowtham Gyarahalli"
+      ],
+      "classification": "G06F16/2457, G06F16/25, G06F16/3347, G06N20/00, G06Q10/10, G06Q40/064, G06Q50/20",
+      "abstract": "A computer-implemented method for report generation, the method including receiving, from a user, a request to generate a report, determining, by one or more processors, whether the request received is a valid request, executing, by the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fidelity information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350371",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CREATION OF USER-EDITABLE LOGIC CIRCUITS IN A VIRTUAL ENVIRONMENT",
+      "org": "Specs Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350371",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kroymann, Daniel",
+        "Wehrly, Joshua",
+        "Brown, Cameron",
+        "Orhan, Omer Bilal",
+        "Gilpatrick, Joshua",
+        "Smith, Benjamin"
+      ],
+      "classification": "G02B27/017, G06F3/011, G06F40/40, G06F8/30, G06F8/34, G06F8/51, G06N3/0475",
+      "abstract": "[0000]    A computing system for a virtual reality environment is provided. The computing system receives a natural language prompt to add logic to a target virtual object within the virtual environment and uses a generative model to…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "specs",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350416",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ADAPTIVE X-FIELD OPTIMIZER FOR FIXED-DAMPED ANALYTIC PARAMETER UPDATES IN MACHINE-LEARNING TRAINING",
+      "org": "Washburn Jonathan",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350416",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Washburn, Jonathan"
+      ],
+      "classification": "G06N3/0985",
+      "abstract": "A computer-implemented optimizer for training machine-learning models generates parameter updates by solving a damped linear system formed from a recognition-cost gradient and a curvature matrix associated with the same recognition-cost…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "washburn jonathan",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350709",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPUTER SYSTEM AND METHOD FOR TRAINING AND UTILIZING A MACHINE LEARNING MODEL FOR DETERMINING PERSONALIZED COSTS ASSOCIATED WITH HEALTHCARE",
+      "org": "The Prudential Insurance Company of America",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350709",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Zhao, Wei",
+        "Tu, Yamei"
+      ],
+      "classification": "G06N3/08, G06Q40/08",
+      "abstract": "[0000]    A computer system and method/process for training, and utilizing, a machine learning (ML) model for determining personalized costs associated with healthcare, expressed as predictive distribution. Accessed are one or more…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "the prudential insurance company of america",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350710",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMPUTER SYSTEM AND METHOD FOR TRAINING AND UTILIZING A MACHINE LEARNING MODEL FOR DETERMINING PERSONALIZED COSTS ASSOCIATED WITH LONG-TERM CARE",
+      "org": "The Prudential Insurance Company of America",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350710",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Zhao, Wei",
+        "Tu, Yamei"
+      ],
+      "classification": "G06N3/09, G06Q40/08",
+      "abstract": "[0000]    A computer system and method/process for training a machine learning (ML) model for determining personalized costs associated with long-term care (LTC), expressed as predictive distribution. One or more external and internal…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "the prudential insurance company of america",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350094",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "UNIVERSALLY-PLUGGABLE AGENTIC WORKFLOW ENGINE WITH TEMPLATIZED CONNECTOR STRUCTURES",
+      "org": "The Dot Net Factory, LLC.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350094",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "PARKER, Patrick Henry"
+      ],
+      "classification": "G06F11/3612, G06F12/0891, G06F16/211, G06F16/9024, G06N3/0475, H04L63/0807, H04L69/162, H04L9/3239",
+      "abstract": "An agent-centric workflow system includes a workflow engine operable to receive a workflow identifier and return a self-describing, zero-shot task payload. The workflow engine includes a next path generator operable to identify a possible…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "the dot net factory",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350434",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DUAL-CHANNEL AI SYSTEM FOR STRUCTURAL COHERENCE THROUGH REFLECTIVE ALIGNMENT AND USER LOCALIZATION",
+      "org": "Gassman Brian",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350434",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Gassman, Brian"
+      ],
+      "classification": "G06N3/045, G06N5/04",
+      "abstract": "A computer intelligence system enforces contextual alignment, between user task prompts and inference outputs through a dual-channel architecture comprising a coherence channel and an inference channel. Upon receiving a task prompt, the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "gassman brian",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351275",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "LATENCY-OPTIMIZED AI AUDIO PROCESSING",
+      "org": "Intel Products IP LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351275",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Maziewski, Przemyslaw",
+        "Banas, Jan",
+        "Trzcinski, Karol",
+        "Rosenkiewicz, Sebastian",
+        "Baryczkowski, Piotr",
+        "Kurylo, Lukasz"
+      ],
+      "classification": "G06N3/0455, G10L19/00, G10L21/04",
+      "abstract": "[0000]    Systems and methods are provided for latency-optimized artificial intelligence (AI) audio processing. A shared feature encoder converts a time-domain audio signal into feature-domain data for processing by multiple AI models in…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "intel products ip",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350462",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CONTEXT-AWARE SELECTION OF DIGITAL CONTENT ITEMS",
+      "org": "Motorola Mobility LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350462",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Agrawal, Amit Kumar",
+        "Raghavan, Krishnan",
+        "Patel, Nakul"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "In aspects of context-aware selection of digital content items, a mobile device extracts event data identifying an event to be attended by a user of the mobile device. The mobile device determines, using a machine learning (ML) model and…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "motorola mobility",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350350",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ENHANCED TRANSFORMER BASED NEURAL NETWORK ARCHITECTURE WITH ADAPTIVE WEIGHT OPTIMIZATION AND LSTM COMPONENTS",
+      "org": "NOLA AI, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350350",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kowall, Correy Allen",
+        "Veghlen, Robbie",
+        "Jupiter, Sabelo",
+        "Dupuy, Leo",
+        "Sivakumar, Nivedita",
+        "Christiansen, Zachary"
+      ],
+      "classification": "G06N3/0442, G06N3/0499",
+      "abstract": "The present invention discloses a transformer-based neural network architecture including a modified linear transformation layer configured to update weights using a variance-based learning rule during training. The variance-based learning…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nola ai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350417",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHOD AND SYSTEM FOR PROCESSING USER QUERIES USING LLMS ON RESOURCE CONSTRAINED DEVICES",
+      "org": "L&T TECHNOLOGY SERVICES LIMITED",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350417",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "SUBRAMANI, VIKRAM",
+        "BHADAURIA, SUDHIR"
+      ],
+      "classification": "G06N3/10",
+      "abstract": "This disclosure relates to a method and system for processing user queries using Large Language Models (LLMs) on resource constrained devices. The method may include receiving, via a user interface, an LLM, a configuration file of the LLM,…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "l t technology services limited",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350418",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "AUTONOMOUS ENGINEERING INTELLIGENCE SYSTEM WITH BIO-INSPIRED DUAL-HELIX ORCHESTRATION, REAL-TIME EXTERNAL WORLD INTELLIGENCE, AND SYNTHETIC INTELLIGENCE-GUIDED PROPAGATION",
+      "org": "McCann Timothy Allen",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350418",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "McCann, Timothy Allen"
+      ],
+      "classification": "G06N3/123, G06N5/04, G06Q10/06375, G06T19/20, G06T2219/024",
+      "abstract": "[0000]    An autonomous, computer-implemented engineering intelligence system synchronizes lifecycle phase progression and system architecture evolution through a bio-inspired dual-helix computational substrate comprising a Lifecycle DNA…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "mccann timothy allen",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351411",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR EXECUTING A PLURALITY OF MACHINE LEARNING MODELS",
+      "org": "Medtronic, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351411",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Hageman, Kristin N.",
+        "Nedrud, Joshua J.",
+        "Anderson, Joel A.",
+        "Brink, Thaddeus S.",
+        "Tracton, Philip E.",
+        "Siorek, Malgorzata M."
+      ],
+      "classification": "G06N20/00, G16H10/60, G16H40/63, G16H50/20",
+      "abstract": "An example implantable medical device includes a memory configured to store: first physiological data of a patient, second physiological data of the patient, a first machine learning (ML) model, and a second ML model; a ML model hardware…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "medtronic",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350405",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Unified Valuation Framework (UVF) for Adaptive Decision Optimization in Autonomous and Distributed Systems",
+      "org": "Hallgren Johan Oscar",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350405",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Hallgren, Johan Oscar"
+      ],
+      "classification": "G06F17/11, G06N3/092",
+      "abstract": "[0000]    The Unified Valuation Framework (UVF) provides a modular optimization structure enabling autonomous agents and distributed systems to dynamically optimize cumulative operational value by balancing opportunity capture, future…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "hallgren johan oscar",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351354",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "GENERATING A COMMON SUBSTRUCTURE DATA TREE TO REPRESENT MOLECULAR STRUCTURES TO SELECT TARGET MOLECULES FOR DRUG DISCOVERY",
+      "org": "Recursion Pharmaceuticals, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351354",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "WYATT, Oscar Charles",
+        "SMITH, Robert Thomas"
+      ],
+      "classification": "G06N3/092, G16C20/50, G16C20/70",
+      "abstract": "[0000]    The present disclosure relates to systems, non-transitory computer-readable media, and methods that generates a common substructure data tree to further generate a set of target molecular structures. Indeed, in one or more…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "recursion pharmaceuticals",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350413",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "GOLDEN-RATIO RESONANCE REGULARIZER FOR SELF-SIMILAR SCALE ORGANIZATION IN MACHINE-LEARNING MODEL",
+      "org": "Washburn Jonathan",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350413",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Washburn, Jonathan"
+      ],
+      "classification": "G06N3/0464, G06N3/096",
+      "abstract": "[0000]    A machine-learning regularization method and system are disclosed. Characteristic scales are extracted from one or more model tensors, adjacent scale ratios are compared to a golden-ratio target phi, and deviations are weighted…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "washburn jonathan",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349277",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "GENERATIVE ARTIFICIAL INTELLIGENCE FOR MANUFACTURING INTRAOCULAR LENSES",
+      "org": "ALCON INC.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349277",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "ANGELOPOULOS, Robert Dimitri",
+        "PETERSON, Rachael Claire",
+        "STANFILL, Bryan"
+      ],
+      "classification": "G02C7/027, G02C7/028, G06N3/0475, G16H10/60, G16H20/00, G16H20/40, G16H40/63, G16H50/20, G16H50/70, G06F30/27",
+      "abstract": "A computer-implemented method of machine learning based lens optimization. Embodiments include receiving, by a machine learning model, inputs comprising features of a patient. Embodiments include identifying, using a first generative model…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "alcon",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350361",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR VISION-LANGUAGE MODELS OF AGENTIC OPERATIONS",
+      "org": "Salesforce, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350361",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Grigsby, Jefferson",
+        "Ryoo, Michael S.",
+        "Niebles Duque, Juan Carlos"
+      ],
+      "classification": "G06N3/0455, G06N3/084",
+      "abstract": "Embodiments described herein provide a reinforcement learning (RL)-based framework to fine-tune VLMs for agent tasks such that the finetuned VLM may produce outputs that align with agent tasks (toward achieving success in the designated…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "salesforce",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349667",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ITERATIVE PROMPT VALIDATION FOR CODE COMPLETION",
+      "org": "MICROSOFT TECHNOLOGY LICENSING, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349667",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "TODIREL, Ion",
+        "MIHALCEA, Bogdan Ionut"
+      ],
+      "classification": "G06F11/3688, G06F8/30, G06F8/33, G06F8/35, G06N20/00",
+      "abstract": "[0000]    Systems are provided for facilitating iterative prompt validation for code completion by at least introducing a real-time validation mechanisms into the code completion processes. These mechanisms involve the compiling of…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350376",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MODEL COMPRESSION METHOD AND APPARATUS BASED ON MODEL PROFILING",
+      "org": "HYUNDAI MOTOR COMPANY",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350376",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "LEE, Keonho",
+        "LEE, Yujin",
+        "JIN, Moonsub",
+        "HUH, Jingang"
+      ],
+      "classification": "G06N3/0495",
+      "abstract": "[0000]    A model profiling-based model compression method includes receiving information regarding a target model and information regarding a target device, profiling the target model on the target device to determine a latency value for…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "hyundai motor company",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260353302",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS FOR MULTIVIEW LEARNING FOR OPTIMIZED UPLINK POWER CONTROL",
+      "org": "InterDigital Patent Holdings, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260353302",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Ibrahim, Mohamed Salah",
+        "Narayanan Thangaraj, Yugeswar Deenoo",
+        "Beluri, Mihaela",
+        "Tan, Ahmet Serdar"
+      ],
+      "classification": "G06N20/00, H04W52/146, H04W52/18, H04W52/242, H04W52/362, H04W52/42",
+      "abstract": "[0000]    A wireless transmit receive unit (WTRU) may receive configuration information. The configuration information may comprise an indication of a number of views associated with a multiview canonical correlation analysis (CCA)…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "interdigital patent holdings",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350354",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DYNAMIC MULTI-AGENT FRAMEWORK FOR UNSTRUCTURED DATA EXTRACTION, NORMALIZATION, AND VALIDATION",
+      "org": "AGENTECH AI, INC.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350354",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "James, Spencer"
+      ],
+      "classification": "G06N3/042, G06N3/045, G06N3/0464, G06N3/08",
+      "abstract": "A hierarchical multi-agent system processes unstructured data through coordinated operation of specialized artificial intelligence agents. An orchestrator agent dynamically allocates processing tasks across extractor agents, formatter…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "agentech ai",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350460",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CONTEXT-AWARE APPAREL SELECTION USING MACHINE LEARNING MODELS",
+      "org": "Motorola Mobility LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350460",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Agrawal, Amit Kumar",
+        "Raghavan, Krishnan",
+        "Patel, Nakul"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "In aspects of context-aware apparel selection using machine learning (ML) models, a mobile device extracts event data identifying an event to be attended by a user of the mobile device. To extract the event data, the mobile device uses an…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "motorola mobility",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350372",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SOFTMAX APPROXIMATION WITH SCALED QUANTIZATION FOR EFFICIENT EXECUTION OF ATTENTION MECHANISMS",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350372",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BHARADWAJ, Vedula Venkata Srikant",
+        "RAJMOHAN, Saravanakumar",
+        "RÜHLE, Victor Jonas",
+        "KANG, Hao"
+      ],
+      "classification": "G06F17/18, G06F5/01, G06F7/556, G06N3/048",
+      "abstract": "[0000]    A data processing system implements analyzing a textual input using one or more layers of an LLM to obtain intermediate results; providing the intermediate results as an input to an attention mechanism of the LLM; analyzing the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349997",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "GENERATIVE MODEL SYSTEM WITH AI CONTEXT PROTOCOL ENDPOINT-ENABLED SERVICE DISCOVERY AND REGISTRATION",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349997",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GOODNER, Marc A.",
+        "KRABACH, Brian Scott"
+      ],
+      "classification": "G06F16/243, G06F40/00, G06F9/5055, G06F9/5072, G06F9/542, G06F9/547, G06N20/00, G06N5/00, G06Q10/10, G06Q30/015",
+      "abstract": "A generative model system is provided with artificial intelligence (AI) context protocol endpoint-enabled service discovery, registration, and task management. The system includes a generative model agent configured to query an Artificial…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350345",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MACHINE-LEARNING ARCHITECTURE FOR HANDLING A DOUBLE-DEPENDENCY PROBLEM",
+      "org": "STARBUCKS CORPORATION",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350345",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Chen, Yifei",
+        "Noreen, Bryan H.",
+        "Phanse, Bhagyesh",
+        "An, Bingjie",
+        "Nyenya, Andrew"
+      ],
+      "classification": "G06N3/04, G06N3/045, G06N3/08, G06N3/09, G06Q30/06311",
+      "abstract": "[0000]    A machine-learning architecture (MLA) can generate a modifier recommendation for a target base object. In some examples, the MLA can include an embedding layer that generates an embedded set of previously selected modifiers, an…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "starbucks",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350483",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "PARALLEL MACHINE LEARNING OPTIMIZATION PIPELINES FOR OPTIMIZING TIME AND CAPACITY PREDICTIONS",
+      "org": "Optum, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350483",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "TIWARI, Arun Kumar",
+        "NATH, Srinjay",
+        "SHARMA, Amardeep",
+        "SINGH, Deepak",
+        "SINGH, Sundeep S.",
+        "Nistler, Alice S."
+      ],
+      "classification": "G06N20/20",
+      "abstract": "[0000]    Various embodiments of the present disclosure provide a parallel processing architecture that improves the functionality of a computer in various aspects. The techniques comprise generating, using a clustering model of first…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "optum",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350380",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "DYNAMIC PARALLELISM FOR LANGUAGE MODEL INFERENCE",
+      "org": "NVIDIA Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350380",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BHATIA, Nidhi",
+        "BORKAR, Ritika",
+        "ROUHANI, Bita Darvish"
+      ],
+      "classification": "G06F9/3885, G06N3/0499, G06N3/063, G06N5/04",
+      "abstract": "[0000]    Various examples relate to dynamic parallelism for language model inference. A pool of processing units is reconfigured between different parallelism modes during inference. In a first mode for attention computation, contextual…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nvidia",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349818",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR IDENTIFICATION OF IDLE SERVERS BY IMPLEMENTING MULTIDIMENSIONAL PROCESS AND NETWORK PROXIMITY METRICS",
+      "org": "Fidelity Information Services, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349818",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "GHOSH, Ranadhir"
+      ],
+      "classification": "G06F9/485, G06F9/5027, G06F9/505, G06F9/5072, G06F9/5077, G06F9/5083, G06N20/00, G06N20/20, G06N5/01, G06N5/04, G06F2209/5022",
+      "abstract": "[0000]    A computer implemented method for identifying an idle server is disclosed. The method includes receiving metric data from a server; determining, by a first machine learning system, a multidimensional embedding that defines a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "fidelity information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351424",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR TRAINING MACHINE LEARNING SYSTEMS TO CLASSIFY SECURED DATA OBJECTS COMPRISING SETS OF INDICATORS BASED ON PREDEFINED FEATURES",
+      "org": "AML JV, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351424",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "ISLAM, Md Nazmul",
+        "SMITH, Clayton"
+      ],
+      "classification": "G06F18/241, G06N20/00, G16H10/60, G16H50/70",
+      "abstract": "[0000]    Systems and methods described herein can obtain treatment profiles for patients being treated for a disease, each profile including marker values representing a quantified state of the patient. The system can generate second…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "aml jv",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350461",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MACHINE LEARNING WITH FEDERATED DATA IN GPUS AND DIRECT AI CORE DEPLOYMENT",
+      "org": "SAP SE",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350461",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Krishnamoorthy, Sangeetha",
+        "Seeburger, John",
+        "Kapur, Karishma",
+        "Bian, Ran",
+        "Bishka, Alex",
+        "Nagapandi, Sivakumar"
+      ],
+      "classification": "G06F16/283, G06F8/61, G06N20/00",
+      "abstract": "Described is machine learning (ML) with federated data in graphics processing units (GPUs) and direct artificial intelligence (AI) core deployment. In a computer-implemented method, federated ML (FedML) library is installed in a ML…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "sap se",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350362",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "CUSTOMIZING GENERATIVE MACHINE LEARNING MODEL OUTPUT",
+      "org": "Adobe Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350362",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "RAMU, Pritika",
+        "Sankar, Varsha",
+        "M Y, Meghanath",
+        "Basu, Debraj Debashish",
+        "Saxena, Apoorv Umang"
+      ],
+      "classification": "G06N3/0455, G06N3/084",
+      "abstract": "[0000]    In various examples, a tone-adapted machine learning model is generated based on a training dataset to generate content that is representative of and/or otherwise includes a particular tone. For example, textual data generated to…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "adobe",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350156",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "HARDWARE ANOMALY DETECTION USING PROPERTY ENFORCEMENT",
+      "org": "Eaton Intelligent Power Limited",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350156",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Koyatan Chathoth, Ajesh",
+        "Zuzak, Michael Jeffrey"
+      ],
+      "classification": "G06F21/54, G06F21/554, G06N20/10",
+      "abstract": "A system may initialize a hardware watchdog timer configured to perform a remedial action unless the hardware watchdog timer is reset by a security confirmation signal before a predetermined time period expires. The system may initialize a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "eaton intelligent power limited",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350482",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ANALYTICAL MACHINE LEARNING-DRIVEN PREDICTIVE MODEL FOR ENHANCED DATA TIERING AND STORAGE OPTIMIZATION",
+      "org": "Dell Products L.P.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350482",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kumar, Avinash",
+        "Pepper, Roger M.",
+        "Lewis, Donna Barry"
+      ],
+      "classification": "G06N20/20",
+      "abstract": "Agents are installed across a set of clients to collect values for a set of features associated with files backed up from the clients to a data protection appliance. Each file is classified as being one of included or excluded based on the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "dell products l p",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350383",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHODS FOR LEARNING MULTI-TASK AI/ML-BASED FUNCTIONS",
+      "org": "InterDigital Patent Holdings, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350383",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Arfaoui, Mohamed Amine",
+        "Pietraski, Philip",
+        "Zhang, Guodong",
+        "Koc, Asil",
+        "Kaewell, John",
+        "Steinbach, Daniel"
+      ],
+      "classification": "G06N3/045, G06N3/08, H04W24/10",
+      "abstract": "A method may be implemented by a wireless transmit/receive unit (WTRU), and may include determining to train an artificial intelligence or machine learning (AI/ML)-based function, determining that the AI/ML-based function to be trained is…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "interdigital patent holdings",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352649",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ENSURING INTEGRITY OF MODELS THROUGH FINGERPRINTING",
+      "org": "International Business Machines Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352649",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Buckland, Bryan M.",
+        "Kalyanaraman, Raghuraman",
+        "Rutkowski, Matthew Francis",
+        "Bacarella, David John"
+      ],
+      "classification": "G06N20/00, H04L63/0807",
+      "abstract": "Methods for verifying the identity of an artificial intelligence (AI) model using fingerprint data are disclosed. The method includes receiving a request to verify the model's identity, obtaining fingerprint data associated with the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "ibm",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350374",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHOD AND APPARATUS FOR SHIFTED QUANTIZATION FOR ENABLING QUANTIZED EXECUTION OF ATTENTION OPERATION",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350374",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BHARADWAJ, Vedula Venkata Srikant",
+        "RAJMOHAN, Saravanakumar",
+        "RÜHLE, Victor Jonas",
+        "KANG, Hao"
+      ],
+      "classification": "G06F16/3329, G06F17/16, G06N3/0475, G06N3/048, G06N3/0495",
+      "abstract": "[0000]    A data processing system implements analyzing a textual input using an LLM to generate a query data matrix and a key data matrix; quantizing the query data matrix and the key data matrix using a quantization framework to generate…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349820",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "OPPORTUNISTIC MICRO-TRAINING ON EDGE DEVICES USING SPARE GPU UTILIZATION",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349820",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHALLAPALLY, Aditya Vasanth"
+      ],
+      "classification": "G06F9/3836, G06F9/5038, G06F9/5061, G06N3/08, G06N3/098, G06F2209/5017, G06F2209/503",
+      "abstract": "A system and method for leveraging spare GPU capacity on edge devices through opportunistic micro-training of machine learning models. The system monitors edge devices to detect available compute capacity and decomposes training tasks into…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350343",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "INFERENCE ON MEMORY-CONSTRAINED SYSTEMS",
+      "org": "NVIDIA Corporation",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350343",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Ukarande, Aditya",
+        "Rangan, Ram",
+        "Blackstein, Marc"
+      ],
+      "classification": "G06N3/02, G06T1/20, G06T1/60",
+      "abstract": "[0000]    Apparatuses, systems, and techniques to perform neural networks. For example, one or more processors cause a second portion of a neural network to be loaded into memory concurrently with inference performed using a first portion…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "nvidia",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260352910",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "PREDICTIVE CONTENT DISTRIBUTION SYSTEM",
+      "org": "DISH Network L.L.C.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260352910",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Kotha, Aakash",
+        "Parsai, Vineet",
+        "Makala, Rajesh"
+      ],
+      "classification": "G06N20/20, H04N21/251, H04N21/25883",
+      "abstract": "A method for predicting content distribution platform usage is provided herein. The method includes obtaining user interaction data associated with a content distribution platform and obtaining demographic data. The method further includes…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "dish network",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350398",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "HARDWARE AWARE GRADIENT PRIMITIVES FOR MEMORY EFFICIENT MACHINE LEARNING TRAINING",
+      "org": "Bytedance Technology Ltd.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350398",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "DU, Jian",
+        "ZHANG, Shikun"
+      ],
+      "classification": "G06N3/084",
+      "abstract": "The present disclosure involves methods, apparatus, and systems computing gradient norms. This includes: receiving, at a processing system for training machine learning models, an input tensor comprising a dimension T representing an input…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "bytedance technology",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350473",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Systems and Methods for Task Multiplexing in Machine Learning",
+      "org": "Northeastern University",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350473",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Restuccia, Francesco",
+        "Abdi, Mohammad",
+        "Meneghello, Francesca"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "[0000]    A computer-based system and corresponding computer-implemented method of multiplexing are provided. Multiple protected keys corresponding to multiple task inputs for a machine learning (ML) model are generated. The task inputs…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "northeastern university",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350470",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "MACHINE LEARNING SYSTEMS TO IDENTIFY DATA DRIFT FOR MACHINE-LEARNING MODELS TRAINED TO GENERATE PREDICTIONS AND RECOMMENDATIONS",
+      "org": "Allvest Information Services, Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350470",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Hosman, Sean B.D.",
+        "Riley, Casey L.",
+        "Rist, Marjorie K.",
+        "Snell, Benjamin P."
+      ],
+      "classification": "G06N20/00",
+      "abstract": "A method can include: receive a historical data set, extract feature vectors from the historical data set corresponding to the input features for the historical recidivism model, split the feature vectors into a training set and a test…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "allvest information services",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350757",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "NEURAL NETWORK-BASED IMAGE DENOISING",
+      "org": "SAMSUNG ELECTRONICS CO., LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350757",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "HAM, Bumsub",
+        "CHOI, Jeongwoo",
+        "LEE, Seunghoon"
+      ],
+      "classification": "G06N3/0495, G06N3/084, G06T5/70",
+      "abstract": "An electronic device may include a memory storing one or more instructions to operate a first neural network model and a second neural network model, and a processor configured to execute the one or more instructions to generate a first…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "samsung electronics",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350381",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "ANALOG CONTENT ADDRESSABLE MEMORY APPROXIMATING ACTIVATION FUNCTIONS",
+      "org": "Hewlett Packard Enterprise Development LP",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350381",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Pedretti, Giacomo",
+        "Zhao, Lei",
+        "Buonanno, Luca"
+      ],
+      "classification": "G06N3/048, G06N3/0495, G06N3/065, G11C15/04",
+      "abstract": "Processing resources program one or more analog content-addressable memories (ACAMs) to approximate an activation function by quantizing outputs of the activation function to a number of bits based on inputs to the activation function from…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "hewlett packard enterprise development lp",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350993",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SUMMARIZATION OF VIDEO GAME FRAMES USING GENERATIVE MACHINE LEARNING",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350993",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CHEMISTRUCK, Michael G.",
+        "MARIAN, Michael Jacob",
+        "CHEMISTRUCK, Daniel"
+      ],
+      "classification": "G06N3/0475, G06V10/82, G06V20/47, G11B27/031",
+      "abstract": "[0000]    This document relates to summarization of video frames output by a video game using a generative machine learning model. For instance, a sequence of video frames output by a video game during a gaming session can be collected.…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260349807",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Adapter-Based Extension of a Base Model",
+      "org": "Microsoft Technology Licensing, LLC",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260349807",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "CAMERON, Pashmina Jonathan",
+        "JACKSON-FLUX, Henry Richard",
+        "SOMMERLADE, Eric Chris Wolfgang",
+        "VIJAYAN, Karthik",
+        "WAGLE, Justin James"
+      ],
+      "classification": "G06F9/5027, G06N3/045, G06N3/0495, G06N3/096, G06N3/10",
+      "abstract": "[0000]    A technique enables extension of the capabilities of a base model in a time-efficient and resource efficient manner. The technique includes receiving one or more adapter models from a network-accessible source. The base model and…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "microsoft technology licensing",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260346887",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "TRACK SIDE INSTALLATION FOR RAIL MONITORING",
+      "org": "University of Pittsburgh - Of the Commonwealth System of Higher Education",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260346887",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Rizzo, Piervincenzo",
+        "Belding, Matthew",
+        "Hager, Charles Clemenes"
+      ],
+      "classification": "B61K9/08, G01N29/045, G06N3/0464",
+      "abstract": "An apparatus includes a striker assembly including a base, a striker coupled to the base, a spring coupled to the striker, a spring compressor coupled to the spring to compress the spring and selectively release the striker to strike a…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "university of pittsburgh of the commonwealth system of higher education",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260351421",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Methods for diagnosing and treating colorectal cancer",
+      "org": "Sanford Health",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260351421",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Weaver, Max"
+      ],
+      "classification": "G06N20/20, G16H10/60, G16H20/40, G16H50/20, G16H50/30, G16H50/70",
+      "abstract": "Improved methods are provided for training and executing models to predict whether a patent is at elevated risk of colorectal cancer and thus should be assessed via colonoscopy, stool sample, or other diagnostic technique to detect the…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "sanford health",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350478",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "HARDWARE AWARE GRADIENT PRIMITIVES FOR MEMORY EFFICIENT MACHINE LEARNING TRAINING",
+      "org": "Bytedance Technology Ltd.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350478",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "DU, Jian",
+        "XIAO, Yingtai",
+        "ZHANG, Shikun"
+      ],
+      "classification": "G06N20/00",
+      "abstract": "[0000]    The present disclosure involves methods, apparatus, and systems for computing gradient norms. In a first aspect, this includes: receiving, at a processing system for training machine learning models, an input tensor comprising,…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "bytedance technology",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260350370",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS FOR STATE SPACE MODEL-BASED SYNTHETIC DATA GENERATION FOR LONGITUDINAL AND TIME SERIES DATA",
+      "org": "SAS Institute Inc.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260350370",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "Selukar, Rajesh Sadashiv",
+        "Chen, Xilong",
+        "Han, Sanggohn",
+        "Elsheimer, David Bruce",
+        "Shen, Ji"
+      ],
+      "classification": "G06N3/0475",
+      "abstract": "[0000]    A system and method includes receiving, via a network interface coupled to one or more input devices, a synthetic data generation request comprising longitudinal data and one or more synthetic data generation parameters; fitting,…",
+      "ingestedAt": "2026-11-07T00:50:37.939Z",
+      "orgId": "sas institute",
+      "relevanceScore": 0.85
     }
   ],
   "trend": [
@@ -1395990,6 +1397450,85 @@
       "fundingUsd": 2778295,
       "totalEntries": 61613,
       "windowCap": 600
+    },
+    {
+      "date": "2026-11-07",
+      "counts": {
+        "PL": 3,
+        "CN": 183,
+        "US": 52,
+        "KR": 14,
+        "MX": 3,
+        "AU": 4,
+        "SE": 2,
+        "IN": 36,
+        "JP": 8,
+        "DE": 16,
+        "FR": 5,
+        "CZ": 1,
+        "PT": 4,
+        "ES": 5,
+        "IR": 4,
+        "IT": 6,
+        "CA": 5,
+        "OM": 1,
+        "MY": 7,
+        "HK": 4,
+        "TW": 7,
+        "ID": 5,
+        "VN": 3,
+        "TR": 8,
+        "CO": 2,
+        "GB": 8,
+        "JO": 3,
+        "AE": 1,
+        "TZ": 1,
+        "FI": 2,
+        "PK": 7,
+        "UA": 1,
+        "ET": 2,
+        "KZ": 3,
+        "LB": 1,
+        "SA": 8,
+        "BD": 2,
+        "DZ": 3,
+        "IL": 1,
+        "NG": 7,
+        "RU": 4,
+        "IE": 1,
+        "RS": 2,
+        "GR": 2,
+        "NP": 1,
+        "AT": 1,
+        "NL": 3,
+        "HU": 4,
+        "UZ": 2,
+        "RO": 4,
+        "BR": 1,
+        "CL": 1,
+        "DK": 1,
+        "MA": 2,
+        "CH": 3,
+        "LT": 1,
+        "BF": 1,
+        "PE": 1,
+        "GH": 1,
+        "IQ": 2,
+        "EC": 1,
+        "EG": 1,
+        "ZA": 1,
+        "PR": 1,
+        "SK": 1
+      },
+      "stageCounts": {
+        "innovation": 11495,
+        "scaling": 11,
+        "adoption": 32,
+        "investment": 61
+      },
+      "fundingUsd": 2778295,
+      "totalEntries": 61709,
+      "windowCap": 600
     }
   ],
   "notes": [
@@ -1396025,7 +1397564,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -1396042,10 +1397581,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-09-23",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-09-24",
           "outcome": "not-attempted"
         },
@@ -1396220,12 +1397755,16 @@
         {
           "date": "2026-11-06",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -1396234,7 +1397773,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -1396243,7 +1397782,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -1396260,10 +1397799,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-09-23",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-09-24",
           "outcome": "not-attempted"
         },
@@ -1396438,6 +1397973,10 @@
         {
           "date": "2026-11-06",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "not-attempted"
         }
       ]
     },
@@ -1396450,10 +1397989,6 @@
       "key": "sam-gov",
       "lastRunOutcome": "failed",
       "recentMisses": [
-        {
-          "date": "2026-09-16",
-          "outcome": "failed"
-        },
         {
           "date": "2026-09-17",
           "outcome": "failed"
@@ -1396629,12 +1398164,16 @@
         {
           "date": "2026-11-06",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-07",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -1396643,7 +1398182,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -1396658,7 +1398197,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -1396667,7 +1398206,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -1396676,7 +1398215,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -1396685,7 +1398224,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -1396694,7 +1398233,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -1396703,7 +1398242,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-06T19:03:10.930Z",
+      "lastSuccessfulPull": "2026-11-07T00:50:37.939Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -1396716,329 +1398255,329 @@
       "symbol": "NVDA",
       "name": "Nvidia Corp",
       "marketCapUsd": 4385095200000,
-      "asOf": "2026-11-06T18:50:53.055Z",
+      "asOf": "2026-11-07T00:38:24.782Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
       "marketCapUsd": 1831343973990.3,
-      "asOf": "2026-11-06T18:51:08.285Z",
+      "asOf": "2026-11-07T00:38:39.965Z",
       "url": "https://www.tsmc.com"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc. Common Stock",
       "marketCapUsd": 1391656314543.45,
-      "asOf": "2026-11-06T18:51:23.522Z",
+      "asOf": "2026-11-07T00:38:55.121Z",
       "url": "https://www.broadcom.com"
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
       "marketCapUsd": 663251284304.3999,
-      "asOf": "2026-11-06T18:51:38.756Z",
+      "asOf": "2026-11-07T00:39:10.314Z",
       "url": "https://www.amd.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "marketCapUsd": 522876979684.30005,
-      "asOf": "2026-11-06T18:51:53.999Z",
+      "asOf": "2026-11-07T00:39:25.561Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "marketCapUsd": 178390400000,
-      "asOf": "2026-11-06T18:52:09.235Z",
+      "asOf": "2026-11-07T00:39:40.747Z",
       "url": "https://www.arm.com"
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology, Inc. Common Stock",
       "marketCapUsd": 120163733541.1,
-      "asOf": "2026-11-06T18:52:24.475Z",
+      "asOf": "2026-11-07T00:39:55.884Z",
       "url": "https://www.marvell.com"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "marketCapUsd": 167722500000,
-      "asOf": "2026-11-06T18:52:39.721Z",
+      "asOf": "2026-11-07T00:40:11.063Z",
       "url": "https://www.qualcomm.com"
     },
     {
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
       "marketCapUsd": 742654882124.6799,
-      "asOf": "2026-11-06T18:52:54.961Z",
+      "asOf": "2026-11-07T00:40:26.279Z",
       "url": "https://www.micron.com"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "marketCapUsd": 17790622598.719997,
-      "asOf": "2026-11-06T18:53:10.188Z",
+      "asOf": "2026-11-07T00:40:41.475Z",
       "url": "https://www.supermicro.com"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
       "marketCapUsd": 3979920446253.36,
-      "asOf": "2026-11-06T18:53:25.399Z",
+      "asOf": "2026-11-07T00:40:56.628Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
       "marketCapUsd": 3473915580000,
-      "asOf": "2026-11-06T18:53:40.598Z",
+      "asOf": "2026-11-07T00:41:11.832Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
       "marketCapUsd": 2813686718604.26,
-      "asOf": "2026-11-06T18:53:55.840Z",
+      "asOf": "2026-11-07T00:41:27.037Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc. Class A Common Stock",
       "marketCapUsd": 1547088532212.7202,
-      "asOf": "2026-11-06T18:54:11.072Z",
+      "asOf": "2026-11-07T00:41:42.204Z",
       "url": "https://about.meta.com"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "marketCapUsd": 24080088043.32,
-      "asOf": "2026-11-06T18:54:26.280Z",
+      "asOf": "2026-11-07T00:41:57.350Z",
       "url": "https://www.coreweave.com"
     },
     {
       "symbol": "NBIS",
       "name": "Nebius Group N.V. Class A Ordinary Shares",
       "marketCapUsd": 32723212590.66,
-      "asOf": "2026-11-06T18:54:41.490Z",
+      "asOf": "2026-11-07T00:42:12.534Z",
       "url": "https://www.group.nebius.com"
     },
     {
       "symbol": "ORCL",
       "name": "Oracle Corp",
       "marketCapUsd": 359035258577.36,
-      "asOf": "2026-11-06T18:54:56.724Z",
+      "asOf": "2026-11-07T00:42:27.760Z",
       "url": "https://www.oracle.com"
     },
     {
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc. Class A Common Stock",
       "marketCapUsd": 373448013495.26,
-      "asOf": "2026-11-06T18:55:11.953Z",
+      "asOf": "2026-11-07T00:42:42.942Z",
       "url": "https://www.palantir.com"
     },
     {
       "symbol": "AI",
       "name": "C3.ai, Inc.",
       "marketCapUsd": 1829674761.2800002,
-      "asOf": "2026-11-06T18:55:27.195Z",
+      "asOf": "2026-11-07T00:42:58.088Z",
       "url": "https://www.c3.ai"
     },
     {
       "symbol": "SOUN",
       "name": "SoundHound AI, Inc. Class A Common Stock",
       "marketCapUsd": 1913643805.86,
-      "asOf": "2026-11-06T18:55:42.416Z",
+      "asOf": "2026-11-07T00:43:13.303Z",
       "url": "https://www.soundhound.com"
     },
     {
       "symbol": "BBAI",
       "name": "BigBear.ai Holdings, Inc.",
       "marketCapUsd": 1068687924.5400001,
-      "asOf": "2026-11-06T18:55:57.660Z",
+      "asOf": "2026-11-07T00:43:28.462Z",
       "url": "https://www.bigbear.ai"
     },
     {
       "symbol": "INOD",
       "name": "Innodata Inc.",
       "marketCapUsd": 1327857981.62,
-      "asOf": "2026-11-06T18:56:12.891Z",
+      "asOf": "2026-11-07T00:43:43.653Z",
       "url": "https://www.innodata.com"
     },
     {
       "symbol": "PATH",
       "name": "UiPath, Inc.",
       "marketCapUsd": 6780231871.09,
-      "asOf": "2026-11-06T18:56:28.122Z",
+      "asOf": "2026-11-07T00:43:58.908Z",
       "url": "https://www.uipath.com"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "marketCapUsd": 117983764200,
-      "asOf": "2026-11-06T18:56:43.321Z",
+      "asOf": "2026-11-07T00:44:14.068Z",
       "url": "https://www.applovin.com"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "marketCapUsd": 183043430000,
-      "asOf": "2026-11-06T18:56:58.585Z",
+      "asOf": "2026-11-07T00:44:29.245Z",
       "url": "https://www.salesforce.com"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "marketCapUsd": 106241184120,
-      "asOf": "2026-11-06T18:57:13.786Z",
+      "asOf": "2026-11-07T00:44:44.472Z",
       "url": "https://www.servicenow.com"
     },
     {
       "symbol": "ADBE",
       "name": "Adobe Inc.",
       "marketCapUsd": 95914448000,
-      "asOf": "2026-11-06T18:57:29.111Z",
+      "asOf": "2026-11-07T00:44:59.606Z",
       "url": "https://www.adobe.com"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "marketCapUsd": 95093712000,
-      "asOf": "2026-11-06T18:57:44.315Z",
+      "asOf": "2026-11-07T00:45:14.758Z",
       "url": "https://www.snowflake.com"
     },
     {
       "symbol": "SAP",
       "name": "SAP SE",
       "marketCapUsd": 281083356618.96,
-      "asOf": "2026-11-06T18:57:59.560Z",
+      "asOf": "2026-11-07T00:45:29.905Z",
       "url": "https://www.sap.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "marketCapUsd": 233548802123.55002,
-      "asOf": "2026-11-06T18:58:14.794Z",
+      "asOf": "2026-11-07T00:45:45.083Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "MDB",
       "name": "MongoDB, Inc. Class A",
       "marketCapUsd": 24536655905.19,
-      "asOf": "2026-11-06T18:58:30.004Z",
+      "asOf": "2026-11-07T00:46:00.243Z",
       "url": "https://www.mongodb.com"
     },
     {
       "symbol": "WDAY",
       "name": "Workday, Inc. Class A Common Stock",
       "marketCapUsd": 48240970000,
-      "asOf": "2026-11-06T18:58:45.242Z",
+      "asOf": "2026-11-07T00:46:15.422Z",
       "url": "https://www.workday.com"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "marketCapUsd": 222398647682.4,
-      "asOf": "2026-11-06T18:59:00.545Z",
+      "asOf": "2026-11-07T00:46:30.561Z",
       "url": "https://www.crowdstrike.com"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "marketCapUsd": 257539494053.04,
-      "asOf": "2026-11-06T18:59:15.794Z",
+      "asOf": "2026-11-07T00:46:45.732Z",
       "url": "https://www.paloaltonetworks.com"
     },
     {
       "symbol": "DDOG",
       "name": "Datadog, Inc. Class A Common Stock",
       "marketCapUsd": 63038028357,
-      "asOf": "2026-11-06T18:59:31.049Z",
+      "asOf": "2026-11-07T00:47:00.919Z",
       "url": "https://www.datadog.com"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
       "marketCapUsd": 268850595557.72998,
-      "asOf": "2026-11-06T18:59:46.309Z",
+      "asOf": "2026-11-07T00:47:16.103Z",
       "url": "https://www.alibabagroup.com"
     },
     {
       "symbol": "BIDU",
       "name": "Baidu, Inc.",
       "marketCapUsd": 27056866217.88,
-      "asOf": "2026-11-06T19:00:01.589Z",
+      "asOf": "2026-11-07T00:47:31.252Z",
       "url": "https://ir.baidu.com"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "marketCapUsd": 68051728203.329994,
-      "asOf": "2026-11-06T19:00:16.870Z",
+      "asOf": "2026-11-07T00:47:46.429Z",
       "url": "https://www.vertiv.com"
     },
     {
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
       "marketCapUsd": 201495418602.50003,
-      "asOf": "2026-11-06T19:00:32.104Z",
+      "asOf": "2026-11-07T00:48:01.656Z",
       "url": "https://www.dell.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "marketCapUsd": 58620844640.63999,
-      "asOf": "2026-11-06T19:00:47.361Z",
+      "asOf": "2026-11-07T00:48:16.831Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
       "marketCapUsd": 201083115638.6,
-      "asOf": "2026-11-06T19:01:02.604Z",
+      "asOf": "2026-11-07T00:48:31.973Z",
       "url": "https://www.arista.com"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
       "marketCapUsd": 21112638948.94,
-      "asOf": "2026-11-06T19:01:17.872Z",
+      "asOf": "2026-11-07T00:48:47.113Z",
       "url": "https://www.credosemi.com"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "marketCapUsd": 31368139000.25,
-      "asOf": "2026-11-06T19:01:33.131Z",
+      "asOf": "2026-11-07T00:49:02.216Z",
       "url": "https://www.asteralabs.com"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "marketCapUsd": 231763791842.4,
-      "asOf": "2026-11-06T19:01:48.337Z",
+      "asOf": "2026-11-07T00:49:17.316Z",
       "url": "https://www.lamresearch.com"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "marketCapUsd": 169124524063,
-      "asOf": "2026-11-06T19:02:03.594Z",
+      "asOf": "2026-11-07T00:49:32.421Z",
       "url": "https://www.kla.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
       "marketCapUsd": 253355983677.75,
-      "asOf": "2026-11-06T19:02:18.837Z",
+      "asOf": "2026-11-07T00:49:47.603Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "marketCapUsd": 33213979527.74,
-      "asOf": "2026-11-06T19:02:34.035Z",
+      "asOf": "2026-11-07T00:50:02.781Z",
       "url": "https://www.teradyne.com"
     }
   ],
