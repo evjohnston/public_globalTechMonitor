@@ -1,6 +1,6 @@
 {
   "technology": "biotechnology",
-  "generatedAt": "2026-11-09T01:15:48.081Z",
+  "generatedAt": "2026-11-09T11:50:04.973Z",
   "entries": [
     {
       "id": "seed-samsung-biologics-plant4-2022",
@@ -1250966,6 +1250966,38 @@
       "ingestedAt": "2026-11-09T01:15:48.081Z",
       "orgId": "universidad complutense de madrid",
       "relevanceScore": 0.6
+    },
+    {
+      "id": "gnews-3FNMmpiVjVfaTBONGRGZXNDbVpvY0NETjZYRUExU1ZJUEFsd0NnVzFRdmY1ckhOUQ-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "SRTD Biotech Raises €31.5M in Seed Funding",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEM5SkJBaGNTQzVxaU5RZ09VdUFrSC00X2VDOXRjLW1uenNzd3ZjcE1sZ1hTZnYxTkx0S3pyRXFtYXAtNUxTeS1HQWlNOUJPNDhKckxNS3FNMmpiVjVfaTBONGRGZXNDbVpvY0NETjZYRUExU1ZJUEFsd0NnVzFRdmY1ckhOUQ?oc=5",
+      "publisher": "FinSMEs",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "SRTD Biotech Raises €31.5M in Seed Funding FinSMEs",
+      "ingestedAt": "2026-11-09T11:50:04.973Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-G5jS2Jua0dMZFZDeTE5d2ZNWXozeTJHS2NHUXRUd251UHE1MzZmNkZiX3djSDJmMQ-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "BC Chemist Abhishek Chatterjee Awarded $1 Million Grant for Research on Gene Therapy",
+      "org": "",
+      "date": "2026-11-08",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHFDT1drajR4MVBjREhSQXo3TlIxSGhLR0RFUTRBT1NyUC04bmFOZnhuWXp5SU1rZlUtZmhHU3hoNjBUT0gzblRoYzZDeEdhTnJYVktlQ2VlUFRwakRGWFY4eGtJRTBNVFJGYVZKTXM1N0pRaXBEcEJRNHZXSnlzN3hBQ3ZaRjFBdGRERG5jS2Jua0dMZFZDeTE5d2ZNWXozeTJHS2NHUXRUd251UHE1MzZmNkZiX3djSDJmMQ?oc=5",
+      "publisher": "The Heights",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "BC Chemist Abhishek Chatterjee Awarded $1 Million Grant for Research on Gene Therapy The Heights",
+      "ingestedAt": "2026-11-09T11:50:04.973Z",
+      "relevanceScore": 0.7
     }
   ],
   "trend": [
@@ -1256010,10 +1256042,10 @@
         "innovation": 10752,
         "scaling": 6,
         "adoption": 2,
-        "investment": 59
+        "investment": 61
       },
       "fundingUsd": 0,
-      "totalEntries": 50968,
+      "totalEntries": 50970,
       "windowCap": 600
     }
   ],
@@ -1256050,7 +1256082,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -1256250,7 +1256282,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -1256259,7 +1256291,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -1256268,7 +1256300,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -1256277,7 +1256309,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -1256487,7 +1256519,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -1256496,7 +1256528,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -1256511,7 +1256543,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -1256520,7 +1256552,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -1256529,7 +1256561,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -1256538,7 +1256570,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -1256738,7 +1256770,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-09T01:15:48.081Z",
+      "lastSuccessfulPull": "2026-11-09T11:50:04.973Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -1256751,490 +1256783,490 @@
       "symbol": "CRSP",
       "name": "CRISPR Therapeutics AG",
       "marketCapUsd": 4856830706.91,
-      "asOf": "2026-11-09T00:45:03.136Z",
+      "asOf": "2026-11-09T11:13:45.686Z",
       "url": "https://www.crisprtx.com"
     },
     {
       "symbol": "NTLA",
       "name": "Intellia Therapeutics, Inc",
       "marketCapUsd": 1590437965.55,
-      "asOf": "2026-11-09T00:45:18.318Z",
+      "asOf": "2026-11-09T11:14:00.862Z",
       "url": "https://www.intelliatx.com"
     },
     {
       "symbol": "BEAM",
       "name": "Beam Therapeutics Inc. Common Stock",
       "marketCapUsd": 2733319958.04,
-      "asOf": "2026-11-09T00:45:33.506Z",
+      "asOf": "2026-11-09T11:14:16.092Z",
       "url": "https://www.beamtx.com"
     },
     {
       "symbol": "EDIT",
       "name": "Editas Medicine, Inc. Common Stock",
       "marketCapUsd": 394700689.95,
-      "asOf": "2026-11-09T00:45:48.712Z",
+      "asOf": "2026-11-09T11:14:31.261Z",
       "url": "https://www.editasmedicine.com"
     },
     {
       "symbol": "CRBU",
       "name": "Caribou Biosciences, Inc. Common Stock",
       "marketCapUsd": 48476080.3023,
-      "asOf": "2026-11-09T00:46:03.913Z",
+      "asOf": "2026-11-09T11:14:46.482Z",
       "url": "https://www.cariboubio.com"
     },
     {
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics,, Inc. Common Stock",
       "marketCapUsd": 1910942811.3600001,
-      "asOf": "2026-11-09T00:46:19.034Z",
+      "asOf": "2026-11-09T11:15:01.666Z",
       "url": "https://www.sarepta.com"
     },
     {
       "symbol": "RARE",
       "name": "Ultragenyx Pharmaceutical Inc.",
       "marketCapUsd": 1572688369.24,
-      "asOf": "2026-11-09T00:46:34.187Z",
+      "asOf": "2026-11-09T11:15:16.804Z",
       "url": "https://www.ultragenyx.com"
     },
     {
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc. Common Stock",
       "marketCapUsd": 8916119055.36,
-      "asOf": "2026-11-09T00:46:49.292Z",
+      "asOf": "2026-11-09T11:15:31.993Z",
       "url": "https://www.krystalbio.com"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "marketCapUsd": 20886225601.44,
-      "asOf": "2026-11-09T00:47:04.510Z",
+      "asOf": "2026-11-09T11:15:47.174Z",
       "url": "https://www.alnylam.com"
     },
     {
       "symbol": "IONS",
       "name": "Ionis Pharmaceuticals, Inc. Common Stock",
       "marketCapUsd": 6550985973.240001,
-      "asOf": "2026-11-09T00:47:19.669Z",
+      "asOf": "2026-11-09T11:16:02.341Z",
       "url": "https://www.ionis.com"
     },
     {
       "symbol": "ARWR",
       "name": "Arrowhead Research Corporation",
       "marketCapUsd": 8215359800.719999,
-      "asOf": "2026-11-09T00:47:34.847Z",
+      "asOf": "2026-11-09T11:16:17.481Z",
       "url": "https://www.arrowheadpharma.com"
     },
     {
       "symbol": "RNA",
       "name": "Atrium Therapeutics, Inc. Common Stock",
       "marketCapUsd": 142661062.62,
-      "asOf": "2026-11-09T00:47:50.008Z",
+      "asOf": "2026-11-09T11:16:32.628Z",
       "url": "https://www.aviditybiosciences.com"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "marketCapUsd": 101481770624.91,
-      "asOf": "2026-11-09T00:48:05.195Z",
+      "asOf": "2026-11-09T11:16:47.816Z",
       "url": "https://www.modernatx.com"
     },
     {
       "symbol": "BNTX",
       "name": "BioNTech SE American Depositary Share",
       "marketCapUsd": 21696195031.800003,
-      "asOf": "2026-11-09T00:48:20.385Z",
+      "asOf": "2026-11-09T11:17:02.994Z",
       "url": "https://www.biontech.de"
     },
     {
       "symbol": "NVAX",
       "name": "Novavax Inc",
       "marketCapUsd": 1778797117.02,
-      "asOf": "2026-11-09T00:48:35.534Z",
+      "asOf": "2026-11-09T11:17:18.170Z",
       "url": "https://www.novavax.com"
     },
     {
       "symbol": "LEGN",
       "name": "Legend Biotech Corporation American Depositary Shares",
       "marketCapUsd": 4551028864.2,
-      "asOf": "2026-11-09T00:48:50.687Z",
+      "asOf": "2026-11-09T11:17:33.313Z",
       "url": "https://www.legendbiotech.com"
     },
     {
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc. Common Stock",
       "marketCapUsd": 3719747414.0399995,
-      "asOf": "2026-11-09T00:49:05.849Z",
+      "asOf": "2026-11-09T11:17:48.547Z",
       "url": "https://www.iovance.com"
     },
     {
       "symbol": "ALLO",
       "name": "Allogene Therapeutics, Inc. Common Stock",
       "marketCapUsd": 359310516.24,
-      "asOf": "2026-11-09T00:49:21.011Z",
+      "asOf": "2026-11-09T11:18:03.708Z",
       "url": "https://www.allogene.com"
     },
     {
       "symbol": "SANA",
       "name": "Sana Biotechnology, Inc. Common Stock",
       "marketCapUsd": 710134833.87,
-      "asOf": "2026-11-09T00:49:36.176Z",
+      "asOf": "2026-11-09T11:18:18.912Z",
       "url": "https://www.sana.com"
     },
     {
       "symbol": "FATE",
       "name": "Fate Therapeutics, Inc.",
       "marketCapUsd": 223078665.42499998,
-      "asOf": "2026-11-09T00:49:51.341Z",
+      "asOf": "2026-11-09T11:18:34.058Z",
       "url": "https://www.fatetherapeutics.com"
     },
     {
       "symbol": "VCEL",
       "name": "Vericel Corporation",
       "marketCapUsd": 2787246037.4,
-      "asOf": "2026-11-09T00:50:06.534Z",
+      "asOf": "2026-11-09T11:18:49.251Z",
       "url": "https://www.vcel.com"
     },
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
       "marketCapUsd": 93553071286.65001,
-      "asOf": "2026-11-09T00:50:21.685Z",
+      "asOf": "2026-11-09T11:19:04.415Z",
       "url": "https://www.regeneron.com"
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals Inc",
       "marketCapUsd": 138707926068.66,
-      "asOf": "2026-11-09T00:50:36.843Z",
+      "asOf": "2026-11-09T11:19:19.631Z",
       "url": "https://www.vrtx.com"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "marketCapUsd": 249046468225.80002,
-      "asOf": "2026-11-09T00:50:52.015Z",
+      "asOf": "2026-11-09T11:19:34.799Z",
       "url": "https://www.amgen.com"
     },
     {
       "symbol": "GILD",
       "name": "Gilead Sciences Inc",
       "marketCapUsd": 207000111290.46,
-      "asOf": "2026-11-09T00:51:07.195Z",
+      "asOf": "2026-11-09T11:19:49.997Z",
       "url": "https://www.gilead.com"
     },
     {
       "symbol": "BIIB",
       "name": "Biogen Inc. Common Stock",
       "marketCapUsd": 36711152382.049995,
-      "asOf": "2026-11-09T00:51:22.356Z",
+      "asOf": "2026-11-09T11:20:05.179Z",
       "url": "https://www.biogen.com"
     },
     {
       "symbol": "ZLAB",
       "name": "Zai Lab Limited American Depositary Shares",
       "marketCapUsd": 3153717006.44,
-      "asOf": "2026-11-09T00:51:37.523Z",
+      "asOf": "2026-11-09T11:20:20.345Z",
       "url": "https://www.zailaboratory.com"
     },
     {
       "symbol": "RXRX",
       "name": "Recursion Pharmaceuticals, Inc. Class A Common Stock",
       "marketCapUsd": 2194254828.48,
-      "asOf": "2026-11-09T00:51:52.687Z",
+      "asOf": "2026-11-09T11:20:35.509Z",
       "url": "https://www.recursion.com"
     },
     {
       "symbol": "SDGR",
       "name": "Schrodinger, Inc. Common Stock",
       "marketCapUsd": 2230703826.96,
-      "asOf": "2026-11-09T00:52:07.891Z",
+      "asOf": "2026-11-09T11:20:50.724Z",
       "url": "https://www.schrodinger.com"
     },
     {
       "symbol": "ABSI",
       "name": "Absci Corporation Common Stock",
       "marketCapUsd": 1745314481.7,
-      "asOf": "2026-11-09T00:52:23.072Z",
+      "asOf": "2026-11-09T11:21:05.887Z",
       "url": "https://www.absci.com"
     },
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc. Class A Common Stock",
       "marketCapUsd": 13871644493.85,
-      "asOf": "2026-11-09T00:52:38.241Z",
+      "asOf": "2026-11-09T11:21:21.021Z",
       "url": "https://www.tempus.com"
     },
     {
       "symbol": "DNA",
       "name": "Ginkgo Bioworks Holdings, Inc.",
       "marketCapUsd": 760271727.3299999,
-      "asOf": "2026-11-09T00:52:53.390Z",
+      "asOf": "2026-11-09T11:21:36.216Z",
       "url": "https://www.ginkgobioworks.com"
     },
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation Common Stock",
       "marketCapUsd": 8008518807.46,
-      "asOf": "2026-11-09T00:53:08.596Z",
+      "asOf": "2026-11-09T11:21:51.414Z",
       "url": "https://www.twistbioscience.com"
     },
     {
       "symbol": "CDXS",
       "name": "Codexis, Inc.",
       "marketCapUsd": 118266226.2,
-      "asOf": "2026-11-09T00:53:23.744Z",
+      "asOf": "2026-11-09T11:22:06.580Z",
       "url": "https://www.codexis.com"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
       "marketCapUsd": 32225256000,
-      "asOf": "2026-11-09T00:53:38.906Z",
+      "asOf": "2026-11-09T11:22:21.723Z",
       "url": "https://www.illumina.com"
     },
     {
       "symbol": "PACB",
       "name": "Pacific Biosciences of California, Inc.",
       "marketCapUsd": 700923361.545,
-      "asOf": "2026-11-09T00:53:54.071Z",
+      "asOf": "2026-11-09T11:22:36.897Z",
       "url": "https://www.pacb.com"
     },
     {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. Class A Common Stock",
       "marketCapUsd": 7723660439.04,
-      "asOf": "2026-11-09T00:54:09.244Z",
+      "asOf": "2026-11-09T11:22:52.075Z",
       "url": "https://www.10xgenomics.com"
     },
     {
       "symbol": "QTRX",
       "name": "Quanterix Corporation Common Stock",
       "marketCapUsd": 136913423.175,
-      "asOf": "2026-11-09T00:54:24.393Z",
+      "asOf": "2026-11-09T11:23:07.248Z",
       "url": "https://www.quanterix.com"
     },
     {
       "symbol": "SEER",
       "name": "Seer, Inc. Class A Common Stock",
       "marketCapUsd": 90256384.44999999,
-      "asOf": "2026-11-09T00:54:39.578Z",
+      "asOf": "2026-11-09T11:23:22.418Z",
       "url": "https://www.seer.bio"
     },
     {
       "symbol": "NAUT",
       "name": "Nautilus Biotechnolgy, Inc. Common Stock",
       "marketCapUsd": 284040507.75,
-      "asOf": "2026-11-09T00:54:54.741Z",
+      "asOf": "2026-11-09T11:23:37.588Z",
       "url": "https://www.nautilus.bio"
     },
     {
       "symbol": "NTRA",
       "name": "Natera, Inc. Common Stock",
       "marketCapUsd": 45057254810.33,
-      "asOf": "2026-11-09T00:55:09.938Z",
+      "asOf": "2026-11-09T11:23:52.767Z",
       "url": "https://www.natera.com"
     },
     {
       "symbol": "GH",
       "name": "Guardant Health, Inc. Common Stock",
       "marketCapUsd": 20410595048.25,
-      "asOf": "2026-11-09T00:55:25.081Z",
+      "asOf": "2026-11-09T11:24:07.938Z",
       "url": "https://www.guardanthealth.com"
     },
     {
       "symbol": "MYGN",
       "name": "Myriad Genetics Inc",
       "marketCapUsd": 563673000,
-      "asOf": "2026-11-09T00:55:40.240Z",
+      "asOf": "2026-11-09T11:24:23.129Z",
       "url": "https://www.myriad.com"
     },
     {
       "symbol": "QGEN",
       "name": "QIAGEN N.V.",
       "marketCapUsd": 10392969901.93,
-      "asOf": "2026-11-09T00:55:55.395Z",
+      "asOf": "2026-11-09T11:24:38.314Z",
       "url": "https://www.qiagen.com"
     },
     {
       "symbol": "SOPH",
       "name": "SOPHiA GENETICS SA Ordinary Shares",
       "marketCapUsd": 611600411.9399999,
-      "asOf": "2026-11-09T00:56:10.612Z",
+      "asOf": "2026-11-09T11:24:53.510Z",
       "url": "https://www.sophiagenetics.com"
     },
     {
       "symbol": "GRAL",
       "name": "GRAIL, Inc. Common Stock",
       "marketCapUsd": 5460206046.24,
-      "asOf": "2026-11-09T00:56:25.760Z",
+      "asOf": "2026-11-09T11:25:08.624Z",
       "url": "https://www.grail.com"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
       "marketCapUsd": 257419604451.68,
-      "asOf": "2026-11-09T00:56:40.901Z",
+      "asOf": "2026-11-09T11:25:23.764Z",
       "url": "https://www.thermofisher.com"
     },
     {
       "symbol": "DHR",
       "name": "Danaher Corporation",
       "marketCapUsd": 161862538933.5,
-      "asOf": "2026-11-09T00:56:56.059Z",
+      "asOf": "2026-11-09T11:25:38.904Z",
       "url": "https://www.danaher.com"
     },
     {
       "symbol": "A",
       "name": "Agilent Technologies Inc.",
       "marketCapUsd": 49269886525.04,
-      "asOf": "2026-11-09T00:57:11.240Z",
+      "asOf": "2026-11-09T11:25:54.084Z",
       "url": "https://www.agilent.com"
     },
     {
       "symbol": "RVTY",
       "name": "Revvity, Inc.",
       "marketCapUsd": 17308166659.11,
-      "asOf": "2026-11-09T00:57:26.379Z",
+      "asOf": "2026-11-09T11:26:09.230Z",
       "url": "https://www.revvity.com"
     },
     {
       "symbol": "BIO",
       "name": "Bio-Rad Laboratories, Inc.Class A",
       "marketCapUsd": 10261541023.65,
-      "asOf": "2026-11-09T00:57:41.542Z",
+      "asOf": "2026-11-09T11:26:24.373Z",
       "url": "https://www.bio-rad.com"
     },
     {
       "symbol": "WAT",
       "name": "Waters Corp",
       "marketCapUsd": 44958335593.6,
-      "asOf": "2026-11-09T00:57:56.686Z",
+      "asOf": "2026-11-09T11:26:39.512Z",
       "url": "https://www.waters.com"
     },
     {
       "symbol": "BRKR",
       "name": "Bruker Corporation",
       "marketCapUsd": 9363409424.35,
-      "asOf": "2026-11-09T00:58:11.833Z",
+      "asOf": "2026-11-09T11:26:54.702Z",
       "url": "https://www.bruker.com"
     },
     {
       "symbol": "RGEN",
       "name": "Repligen Corp",
       "marketCapUsd": 11090129305.62,
-      "asOf": "2026-11-09T00:58:27.012Z",
+      "asOf": "2026-11-09T11:27:09.847Z",
       "url": "https://www.repligen.com"
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories International, Inc.",
       "marketCapUsd": 16173103461.839998,
-      "asOf": "2026-11-09T00:58:42.183Z",
+      "asOf": "2026-11-09T11:27:24.992Z",
       "url": "https://www.criver.com"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
       "marketCapUsd": 1206068771974,
-      "asOf": "2026-11-09T00:58:57.327Z",
+      "asOf": "2026-11-09T11:27:40.138Z",
       "url": "https://www.lilly.com"
     },
     {
       "symbol": "PFE",
       "name": "Pfizer Inc.",
       "marketCapUsd": 167518701212.87,
-      "asOf": "2026-11-09T00:59:12.498Z",
+      "asOf": "2026-11-09T11:27:55.308Z",
       "url": "https://www.pfizer.com"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "marketCapUsd": 361725499800.24,
-      "asOf": "2026-11-09T00:59:27.683Z",
+      "asOf": "2026-11-09T11:28:10.465Z",
       "url": "https://www.merck.com"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "marketCapUsd": 664947241674.52,
-      "asOf": "2026-11-09T00:59:42.828Z",
+      "asOf": "2026-11-09T11:28:25.603Z",
       "url": "https://www.jnj.com"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "marketCapUsd": 514924306100.86,
-      "asOf": "2026-11-09T00:59:57.971Z",
+      "asOf": "2026-11-09T11:28:40.768Z",
       "url": "https://www.abbvie.com"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co.",
       "marketCapUsd": 127019493538.34,
-      "asOf": "2026-11-09T01:00:13.139Z",
+      "asOf": "2026-11-09T11:28:55.950Z",
       "url": "https://www.bms.com"
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
       "marketCapUsd": 289137584946.7,
-      "asOf": "2026-11-09T01:00:28.279Z",
+      "asOf": "2026-11-09T11:29:11.140Z",
       "url": "https://www.astrazeneca.com"
     },
     {
       "symbol": "NVS",
       "name": "Novartis AG",
       "marketCapUsd": 306995761628.60004,
-      "asOf": "2026-11-09T01:00:43.452Z",
+      "asOf": "2026-11-09T11:29:26.292Z",
       "url": "https://www.novartis.com"
     },
     {
       "symbol": "SNY",
       "name": "Sanofi American Depositary Shares (Each representing one-half of one ordinary share)",
       "marketCapUsd": 112714301884.8,
-      "asOf": "2026-11-09T01:00:58.590Z",
+      "asOf": "2026-11-09T11:29:41.438Z",
       "url": "https://www.sanofi.com"
     },
     {
       "symbol": "GSK",
       "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
       "marketCapUsd": 100884954515.03,
-      "asOf": "2026-11-09T01:01:13.756Z",
+      "asOf": "2026-11-09T11:29:56.611Z",
       "url": "https://www.gsk.com"
     },
     {
       "symbol": "NVO",
       "name": "Novo-Nordisk A/S",
       "marketCapUsd": 177736670948.44,
-      "asOf": "2026-11-09T01:01:28.939Z",
+      "asOf": "2026-11-09T11:30:11.827Z",
       "url": "https://www.novonordisk.com"
     },
     {
       "symbol": "TAK",
       "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
       "marketCapUsd": 67156751629.88,
-      "asOf": "2026-11-09T01:01:44.139Z",
+      "asOf": "2026-11-09T11:30:27.032Z",
       "url": "https://www.takeda.com"
     },
     {
       "symbol": "ZTS",
       "name": "ZOETIS INC.",
       "marketCapUsd": 32261502071.800003,
-      "asOf": "2026-11-09T01:01:59.319Z",
+      "asOf": "2026-11-09T11:30:42.264Z",
       "url": "https://www.zoetis.com"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
       "marketCapUsd": 7939632400,
-      "asOf": "2026-11-09T01:02:14.510Z",
+      "asOf": "2026-11-09T11:30:57.470Z",
       "url": "https://www.corteva.com"
     },
     {
       "symbol": "BIOX",
       "name": "Bioceres Crop Solutions Corp. Ordinary Shares",
-      "marketCapUsd": 14942490.87765,
-      "asOf": "2026-11-09T01:02:29.697Z",
+      "marketCapUsd": 14945681.6722,
+      "asOf": "2026-11-09T11:31:12.652Z",
       "url": "https://www.biocerescrops.com"
     }
   ],
