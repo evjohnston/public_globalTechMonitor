@@ -1,6 +1,6 @@
 {
   "technology": "space",
-  "generatedAt": "2026-11-09T12:05:08.229Z",
+  "generatedAt": "2026-11-09T22:37:48.034Z",
   "entries": [
     {
       "id": "seed-falcon9-first-landing-2015",
@@ -17859,7 +17859,7 @@
       "date": "2021-11-10",
       "url": "https://doi.org/10.1109/jiot.2021.3126825",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
-      "citations": 484,
+      "citations": 485,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "beijing national research center for information science and technology",
       "relevanceScore": 0.6
@@ -21693,7 +21693,7 @@
       "date": "2023-03-25",
       "url": "https://doi.org/10.1016/j.asr.2023.03.036",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 142,
+      "citations": 143,
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "stanford university",
       "relevanceScore": 0.6
@@ -59834,7 +59834,7 @@
       "date": "2022-06-10",
       "url": "https://doi.org/10.1109/tits.2022.3179987",
       "countryEvidence": "institution country codes [GB, PK, SE, ZA, US, SE] → SE",
-      "citations": 184,
+      "citations": 185,
       "collaboratingCountries": [
         "GB",
         "PK",
@@ -92491,8 +92491,8 @@
       "date": "2026-11-06",
       "url": "https://doi.org/10.1007/s41781-026-00193-4",
       "countryEvidence": "institution country codes [GB, GB, GB, BE, BE, ES, ES] → GB",
-      "citations": 0,
-      "abstract": "Abstract Big Science investment is justified primarily by its contribution to scientific discovery. Yet, the political economy around public investment in Big Science has changed. Public budgets are tighter, scientific equipment is more…",
+      "citations": 1,
+      "abstract": "Big Science investment is justified primarily by its contribution to scientific discovery. Yet, the political economy around public investment in Big Science has changed. Public budgets are tighter, scientific equipment is more costly,…",
       "authors": [
         "Riccardo Crescenzi",
         "Charlotte Glass",
@@ -92697,7 +92697,7 @@
       "url": "https://doi.org/10.1096/fj.202604278rr",
       "countryEvidence": "institution country codes [IT, QA, DZ, IT, QA, IT, QA, IT] → IT",
       "citations": 0,
-      "abstract": "ABSTRACT Spaceflight constitutes a complex physical and environmental exposome in which altered gravitational loading intersects with ionizing radiation and mission‐associated stressors that reshape mitochondrial, redox, inflammatory,…",
+      "abstract": "Spaceflight constitutes a complex physical and environmental exposome in which altered gravitational loading intersects with ionizing radiation and mission-associated stressors that reshape mitochondrial, redox, inflammatory, chromatin,…",
       "authors": [
         "Stefania Camboni",
         "Fatemeh Mohammadi",
@@ -92917,7 +92917,7 @@
       "source": "paper",
       "title": "Effects of jet-jet interaction on crater formation and particle ejection during plume-surface interaction at Martian pressure",
       "org": "University of Glasgow",
-      "date": "2026-11-01",
+      "date": "2026-11-04",
       "url": "https://doi.org/10.1016/j.actaastro.2026.10.056",
       "countryEvidence": "institution country codes [JP, GB, JP, GB, GB, KR, KR, KR] → GB",
       "citations": 0,
@@ -93012,14 +93012,14 @@
     {
       "id": "oa-W7225455414",
       "stage": "innovation",
-      "country": null,
+      "country": "GB",
       "provenance": "live",
       "source": "paper",
       "title": "Feasibility study for a Planetary Sunshade Power Plant",
-      "org": "",
+      "org": "University of Nottingham",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.actaastro.2026.10.072",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [GB, GB] → GB",
       "citations": 0,
       "authors": [
         "A. Rose",
@@ -93027,19 +93027,20 @@
       ],
       "venue": "Acta Astronautica",
       "ingestedAt": "2026-11-08T20:06:54.742Z",
+      "orgId": "university of nottingham",
       "relevanceScore": 0.6
     },
     {
       "id": "oa-W7225457631",
       "stage": "innovation",
-      "country": null,
+      "country": "CN",
       "provenance": "live",
       "source": "paper",
       "title": "A Three-Layer Heterogeneous Graph-Assisted Many-Objective Optimization Algorithm for Multi-Satellite Discrete Observation Task Scheduling",
-      "org": "",
+      "org": "Shanghai Jiao Tong University",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.ast.2026.114225",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
       "authors": [
         "pengguo yan",
@@ -93050,6 +93051,7 @@
       ],
       "venue": "Aerospace Science and Technology",
       "ingestedAt": "2026-11-08T20:06:54.742Z",
+      "orgId": "shanghai jiao tong university",
       "relevanceScore": 0.6
     },
     {
@@ -93742,6 +93744,363 @@
       "countryEvidence": "matched \"UK\" (auto-classified from Google News RSS, unverified)",
       "abstract": "UK Military Satellite Titania Launches Into Orbit Following GBP3Bn Space Investment Into Defence of Space ASDNews",
       "ingestedAt": "2026-11-09T12:05:08.229Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "oa-W7138900327",
+      "stage": "innovation",
+      "country": "DE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Cold gas wind tunnel experiments of a descending launcher first stage and generalization of the engine scaling parameter",
+      "org": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+      "date": "2026-11-08",
+      "url": "https://doi.org/10.1007/s12567-026-00778-0",
+      "countryEvidence": "institution country codes [DE, DE, DE] → DE",
+      "citations": 0,
+      "abstract": "Abstract In the Horizon Europe Project SALTO, a demonstrator of a vertically landing first stage with three Prometheus engines was investigated, the so-called T3. It shall be recovered with a downrange landing approach. In this paper, the…",
+      "authors": [
+        "Junnai Zhai",
+        "Ansgar Marwege",
+        "Ali Guelhan"
+      ],
+      "venue": "CEAS Space Journal",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "deutsches zentrum für luft und raumfahrt e v dlr",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225575633",
+      "stage": "innovation",
+      "country": "PK",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Investigation of effect of thermoplastics as propellants for enhancement of ablative laser propulsion parameters",
+      "org": "University of Faisalabad",
+      "date": "2026-11-08",
+      "url": "https://doi.org/10.1007/s12567-026-00781-5",
+      "countryEvidence": "institution country codes [PK, CN, PK, PK, PK, PK, PK, CN] → PK",
+      "citations": 0,
+      "authors": [
+        "Masooma Hassan Zahra",
+        "Ayesha Abbas",
+        "Bushra Sana Idrees",
+        "Amna Hameed",
+        "Humaima Saeed",
+        "Yasir Jamil"
+      ],
+      "venue": "CEAS Space Journal",
+      "collaboratingCountries": [
+        "CN",
+        "PK"
+      ],
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "university of faisalabad",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225578017",
+      "stage": "innovation",
+      "country": "DE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "An end-of-fuel warning system for XMM-Newton",
+      "org": "European Space Operations Centre",
+      "date": "2026-11-08",
+      "url": "https://doi.org/10.1007/s12567-026-00777-1",
+      "countryEvidence": "institution country codes [DE, DE, FR, DE, FR] → DE",
+      "citations": 0,
+      "authors": [
+        "Tibor M. Völcker",
+        "Marcus G. F. Kirsch",
+        "Jim Martin"
+      ],
+      "venue": "CEAS Space Journal",
+      "collaboratingCountries": [
+        "DE",
+        "FR"
+      ],
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "european space operations centre",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225587479",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Lessons Learned For Tandem Launches",
+      "org": "University of Maryland, College Park",
+      "date": "2026-11-08",
+      "url": "https://doi.org/10.31274/jhab.26700",
+      "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US] → US",
+      "citations": 0,
+      "abstract": "The Maryland Space Grant Consortium Balloon Payload Program (BPP) run by the University of Maryland College Park (UMD) has devoted considerable effort in the last few years to developing techniques for tandem balloon launches with the…",
+      "authors": [
+        "Mary Bowden",
+        "Kruti Bhingradiya",
+        "Daniil Gribok",
+        "Matthew Griffin",
+        "Michael Kalin",
+        "Jeremy Joseph Kuznetsov"
+      ],
+      "venue": "Journal of High Altitude Ballooning",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "university of maryland college park",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225597476",
+      "stage": "innovation",
+      "country": "RU",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Study of options for constructing a low-orbit addition to the global navigation satellite system",
+      "org": "Military Space Academy named after AF Mozhaisky",
+      "date": "2026-11-08",
+      "url": "https://doi.org/10.30898/1684-1719.2026.9.4",
+      "countryEvidence": "institution country codes [RU, RU] → RU",
+      "citations": 0,
+      "abstract": "The possibility of using a low-orbit addition to the global navigation satellite system GLONASS based on small navigation spacecraft is being considered. In the class of delta systems, options and characteristics of orbital structures are…",
+      "authors": [
+        "A. B. Spesivtsev",
+        "V. P. Khokhlov",
+        "M. N. Kvasov"
+      ],
+      "venue": "Journal of Radio Electronics",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "military space academy named after af mozhaisky",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225582325",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "A lightweight anonymous aggregation authentication scheme with forward secrecy for 6G integrated space-terrestrial networks",
+      "org": "Beihang University",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.sysarc.2026.104061",
+      "countryEvidence": "institution country codes [CN, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Rui Wang",
+        "Ling Xiong",
+        "Jianwei Liu"
+      ],
+      "venue": "Journal of Systems Architecture",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "orgId": "beihang university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "rss-loadspace-com-canadas-medium-lift-rocket-ambitions-confirmed-in-budget",
+      "stage": "scaling",
+      "country": "CA",
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://payloadspace.com/canadas-medium-lift-rocket-ambitions-confirmed-in-budget/",
+      "publisher": "Payload",
+      "countryEvidence": "matched \"Canada\" (auto-classified from Payload RSS, unverified)",
+      "abstract": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared…",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss--2026-11-09-nasa-makes-major-contract-awards-for-moon-base-development",
+      "stage": "adoption",
+      "country": null,
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "NASA Makes Major Contract Awards for Moon Base Development",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+      "publisher": "Via Satellite",
+      "countryEvidence": "no location match (auto-classified from Via Satellite RSS, unverified)",
+      "abstract": "NASA awarded a batch of contracts for developing a future Moon Base for lunar transportation services, a rover, and communications capabilities. NASA named eight companies to its Commercial Lunar Payload […] The post NASA Makes Major…",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "gnews-kWmtGSk9BenR5MllTc2dmbVZHUW5oQlNsMk5iSmZUTU1YcndTRHJTX25YWGhXZk1B-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "NASA Makes Major Contract Awards for Moon Base Development",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGJ6M2FxbmhBVm0wdnNRcUFtNmdZMjUxcEVOaTJ0bU1GWUJNQlRkX08yMV8wekotZmRoUU5SMFpLWTZzWEF2U2c5My1jVUdWRHd5Mm0wX3o4OW9tdjNEOE5XcDR0RGc3TWQ3WGQtM2JhMFJIZUFVU1hMalZTdndWZzE3VDVoNGs2QWo4VTJkWmtGSk9BenR5MllTc2dmbVZHUW5oQlNsMk5iSmZUTU1YcndTRHJTX25YWGhXZk1B?oc=5",
+      "publisher": "Via Satellite",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "NASA Makes Major Contract Awards for Moon Base Development Via Satellite",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-1b3FzUnFrU3hnUUNGRGNHZVVUS0lfbjdTaWRWWGhPSXZ6aWhrV3R0UFVUdVV6R2lJ-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "FSU receives NASA grant to host STEM event",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGhaWkZwWFhzS1gxRFpvYzVTbHltXzQ1ZlQ2Z1VTUlR6TFJfVkhrZHZJdzJsWTJqVjYtMmloQ3Y1N29wSnhKb3p1WG5EOTgxal8yeEQtUlJTdEU1b3FzUnFrU3hnUUNGRGNHZVVUS0lfbjdTaWRWWGhPSXZ6aWhrV3R0UFVUdVV6R2lJ?oc=5",
+      "publisher": "The Dominion Post",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "FSU receives NASA grant to host STEM event The Dominion Post",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-BeW1pVVY2bkpmb2cxM0l4cURocGpHaVhRRF9ENVZOR2tYNFU1a3NibDBUMHRkYS1Z-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Viasat Awarded Phase 1 Contract Under NASA NEXUS Initiative",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEEtT1RrVVVzUlVEUnVNX0tnbFNBTWE3bEU4bkV6ZTEwVVFZY0xleVZPdlJkY28xM0VZLW9mU1MwVWVaUkNnT2ZEYVdIejZEcmIwamVtTWdmYnZvUHc1RzlJSGhhUkJLdVpSYmdZVUdLc2hNT1R5RXhPWWN6dFNaZC1ZNDAzdXVBeW1pVVY2bkpmb2cxM0l4cURocGpHaVhRRF9ENVZOR2tYNFU1a3NibDBUMHRkYS1Z?oc=5",
+      "publisher": "Viasat",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Viasat Awarded Phase 1 Contract Under NASA NEXUS Initiative Viasat",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-FTR0lLdkFJVG1vY00xWm90NDQ2LTdwRDJGckF5T1B0S05zU2lmRmNJTmY1eXhaTHM-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Lockheed Martin Adds 650 Jobs as NASA Awards $1 Billion in Space Contracts",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVpZLUtWNkUwUFN6SDdDeUVVcnhLcWtBQzJvemxJc2xncTRBbGo0MVBfZU44bUpudF9SUXdtemVkc0U4THhVTVlPMWx0VDJzMkM5LVVCRW05M2NYVm1zSUtlVkJPSXpkdzBTV2hHalZ0enU1V0NNbjNWZFRvTG4wemdORFBvM2FTR0lLdkFJVG1vY00xWm90NDQ2LTdwRDJGckF5T1B0S05zU2lmRmNJTmY1eXhaTHM?oc=5",
+      "publisher": "Security Clearance Jobs",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Lockheed Martin Adds 650 Jobs as NASA Awards $1 Billion in Space Contracts Security Clearance Jobs",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-R1T1hhbVFmYndaWXBsNnFzczN5NXJfb2FfNS1Jc0N1dEg0UkJ6cGdiTWFieGt2Z1E-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWEtYXNDaFBOa2M3TlhLaV9wRFFRUG5oVUNXZzdBM1BybnJCZmZtRFZCdldUcXFYdVBIalhsWW9oRzRLX3NpbjgzbDRtcFJ6Rm9acWhydHMxT0VveGR6dXRvRW1uQnpKeGFfQ1RTYnlIQUJqNFltUTFCbFlrQ09PRGQ4c0FLUkN2YVVxelBQTDBfNEVENkRSRnlTdFVrMWdxOVR1T1hhbVFmYndaWXBsNnFzczN5NXJfb2FfNS1Jc0N1dEg0UkJ6cGdiTWFieGt2Z1E?oc=5",
+      "publisher": "Yahoo Finance",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards Yahoo Finance",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-idnZvUFplMWZGTVBsODVOZUdEUTF3bGgzRFhxMU5SZTlUM09jWXh4U3FSTnRjQ21n-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXlJdjh6Q0U5dXlGbENEMnZpaEJsTkRGZzFucGNkTl82c2N0b0pBOHl2OEx2SFE5cjBzaFdadWRXQW1pVlZjeXlKOVI4R3BLNmdNQUNydDZtVE94Sl9TSUdRNU9mYm1XMUdQNnZWUHlYenpqQkM0QTEzWDFFVF85bTZjTDVHVWxvNXp5SFdidnZvUFplMWZGTVBsODVOZUdEUTF3bGgzRFhxMU5SZTlUM09jWXh4U3FSTnRjQ21n?oc=5",
+      "publisher": "Investor's Business Daily",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts Investor's Business Daily",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-NJNWZEX1V1dGhwSzR6cU5jTUtBMzRfeC1zMndPRE9KaGtJZjRwY1laTjhXakZUdms-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "NASA awards moon base transportation, technology, science projects",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkkzUlVtUnd3TjNrT1NoZ3VEQ01hR3YwYVRMMG1jQVg2NFpxRXJPR3JjMjJxeW1aeHNVVWhNSmF6eXhQTmVkOEpHcWN2QmxrYkdjYl9TRkdEVzJaWnhaZnVYS1hHblY4cWljM0toMWlxVXVudE0wZ2JrMXVlWEctT2ZyekpXNE5tc1RMTWlDUXBCSVB4TmsteU1ZZTlkb3kwdkZGamw1VjA0cFNJNWZEX1V1dGhwSzR6cU5jTUtBMzRfeC1zMndPRE9KaGtJZjRwY1laTjhXakZUdms?oc=5",
+      "publisher": "Florida Today",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "NASA awards moon base transportation, technology, science projects Florida Today",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-LRWZLYXd4d2pPbmE0SEdnZ1V6UVVTTWJ6THltQXM3QjFrZHRwMlFNVXdESDlpZHpV-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Thales Alenia Space Awarded DGA Contract for French IRIS Military Optical Constellation",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazdmOUN0d0R2VHhBOWFpY2pMcTZmS2s2cFBQNjlQNXR0ZVI5WnJKZmlHSkhfUVNIdktzMXdjSHU0elQxQi1ITHpCZlpVNHVFMkxzYVh2WlU3cDZySXJUY3pKYWV1VTBYd1d5M3hBTVR4R1JrbFFqR3R6WjRHTGg0VHBkX2hvaXRhU2NLRWZLYXd4d2pPbmE0SEdnZ1V6UVVTTWJ6THltQXM3QjFrZHRwMlFNVXdESDlpZHpV?oc=5",
+      "publisher": "SatNews Publishers",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Thales Alenia Space Awarded DGA Contract for French IRIS Military Optical Constellation SatNews Publishers",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-9fOU9HSktLN2RLdzNuMzlPcHBhajRiSjNpcTJSYno4Q21pWWNjeG9aRFNLbmZkMmc-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Viasat wins NASA contract for commercial space relay services",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2xyQVQ1NXpqY3FQUzBTaFo0ZjJYZjhPZGptN2dhS0ZUNkhJcTRmZ0FCX2hHb01VZ19fekQ2NFdGcldyOVMyYlhjY3NaNDJQd2RBb25xck54RU15YVhOLXJoTWpBTWZqSjRiQ0t6WXBVZC1KVVFJWWJ2b010c1BJLUluRU5lWHJQOU9fOU9HSktLN2RLdzNuMzlPcHBhajRiSjNpcTJSYno4Q21pWWNjeG9aRFNLbmZkMmc?oc=5",
+      "publisher": "Investing.com",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Viasat wins NASA contract for commercial space relay services Investing.com",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-3eHdfNzN5U1BIMFBrZndvNE1jbjdFR1VlMU9fbF9sU1AyZV9WUFBRdHZyVXBVcmll-oc-5",
+      "stage": "investment",
+      "country": "FR",
+      "provenance": "auto",
+      "source": "news",
+      "title": "France awards Airbus-led consortium €1.5bn-plus IRIS satellite contract",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMHlJVkpuYjlXZnpoV2lwMTN0OVNiZDhmcERRdjF4SnpZbEdud0VrWFc1bWs2WG1neEpybWVnYkdGQk9vaktPYkpwQ0kybDQ3VlFwNmFaUkp2QWJvTVBFNHRIYVNBRXFjbXBNeXpWTHBWSDZOWGYwTnJuYy03TklWQ0NsMFhSSVFrem9UXzNaOFc2QUNxTDZ2aHlEZEdZaWQ4TWp0dzZkaGZJSjh3eHdfNzN5U1BIMFBrZndvNE1jbjdFR1VlMU9fbF9sU1AyZV9WUFBRdHZyVXBVcmll?oc=5",
+      "publisher": "Aviation24.be",
+      "countryEvidence": "matched \"France\" (auto-classified from Google News RSS, unverified)",
+      "abstract": "France awards Airbus-led consortium €1.5bn-plus IRIS satellite contract Aviation24.be",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
+      "relevanceScore": 0.7
+    },
+    {
+      "id": "gnews-Ed4VENacks4LVNZQVlSZXVEZ2h3WVp0SFc4QmxqOXowREtPaU5TMUlGS2Z0YWVMTA-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Türkiye plans $400M investment in space programme, advances plans for spaceport in Somalia",
+      "org": "",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcm85WEpxTWI3aU1KdjV2ajZrOWVhdUVEZHppMGQ4d1hRYUwzX2ZFeWxJTTdQdnhtdTVTWGJHVkRhaHRlYTcwWGR4ZTlqRHFGWGZudXNXMW05NFJWb3VnMWFsZHdBOGFqZXJ4NnlILWwwa2FGZlRKbm5YaTdJdEJHM200ZzREeDhQUnNaR1RmRkxPODVqR1BlZWRpejBpeHNRS29qTEd4VENacks4LVNZQVlSZXVEZ2h3WVp0SFc4QmxqOXowREtPaU5TMUlGS2Z0YWVMTA?oc=5",
+      "publisher": "Hiiraan Online",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Türkiye plans $400M investment in space programme, advances plans for spaceport in Somalia Hiiraan Online",
+      "ingestedAt": "2026-11-09T22:37:48.034Z",
       "relevanceScore": 0.7
     }
   ],
@@ -98255,14 +98614,16 @@
     {
       "date": "2026-11-09",
       "counts": {
-        "CN": 243,
-        "DE": 9,
+        "DE": 11,
+        "PK": 3,
+        "US": 46,
+        "RU": 15,
+        "CN": 241,
         "ES": 8,
         "IT": 20,
-        "GB": 10,
+        "GB": 11,
         "TJ": 1,
         "KZ": 4,
-        "US": 45,
         "BR": 9,
         "IN": 26,
         "SI": 1,
@@ -98270,7 +98631,6 @@
         "UA": 12,
         "NG": 8,
         "AE": 4,
-        "RU": 14,
         "KR": 13,
         "TW": 1,
         "NZ": 2,
@@ -98299,7 +98659,6 @@
         "JO": 1,
         "FI": 1,
         "HK": 2,
-        "PK": 2,
         "SE": 1,
         "PT": 1,
         "MX": 1,
@@ -98310,13 +98669,13 @@
         "DZ": 1
       },
       "stageCounts": {
-        "innovation": 445,
-        "scaling": 19,
-        "adoption": 13,
-        "investment": 48
+        "innovation": 451,
+        "scaling": 20,
+        "adoption": 14,
+        "investment": 59
       },
       "fundingUsd": 0,
-      "totalEntries": 4500,
+      "totalEntries": 4519,
       "windowCap": 600
     }
   ],
@@ -98353,7 +98712,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -98553,7 +98912,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -98562,7 +98921,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -98571,7 +98930,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -98580,7 +98939,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -98780,7 +99139,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -98789,7 +99148,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -98804,7 +99163,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -98813,7 +99172,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -98822,7 +99181,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -98831,7 +99190,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -99031,7 +99390,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-09T12:05:08.229Z",
+      "lastSuccessfulPull": "2026-11-09T22:37:48.034Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -99044,245 +99403,245 @@
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "marketCapUsd": 33933541186.23,
-      "asOf": "2026-11-09T11:50:18.715Z",
+      "asOf": "2026-11-09T22:28:09.235Z",
       "url": "https://www.rocketlabusa.com"
     },
     {
       "symbol": "LUNR",
       "name": "Intuitive Machines, Inc. Class A Common Stock",
       "marketCapUsd": 1689993670.26,
-      "asOf": "2026-11-09T11:50:33.865Z",
+      "asOf": "2026-11-09T22:28:24.446Z",
       "url": "https://www.intuitivemachines.com"
     },
     {
       "symbol": "RDW",
       "name": "Redwire Corporation",
       "marketCapUsd": 1803805716.58,
-      "asOf": "2026-11-09T11:50:49.037Z",
+      "asOf": "2026-11-09T22:28:39.629Z",
       "url": "https://www.rdw.com"
     },
     {
       "symbol": "SPCE",
       "name": "Virgin Galactic Holdings, Inc.",
       "marketCapUsd": 419920651.31,
-      "asOf": "2026-11-09T11:51:04.233Z",
+      "asOf": "2026-11-09T22:28:54.811Z",
       "url": "https://www.virgingalactic.com"
     },
     {
       "symbol": "MNTS",
       "name": "Momentus Inc. Class A Common Stock",
       "marketCapUsd": 43926802,
-      "asOf": "2026-11-09T11:51:19.434Z",
+      "asOf": "2026-11-09T22:29:10.056Z",
       "url": "https://www.momentus.space"
     },
     {
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc.",
       "marketCapUsd": 1489119272.3,
-      "asOf": "2026-11-09T11:51:34.622Z",
+      "asOf": "2026-11-09T22:29:25.268Z",
       "url": "https://www.voyagertechnologies.com"
     },
     {
       "symbol": "SIDU",
       "name": "Sidus Space, Inc. Class A Common Stock",
       "marketCapUsd": 100243440.3378,
-      "asOf": "2026-11-09T11:51:49.765Z",
+      "asOf": "2026-11-09T22:29:40.469Z",
       "url": "https://www.sidusspace.com"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "marketCapUsd": 9692188230.65,
-      "asOf": "2026-11-09T11:52:04.916Z",
+      "asOf": "2026-11-09T22:29:55.664Z",
       "url": "https://www.ast-science.com"
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
       "marketCapUsd": 4566292261.95,
-      "asOf": "2026-11-09T11:52:20.119Z",
+      "asOf": "2026-11-09T22:30:10.877Z",
       "url": "https://www.planet.com"
     },
     {
       "symbol": "BKSY",
       "name": "BlackSky Technology Inc.",
       "marketCapUsd": 876699431.64,
-      "asOf": "2026-11-09T11:52:35.284Z",
+      "asOf": "2026-11-09T22:30:26.075Z",
       "url": "https://www.blacksky.com"
     },
     {
       "symbol": "SPIR",
       "name": "Spire Global, Inc.",
       "marketCapUsd": 338345147.90000004,
-      "asOf": "2026-11-09T11:52:50.417Z",
+      "asOf": "2026-11-09T22:30:41.267Z",
       "url": "https://www.spire.com"
     },
     {
       "symbol": "VSAT",
       "name": "Viasat Inc",
       "marketCapUsd": 8809484049.5,
-      "asOf": "2026-11-09T11:53:05.582Z",
+      "asOf": "2026-11-09T22:30:56.463Z",
       "url": "https://www.viasat.com"
     },
     {
       "symbol": "IRDM",
       "name": "Iridium Communications Inc.",
       "marketCapUsd": 4667427550.08,
-      "asOf": "2026-11-09T11:53:20.761Z",
+      "asOf": "2026-11-09T22:31:11.659Z",
       "url": "https://www.iridium.com"
     },
     {
       "symbol": "GSAT",
       "name": "Globalstar, Inc. Common Stock",
       "marketCapUsd": 10929504350.88,
-      "asOf": "2026-11-09T11:53:35.909Z",
+      "asOf": "2026-11-09T22:31:26.853Z",
       "url": "https://www.globalstar.com"
     },
     {
       "symbol": "TSAT",
       "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares",
       "marketCapUsd": 640025969.1,
-      "asOf": "2026-11-09T11:53:51.075Z",
+      "asOf": "2026-11-09T22:31:42.051Z",
       "url": "https://www.telesat.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 130998111251.20001,
-      "asOf": "2026-11-09T11:54:06.257Z",
+      "asOf": "2026-11-09T22:31:57.267Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 74585277369.89,
-      "asOf": "2026-11-09T11:54:21.460Z",
+      "asOf": "2026-11-09T22:32:12.480Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 255759467062.44,
-      "asOf": "2026-11-09T11:54:36.609Z",
+      "asOf": "2026-11-09T22:32:27.691Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "marketCapUsd": 137410819596,
-      "asOf": "2026-11-09T11:54:51.762Z",
+      "asOf": "2026-11-09T22:32:42.887Z",
       "url": "https://www.boeing.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 95675406408.54,
-      "asOf": "2026-11-09T11:55:06.915Z",
+      "asOf": "2026-11-09T22:32:58.109Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 48391708499.369995,
-      "asOf": "2026-11-09T11:55:22.134Z",
+      "asOf": "2026-11-09T22:33:13.314Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 16186256397.960001,
-      "asOf": "2026-11-09T11:55:37.289Z",
+      "asOf": "2026-11-09T22:33:28.508Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "HII",
       "name": "Huntington Ingalls Industries, Inc.",
       "marketCapUsd": 11378105764.4,
-      "asOf": "2026-11-09T11:55:52.426Z",
+      "asOf": "2026-11-09T22:33:43.713Z",
       "url": "https://www.hii.com"
     },
     {
       "symbol": "KTOS",
       "name": "Kratos Defense & Security Solutions, Inc.",
       "marketCapUsd": 6608330387.1,
-      "asOf": "2026-11-09T11:56:07.568Z",
+      "asOf": "2026-11-09T22:33:58.910Z",
       "url": "https://www.kratosdefense.com"
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment, Inc.",
       "marketCapUsd": 5730542357.52,
-      "asOf": "2026-11-09T11:56:22.739Z",
+      "asOf": "2026-11-09T22:34:14.112Z",
       "url": "https://www.avinc.com"
     },
     {
       "symbol": "TXT",
       "name": "Textron, Inc.",
       "marketCapUsd": 14151674245.660002,
-      "asOf": "2026-11-09T11:56:37.905Z",
+      "asOf": "2026-11-09T22:34:29.306Z",
       "url": "https://www.textron.com"
     },
     {
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd",
       "marketCapUsd": 32000003499.300003,
-      "asOf": "2026-11-09T11:56:53.123Z",
+      "asOf": "2026-11-09T22:34:44.497Z",
       "url": "https://www.elbitsystems.com"
     },
     {
       "symbol": "HEI",
       "name": "HEICO Corporation",
       "marketCapUsd": 46490300773.25,
-      "asOf": "2026-11-09T11:57:08.292Z",
+      "asOf": "2026-11-09T22:34:59.711Z",
       "url": "https://www.heico.com"
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
       "marketCapUsd": 66166553190.25,
-      "asOf": "2026-11-09T11:57:23.484Z",
+      "asOf": "2026-11-09T22:35:14.915Z",
       "url": "https://www.transdigm.com"
     },
     {
       "symbol": "ATRO",
       "name": "Astronics Corp",
       "marketCapUsd": 2353025891.44,
-      "asOf": "2026-11-09T11:57:38.629Z",
+      "asOf": "2026-11-09T22:35:30.116Z",
       "url": "https://www.astronics.com"
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corp.",
       "marketCapUsd": 16811104342.2,
-      "asOf": "2026-11-09T11:57:53.789Z",
+      "asOf": "2026-11-09T22:35:45.328Z",
       "url": "https://www.curtisswright.com"
     },
     {
       "symbol": "TDY",
       "name": "Teledyne Technologies Incorporated",
       "marketCapUsd": 28675619317.8,
-      "asOf": "2026-11-09T11:58:08.926Z",
+      "asOf": "2026-11-09T22:36:00.523Z",
       "url": "https://www.teledyne.com"
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
       "marketCapUsd": 10951043545.44,
-      "asOf": "2026-11-09T11:58:24.106Z",
+      "asOf": "2026-11-09T22:36:15.736Z",
       "url": "https://www.bwxt.com"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "marketCapUsd": 81842505446.9,
-      "asOf": "2026-11-09T11:58:39.261Z",
+      "asOf": "2026-11-09T22:36:31.002Z",
       "url": "https://www.howmet.com"
     },
     {
       "symbol": "TRMB",
       "name": "Trimble Inc. Common Stock",
       "marketCapUsd": 12404338784.11,
-      "asOf": "2026-11-09T11:58:54.406Z",
+      "asOf": "2026-11-09T22:36:46.266Z",
       "url": "https://www.trimble.com"
     }
   ],
