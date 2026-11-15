@@ -1,6 +1,6 @@
 {
   "technology": "quantum-computing",
-  "generatedAt": "2026-11-15T10:18:28.013Z",
+  "generatedAt": "2026-11-15T18:22:35.586Z",
   "entries": [
     {
       "id": "seed-ibm-roadmap-2025",
@@ -24842,7 +24842,7 @@
       "date": "2024-03-16",
       "url": "https://doi.org/10.1016/j.physrep.2024.03.002",
       "countryEvidence": "institution country codes [GR, ZA, IT, TW, US, IN, IE] → GR",
-      "citations": 565,
+      "citations": 566,
       "collaboratingCountries": [
         "GR",
         "IE",
@@ -24921,7 +24921,7 @@
       "date": "2024-08-08",
       "url": "https://doi.org/10.1016/j.comnet.2024.110672",
       "countryEvidence": "institution country codes [IT, IT] → IT",
-      "citations": 379,
+      "citations": 380,
       "ingestedAt": "2026-07-20T19:22:40.454Z",
       "orgId": "consorzio nazionale interuniversitario per le telecomunicazioni",
       "relevanceScore": 0.6
@@ -25436,7 +25436,7 @@
       "date": "2024-06-18",
       "url": "https://doi.org/10.1038/s41467-024-49287-w",
       "countryEvidence": "institution country codes [SG, TH, SG, CH, GB, US, US, US, CH] → US",
-      "citations": 324,
+      "citations": 325,
       "collaboratingCountries": [
         "CH",
         "GB",
@@ -26528,7 +26528,7 @@
       "date": "2023-04-19",
       "url": "https://doi.org/10.1038/s41586-023-05867-2",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, US, CA, CA] → CA",
-      "citations": 281,
+      "citations": 282,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -27749,7 +27749,7 @@
       "date": "2021-03-19",
       "url": "https://doi.org/10.1038/s41467-021-21728-w",
       "countryEvidence": "institution country codes [US, US, US, US, US] → US",
-      "citations": 1363,
+      "citations": 1364,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "los alamos national laboratory",
       "relevanceScore": 0.6
@@ -27785,7 +27785,7 @@
       "date": "2021-01-06",
       "url": "https://doi.org/10.1038/s41586-020-03093-8",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1135,
+      "citations": 1137,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -27842,7 +27842,7 @@
       "date": "2021-04-07",
       "url": "https://doi.org/10.1103/revmodphys.93.025001",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 906,
+      "citations": 908,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "national institute of standards and technology",
       "relevanceScore": 0.6
@@ -27858,7 +27858,7 @@
       "date": "2021-12-17",
       "url": "https://doi.org/10.1103/revmodphys.93.045003",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1032,
+      "citations": 1033,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "max planck institute of quantum optics",
       "relevanceScore": 0.6
@@ -27874,7 +27874,7 @@
       "date": "2021-03-24",
       "url": "https://doi.org/10.1103/physreva.103.032430",
       "countryEvidence": "institution country codes [CA, DE, DE] → DE",
-      "citations": 949,
+      "citations": 950,
       "collaboratingCountries": [
         "CA",
         "DE"
@@ -27916,7 +27916,7 @@
       "date": "2021-05-11",
       "url": "https://doi.org/10.1038/s41467-021-22539-9",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US] → US",
-      "citations": 1089,
+      "citations": 1091,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "google united states",
       "relevanceScore": 0.6
@@ -27994,7 +27994,7 @@
       "date": "2021-04-15",
       "url": "https://doi.org/10.1126/science.abg1919",
       "countryEvidence": "institution country codes [NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL] → NL",
-      "citations": 798,
+      "citations": 799,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "qutech",
       "relevanceScore": 0.6
@@ -28185,7 +28185,7 @@
       "date": "2022-06-09",
       "url": "https://doi.org/10.1126/science.abn7293",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, AT, US, US, US] → US",
-      "citations": 655,
+      "citations": 656,
       "collaboratingCountries": [
         "AT",
         "US"
@@ -28243,7 +28243,7 @@
       "date": "2022-01-17",
       "url": "https://doi.org/10.1038/s41566-021-00928-2",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 564,
+      "citations": 566,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -28376,7 +28376,7 @@
       "date": "2022-05-05",
       "url": "https://doi.org/10.1126/science.abo6587",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, CA, CA, US, US, US, US, US, US, US, US, US, US, US, US, AT, AT, AT, US, US, US, US] → US",
-      "citations": 512,
+      "citations": 513,
       "collaboratingCountries": [
         "AT",
         "CA",
@@ -28705,7 +28705,7 @@
       "date": "2022-05-25",
       "url": "https://doi.org/10.1038/s41586-022-04697-y",
       "countryEvidence": "institution country codes [NL, NL, NL, NL, NL, NL, AT, NL, NL, NL, NL, NL, NL] → NL",
-      "citations": 383,
+      "citations": 384,
       "collaboratingCountries": [
         "AT",
         "NL"
@@ -28746,7 +28746,7 @@
       "date": "2021-07-06",
       "url": "https://doi.org/10.22331/q-2021-07-06-497",
       "countryEvidence": "institution country codes [US] → US",
-      "citations": 630,
+      "citations": 631,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "google united states",
       "relevanceScore": 0.6
@@ -28762,7 +28762,7 @@
       "date": "2021-04-09",
       "url": "https://doi.org/10.1103/physreva.103.042605",
       "countryEvidence": "institution country codes [US, US, US, US, US] → US",
-      "citations": 402,
+      "citations": 403,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "ibm research thomas j watson research center",
       "relevanceScore": 0.6
@@ -29096,7 +29096,7 @@
       "date": "2021-10-28",
       "url": "https://doi.org/10.1126/science.abg5029",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 328,
+      "citations": 327,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "google united states",
       "relevanceScore": 0.6
@@ -29149,7 +29149,7 @@
       "date": "2022-04-07",
       "url": "https://doi.org/10.1007/s10479-022-04634-2",
       "countryEvidence": "institution country codes [US] → US",
-      "citations": 379,
+      "citations": 380,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of colorado denver",
       "relevanceScore": 0.6
@@ -29207,7 +29207,7 @@
       "date": "2022-07-06",
       "url": "https://doi.org/10.1103/revmodphys.94.035001",
       "countryEvidence": "institution country codes [CN, CN, CN, CN] → CN",
-      "citations": 328,
+      "citations": 329,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -29223,7 +29223,7 @@
       "date": "2021-08-16",
       "url": "https://doi.org/10.1063/5.0056534",
       "countryEvidence": "institution country codes [NL, NL, US, US, US, US, NL, NL] → NL",
-      "citations": 334,
+      "citations": 335,
       "collaboratingCountries": [
         "NL",
         "US"
@@ -29321,7 +29321,7 @@
       "date": "2022-04-21",
       "url": "https://doi.org/10.1103/prxquantum.3.020315",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 308,
+      "citations": 309,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "collaborative innovation center of advanced microstructures",
       "relevanceScore": 0.6
@@ -29431,7 +29431,7 @@
       "date": "2021-06-21",
       "url": "https://doi.org/10.1038/s41566-021-00828-5",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 315,
+      "citations": 316,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "university of science and technology of china",
       "relevanceScore": 0.6
@@ -29741,7 +29741,7 @@
       "date": "2021-02-24",
       "url": "https://doi.org/10.1103/prxquantum.2.017001",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 349,
+      "citations": 350,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "duke university",
       "relevanceScore": 0.6
@@ -30167,7 +30167,7 @@
       "date": "2021-06-24",
       "url": "https://doi.org/10.1364/optica.425414",
       "countryEvidence": "institution country codes [US, US, US, CN, US, US] → US",
-      "citations": 242,
+      "citations": 243,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -30260,7 +30260,7 @@
       "date": "2022-09-15",
       "url": "https://doi.org/10.1038/s41567-022-01741-6",
       "countryEvidence": "institution country codes [CA, JP, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, US, JP, JP, JP, JP, CA, CA] → CA",
-      "citations": 245,
+      "citations": 247,
       "collaboratingCountries": [
         "CA",
         "JP",
@@ -30349,7 +30349,7 @@
       "date": "2021-01-25",
       "url": "https://doi.org/10.1038/s41928-020-00528-y",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, US, US, AU, AU] → AU",
-      "citations": 265,
+      "citations": 266,
       "collaboratingCountries": [
         "AU",
         "US"
@@ -30779,7 +30779,7 @@
       "date": "2022-04-21",
       "url": "https://doi.org/10.1038/s42256-022-00468-6",
       "countryEvidence": "institution country codes [US, US, US] → US",
-      "citations": 236,
+      "citations": 237,
       "ingestedAt": "2026-07-20T19:44:32.653Z",
       "orgId": "amazon united states",
       "relevanceScore": 0.6
@@ -31284,7 +31284,7 @@
       "date": "2021-01-20",
       "url": "https://doi.org/10.22331/q-2021-01-20-385",
       "countryEvidence": "institution country codes [GB, GB, GB, US, US, GB, GB, GB, GB] → GB",
-      "citations": 236,
+      "citations": 237,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -114874,7 +114874,7 @@
       "date": "2021-11-29",
       "url": "https://doi.org/10.1038/s41467-021-27045-6",
       "countryEvidence": "institution country codes [US, GB, US, GB, GB, US, US, US, US, US, US, US, US] → US",
-      "citations": 1006,
+      "citations": 1008,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -114952,7 +114952,7 @@
       "date": "2022-03-30",
       "url": "https://doi.org/10.22331/q-2022-03-30-677",
       "countryEvidence": "institution country codes [DE, CA, CA, US, US] → CA",
-      "citations": 405,
+      "citations": 406,
       "collaboratingCountries": [
         "CA",
         "DE",
@@ -115118,7 +115118,7 @@
       "date": "2021-11-19",
       "url": "https://doi.org/10.1103/physrevx.11.041036",
       "countryEvidence": "institution country codes [US, US, US, GB, NL, US, US, US, US, US, US, US] → US",
-      "citations": 256,
+      "citations": 255,
       "collaboratingCountries": [
         "GB",
         "NL",
@@ -127932,7 +127932,7 @@
       "date": "2022-03-07",
       "url": "https://doi.org/10.1002/wcms.1606",
       "countryEvidence": "institution country codes [DE] → DE",
-      "citations": 5407,
+      "citations": 5411,
       "ingestedAt": "2026-10-06T12:35:06.729Z",
       "orgId": "max planck institut für kohlenforschung",
       "relevanceScore": 0.6
@@ -127948,7 +127948,7 @@
       "date": "2025-03-01",
       "url": "https://doi.org/10.1002/wcms.70019",
       "countryEvidence": "institution country codes [DE] → DE",
-      "citations": 1579,
+      "citations": 1581,
       "ingestedAt": "2026-10-06T12:35:06.729Z",
       "orgId": "max planck institut für kohlenforschung",
       "relevanceScore": 0.6
@@ -135006,7 +135006,7 @@
       "date": "2022-07-05",
       "url": "https://doi.org/10.1038/s41377-022-00897-3",
       "countryEvidence": "institution country codes [GB, GB, ZA] → GB",
-      "citations": 703,
+      "citations": 706,
       "collaboratingCountries": [
         "GB",
         "ZA"
@@ -135119,7 +135119,7 @@
       "date": "2021-02-10",
       "url": "https://doi.org/10.1063/5.0007444",
       "countryEvidence": "institution country codes [DE, DE] → DE",
-      "citations": 372,
+      "citations": 373,
       "ingestedAt": "2026-10-06T20:02:24.535Z",
       "orgId": "leipzig university",
       "relevanceScore": 0.6
@@ -164535,6 +164535,7 @@
       "url": "https://doi.org/10.1364/ol.618984",
       "countryEvidence": "no institution country on record",
       "citations": 0,
+      "abstract": "High-precision time synchronization is essential for quantum networks. In fiber-based quantum two-way time transfer (Q-TWTT), chromatic dispersion broadens the coincidence peak and thus degrades the timing precision, while conventional…",
       "authors": [
         "Zhiyang Liu",
         "Yunru Fan",
@@ -173514,7 +173515,7 @@
       "date": "2022-08-24",
       "url": "https://doi.org/10.1038/s41586-022-04987-5",
       "countryEvidence": "institution country codes [DE, DE, DE, DE] → DE",
-      "citations": 242,
+      "citations": 243,
       "ingestedAt": "2026-10-31T16:44:55.786Z",
       "orgId": "max planck institute of quantum optics",
       "relevanceScore": 0.6
@@ -188877,12 +188878,12 @@
       "provenance": "live",
       "source": "paper",
       "title": "Two-photon Landau–Zener–Stückelberg–Majorana effect in interacting Rydberg atoms",
-      "org": "Zhengzhou University of Light Industry",
+      "org": "Zhengzhou University",
       "date": "2026-10-19",
       "url": "https://doi.org/10.1364/ol.613294",
-      "countryEvidence": "institution country codes [CN, CN] → CN",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "The single-drive-based two-photon Landau–Zener–Stückelberg–Majorana (LZSM) effect was recently observed in a single superconducting transmon [ Phys. Rev. Lett. 134 , 060602 ( 2025 ) 10.1103/PhysRevLett.134.060602 ]. It is extended here…",
+      "abstract": "The single-drive-based two-photon Landau-Zener-Stückelberg-Majorana (LZSM) effect was recently observed in a single superconducting transmon [Phys. Rev. Lett.134, 060602 (2025)]. It is extended here from a single-particle effect to a…",
       "authors": [
         "Ya Gao",
         "Pei-Yao Song",
@@ -188893,7 +188894,7 @@
       ],
       "venue": "Optics Letters",
       "ingestedAt": "2026-11-10T21:13:34.782Z",
-      "orgId": "zhengzhou university of light industry",
+      "orgId": "zhengzhou university",
       "relevanceScore": 0.6
     },
     {
@@ -192608,7 +192609,7 @@
         "Orus, Roman"
       ],
       "classification": "G06F40/20, G06F40/216, G06F40/284, G06F40/289, G06F40/30, G06N10/20, G06N10/40, G06N10/60, G06N3/045, G06N3/08",
-      "abstract": "A method and system for training a transformer-based language model, in particular a large language model, or inferring using a transformer-based language model, in particular a large language model, with a hybrid quantum-classical…",
+      "abstract": "[0000]    A method and system for training a transformer-based language model, in particular a large language model, or inferring using a transformer-based language model, in particular a large language model, with a hybrid…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "multiverse computing s l",
       "relevanceScore": 0.85
@@ -192633,7 +192634,7 @@
         "CHENG, Chao-Ching"
       ],
       "classification": "G06N10/40, H10D48/031, H10D48/3835, H10D62/151, H10D62/8164, H10D64/256, H10D30/402",
-      "abstract": "A semiconductor device includes a substrate, a first quantum dot transistor structure and a second quantum dot transistor structure. The substrate has a first side and a second side opposite to the first side. The first quantum dot…",
+      "abstract": "[0000]    A semiconductor device includes a substrate, a first quantum dot transistor structure and a second quantum dot transistor structure. The substrate has a first side and a second side opposite to the first side. The first quantum…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "taiwan semiconductor manufacturing company",
       "relevanceScore": 0.85
@@ -192678,7 +192679,7 @@
         "Cam, Tristan"
       ],
       "classification": "G06N10/20, G06N10/40",
-      "abstract": "A method, system, and computer program product for performing quantum circuit compilation. A spanning tree of a graph of a target quantum architecture is identified. A spanning tree refers to a subgraph, such as the subgraph of the…",
+      "abstract": "[0000]    A method, system, and computer program product for performing quantum circuit compilation. A spanning tree of a graph of a target quantum architecture is identified. A spanning tree refers to a subgraph, such as the subgraph of…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "ibm",
       "relevanceScore": 0.85
@@ -192724,7 +192725,7 @@
         "Carroll, Malcolm Scott"
       ],
       "classification": "G06N10/40, H05K7/20",
-      "abstract": "Systems, devices and/or structures that facilitate coupling of quantum payloads across multiple cooling plates are provided. In an embodiment, a structure can comprise a plurality of cooling plates respectively comprising a set of qubit…",
+      "abstract": "[0000]    Systems, devices and/or structures that facilitate coupling of quantum payloads across multiple cooling plates are provided. In an embodiment, a structure can comprise a plurality of cooling plates respectively comprising a set…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "ibm",
       "relevanceScore": 0.85
@@ -192744,7 +192745,7 @@
         "De Santo, Keith Louis"
       ],
       "classification": "A61B34/10, A61B34/30, G06N10/20",
-      "abstract": "Robots self-directed by quantum computing and classical algorithms performing autonomous physical procedures in the medical, dental, cosmetic, ophthalmology, and veterinarian professions without guidance, or intervention by human…",
+      "abstract": "[0000]    Robots self-directed by quantum computing and classical algorithms performing autonomous physical procedures in the medical, dental, cosmetic, ophthalmology, and veterinarian professions without guidance, or intervention by human…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "de santo keith louis",
       "relevanceScore": 0.85
@@ -192788,7 +192789,7 @@
         "Young, Michael R."
       ],
       "classification": "G06F21/53, G06N10/60, G06N10/80",
-      "abstract": "A system includes a memory configured to store instances of a software application executable on a plurality of computing node devices comprising a quantum mesh network and a set of historical adversarial interactions. The system includes…",
+      "abstract": "[0000]    A system includes a memory configured to store instances of a software application executable on a plurality of computing node devices comprising a quantum mesh network and a set of historical adversarial interactions. The system…",
       "ingestedAt": "2026-11-13T04:21:29.961Z",
       "orgId": "bank of america",
       "relevanceScore": 0.85
@@ -193187,7 +193188,7 @@
       "url": "https://doi.org/10.1038/s41534-026-01404-x",
       "countryEvidence": "institution country codes [DE, DE, DE, GB, DE, DE, DE] → DE",
       "citations": 9,
-      "abstract": "Abstract Quantum error correction is the art of protecting fragile quantum information through suitable encoding and active interventions. However, it is notoriously difficult to manipulate encoded quantum data without causing…",
+      "abstract": "Quantum error correction is the art of protecting fragile quantum information through suitable encoding and active interventions. However, it is notoriously difficult to manipulate encoded quantum data without causing uncorrectable errors.…",
       "authors": [
         "Eric J. Kuehnke",
         "Kyano Levi",
@@ -193268,7 +193269,7 @@
       "url": "https://doi.org/10.1007/s10773-026-06472-5",
       "countryEvidence": "institution country codes [CZ, AT] → CZ",
       "citations": 4,
-      "abstract": "Abstract We give a constructive analysis of Kochen–Specker (KS) contextuality at the level of complete orthogonal bases (contexts). In dimension three, three noncomputational mutually unbiased bases generate a union of 165 rays and 130…",
+      "abstract": "We give a constructive analysis of Kochen-Specker (KS) contextuality at the level of complete orthogonal bases (contexts). In dimension three, three noncomputational mutually unbiased bases generate a union of 165 rays and 130 contexts.…",
       "authors": [
         "Mirko Navara",
         "Karl Svozil"
@@ -194548,7 +194549,7 @@
       "org": "Gulf University",
       "date": "2026-10-31",
       "url": "https://doi.org/10.47974/jdmsc-3012",
-      "countryEvidence": "institution country codes [RS, IN, IN, UZ, UZ] → IN",
+      "countryEvidence": "institution country codes [RS, IN, IN, IN, UZ, UZ] → IN",
       "citations": 0,
       "abstract": "Conventional cryptographic systems such as factorization and discrete logarithm problems are threatened by the quick development of quantum computing.This paper offers a thorough study of number-theoretic problems and structures underlying…",
       "authors": [
@@ -195235,24 +195236,29 @@
     {
       "id": "oa-W7166541686",
       "stage": "innovation",
-      "country": "MY",
+      "country": "ID",
       "provenance": "live",
       "source": "paper",
       "title": "Amplitude-dependent phase shifts in the coherent-coherent-Fock interference in a six-port Mach–Zehnder interferometer",
-      "org": "International Islamic University Malaysia",
+      "org": "Binus University",
       "date": "2026-11-01",
       "url": "https://doi.org/10.1016/j.rio.2026.101208",
-      "countryEvidence": "institution country codes [MY] → MY",
+      "countryEvidence": "institution country codes [ID, JP, MY] → ID",
       "citations": 1,
-      "abstract": "This paper presents a theoretical investigation of quantum interference dynamics in three-photon systems within a six-port Mach–Zehnder interferometer (6p-MZI), focusing on the coherent-coherent-Fock regime, in which two coherent states…",
+      "abstract": "This paper presents a theoretical investigation of the interference of coherent–coherent–Fock (CCF) states in a six–port Mach–Zehnder interferometer (6p-MZI), in which two coherent states and a single–photon Fock state are injected…",
       "authors": [
         "Suryadi Suryadi",
         "Izzah Machfuuzoh",
         "Ahmad Fakhrurrazi Ahmad Noorden"
       ],
       "venue": "Results in Optics",
+      "collaboratingCountries": [
+        "ID",
+        "JP",
+        "MY"
+      ],
       "ingestedAt": "2026-11-14T12:51:56.337Z",
-      "orgId": "international islamic university malaysia",
+      "orgId": "binus university",
       "relevanceScore": 0.6
     },
     {
@@ -195810,15 +195816,16 @@
     {
       "id": "oa-W7226026427",
       "stage": "innovation",
-      "country": null,
+      "country": "JP",
       "provenance": "live",
       "source": "paper",
       "title": "Quasi-quantum computing for constraint-aware optimization of laser welding parameters in aluminum alloys",
-      "org": "",
+      "org": "Resonac (Japan)",
       "date": "2026-11-13",
       "url": "https://doi.org/10.1557/s43580-026-01820-3",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [JP] → JP",
       "citations": 0,
+      "abstract": "Laser welding of aluminum alloys used in the automotive and aerospace industries requires high-quality joints through optimization of high-dimensional process parameters, such as laser power, welding speed, focus offset, and wobbling…",
       "authors": [
         "Kohsuke Kakuda",
         "Shunsuke Kanai",
@@ -195826,6 +195833,7 @@
       ],
       "venue": "MRS Advances",
       "ingestedAt": "2026-11-14T19:44:36.214Z",
+      "orgId": "resonac japan",
       "relevanceScore": 0.6
     },
     {
@@ -195838,7 +195846,7 @@
       "org": "University of Science and Technology of China",
       "date": "2026-11-13",
       "url": "https://doi.org/10.1088/1367-2630/aec1fa",
-      "countryEvidence": "institution country codes [MX, CN, MX, SI, CN, CN, CN] → CN",
+      "countryEvidence": "institution country codes [MX, CN, MX, CN, CN, CN] → CN",
       "citations": 0,
       "abstract": "Abstract High-dimensional quantum key distribution (HD-QKD) offers significant advantages in photon information capacity and noise tolerance compared to the two-dimensional system. However, the practical deployment of HD-QKD systems is…",
       "authors": [
@@ -195852,8 +195860,7 @@
       "venue": "New Journal of Physics",
       "collaboratingCountries": [
         "CN",
-        "MX",
-        "SI"
+        "MX"
       ],
       "ingestedAt": "2026-11-14T19:44:36.214Z",
       "orgId": "university of science and technology of china",
@@ -195933,14 +195940,14 @@
     {
       "id": "oa-W7225883202",
       "stage": "innovation",
-      "country": null,
+      "country": "NG",
       "provenance": "live",
       "source": "paper",
       "title": "Quantum Computing for the Transformation of Information Access in the Fifth Industrial Revolution (5IR)",
-      "org": "",
+      "org": "University of Abuja",
       "date": "2026-11-06",
       "url": "https://doi.org/10.12775/ft.2026.003",
-      "countryEvidence": "no institution country on record",
+      "countryEvidence": "institution country codes [NG, NG] → NG",
       "citations": 0,
       "abstract": "This study examines the potential of quantum computing to transform information retrieval, metadata management and data security in academic libraries within the context of the Fifth Industrial Revolution (5IR). Guided by the…",
       "authors": [
@@ -195949,6 +195956,7 @@
       ],
       "venue": "Folia Toruniensia",
       "ingestedAt": "2026-11-14T19:44:36.214Z",
+      "orgId": "university of abuja",
       "relevanceScore": 0.6
     },
     {
@@ -196249,6 +196257,597 @@
       "countryEvidence": "matched \"Delft\" (auto-classified from Quantum Zeitgeist RSS, unverified)",
       "abstract": "TU Delft researcher Zeynab Kaseb is the first user to test Quantum Inspire’s integration with DelftBlue, TU Delft’s high-performance computer. The workflow allows researchers to use DelftBlue for classical calculations, then send quantum…",
       "ingestedAt": "2026-11-15T00:39:38.024Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "oa-W7229263835",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "AI-Augmented Quantum Key Distribution for Cloud Data Security: A Simulation Study of Aggregate Versus Block-Wise Eavesdropping Detection",
+      "org": "JBIET",
+      "date": "2026-11-15",
+      "url": "https://doi.org/10.64823/ijter.2611001",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "abstract": "Cloud infrastructures face a long-horizon threat from cryptographically relevant quantum computers, motivating both post-quantum cryptography (PQC) and quantum key distribution (QKD) as complementary defenses. QKD additionally offers a…",
+      "authors": [
+        "Akheel Mohammad"
+      ],
+      "venue": "International Journal of Technology & Emerging Research",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "jbiet",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7138861010",
+      "stage": "innovation",
+      "country": "BE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption",
+      "org": "IMEC",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.1038/s41534-026-01424-7",
+      "countryEvidence": "institution country codes [BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE] → BE",
+      "citations": 0,
+      "abstract": "Large-scale cryogenic quantum systems are constrained by an input–output bottleneck between room-temperature electronics and millikelvin stages, particularly in superconducting qubit platforms. This bottleneck is most acute for output…",
+      "authors": [
+        "Liam Fallik",
+        "Sriram Balamurali",
+        "Alican Çağlar",
+        "Rohith Acharya",
+        "Jacques Van Damme",
+        "Tsvetan Ivanov"
+      ],
+      "venue": "npj Quantum Information",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "imec",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7227856203",
+      "stage": "innovation",
+      "country": "IN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Entanglement-controlled quantum contrastive embedding learning for robust natural language processing: an adaptive fidelity-aware framework",
+      "org": "SRM Institute of Science and Technology",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.1016/j.bspc.2026.111833",
+      "countryEvidence": "institution country codes [IN, IN, IN, IN] → IN",
+      "citations": 0,
+      "authors": [
+        "B. Satyanarayana Murthy",
+        "Yogini Dilip Borole",
+        "Sowmya V",
+        "Rameh Kothapalli",
+        "Ch. L. N. Deepika",
+        "Ashok Koujalagi"
+      ],
+      "venue": "Biomedical Signal Processing and Control",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "srm institute of science and technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7215125737",
+      "stage": "innovation",
+      "country": "JP",
+      "provenance": "live",
+      "source": "paper",
+      "title": "An Algorithm for computing Three- and Four-Body Density Matrices from CASCI Wavefunction and AI-Assisted Code Optimization",
+      "org": "Hokkaido University",
+      "date": "2026-11-13",
+      "url": "https://doi.org/10.1093/chemle/upag217",
+      "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP, JP] → JP",
+      "citations": 0,
+      "abstract": "Abstract Three- and four-body density matrices in the active space are required for second-order n-electron valence perturbation theory (NEVPT2) following complete active-space configuration interaction (CASCI) calculations. We developed…",
+      "authors": [
+        "Kiyoshi Tanaka",
+        "Takahiro Katagiri",
+        "Tatsuya Nakano",
+        "Yuji Mochizuki"
+      ],
+      "venue": "Chemistry Letters",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "hokkaido university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7226002125",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Comprehensive Advancements of Anti-Quantum Digital Signature Technologies",
+      "org": "Wuhan University of Science and Technology",
+      "date": "2026-11-13",
+      "url": "https://doi.org/10.1051/itmconf/20269304017",
+      "countryEvidence": "institution country codes [CN] → CN",
+      "citations": 0,
+      "abstract": "The rapid development of quantum computing poses a threat to traditional public-key systems. The existing Internet security framework relies heavily on public-key cryptography and hash functions, with classical algorithms such as RSA and…",
+      "authors": [
+        "Xinyu Shen"
+      ],
+      "venue": "ITM Web of Conferences",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "wuhan university of science and technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7227080530",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "High‐Efficiency Tomography of High‐Dimensional Spatial Mode Entanglement",
+      "org": "Nankai University",
+      "date": "2026-11-13",
+      "url": "https://doi.org/10.1002/lpor.72170",
+      "countryEvidence": "institution country codes [CN, RU, CN, RU, CN, RU, CN, RU, CN, RU, CN, RU, CN, RU, CN] → CN",
+      "citations": 0,
+      "abstract": "ABSTRACT High‐dimensional (HD) entanglement of photonic spatial modes endows photon pair with greater shared information, enabling secure quantum communication even in noisy environments. However, adequately characterizing HD spatial mode…",
+      "authors": [
+        "Jiaxian Zhao",
+        "Min Wang",
+        "Junlong Tu",
+        "刘志峰 Liu Zhifeng",
+        "Yu Ge",
+        "Chenghou Tu"
+      ],
+      "venue": "Laser & Photonics Review",
+      "collaboratingCountries": [
+        "CN",
+        "RU"
+      ],
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "nankai university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7233531904",
+      "stage": "innovation",
+      "country": "VN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Tối ưu hóa nhân lượng tử huấn luyện được và so sánh với học máy trong bài toán phân loại hai giống gạo có ngoại hình gần tương đồng với lượng dữ liệu hạn chế",
+      "org": "Can Tho University",
+      "date": "2026-11-12",
+      "url": "https://openalex.org/W7233531904",
+      "countryEvidence": "institution country codes [VN] → VN",
+      "citations": 0,
+      "abstract": "This study evaluates quantum kernels for classifying morphologically overlapping Cammeo and Osmancik rice grains under limited training data. Six outer splits were retained for the broad descriptive benchmark; confirmatory analyses used 10…",
+      "authors": [
+        "Trương Tuấn Vũ",
+        "Thị Yến Nhi Lê",
+        "Lê Thái Hòa",
+        "Sơn Thị Mỹ Trâm",
+        "Nguyễn Thành Tiên"
+      ],
+      "venue": "Can Tho University Journal of Science",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "can tho university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7233030393",
+      "stage": "innovation",
+      "country": "NG",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Quantum Key Distribution and Hybrid Quantum–Classical Cryptography for Secure Cloud Storage a Critical Review",
+      "org": "Adamawa State University",
+      "date": "2026-11-10",
+      "url": "https://doi.org/10.51584/ijrias.2026.11100072",
+      "countryEvidence": "institution country codes [NG, NG, NG] → NG",
+      "citations": 0,
+      "abstract": "Protecting cloud-stored information against quantum-era threats requires more than selecting a key-establishment mechanism. Quantum key distribution (QKD) must operate alongside authenticated classical communication, secure key delivery,…",
+      "authors": [
+        "İbrahim Manga",
+        "Barka Mshelia Sunday",
+        "Omega Sarjiyus"
+      ],
+      "venue": "International Journal of Research and Innovation in Applied Science",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "adamawa state university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225290468",
+      "stage": "innovation",
+      "country": "FR",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Femtosecond free-space multipass optical parametric amplifier",
+      "org": "Centre National de la Recherche Scientifique",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639307038",
+      "countryEvidence": "institution country codes [FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR] → FR",
+      "citations": 0,
+      "abstract": "We numerically and experimentally demonstrate a continuous-wave seeded multipass optical parametric amplifier. The system generates 160-fs pulses at 783 nm with 64% quantum efficiency and 80 dB gain.",
+      "authors": [
+        "Giovanni Cichelli",
+        "Milan Fayat",
+        "Michele Natile",
+        "Yoann Zaouter",
+        "Marie Ouillé",
+        "Patrick Georges"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "centre national de la recherche scientifique",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225298803",
+      "stage": "innovation",
+      "country": "GB",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Performance Characterisation of a Quantum Optical Seal at Telecom Wavelengths",
+      "org": "University of Strathclyde",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639308004",
+      "countryEvidence": "institution country codes [GB, GB, GB, IT, GB] → GB",
+      "citations": 0,
+      "abstract": "Quantum-enhanced optical seals have been proposed as a method to provide crucial security and monitoring of sensitive infrastructure by exploiting entangled photons. Here, we develop a 100-m-path quantum seal at telecom wavelengths and…",
+      "authors": [
+        "Alister J. Gorrie",
+        "John Jeffers",
+        "Jennifer E. Hastie",
+        "Lucia Caspani"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "collaboratingCountries": [
+        "GB",
+        "IT"
+      ],
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "university of strathclyde",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225298841",
+      "stage": "innovation",
+      "country": "BE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Coherent single-photon frequency conversion using chirped pulses",
+      "org": "Université Libre de Bruxelles",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639308003",
+      "countryEvidence": "institution country codes [BE, BE, BE] → BE",
+      "citations": 0,
+      "abstract": "We experimentally demonstrate a new method for efficient frequency conversion of long- coherence single photons, using Bragg scattering four wave mixing. The proposed architecture overcomes the pump power limitations imposed by Brillouin…",
+      "authors": [
+        "Clélia Deroo-Blanquart",
+        "Vincent Pêcheur",
+        "Stéphane Clemmen"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "université libre de bruxelles",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225301911",
+      "stage": "innovation",
+      "country": "DE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Industrial-grade high power and low noise laser for quantum applications",
+      "org": "Toptica Photonics (Germany)",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639310002",
+      "countryEvidence": "institution country codes [DE] → DE",
+      "citations": 0,
+      "abstract": "The development of high-power, continuous-wave (CW), single-frequency, ultra-low-noise laser systems has become a key enabling technology for the rapid emergence of quantum technologies. From laser cooling and trapping to optical tweezers,…",
+      "authors": [
+        "Germain Guiraud"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "toptica photonics germany",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225330141",
+      "stage": "innovation",
+      "country": "DE",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Intensity-to-Phase Coupling in High-Repetition-Rate CEP Measurements",
+      "org": "Lund University",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639307052",
+      "countryEvidence": "institution country codes [DE, DE, SE, DE, SE, DE, DE, DE, SE] → DE",
+      "citations": 0,
+      "abstract": "We quantify wavelength-dependent intensity-to-phase coupling in white-light generation using a dual-arm Mach–Zehnder interferometer with controlled acousto-optic modulation. Small input-energy perturbations induce measurable phase shifts,…",
+      "authors": [
+        "Zijie Qin",
+        "Chen Guo",
+        "Christoph M. Heyl",
+        "Cord L. Arnold"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "collaboratingCountries": [
+        "DE",
+        "SE"
+      ],
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "lund university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7225342727",
+      "stage": "innovation",
+      "country": "FR",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Quantum Photonics: Every Photon Counts",
+      "org": "Institut d’Optique Graduate School",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.1051/epjconf/202639308001",
+      "countryEvidence": "institution country codes [FR] → FR",
+      "citations": 0,
+      "abstract": "we review recent specific developments of photonics & lasers on the emerging quantum technologies landscape",
+      "authors": [
+        "Johan Boullet"
+      ],
+      "venue": "EPJ Web of Conferences",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "institut d optique graduate school",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7212109664",
+      "stage": "innovation",
+      "country": "RU",
+      "provenance": "live",
+      "source": "paper",
+      "title": "UV laser activation of NV centers in CVD diamond",
+      "org": "Prokhorov General Physics Institute",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.carbon.2026.122320",
+      "countryEvidence": "institution country codes [RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU] → RU",
+      "citations": 0,
+      "authors": [
+        "Vitali Viktorovich Kononenko",
+        "Margarita A. Dezhkina",
+        "Alexey A. Kupriyanov",
+        "М. С. Комленок",
+        "Alexey F. Popovich",
+        "T. V. Kononenko"
+      ],
+      "venue": "Carbon",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "prokhorov general physics institute",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7230087996",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Long distance optical frequency transfer with short-term phase noise suppressed by a clean-up-supported remote terminal",
+      "org": "",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.measurement.2026.123869",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Przemysław Krehlik",
+        "Tomasz Kawalec",
+        "Jakub Dobosz",
+        "Marcin Bober",
+        "Krzysztof Turza",
+        "Łukasz Śliwczyński"
+      ],
+      "venue": "Measurement",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7231865185",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Infrared Quantum Illumination",
+      "org": "Hubei University of Technology",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1002/qute.70542",
+      "countryEvidence": "institution country codes [CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "ABSTRACT Quantum illumination exploits quantum correlations to improve weak‐target detection in noisy, lossy environments. Infrared radiation is widely used in spectroscopy, imaging, and environmental monitoring, yet quantum illumination…",
+      "authors": [
+        "D. J. Kong",
+        "Chenglin Zheng",
+        "Fei Wang"
+      ],
+      "venue": "Advanced Quantum Technologies",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "hubei university of technology",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7232156363",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Non‐Gaussian EPR Steering as a Quantum Resource for High‐Efficiency Quantum Batteries",
+      "org": "Zhejiang Sci-Tech University",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1002/qute.70531",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "ABSTRACT Quantum batteries constitute a promising energy storage platform that harnesses inherent quantum resources to improve charging performance, which has garnered widespread research attention. In this work, we explore the charging…",
+      "authors": [
+        "P. H. Liao",
+        "C. Zhang",
+        "Y. Zhao",
+        "Z. F. Huang",
+        "Youbin Yu",
+        "G. R. Jin"
+      ],
+      "venue": "Advanced Quantum Technologies",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "zhejiang sci tech university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7232690273",
+      "stage": "innovation",
+      "country": "IN",
+      "provenance": "auto",
+      "source": "paper",
+      "title": "Hybrid Quantum-Classical Machine Learning for Multi-Target Antimicrobial Resistance in Urinary Tract Infections",
+      "org": "Dept. of Artificial Intelligence G H Raisoni College of Engineering Nagpur",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.55041/ijsrem68993",
+      "countryEvidence": "inferred from raw affiliation text \"Dept. of Artificial Intelligence G H Raisoni College of Engineering Nagpur , India\" → IN",
+      "citations": 0,
+      "abstract": "Predicting antimicrobial resistance from longitudinal clinical data is an important machine learn-ing problem because resistance information is often not available at the time of empirical treatment decisions. This work proposes a hybrid…",
+      "authors": [
+        "Kanak Dharamthok",
+        "Nandini Jaiswal",
+        "Khushbu Gupta",
+        "Sanvi Goja"
+      ],
+      "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "dept of artificial intelligence g h raisoni college of engineering nagpur",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7232836528",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Hybrid Quantum Secret‐Sharing Subprotocols for a Class of Non‐Maximal Quantum Access Structures",
+      "org": "Xidian University",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1002/qute.70539",
+      "countryEvidence": "institution country codes [CN, CN] → CN",
+      "citations": 0,
+      "abstract": "ABSTRACT Quantum secret sharing (QSS) over non‐maximal quantum access structures (QASs) remains challenging because direct constructions may require complex quantum resources. This paper investigates a class of non‐maximal QASs,…",
+      "authors": [
+        "Lei Li",
+        "Zhi Zhou Li"
+      ],
+      "venue": "Advanced Quantum Technologies",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "xidian university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7233030827",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Quantum State Texture From the Average Absolutes of Density Entries",
+      "org": "Zhengzhou University of Aeronautics",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1002/qute.70545",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "abstract": "ABSTRACT Quantum state texture is recently recognized as an important quantum resource in quantum information tasks. The only textureless state first proposed in is , where . We take into account the modulus of the density matrix entries,…",
+      "authors": [
+        "Cong Huai Xu",
+        "Ming‐Jing Zhao",
+        "Tao Li",
+        "Qinghua Zhang",
+        "Shao-Ming Fei"
+      ],
+      "venue": "Advanced Quantum Technologies",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "zhengzhou university of aeronautics",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7223181379",
+      "stage": "innovation",
+      "country": "NG",
+      "provenance": "live",
+      "source": "paper",
+      "title": "A Review of Post-Quantum Cryptographic Approaches for Securing FHIR-Based Healthcare Data Exchange",
+      "org": "Adamawa State University",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.51584/ijrias.2026.11090144",
+      "countryEvidence": "institution country codes [NG, NG, NG] → NG",
+      "citations": 0,
+      "abstract": "Background: The migration of HL7 Fast Healthcare Interoperability Resources (FHIR) infrastructures to post-quantum cryptography (PQC) presents security, interoperability, and performance challenges. Objective: This structured narrative…",
+      "authors": [
+        "İbrahim Manga",
+        "Yunusa Aaron Yawachi",
+        "Bulus Bali"
+      ],
+      "venue": "International Journal of Research and Innovation in Applied Science",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "orgId": "adamawa state university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W4414688617",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Probing chiral topological order of the Kitaev honeycomb on a trapped ion processor",
+      "org": "",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1103/wj7x-kwdg",
+      "countryEvidence": "no institution country on record",
+      "citations": 6,
+      "abstract": "Kitaev's honeycomb model is a paradigmatic exactly solvable system hosting a quantum spin liquid with non-Abelian anyons and topologically protected edge modes, offering a platform for fault-tolerant quantum computation. However, real…",
+      "authors": [
+        "Ammar Ali",
+        "Joe Gibbs",
+        "Keerthi Kumaran",
+        "Varadharajan Muruganandam",
+        "Bo Xiao",
+        "Paul Kairys"
+      ],
+      "venue": "PRX Quantum",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "rss-ps-quantumzeitgeist-com-nazionale-fisica-quantum-algorithm-tackles-jet",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Quantum algorithm tackles jet identification with just five superconducting qubits",
+      "org": "",
+      "date": "2026-11-15",
+      "url": "https://quantumzeitgeist.com/nazionale-fisica-quantum-algorithm-tackles-jet/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Researchers demonstrated a quantum machine learning approach, using just five superconducting qubits, to identify beauty and charm jets from LHC data.",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-california-los-quantum-dot-energy-gaps",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Quantum dot energy gaps measured with a new spectroscopy technique",
+      "org": "",
+      "date": "2026-11-15",
+      "url": "https://quantumzeitgeist.com/california-los-quantum-dot-energy-gaps/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "The orbital, spin and valley degrees of freedom in silicon quantum dots support many modes of spin qubit operation, but obtaining information about the energy level spectrum is generally challenging. Researchers demonstrate a spectroscopy…",
+      "ingestedAt": "2026-11-15T18:22:35.586Z",
       "relevanceScore": 0.75
     }
   ],
@@ -206560,15 +207159,16 @@
     {
       "date": "2026-11-15",
       "counts": {
+        "BE": 3,
         "IR": 3,
-        "JP": 12,
+        "IN": 51,
+        "JP": 10,
         "NZ": 1,
         "DK": 3,
-        "CN": 83,
+        "CN": 86,
         "CH": 5,
-        "IN": 50,
         "CO": 1,
-        "US": 36,
+        "US": 35,
         "MA": 4,
         "DE": 24,
         "ES": 10,
@@ -206583,12 +207183,13 @@
         "AE": 1,
         "SA": 1,
         "NP": 1,
+        "VN": 5,
         "IT": 7,
-        "GB": 13,
+        "GB": 14,
         "PH": 1,
-        "RU": 7,
+        "RU": 8,
         "SE": 1,
-        "FR": 10,
+        "FR": 11,
         "AU": 2,
         "KR": 11,
         "SK": 1,
@@ -206596,6 +207197,7 @@
         "FI": 2,
         "AT": 1,
         "EG": 1,
+        "NG": 2,
         "TR": 4,
         "BD": 2,
         "HR": 1,
@@ -206609,20 +207211,19 @@
         "PL": 2,
         "IE": 2,
         "NO": 1,
-        "VN": 4,
-        "BE": 1,
-        "MY": 2,
+        "ID": 1,
         "GR": 1,
-        "MX": 3
+        "MX": 1,
+        "MY": 1
       },
       "stageCounts": {
-        "innovation": 965,
-        "scaling": 255,
+        "innovation": 986,
+        "scaling": 257,
         "adoption": 130,
         "investment": 64
       },
       "fundingUsd": 349599,
-      "totalEntries": 10404,
+      "totalEntries": 10429,
       "windowCap": 600
     }
   ],
@@ -206659,7 +207260,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -206859,7 +207460,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -206868,7 +207469,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -206877,7 +207478,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -207268,7 +207869,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -207277,7 +207878,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -207292,7 +207893,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -207301,7 +207902,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -207310,7 +207911,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -207319,7 +207920,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -207328,7 +207929,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -207337,7 +207938,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-15T10:18:28.013Z",
+      "lastSuccessfulPull": "2026-11-15T18:22:35.586Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -207350,182 +207951,182 @@
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
       "marketCapUsd": 13420418314,
-      "asOf": "2026-11-15T10:11:48.176Z",
+      "asOf": "2026-11-15T18:15:53.714Z",
       "url": "https://www.ionq.com"
     },
     {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc. Common Stock",
       "marketCapUsd": 3296818290.4799995,
-      "asOf": "2026-11-15T10:12:03.217Z",
+      "asOf": "2026-11-15T18:16:08.911Z",
       "url": "https://www.rigetti.com"
     },
     {
       "symbol": "QBTS",
       "name": "D-Wave Quantum Inc. Common Stock",
       "marketCapUsd": 3629230563.6800003,
-      "asOf": "2026-11-15T10:12:18.255Z",
+      "asOf": "2026-11-15T18:16:24.089Z",
       "url": "https://www.dwavequantum.com"
     },
     {
       "symbol": "QUBT",
       "name": "Quantum Computing Inc. Common",
       "marketCapUsd": 1261740574.48,
-      "asOf": "2026-11-15T10:12:33.293Z",
+      "asOf": "2026-11-15T18:16:39.320Z",
       "url": "https://www.quantumcomputinginc.com"
     },
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. Ordinary Shares",
       "marketCapUsd": 256859586.35999998,
-      "asOf": "2026-11-15T10:12:48.335Z",
+      "asOf": "2026-11-15T18:16:54.522Z",
       "url": "https://www.arqit.uk"
     },
     {
       "symbol": "LAES",
       "name": "SEALSQ Corp Ordinary Shares",
       "marketCapUsd": 281163205,
-      "asOf": "2026-11-15T10:13:03.372Z",
+      "asOf": "2026-11-15T18:17:09.695Z",
       "url": "https://www.sealsq.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "marketCapUsd": 233567704539.65,
-      "asOf": "2026-11-15T10:13:18.412Z",
+      "asOf": "2026-11-15T18:17:24.960Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
       "marketCapUsd": 3636196380000,
-      "asOf": "2026-11-15T10:13:33.450Z",
+      "asOf": "2026-11-15T18:17:40.134Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
       "marketCapUsd": 3890434801901.76,
-      "asOf": "2026-11-15T10:13:48.489Z",
+      "asOf": "2026-11-15T18:17:55.323Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
       "marketCapUsd": 2883431460677.9604,
-      "asOf": "2026-11-15T10:14:03.528Z",
+      "asOf": "2026-11-15T18:18:10.473Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "HON",
       "name": "Honeywell International, Inc.",
       "marketCapUsd": 70599575914.28,
-      "asOf": "2026-11-15T10:14:18.566Z",
+      "asOf": "2026-11-15T18:18:25.672Z",
       "url": "https://www.honeywell.com"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
       "marketCapUsd": 317092900000,
-      "asOf": "2026-11-15T10:14:33.604Z",
+      "asOf": "2026-11-15T18:18:40.856Z",
       "url": "https://www.intel.com"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia Corp",
       "marketCapUsd": 3932338950000,
-      "asOf": "2026-11-15T10:14:48.648Z",
+      "asOf": "2026-11-15T18:18:56.030Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 137688005625.6,
-      "asOf": "2026-11-15T10:15:03.692Z",
+      "asOf": "2026-11-15T18:19:11.193Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 78196556680.26999,
-      "asOf": "2026-11-15T10:15:18.729Z",
+      "asOf": "2026-11-15T18:19:26.403Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 267971904021.84003,
-      "asOf": "2026-11-15T10:15:33.768Z",
+      "asOf": "2026-11-15T18:19:41.620Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 98215509273.14,
-      "asOf": "2026-11-15T10:15:48.811Z",
+      "asOf": "2026-11-15T18:19:56.785Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 50711769632.55,
-      "asOf": "2026-11-15T10:16:03.850Z",
+      "asOf": "2026-11-15T18:20:11.938Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 15923967799.41,
-      "asOf": "2026-11-15T10:16:18.892Z",
+      "asOf": "2026-11-15T18:20:27.109Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
       "marketCapUsd": 10268540580.96,
-      "asOf": "2026-11-15T10:16:33.929Z",
+      "asOf": "2026-11-15T18:20:42.330Z",
       "url": "https://www.boozallen.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
       "marketCapUsd": 294027852631.5,
-      "asOf": "2026-11-15T10:16:48.969Z",
+      "asOf": "2026-11-15T18:20:57.494Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "marketCapUsd": 576261191128.72,
-      "asOf": "2026-11-15T10:17:04.008Z",
+      "asOf": "2026-11-15T18:21:12.639Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "marketCapUsd": 64103274177.909996,
-      "asOf": "2026-11-15T10:17:19.052Z",
+      "asOf": "2026-11-15T18:21:27.788Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "marketCapUsd": 376532776572.72003,
-      "asOf": "2026-11-15T10:17:34.090Z",
+      "asOf": "2026-11-15T18:21:42.984Z",
       "url": "https://www.cisco.com"
     },
     {
       "symbol": "NOK",
       "name": "Nokia Corporation",
       "marketCapUsd": 45667610445.33,
-      "asOf": "2026-11-15T10:17:49.128Z",
+      "asOf": "2026-11-15T18:21:58.173Z",
       "url": "https://www.nokia.com"
     },
     {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
       "marketCapUsd": 13271078682.8,
-      "asOf": "2026-11-15T10:18:04.167Z",
+      "asOf": "2026-11-15T18:22:13.356Z",
       "url": "https://www.sktelecom.com"
     }
   ],
