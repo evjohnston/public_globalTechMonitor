@@ -1,6 +1,6 @@
 {
   "technology": "space",
-  "generatedAt": "2026-11-16T22:17:45.454Z",
+  "generatedAt": "2026-11-17T06:35:46.156Z",
   "entries": [
     {
       "id": "seed-falcon9-first-landing-2015",
@@ -6736,14 +6736,6 @@
       "url": "https://doi.org/10.1016/j.fuel.2026.140957",
       "countryEvidence": "institution country codes [KR, KR, KR, KR, KR, KR] → KR",
       "citations": 0,
-      "authors": [
-        "Min Chang Shin",
-        "Eungyo Choi",
-        "Byung Hun Jeong",
-        "Hyung Sub Sim",
-        "Jung Hoon Park"
-      ],
-      "venue": "Fuel",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "dongguk university",
       "relevanceScore": 0.6
@@ -6760,13 +6752,6 @@
       "url": "https://doi.org/10.3390/aerospace13080741",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "With the development of constellations and satellite chains, trajectory planning for constellation satellites has gradually attracted research attention. To address the infeasibility issues of trapezoidal sequential convex programming…",
-      "authors": [
-        "Zihui MA",
-        "Rong Chen",
-        "Yuzhu Bai"
-      ],
-      "venue": "Aerospace",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "national university of defense technology",
       "relevanceScore": 0.6
@@ -6783,13 +6768,6 @@
       "url": "https://doi.org/10.1016/j.ast.2026.113591",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Tian-Ze Chen",
-        "Xiang Liu",
-        "Guo-Ping Cai",
-        "Chao-Lan You"
-      ],
-      "venue": "Aerospace Science and Technology",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -6805,15 +6783,6 @@
       "url": "https://doi.org/10.14775/ksmpe.2026.25.8.141",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Sang-Woo Kim",
-        "Eun-Jin Han",
-        "Chang-Woo Ahn",
-        "Seung-Hwan Mun",
-        "Hyung-Jin Kim",
-        "Doo-Jin Choi"
-      ],
-      "venue": "Journal of the Korean Society of Manufacturing Process Engineers",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -6829,10 +6798,6 @@
       "url": "https://doi.org/10.1016/j.adhoc.2026.104389",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Abdul Manan Khan"
-      ],
-      "venue": "Ad Hoc Networks",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -6848,15 +6813,6 @@
       "url": "https://doi.org/10.1016/j.conengprac.2026.107212",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "authors": [
-        "JingTong Zhao",
-        "Shuhui Li",
-        "Peizhan Qin",
-        "Man Zhang",
-        "Zhongyuan Zhao",
-        "Siye Wang"
-      ],
-      "venue": "Control Engineering Practice",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "beijing university of posts and telecommunications",
       "relevanceScore": 0.6
@@ -6873,15 +6829,6 @@
       "url": "https://doi.org/10.1016/j.actaastro.2026.08.033",
       "countryEvidence": "institution country codes [IT, IT, IT, IT, DE] → IT",
       "citations": 0,
-      "abstract": "This work investigates the use of Guidance and Control Networks (G&CNETs) for time-optimal reorientation of an asymmetric rigid spacecraft. Classical optimal-control approaches generally require the online solution of computationally…",
-      "authors": [
-        "Luca Bigelli",
-        "Federica Paganelli Azza",
-        "Luca Romanelli",
-        "Mattia Varile",
-        "Marcello Romano"
-      ],
-      "venue": "Acta Astronautica",
       "collaboratingCountries": [
         "DE",
         "IT"
@@ -6902,13 +6849,6 @@
       "url": "https://doi.org/10.3390/aerospace13080740",
       "countryEvidence": "institution country codes [CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "The rapid deployment of low-Earth-orbit mega-constellations has increased the demand for reliable and scalable orbit-anomaly monitoring. Existing methods are vulnerable to heavy-tailed measurement errors, maneuver-induced propagation…",
-      "authors": [
-        "Jiran Wei",
-        "Fan Yang",
-        "Desheng Liu"
-      ],
-      "venue": "Aerospace",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "space engineering university",
       "relevanceScore": 0.6
@@ -6925,15 +6865,6 @@
       "url": "https://doi.org/10.1016/j.iot.2026.102073",
       "countryEvidence": "institution country codes [SA, SA, SA, SA, SA, SA, SA] → SA",
       "citations": 0,
-      "authors": [
-        "Mohammed Alaqil",
-        "Hend Khalid Alkahtani",
-        "Nasser Allheeib",
-        "Muhammad Kashif Saeed",
-        "Wafi Bedewi",
-        "Sami M. Alenezi"
-      ],
-      "venue": "Internet of Things",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "king faisal university",
       "relevanceScore": 0.6
@@ -6950,11 +6881,6 @@
       "url": "https://doi.org/10.1016/j.physleta.2026.132086",
       "countryEvidence": "institution country codes [MA, ET, ET] → ET",
       "citations": 0,
-      "authors": [
-        "Getasew Admasu Wubetu",
-        "Addis Mekonnen Adamu"
-      ],
-      "venue": "Physics Letters A",
       "collaboratingCountries": [
         "ET",
         "MA"
@@ -6975,14 +6901,6 @@
       "url": "https://doi.org/10.1016/j.ast.2026.113580",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Li Zhengrui",
-        "Feng Guanhua",
-        "WU Xiaokun",
-        "Wenhao Li",
-        "Yue Yuxian"
-      ],
-      "venue": "Aerospace Science and Technology",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -6998,12 +6916,6 @@
       "url": "https://doi.org/10.18623/rvd.v23.7955",
       "countryEvidence": "institution country codes [BR, BR] → BR",
       "citations": 0,
-      "abstract": "O artigo examina a compatibilidade jurídica da deposição deliberada de detritos espaciais no oceano, especialmente na região do Ponto Nemo, com o regime internacional de proteção do meio marinho aplicável às áreas além da jurisdição…",
-      "authors": [
-        "Fernando Rei",
-        "Adriana Freisleben de Zanetti"
-      ],
-      "venue": "Veredas do Direito Direito Ambiental e Desenvolvimento Sustentável",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "universidade católica de santos",
       "relevanceScore": 0.6
@@ -7020,12 +6932,6 @@
       "url": "https://doi.org/10.1016/j.energy.2026.142193",
       "countryEvidence": "institution country codes [IR, IR, IR] → IR",
       "citations": 0,
-      "authors": [
-        "Matin Kavand",
-        "Mohammad Mahdi Heyhat",
-        "Mohammad Zabetian Targhi"
-      ],
-      "venue": "Energy",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "tarbiat modares university",
       "relevanceScore": 0.6
@@ -7042,14 +6948,6 @@
       "url": "https://doi.org/10.1016/j.actaastro.2026.08.047",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Pietro Battocchio",
-        "D. Di Liberto",
-        "Giulia Fredi",
-        "A. Pegoretti",
-        "A. Miotello"
-      ],
-      "venue": "Acta Astronautica",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -7065,15 +6963,6 @@
       "url": "https://doi.org/10.1016/j.carbon.2026.122000",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Qiuchen Han",
-        "Lei Chang",
-        "Tao Luo",
-        "Gaoyu Lou",
-        "Yang Liu",
-        "Pengchao Kang"
-      ],
-      "venue": "Carbon",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "relevanceScore": 0.6
     },
@@ -7089,14 +6978,6 @@
       "url": "https://doi.org/10.20965/jrm.2026.p1027",
       "countryEvidence": "institution country codes [JP, JP, JP, JP] → JP",
       "citations": 0,
-      "abstract": "In recent years, sample returns from celestial bodies have remarkably developed as important elements of space exploration. The targets are becoming increasingly distant celestial bodies. Improving mission flexibility and reducing risk are…",
-      "authors": [
-        "Hiroki Nakanishi",
-        "Akihiro TOKUYASU",
-        "Tomoharu TANAKA",
-        "Hideo Yoshida"
-      ],
-      "venue": "Journal of Robotics and Mechatronics",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "tokyo institute of technology",
       "relevanceScore": 0.6
@@ -7113,14 +6994,6 @@
       "url": "https://doi.org/10.11591/ijict.v15i3.pp1408-1418",
       "countryEvidence": "institution country codes [ID, ID, ID, ID] → ID",
       "citations": 0,
-      "abstract": "Advancements in immersive technologies and the metaverse are transforming engineering education. Satellite communication, as a complex and abstract domain, requires innovative approaches to enhance conceptual understanding and learner…",
-      "authors": [
-        "Komputerio Akbar",
-        "Meyliana -",
-        "Harco Leslie Hendric Spits Warnars",
-        "Ilvico Sonata"
-      ],
-      "venue": "International Journal of Informatics and Communication Technology (IJ-ICT)",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "binus university",
       "relevanceScore": 0.6
@@ -7137,10 +7010,6 @@
       "url": "https://doi.org/10.1016/j.actaastro.2026.08.054",
       "countryEvidence": "institution country codes [TR] → TR",
       "citations": 0,
-      "authors": [
-        "Esra Merve Çalışkan"
-      ],
-      "venue": "Acta Astronautica",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "istanbul medipol university",
       "relevanceScore": 0.6
@@ -7157,11 +7026,6 @@
       "url": "https://doi.org/10.1163/15718085-20261037",
       "countryEvidence": "institution country codes [CN] → CN",
       "citations": 0,
-      "abstract": "Abstract In December 2025, the Ningbo Maritime Safety Administration announced China’s first enforcement action against a vessel that used a low-Earth-orbit ( LEO ) satellite terminal in the territorial sea without routing data through a…",
-      "authors": [
-        "Fengliang Jin"
-      ],
-      "venue": "The International Journal of Marine and Coastal Law",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "east china university of political science and law",
       "relevanceScore": 0.6
@@ -11839,11 +11703,6 @@
       "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2627620",
       "amountUsd": 250000,
       "countryEvidence": "NSF awardee country US",
-      "abstract": "Modern engineering systems are becoming increasingly complex, requiring designers to consider thousands of interacting decisions, competing objectives, and evolving requirements. While artificial intelligence has shown promise in…",
-      "authors": [
-        "David M Brooks"
-      ],
-      "venue": "Complex Systems, System Design and Simulation",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "harvard university",
       "relevanceScore": 0.85
@@ -11860,11 +11719,6 @@
       "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2627619",
       "amountUsd": 250000,
       "countryEvidence": "NSF awardee country US",
-      "abstract": "Modern engineering systems are becoming increasingly complex, requiring designers to consider thousands of interacting decisions, competing objectives, and evolving requirements. While artificial intelligence has shown promise in…",
-      "authors": [
-        "Daniel Selva Valero"
-      ],
-      "venue": "Complex Systems, System Design and Simulation, WOMEN, MINORITY, DISABLED, NEC",
       "ingestedAt": "2026-09-03T16:59:19.089Z",
       "orgId": "texas a m engineering experiment station",
       "relevanceScore": 0.85
@@ -28030,7 +27884,6 @@
       "org": "EXECUTIVE BROADBAND COMMUNICATIONS, LLC",
       "date": "2026-08-19",
       "url": "https://sam.gov/workspace/contract/opp/b52b625cd24c4ebca6d2cd60af0c4800/view",
-      "venue": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.252-NETWORK CONTRACT OFFICE 12 (36C252)",
       "countryEvidence": "US federal solicitation (SAM.gov)",
       "ingestedAt": "2026-09-04T03:03:11.324Z",
       "orgId": "executive broadband communications",
@@ -37897,10 +37750,6 @@
       "url": "https://doi.org/10.1360/sspma-2026-0627",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "authors": [
-        "Chen Xuelei"
-      ],
-      "venue": "Zhongguo kexue. Wulixue Lixue Tianwenxue",
       "ingestedAt": "2026-09-13T18:37:52.309Z",
       "relevanceScore": 0.6
     },
@@ -38313,11 +38162,7 @@
       "date": "2026-08-19",
       "url": "https://worldwide.espacenet.com/patent/search?q=KR20260126159",
       "countryEvidence": "EPO filing country KR",
-      "authors": [
-        "안범주"
-      ],
       "classification": "B64G1/2221, B64G1/2423, B64G1/28, B64G1/443, B64G1/503, B64G1/506",
-      "abstract": "&#91;0001a]    [본 발명은 우주 공간에서 운용되는 자전 전개형 기능 구조체, 그 전개방법 및 우주 데이터센터 시스템에 관한 것이다. 자전 전개형 기능 구조체는 작동 시 열을 발생시키는 기능부와 열을 우주 공간으로 복사하는 방열부를 각각 갖는 복수의 판상 기능 타일 및 기능 타일 사이의 상대 각변위를 허용하면서 인장 하중을 전달하는 복수의 가요성 연결부재를 포함한다. 기능 타일과 가요성 연결부재가 형성하는 배열체가…",
       "ingestedAt": "2026-09-15T03:33:16.455Z",
       "orgId": "주식회사 인텔렉처퓨처아이피매니지먼트",
       "relevanceScore": 0.85
@@ -83791,7 +83636,7 @@
         "Ballou, Laura A.",
         "Michalakos, Peter Michael"
       ],
-      "classification": "B64G1/58, B64G1/62",
+      "classification": "B64G1/22, B64G1/58, B64G1/62",
       "abstract": "[0000]    A thermal protection system (TPS) that uses a hinged assembly is presented. The system allows for thermal growth or shrinkage of TPS assembly parts. Thus, thermally-induced loads are not necessarily transferred between TPS outer…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "blue origin manufacturing",
@@ -83811,8 +83656,8 @@
       "authors": [
         "Gonzalez, Encarnacion"
       ],
-      "classification": "B64G1/417, H02K1/22, H02K16/00",
-      "abstract": "[0000]    As is scientifically well known, magnetic flux is a physical force (i.e. the Lorentz force and Ampere's force). The invention utilizes a plurality of electromagnetic and plasma coils to create high pressure, high velocity…",
+      "classification": "B64G1/32, B64G1/417, B64G1/422, H02K1/22, H02K16/00",
+      "abstract": "As is scientifically well known, magnetic flux is a physical force (i.e. the Lorentz force and Ampere's force). The invention utilizes a plurality of electromagnetic and plasma coils to create high pressure, high velocity magnetic flux…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "overawe",
       "relevanceScore": 0.85
@@ -83832,7 +83677,7 @@
         "Stanley, Jonathan"
       ],
       "classification": "G01J7/00, G01P3/36, B64G1/36",
-      "abstract": "The velocity deducing system includes an emitter, a receiver, a light path, a measuring system, and a deducer to calculate the velocity of a body without relying on an external body with independent motion or an earlier known body…",
+      "abstract": "[0000]    The velocity deducing system includes an emitter, a receiver, a light path, a measuring system, and a deducer to calculate the velocity of a body without relying on an external body with independent motion or an earlier known…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "stanley jonathan",
       "relevanceScore": 0.85
@@ -83854,8 +83699,8 @@
         "Schneck, Benjamin",
         "Grillos, II, Emmanuel John"
       ],
-      "classification": "B64G1/226, C23C4/10, C23C4/123",
-      "abstract": "Systems and methods for at least partially controlling heat absorption and emission by a spacecraft are presented. Generally, a spacecraft may absorb heat from solar radiation and may emit spacecraft-generated heat in the form of blackbody…",
+      "classification": "B64G1/226, B64G1/58, C23C4/10, C23C4/123",
+      "abstract": "[0000]    Systems and methods for at least partially controlling heat absorption and emission by a spacecraft are presented. Generally, a spacecraft may absorb heat from solar radiation and may emit spacecraft-generated heat in the form of…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "blue origin manufacturing",
       "relevanceScore": 0.85
@@ -83874,7 +83719,7 @@
       "authors": [
         "Schroeder, Wayne K."
       ],
-      "classification": "B63G8/16, B63H25/46, B64C15/00, B64G1/26, F42B10/661, F42B19/01, G05D1/49, G05D2109/23",
+      "classification": "B63G8/16, B63H25/46, B64C15/00, B64C15/02, B64C15/12, B64G1/244, B64G1/26, B64G1/413, F42B10/661, F42B19/01, G05D1/49, G05D2109/23",
       "abstract": "A monolithic attitude control motor frame includes a monolithic structure including an outer surface of revolution and a plurality of side walls defining a plurality of cavities extending radially from the outer surface of revolution.…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "lockheed martin",
@@ -83894,8 +83739,8 @@
       "authors": [
         "Goldberg, Alex S."
       ],
-      "classification": "B64G1/002, G08B21/02, G08B5/36",
-      "abstract": "[0000]    Embodiments of the present disclosure are generally directed to a hazard monitoring system for monitoring potentially hazardous sites, such as a launch site, and informing on actual hazardous conditions. The hazard monitoring…",
+      "classification": "B64G1/002, B64G3/00, G08B21/02, G08B5/36",
+      "abstract": "Embodiments of the present disclosure are generally directed to a hazard monitoring system for monitoring potentially hazardous sites, such as a launch site, and informing on actual hazardous conditions. The hazard monitoring system can…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "blue origin manufacturing",
       "relevanceScore": 0.85
@@ -83914,8 +83759,8 @@
       "authors": [
         "Washburn, Jonathan"
       ],
-      "classification": "B64G1/242, B64G1/245, B64G1/283, B64G1/361, G05D1/49, G05D2109/40",
-      "abstract": "A method, system, and control architecture are disclosed for adjusting spacecraft orbital inclination without consuming propellant during trim phases. A fixed Recognition-Physics critical inclination is defined by…",
+      "classification": "B64G1/242, B64G1/244, B64G1/245, B64G1/281, B64G1/283, B64G1/285, B64G1/361, B64G1/363, G05D1/49, G05D2109/40",
+      "abstract": "[0000]    A method, system, and control architecture are disclosed for adjusting spacecraft orbital inclination without consuming propellant during trim phases. A fixed Recognition-Physics critical inclination is defined by…",
       "ingestedAt": "2026-10-30T01:23:45.872Z",
       "orgId": "washburn jonathan",
       "relevanceScore": 0.85
@@ -95887,7 +95732,7 @@
         "Grip, Havard F."
       ],
       "classification": "B64C27/10, B64C27/57, B64C27/80, B64D17/80, B64G1/16, B64U10/17, B64U30/24, B64U70/40, G05D1/495, B64U2101/75, B64U2201/10, G05D2109/25",
-      "abstract": "[0000]    A method and system provide for direct mid-air coaxial helicopter delivery. One or more coaxial helicopters are mounted to a fixture attached to a descending parachute. The helicopters have two rotors mounted coaxially that are…",
+      "abstract": "A method and system provide for direct mid-air coaxial helicopter delivery. One or more coaxial helicopters are mounted to a fixture attached to a descending parachute. The helicopters have two rotors mounted coaxially that are…",
       "ingestedAt": "2026-11-13T05:03:21.216Z",
       "orgId": "california institute of technology",
       "relevanceScore": 0.85
@@ -98810,6 +98655,266 @@
       "ingestedAt": "2026-11-16T22:17:45.454Z",
       "orgId": "centre national de la recherche scientifique",
       "relevanceScore": 0.6
+    },
+    {
+      "id": "epo-WO2026236120",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "NON ACCESS STRATUM (NAS) AND SATELLITE STORE-AND-FORWARD OPERATION",
+      "org": "GOOGLE LLC",
+      "date": "2026-11-12",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026236120",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "TAO, Ming-Hung",
+        "PARK, Sang Min",
+        "WU, Chih-Hsiang"
+      ],
+      "classification": "H04B7/185, H04B7/1851, H04B7/18513, H04B7/18541, H04B7/18563, H04W48/12, H04W60/00, H04W48/02, H04W84/06",
+      "abstract": "This disclosure provides systems, methods and apparatuses for managing a non-access stratum (NAS) procedure via a non-terrestrial network (NTN) node (e.g., a satellite 112) that supports a store-and-forward (S&F) capability. A user…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "google",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026224588",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "SEMICONDUCTOR DEVICE AND METHOD FOR PRODUCING SEMICONDUCTOR DEVICE",
+      "org": "株式会社半導体エネルギー研究所",
+      "date": "2026-10-29",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026224588",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "井坂史人",
+        "恵木勇司",
+        "中島基"
+      ],
+      "classification": "B64G1/54, H10B12/00, H10B41/70, H10D1/68, H10D30/67, H10D84/80, H10D84/83",
+      "abstract": "Provided is a semiconductor device that has favorable electrical properties. The present invention includes: a first conductive layer; a second conductive layer; a third conductive layer; a first insulative layer; a second insulative…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "株式会社半導体エネルギー研究所",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026226750",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "MEMS NAVIGATION-CONTROL SYSTEM FOR ATTITUDE DETERMINATION AND CONTROL OF CHIP-SCALE OR BOARD-SCALE SATELLITE",
+      "org": "ASPECT AEROSPACE LLC",
+      "date": "2026-10-29",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026226750",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "RUSS, Samuel H.",
+        "RUSS, Andrew"
+      ],
+      "classification": "B64G1/10, B64G1/24, B64G1/28, B64G1/36",
+      "abstract": "A single-board satellite comprises a circuit board substrate including at least a primary printed circuit board supporting integrated subsystems. A power supply on the circuit board substrate provides electrical power to the onboard…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "aspect aerospace",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026222797",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "COMMUNICATION METHOD, COMMUNICATION DEVICE, COMMUNICATION SYSTEM, STORAGE MEDIUM, AND PROGRAM PRODUCT",
+      "org": "北京小米移动软件有限公司",
+      "date": "2026-10-29",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026222797",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "陶旭华"
+      ],
+      "classification": "H04B7/185",
+      "abstract": "The present disclosure relates to a communication method, a communication device, a communication system, a storage medium, and a program product. The communication method comprises: a first satellite sends first information to a terminal,…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "北京小米移动软件有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026226766",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "SYSTEMS AND METHODS OF MATTER EXTRACTION FROM LUNAR SURFACE",
+      "org": "MAGNA PETRA CORP",
+      "date": "2026-10-29",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026226766",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "MAX, Jeffrey",
+        "DARLING, Samuel Joseph",
+        "WILLIAMS, Hunter Forbes"
+      ],
+      "classification": "B01D53/00, B64G4/00, E21C51/00, G01N1/22",
+      "abstract": "This invention relates to a system designed to collect helium-3 gas from surface material in low-pressure environments, such as the Moon. The system may begin by capturing a mixture of gases and isotopes that are released when the surface…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "magna petra",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026225433",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "PRESSURE WALL STRUCTURE",
+      "org": "三菱重工業株式会社",
+      "date": "2026-10-29",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026225433",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "西野　秀和",
+        "秋山　浩庸"
+      ],
+      "classification": "B64G1/22, B64G1/56",
+      "abstract": "This pressure wall structure comprises: a pressure wall that defines a pressurized space thereinside; an outer bumper that is disposed outside the pressure wall and that is provided spaced apart from the pressure wall so as to provide…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "三菱重工業株式会社",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN122994743",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "移动性管理方法和设备",
+      "org": "中国星网网络创新研究院有限公司",
+      "date": "2026-10-27",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN122994743",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "滕瑞",
+        "王莹莹",
+        "牛春雷",
+        "赵莹"
+      ],
+      "classification": "H04B7/185, H04L5/00, H04W28/06, H04W8/02",
+      "abstract": "[0001]    本说明书涉及通信技术领域，尤其涉及一种移动性管理方法和设备。其中移动性管理方法，包括：确定所述NTN网络设备的TNL链路；向核心网设备发送指示信息，所述指示信息用于指示所述TNL链路的切换配置。本说明书实施例可以减少NG接口的信令交互次数。",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "中国星网网络创新研究院有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN122970705",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "一种链路随机接入方法和设备",
+      "org": "中国星网网络创新研究院有限公司",
+      "date": "2026-10-23",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN122970705",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "滕瑞",
+        "王莹莹",
+        "牛春雷",
+        "赵莹",
+        "孙军帅"
+      ],
+      "classification": "H04W74/0833, H04B7/185",
+      "abstract": "[0001]    本申请提供了一种链路随机接入方法和设备，其中，该方法包括：在基站的统一的物理层上，在与至少一个终端所属的终端类型对应的随机接入资源上接收从所述至少一个终端发送的随机接入请求；所述统一的物理层确定MAC实体，并且将所述随机接入请求发送至所确定的MAC实体；以及向所述至少一个终端发送与所述随机接入请求对应的随机接入响应，其中所述随机接入响应由所确定的MAC实体生成。通过上述方式解决了现有的不同链路所使用的通信体制不同，所导致的载荷数量需求较多的技术问题，达到了…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "中国星网网络创新研究院有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN122970636",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "通信方法及应用装置",
+      "org": "华为技术有限公司",
+      "date": "2026-10-23",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN122970636",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "张经纬",
+        "陈莹",
+        "乔云飞",
+        "张佳胤"
+      ],
+      "classification": "H04B17/318, H04B17/336, H04B17/382, H04B7/185, H04L5/00, H04W64/00",
+      "abstract": "[0001]    本申请实施例提供一种通信方法及应用装置，可以应用于卫星通信领域，比如NTN。该通信方法包括：在接收到第一信息之后，在参考信号处理窗内接收参考信号。其中，第一信息用于指示参考信号处理窗在各个周期内的长度，且参考信号处理窗在相邻的两个周期内的长度不同。如此，利于终端侧随着时间的变换接收并测量网络侧(如移动的卫星)发送的参考信号，从而减少定位延迟，提升定位精度。",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "华为技术有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN122970079",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "一种文件传输方法及装置",
+      "org": "华为技术有限公司",
+      "date": "2026-10-23",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN122970079",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "王俊凡",
+        "严学强",
+        "习燕",
+        "赵明宇"
+      ],
+      "classification": "H04B7/185, H04L67/06",
+      "abstract": "[0001]    本申请实施例提供的一种文件传输方法及装置，该方法包括：获取M个卫星的预测信息，所述M个卫星的预测信息包括第一卫星的预测信息，所述第一卫星的预测信息包括第一链路的持续时间预测结果，M大于或等于2，所述第一链路为所述第一卫星与信关站之间的链路；根据所述M个卫星的预测信息和第一文件的信息，发送N个卫星对应的待传输数据的信息，所述N个卫星对应的待传输数据属于所述第一文件，所述N个卫星属于所述M个卫星，所述N个卫星包括所述第一卫星，N≤M。采用上述方法，可以实现使得…",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "华为技术有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN122969634",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "一种卫星对准方法及相关装置",
+      "org": "华为技术有限公司",
+      "date": "2026-10-23",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN122969634",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "张运玑",
+        "武坤",
+        "许浩维",
+        "钱榆"
+      ],
+      "classification": "H04B7/185, H04W36/08, H04W36/30, H04W36/32, H04W84/06",
+      "abstract": "本申请公开了一种卫星对准方法及相关装置，在电子设备进行卫星通信业务之前，通过显示卫星选择提示让用户感知到电子设备已选择未被遮挡的卫星进行对准，并通过显示卫星对准页面引导用户将电子设备对准未被遮挡的目标卫星，提高了卫星通信的效率和体验。",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "orgId": "华为技术有限公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "gnews-lZaG1WRjVBYnA2dEJZTXJFaXU1bUJ5TTJ0a3J5cFlwOXNkQkVoTlY3TWhFb3hJa3o-oc-5",
+      "stage": "investment",
+      "country": null,
+      "provenance": "auto",
+      "source": "news",
+      "title": "Space Force Awards $10 Million in SEWOL Prototype Contracts to Three Firms",
+      "org": "",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHFmN2o1RkZuSGpoeF9TMlJ5Q21SQkNnLXIxT3NEQTJNMk1sV0ZVUDBqRXBnR0k2M2FDbVp6bmVQellCdEtYa25pVTdKZU5ZZ0U5UGhpdFJkRHRldFN2cXp1SWRCMGxBUy1UeHpvUGFhODhWNXRFS3lZaG1WRjVBYnA2dEJZTXJFaXU1bUJ5TTJ0a3J5cFlwOXNkQkVoTlY3TWhFb3hJa3o?oc=5",
+      "publisher": "SatNews Publishers",
+      "countryEvidence": "no location match (auto-classified from Google News RSS, unverified)",
+      "abstract": "Space Force Awards $10 Million in SEWOL Prototype Contracts to Three Firms SatNews Publishers",
+      "ingestedAt": "2026-11-17T06:35:46.156Z",
+      "relevanceScore": 0.7
     }
   ],
   "trend": [
@@ -103869,6 +103974,77 @@
       "fundingUsd": 0,
       "totalEntries": 4780,
       "windowCap": 600
+    },
+    {
+      "date": "2026-11-17",
+      "counts": {
+        "NL": 4,
+        "JP": 8,
+        "US": 52,
+        "ID": 6,
+        "CN": 205,
+        "ES": 13,
+        "IR": 2,
+        "FI": 3,
+        "IN": 26,
+        "KZ": 2,
+        "DZ": 1,
+        "GB": 13,
+        "TR": 5,
+        "RO": 2,
+        "KR": 16,
+        "BR": 6,
+        "CA": 5,
+        "VN": 5,
+        "IT": 16,
+        "NG": 7,
+        "EG": 2,
+        "FR": 7,
+        "DE": 11,
+        "PK": 2,
+        "RU": 16,
+        "SG": 1,
+        "TJ": 1,
+        "SI": 1,
+        "EC": 1,
+        "UA": 12,
+        "OM": 1,
+        "AE": 4,
+        "TW": 1,
+        "NZ": 2,
+        "MN": 1,
+        "PE": 1,
+        "SK": 1,
+        "BE": 2,
+        "AU": 7,
+        "MZ": 1,
+        "SA": 5,
+        "GR": 1,
+        "CH": 2,
+        "TH": 2,
+        "MA": 1,
+        "MY": 2,
+        "NO": 1,
+        "MX": 1,
+        "CZ": 2,
+        "NP": 1,
+        "MO": 2,
+        "AT": 1,
+        "JO": 1,
+        "HK": 1,
+        "SE": 1,
+        "PL": 1,
+        "BY": 1
+      },
+      "stageCounts": {
+        "innovation": 502,
+        "scaling": 20,
+        "adoption": 15,
+        "investment": 68
+      },
+      "fundingUsd": 0,
+      "totalEntries": 4792,
+      "windowCap": 600
     }
   ],
   "notes": [
@@ -103904,7 +104080,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -103921,10 +104097,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-10-03",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-10-04",
           "outcome": "not-attempted"
         },
@@ -104099,12 +104271,16 @@
         {
           "date": "2026-11-16",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-17",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -104113,7 +104289,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -104122,7 +104298,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -104131,7 +104307,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -104148,10 +104324,6 @@
       "lastRunOutcome": "failed",
       "recentMisses": [
         {
-          "date": "2026-10-03",
-          "outcome": "failed"
-        },
-        {
           "date": "2026-10-04",
           "outcome": "failed"
         },
@@ -104326,12 +104498,16 @@
         {
           "date": "2026-11-16",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-17",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -104340,7 +104516,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -104355,7 +104531,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -104364,7 +104540,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -104373,7 +104549,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -104382,7 +104558,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -104399,10 +104575,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-10-03",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-10-04",
           "outcome": "not-attempted"
         },
@@ -104577,12 +104749,16 @@
         {
           "date": "2026-11-16",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-17",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-16T22:17:45.454Z",
+      "lastSuccessfulPull": "2026-11-17T06:35:46.156Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -104595,253 +104771,258 @@
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "marketCapUsd": 41407977312.450005,
-      "asOf": "2026-11-16T22:08:20.702Z",
+      "asOf": "2026-11-17T06:26:49.779Z",
       "url": "https://www.rocketlabusa.com"
     },
     {
       "symbol": "LUNR",
       "name": "Intuitive Machines, Inc. Class A Common Stock",
       "marketCapUsd": 2306129891,
-      "asOf": "2026-11-16T22:08:35.899Z",
+      "asOf": "2026-11-17T06:27:04.823Z",
       "url": "https://www.intuitivemachines.com"
     },
     {
       "symbol": "RDW",
       "name": "Redwire Corporation",
       "marketCapUsd": 1934195312.68,
-      "asOf": "2026-11-16T22:08:51.111Z",
+      "asOf": "2026-11-17T06:27:19.861Z",
       "url": "https://www.rdw.com"
     },
     {
       "symbol": "SPCE",
       "name": "Virgin Galactic Holdings, Inc.",
       "marketCapUsd": 279094863.44,
-      "asOf": "2026-11-16T22:09:06.313Z",
+      "asOf": "2026-11-17T06:27:34.903Z",
       "url": "https://www.virgingalactic.com"
     },
     {
       "symbol": "MNTS",
       "name": "Momentus Inc. Class A Common Stock",
       "marketCapUsd": 39534121.800000004,
-      "asOf": "2026-11-16T22:09:21.515Z",
+      "asOf": "2026-11-17T06:27:49.941Z",
       "url": "https://www.momentus.space"
     },
     {
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc.",
       "marketCapUsd": 1679140330.3999999,
-      "asOf": "2026-11-16T22:09:36.716Z",
+      "asOf": "2026-11-17T06:28:04.983Z",
       "url": "https://www.voyagertechnologies.com"
     },
     {
       "symbol": "SIDU",
       "name": "Sidus Space, Inc. Class A Common Stock",
       "marketCapUsd": 95151806.44,
-      "asOf": "2026-11-16T22:09:51.920Z",
+      "asOf": "2026-11-17T06:28:20.022Z",
       "url": "https://www.sidusspace.com"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "marketCapUsd": 9803845596,
-      "asOf": "2026-11-16T22:10:07.123Z",
+      "asOf": "2026-11-17T06:28:35.063Z",
       "url": "https://www.ast-science.com"
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
       "marketCapUsd": 5024740728.09,
-      "asOf": "2026-11-16T22:10:22.324Z",
+      "asOf": "2026-11-17T06:28:50.108Z",
       "url": "https://www.planet.com"
     },
     {
       "symbol": "BKSY",
       "name": "BlackSky Technology Inc.",
       "marketCapUsd": 978220650.4,
-      "asOf": "2026-11-16T22:10:37.522Z",
+      "asOf": "2026-11-17T06:29:05.147Z",
       "url": "https://www.blacksky.com"
     },
     {
       "symbol": "SPIR",
       "name": "Spire Global, Inc.",
       "marketCapUsd": 361595799.36,
-      "asOf": "2026-11-16T22:10:52.720Z",
+      "asOf": "2026-11-17T06:29:20.177Z",
       "url": "https://www.spire.com"
     },
     {
       "symbol": "VSAT",
       "name": "Viasat Inc",
       "marketCapUsd": 9425918289.88,
-      "asOf": "2026-11-16T22:11:07.923Z",
+      "asOf": "2026-11-17T06:29:35.216Z",
       "url": "https://www.viasat.com"
     },
     {
       "symbol": "IRDM",
       "name": "Iridium Communications Inc.",
       "marketCapUsd": 4861373790.24,
-      "asOf": "2026-11-16T22:11:23.125Z",
+      "asOf": "2026-11-17T06:29:50.254Z",
       "url": "https://www.iridium.com"
     },
     {
       "symbol": "GSAT",
       "name": "Globalstar, Inc. Common Stock",
       "marketCapUsd": 11184854488.11,
-      "asOf": "2026-11-16T22:11:38.330Z",
+      "asOf": "2026-11-17T06:30:05.307Z",
       "url": "https://www.globalstar.com"
     },
     {
       "symbol": "TSAT",
       "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares",
       "marketCapUsd": 693629484.1,
-      "asOf": "2026-11-16T22:11:53.540Z",
+      "asOf": "2026-11-17T06:30:20.341Z",
       "url": "https://www.telesat.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 137688005625.6,
-      "asOf": "2026-11-16T22:12:08.742Z",
+      "asOf": "2026-11-17T06:30:35.384Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 78196556680.26999,
-      "asOf": "2026-11-16T22:12:23.945Z",
+      "asOf": "2026-11-17T06:30:50.426Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 267971904021.84003,
-      "asOf": "2026-11-16T22:12:39.144Z",
+      "asOf": "2026-11-17T06:31:05.465Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "marketCapUsd": 135905164710,
-      "asOf": "2026-11-16T22:12:54.352Z",
+      "asOf": "2026-11-17T06:31:20.504Z",
       "url": "https://www.boeing.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 98215509273.14,
-      "asOf": "2026-11-16T22:13:09.552Z",
+      "asOf": "2026-11-17T06:31:35.547Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 50711769632.55,
-      "asOf": "2026-11-16T22:13:24.750Z",
+      "asOf": "2026-11-17T06:31:50.586Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 15923967799.41,
-      "asOf": "2026-11-16T22:13:39.946Z",
+      "asOf": "2026-11-17T06:32:05.626Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "HII",
       "name": "Huntington Ingalls Industries, Inc.",
       "marketCapUsd": 12067711814.4,
-      "asOf": "2026-11-16T22:13:55.151Z",
+      "asOf": "2026-11-17T06:32:20.665Z",
       "url": "https://www.hii.com"
     },
     {
       "symbol": "KTOS",
       "name": "Kratos Defense & Security Solutions, Inc.",
       "marketCapUsd": 6384354656.28,
-      "asOf": "2026-11-16T22:14:10.344Z",
+      "asOf": "2026-11-17T06:32:35.716Z",
       "url": "https://www.kratosdefense.com"
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment, Inc.",
       "marketCapUsd": 5972448899.04,
-      "asOf": "2026-11-16T22:14:25.549Z",
+      "asOf": "2026-11-17T06:32:50.754Z",
       "url": "https://www.avinc.com"
     },
     {
       "symbol": "TXT",
       "name": "Textron, Inc.",
       "marketCapUsd": 14170308243.35,
-      "asOf": "2026-11-16T22:14:40.756Z",
+      "asOf": "2026-11-17T06:33:05.792Z",
       "url": "https://www.textron.com"
     },
     {
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd",
       "marketCapUsd": 33127008409.56,
-      "asOf": "2026-11-16T22:14:55.960Z",
+      "asOf": "2026-11-17T06:33:20.829Z",
       "url": "https://www.elbitsystems.com"
     },
     {
       "symbol": "HEI",
       "name": "HEICO Corporation",
       "marketCapUsd": 47542674032.9,
-      "asOf": "2026-11-16T22:15:12.206Z",
+      "asOf": "2026-11-17T06:33:35.869Z",
       "url": "https://www.heico.com"
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
       "marketCapUsd": 66451115566.08,
-      "asOf": "2026-11-16T22:15:27.407Z",
+      "asOf": "2026-11-17T06:33:50.911Z",
       "url": "https://www.transdigm.com"
     },
     {
       "symbol": "ATRO",
       "name": "Astronics Corp",
       "marketCapUsd": 2542750762.64,
-      "asOf": "2026-11-16T22:15:42.615Z",
+      "asOf": "2026-11-17T06:34:05.946Z",
       "url": "https://www.astronics.com"
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corp.",
       "marketCapUsd": 17122683055.6,
-      "asOf": "2026-11-16T22:15:57.818Z",
+      "asOf": "2026-11-17T06:34:20.986Z",
       "url": "https://www.curtisswright.com"
     },
     {
       "symbol": "TDY",
       "name": "Teledyne Technologies Incorporated",
       "marketCapUsd": 29635022715.41,
-      "asOf": "2026-11-16T22:16:13.024Z",
+      "asOf": "2026-11-17T06:34:36.025Z",
       "url": "https://www.teledyne.com"
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
       "marketCapUsd": 11267150475.09,
-      "asOf": "2026-11-16T22:16:28.225Z",
+      "asOf": "2026-11-17T06:34:51.073Z",
       "url": "https://www.bwxt.com"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "marketCapUsd": 87811389401.8,
-      "asOf": "2026-11-16T22:16:43.427Z",
+      "asOf": "2026-11-17T06:35:06.114Z",
       "url": "https://www.howmet.com"
     },
     {
       "symbol": "TRMB",
       "name": "Trimble Inc. Common Stock",
       "marketCapUsd": 12755080575.64,
-      "asOf": "2026-11-16T22:16:58.631Z",
+      "asOf": "2026-11-17T06:35:21.158Z",
       "url": "https://www.trimble.com"
     }
   ],
   "rdSpend": [
     {
       "fiscalYear": 1994,
-      "totalUsd": 423498723,
+      "totalUsd": 846997446,
       "companies": [
+        {
+          "symbol": "THLLY",
+          "amountUsd": 423498723,
+          "source": "capiq"
+        },
         {
           "symbol": "THLLY",
           "amountUsd": 423498723,
@@ -104851,8 +105032,13 @@
     },
     {
       "fiscalYear": 1995,
-      "totalUsd": 457547273,
+      "totalUsd": 915094546,
       "companies": [
+        {
+          "symbol": "THLLY",
+          "amountUsd": 457547273,
+          "source": "capiq"
+        },
         {
           "symbol": "THLLY",
           "amountUsd": 457547273,
@@ -104862,8 +105048,13 @@
     },
     {
       "fiscalYear": 1996,
-      "totalUsd": 467635647,
+      "totalUsd": 935271294,
       "companies": [
+        {
+          "symbol": "THLLY",
+          "amountUsd": 467635647,
+          "source": "capiq"
+        },
         {
           "symbol": "THLLY",
           "amountUsd": 467635647,
@@ -104873,8 +105064,18 @@
     },
     {
       "fiscalYear": 1997,
-      "totalUsd": 1677126536,
+      "totalUsd": 3354253072,
       "companies": [
+        {
+          "symbol": "EADSY",
+          "amountUsd": 1236517806,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 440608730,
+          "source": "capiq"
+        },
         {
           "symbol": "EADSY",
           "amountUsd": 1236517806,
@@ -104889,8 +105090,23 @@
     },
     {
       "fiscalYear": 1998,
-      "totalUsd": 2878636027,
+      "totalUsd": 5757272054,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1029196148,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 1380747746,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 468692133,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 1029196148,
@@ -104910,8 +105126,23 @@
     },
     {
       "fiscalYear": 1999,
-      "totalUsd": 2592204140,
+      "totalUsd": 5184408280,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1408778760,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 734841463,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 448583917,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 1408778760,
@@ -104931,8 +105162,23 @@
     },
     {
       "fiscalYear": 2000,
-      "totalUsd": 3498909282,
+      "totalUsd": 6997818564,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2277330570,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 854393104,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 367185608,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2277330570,
@@ -104952,8 +105198,23 @@
     },
     {
       "fiscalYear": 2001,
-      "totalUsd": 4552836630,
+      "totalUsd": 9105673260,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2515831273,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 1649640110,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 387365247,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2515831273,
@@ -104973,8 +105234,23 @@
     },
     {
       "fiscalYear": 2002,
-      "totalUsd": 4798920985,
+      "totalUsd": 9597841970,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2409293031,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 1982764020,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 406863934,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2409293031,
@@ -104994,8 +105270,23 @@
     },
     {
       "fiscalYear": 2003,
-      "totalUsd": 5712054048,
+      "totalUsd": 11424108096,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2801480892,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 2479372938,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 431200218,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2801480892,
@@ -105015,8 +105306,23 @@
     },
     {
       "fiscalYear": 2004,
-      "totalUsd": 5138275142,
+      "totalUsd": 10276550284,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2034337248,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 2646045135,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 457892759,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2034337248,
@@ -105036,8 +105342,18 @@
     },
     {
       "fiscalYear": 2005,
-      "totalUsd": 4775508303,
+      "totalUsd": 9551016606,
       "companies": [
+        {
+          "symbol": "EADSY",
+          "amountUsd": 2582533158,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 2192975145,
+          "source": "capiq"
+        },
         {
           "symbol": "EADSY",
           "amountUsd": 2582533158,
@@ -105052,8 +105368,23 @@
     },
     {
       "fiscalYear": 2006,
-      "totalUsd": 7704090893,
+      "totalUsd": 15408181786,
       "companies": [
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2300395243,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3088185052,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 2315510598,
+          "source": "capiq"
+        },
         {
           "symbol": "BAESY",
           "amountUsd": 2300395243,
@@ -105073,7 +105404,7 @@
     },
     {
       "fiscalYear": 2007,
-      "totalUsd": 15085949384,
+      "totalUsd": 24405898768,
       "companies": [
         {
           "symbol": "RTX",
@@ -105104,12 +105435,27 @@
           "symbol": "THLLY",
           "amountUsd": 2822542580,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2922277591,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3575129213,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 2822542580,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2008,
-      "totalUsd": 14373371137,
+      "totalUsd": 20964127274,
       "companies": [
         {
           "symbol": "LMT",
@@ -105160,12 +105506,27 @@
           "symbol": "THLLY",
           "amountUsd": 731726384,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1933446396,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3925583357,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 731726384,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2009,
-      "totalUsd": 18087743853,
+      "totalUsd": 25094823706,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105261,12 +105622,27 @@
           "symbol": "THLLY",
           "amountUsd": 1173670471,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1895619499,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3937789883,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1173670471,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2010,
-      "totalUsd": 16373487665,
+      "totalUsd": 23216197330,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105387,12 +105763,27 @@
           "symbol": "THLLY",
           "amountUsd": 892874818,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2006116479,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3943718368,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 892874818,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2011,
-      "totalUsd": 17246139736,
+      "totalUsd": 24339629472,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105513,12 +105904,27 @@
           "symbol": "THLLY",
           "amountUsd": 862115798,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1842825818,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4388548120,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 862115798,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2012,
-      "totalUsd": 17135353326,
+      "totalUsd": 24082087652,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105639,12 +106045,27 @@
           "symbol": "THLLY",
           "amountUsd": 883780529,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1803476211,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4259477586,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 883780529,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2013,
-      "totalUsd": 14853689435,
+      "totalUsd": 21571393870,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105755,12 +106176,27 @@
           "symbol": "THLLY",
           "amountUsd": 813123881,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1622464589,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4282115965,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 813123881,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2014,
-      "totalUsd": 15730980755,
+      "totalUsd": 23482962510,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105871,12 +106307,27 @@
           "symbol": "THLLY",
           "amountUsd": 852152441,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2212592313,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4687237001,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 852152441,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2015,
-      "totalUsd": 15794819561,
+      "totalUsd": 22559676122,
       "companies": [
         {
           "symbol": "VSAT",
@@ -105992,12 +106443,27 @@
           "symbol": "THLLY",
           "amountUsd": 768188915,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1930372857,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4066294789,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 768188915,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2016,
-      "totalUsd": 16873530726,
+      "totalUsd": 23138352452,
       "companies": [
         {
           "symbol": "VSAT",
@@ -106113,12 +106579,27 @@
           "symbol": "THLLY",
           "amountUsd": 814578331,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1932318502,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3517924893,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 814578331,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2017,
-      "totalUsd": 15889077944,
+      "totalUsd": 22287673888,
       "companies": [
         {
           "symbol": "SPCE",
@@ -106239,12 +106720,27 @@
           "symbol": "THLLY",
           "amountUsd": 945932889,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2072071555,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3380591500,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 945932889,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2018,
-      "totalUsd": 16585839104,
+      "totalUsd": 23763149208,
       "companies": [
         {
           "symbol": "SPCE",
@@ -106365,12 +106861,27 @@
           "symbol": "THLLY",
           "amountUsd": 1060152087,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2012124427,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4105033590,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1060152087,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2019,
-      "totalUsd": 16372323556,
+      "totalUsd": 23692812112,
       "companies": [
         {
           "symbol": "SPCE",
@@ -106476,12 +106987,27 @@
           "symbol": "THLLY",
           "amountUsd": 1260516981,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 1927661267,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 4132310308,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1260516981,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2020,
-      "totalUsd": 16588453564,
+      "totalUsd": 23275376128,
       "companies": [
         {
           "symbol": "RKLB",
@@ -106637,12 +107163,27 @@
           "symbol": "THLLY",
           "amountUsd": 1109380367,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2060774463,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3516767734,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1109380367,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2021,
-      "totalUsd": 17510230702,
+      "totalUsd": 24877117404,
       "companies": [
         {
           "symbol": "RKLB",
@@ -106798,12 +107339,27 @@
           "symbol": "THLLY",
           "amountUsd": 1238015165,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2755584778,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3373286759,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1238015165,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2022,
-      "totalUsd": 18401964375,
+      "totalUsd": 25377718750,
       "companies": [
         {
           "symbol": "RKLB",
@@ -106959,12 +107515,27 @@
           "symbol": "THLLY",
           "amountUsd": 1140424073,
           "source": "capiq"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2475688391,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3359641911,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1140424073,
+          "source": "capiq"
         }
       ]
     },
     {
       "fiscalYear": 2023,
-      "totalUsd": 20219045334,
+      "totalUsd": 28003984668,
       "companies": [
         {
           "symbol": "RKLB",
@@ -107115,6 +107686,21 @@
           "symbol": "TRMB",
           "amountUsd": 664300000,
           "source": "sec"
+        },
+        {
+          "symbol": "BAESY",
+          "amountUsd": 2865356425,
+          "source": "capiq"
+        },
+        {
+          "symbol": "EADSY",
+          "amountUsd": 3699772062,
+          "source": "capiq"
+        },
+        {
+          "symbol": "THLLY",
+          "amountUsd": 1219810847,
+          "source": "capiq"
         },
         {
           "symbol": "BAESY",
