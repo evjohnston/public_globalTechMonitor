@@ -1,6 +1,6 @@
 {
   "technology": "quantum-computing",
-  "generatedAt": "2026-11-18T00:22:30.258Z",
+  "generatedAt": "2026-11-18T11:01:48.826Z",
   "entries": [
     {
       "id": "seed-ibm-roadmap-2025",
@@ -199110,6 +199110,247 @@
       "abstract": "IBM investing $3 billion annually in India, plans $10 billion global quantum push: CEO Indiatimes",
       "ingestedAt": "2026-11-18T00:22:30.258Z",
       "relevanceScore": 0.7
+    },
+    {
+      "id": "rss--demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm",
+      "stage": "scaling",
+      "country": "FI",
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "IQM and AMD Demonstrate Reproducible Hybrid QPU-GPU Chemistry Workflow Using ROCm",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumcomputingreport.com/iqm-and-amd-demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm/",
+      "publisher": "Quantum Computing Report",
+      "countryEvidence": "matched \"IQM\" (auto-classified from Quantum Computing Report RSS, unverified)",
+      "abstract": "IQM Quantum Computers and AMD have successfully demonstrated a hybrid quantum-classical computational chemistry workflow. This workflow utilizes IQM's 20-qubit Garnet processor and AMD Instinct GPUs with ROCm software to perform molecular…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-ernels-across-45-qubits-using-cross-device-referee-challenger-protocol",
+      "stage": "adoption",
+      "country": "FI",
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "IQM Researchers Benchmark Projected Quantum Kernels Across 45 Qubits Using Cross-Device Referee-Challenger Protocol",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumcomputingreport.com/iqm-researchers-benchmark-projected-quantum-kernels-across-45-qubits-using-cross-device-referee-challenger-protocol/",
+      "publisher": "Quantum Computing Report",
+      "countryEvidence": "matched \"IQM\" (auto-classified from Quantum Computing Report RSS, unverified)",
+      "abstract": "IQM Researchers have successfully benchmarked projected quantum kernels across 45 qubits using a cross-device referee-challenger protocol, demonstrating a significant advantage over classical models in quantum machine learning tasks. Their…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-ime-upgrade-program-for-halocene-product-line-scaling-past-1000-qubits",
+      "stage": "scaling",
+      "country": "FI",
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "IQM Announces Zero-Downtime Upgrade Program for Halocene Product Line Scaling Past 1,000 Qubits",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumcomputingreport.com/iqm-announces-zero-downtime-upgrade-program-for-halocene-product-line-scaling-past-1000-qubits/",
+      "publisher": "Quantum Computing Report",
+      "countryEvidence": "matched \"IQM\" (auto-classified from Quantum Computing Report RSS, unverified)",
+      "abstract": "IQM Quantum Computers has launched a zero-downtime upgrade program for its Halocene quantum error-correction product line, enabling a seamless transition from 150-qubit processors to systems exceeding 1,000 qubits. This program, designed…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-ded-finance-package-to-scale-shared-control-superconducting-processors",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Planckian Selected for €10 Million ($11 Million USD) EIC Accelerator Blended Finance Package to Scale Shared-Control Superconducting Processors",
+      "org": "",
+      "date": "2026-11-17",
+      "url": "https://quantumcomputingreport.com/planckian-selected-for-e10-million-11-million-usd-eic-accelerator-blended-finance-package-to-scale-shared-control-superconducting-processors/",
+      "publisher": "Quantum Computing Report",
+      "countryEvidence": "no location match (auto-classified from Quantum Computing Report RSS, unverified)",
+      "abstract": "Planckian, an Italian superconducting quantum hardware developer, has been selected for the European Innovation Council (EIC) Accelerator, securing €10 million ($11 million USD) in blended financing. This funding will support the…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-nokia-bell-quantum-encryption-5g-network",
+      "stage": "adoption",
+      "country": null,
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "QMill, Nokia, Telia test quantum encryption on a 5G network",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/nokia-bell-quantum-encryption-5g-network/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Telia, Nokia and QMill have demonstrated the world’s first quantum-powered encryption in a 5G network using commercial equipment. In the proof of concept, QMill’s solution was integrated into Nokia’s 5G base station software and…",
+      "deploymentStatus": "pilot",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-qudits-three-junction-loops-error-shielding",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Nebraska Team finds three-junction loops may shield quantum data from error",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/qudits-three-junction-loops-error-shielding/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Superconducting circuits now host qutrits, quantum systems leveraging three levels instead of two, with built-in protection against energy loss from relaxation. This is achieved by manipulating the current-phase relation within loops…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-geist-com-indium-antimonide-nanowires-high-mobility-qubits-development",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Indium antimonide nanowires could enable better qubits with 19000cm²V⁻¹s⁻¹ mobility",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/indium-antimonide-nanowires-high-mobility-qubits-development/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "An electron mobility approaching 19000 cm2V-1s-1 now defines the upper limit in indium antimonide nanowire performance, a leap achieved by eliminating foreign catalysts previously required during growth. This breakthrough delivers…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-ttps-quantumzeitgeist-com-quantum-computing-ai-power-grid-optimisation",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Quantum computing aided by ai could optimise complex modern power grids",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/quantum-computing-ai-power-grid-optimisation/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Quantum computing promises to redefine computational limits within modern power grids, reducing complexities from polynomial time on classical computers to algorithmic level solutions. Solving previously intractable NP-hard problems…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss--quantumzeitgeist-com-google-quantum-walking-stability-circuit-logical",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Walking stability circuit reaches logical error floor",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/google-quantum-walking-stability-circuit-logical/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Using a 105-qubit Willow superconducting quantum processor, researchers realized and scaled the surface code stability experiment, which is sensitive to temporal error chains. A walking stability circuit was developed, reaching a logical…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-tps-quantumzeitgeist-com-moscow-physics-majorana-quantum-states-chiral",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Chiral magnets and superconductors may host stable Majorana quantum states",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/moscow-physics-majorana-quantum-states-chiral/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Majorana zero modes are central to the pursuit of fault-tolerant topological quantum computation, and a robust alternative platform involves heterostructures combining superconductors with noncollinear magnets. A promising system is a…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-q-ctrl-magic-states-ibm-quantum",
+      "stage": "scaling",
+      "country": "US",
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Q-CTRL sets three records for magic states on IBM quantum chips",
+      "org": "",
+      "date": "2026-11-18",
+      "url": "https://quantumzeitgeist.com/q-ctrl-magic-states-ibm-quantum/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "matched \"IBM\" (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Q-CTRL set three performance records cultivating record-fidelity magic states on the publicly accessible IBM Quantum Nighthawk processor, delivering 10x lower state error. This work demonstrates a clear path to efficient magic-state…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-itgeist-com-quantum-teleportation-telecom-university-stuttgart-photons",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "University of Stuttgart achieves quantum teleportation with telecom photons",
+      "org": "",
+      "date": "2026-11-17",
+      "url": "https://quantumzeitgeist.com/quantum-teleportation-telecom-university-stuttgart-photons/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Employing quantum teleportation to increase the communication distance in quantum channels requires distinct quantum light sources, preferably operating at telecommunication wavelength. Researchers utilized two semiconductor In(Ga)As…",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-tps-quantumzeitgeist-com-classiq-powers-award-winning-quantum-shionogi",
+      "stage": "adoption",
+      "country": "JP",
+      "provenance": "auto",
+      "source": "deployment",
+      "title": "Classiq powers award-winning quantum apps for Shionogi, KDDI, SoftBank",
+      "org": "",
+      "date": "2026-11-17",
+      "url": "https://quantumzeitgeist.com/classiq-powers-award-winning-quantum-shionogi/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "matched \"Japan\" (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "Classiq’s platform fueled success for Shionogi, KDDI & SoftBank, each earning awards in Japan’s NEDO quantum computing challenge.",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-tps-quantumzeitgeist-com-google-quantum-optimized-circuits-lower-qubit",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Optimized circuits lower qubit count for a quantum decoding algorithm",
+      "org": "",
+      "date": "2026-11-17",
+      "url": "https://quantumzeitgeist.com/google-quantum-optimized-circuits-lower-qubit/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "DQI circuits achieve O(N) quantum gates for a classically hard O(2^N) problem, using novel circuits to lower qubit counts.",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
+    },
+    {
+      "id": "rss-https-quantumzeitgeist-com-quera-bloqade-toolkit-names-quantum-effect",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "QuEra’s Bloqade toolkit names a quantum effect, not a barrier",
+      "org": "",
+      "date": "2026-11-17",
+      "url": "https://quantumzeitgeist.com/quera-bloqade-toolkit-names-quantum-effect/",
+      "publisher": "Quantum Zeitgeist",
+      "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
+      "abstract": "The name behind QuEra’s Bloqade comes from the Rydberg blockade, a key mechanism—not a barrier—in neutral-atom quantum computing, allowing qubits to interact within a several-micron radius.",
+      "ingestedAt": "2026-11-18T11:01:48.826Z",
+      "relevanceScore": 0.75
     }
   ],
   "trend": [
@@ -209689,12 +209930,12 @@
       },
       "stageCounts": {
         "innovation": 862,
-        "scaling": 269,
-        "adoption": 130,
+        "scaling": 281,
+        "adoption": 133,
         "investment": 60
       },
       "fundingUsd": 49600,
-      "totalEntries": 10589,
+      "totalEntries": 10604,
       "windowCap": 600
     }
   ],
@@ -209731,7 +209972,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -209931,7 +210172,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -209940,7 +210181,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -209949,7 +210190,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -210340,7 +210581,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -210354,7 +210595,7 @@
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
       "key": "rss-investment",
-      "lastRunOutcome": "ok",
+      "lastRunOutcome": "failed",
       "recentMisses": [
         {
           "date": "2026-09-04",
@@ -210363,12 +210604,16 @@
         {
           "date": "2026-11-16",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-18",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -210377,7 +210622,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -210386,7 +210631,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -210395,7 +210640,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -210404,7 +210649,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -210413,7 +210658,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-18T00:22:30.258Z",
+      "lastSuccessfulPull": "2026-11-18T11:01:48.826Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -210425,183 +210670,183 @@
     {
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
-      "marketCapUsd": 12243226149.199999,
-      "asOf": "2026-11-18T00:15:42.206Z",
+      "marketCapUsd": 11497986296.64,
+      "asOf": "2026-11-18T10:54:54.026Z",
       "url": "https://www.ionq.com"
     },
     {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc. Common Stock",
-      "marketCapUsd": 3104903712.2400002,
-      "asOf": "2026-11-18T00:15:57.440Z",
+      "marketCapUsd": 2899944332.28,
+      "asOf": "2026-11-18T10:55:09.066Z",
       "url": "https://www.rigetti.com"
     },
     {
       "symbol": "QBTS",
       "name": "D-Wave Quantum Inc. Common Stock",
-      "marketCapUsd": 3291362864.7599998,
-      "asOf": "2026-11-18T00:16:12.651Z",
+      "marketCapUsd": 3070908983.44,
+      "asOf": "2026-11-18T10:55:24.177Z",
       "url": "https://www.dwavequantum.com"
     },
     {
       "symbol": "QUBT",
       "name": "Quantum Computing Inc. Common",
-      "marketCapUsd": 1191391729.5,
-      "asOf": "2026-11-18T00:16:27.862Z",
+      "marketCapUsd": 1164159918.54,
+      "asOf": "2026-11-18T10:55:39.355Z",
       "url": "https://www.quantumcomputinginc.com"
     },
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. Ordinary Shares",
-      "marketCapUsd": 234062427.95,
-      "asOf": "2026-11-18T00:16:43.083Z",
+      "marketCapUsd": 214919775.85,
+      "asOf": "2026-11-18T10:55:54.404Z",
       "url": "https://www.arqit.uk"
     },
     {
       "symbol": "LAES",
       "name": "SEALSQ Corp Ordinary Shares",
-      "marketCapUsd": 257545495.78,
-      "asOf": "2026-11-18T00:16:58.301Z",
+      "marketCapUsd": 244049661.94,
+      "asOf": "2026-11-18T10:56:09.444Z",
       "url": "https://www.sealsq.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "marketCapUsd": 229201246420.55,
-      "asOf": "2026-11-18T00:17:13.509Z",
+      "marketCapUsd": 218407966827.45,
+      "asOf": "2026-11-18T10:56:24.512Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
-      "marketCapUsd": 3488053680000.0005,
-      "asOf": "2026-11-18T00:17:28.726Z",
+      "marketCapUsd": 3444778800000,
+      "asOf": "2026-11-18T10:56:39.556Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "marketCapUsd": 3846694515990.48,
-      "asOf": "2026-11-18T00:17:43.957Z",
+      "marketCapUsd": 3759436730004.48,
+      "asOf": "2026-11-18T10:56:54.660Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
-      "marketCapUsd": 2787086398371.5,
-      "asOf": "2026-11-18T00:17:59.175Z",
+      "marketCapUsd": 2788600237734.34,
+      "asOf": "2026-11-18T10:57:09.698Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "HON",
       "name": "Honeywell International, Inc.",
-      "marketCapUsd": 69168288998.09999,
-      "asOf": "2026-11-18T00:18:14.383Z",
+      "marketCapUsd": 69488821101.28,
+      "asOf": "2026-11-18T10:57:24.756Z",
       "url": "https://www.honeywell.com"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
-      "marketCapUsd": 294823050000,
-      "asOf": "2026-11-18T00:18:29.602Z",
+      "marketCapUsd": 293228550000,
+      "asOf": "2026-11-18T10:57:39.813Z",
       "url": "https://www.intel.com"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia Corp",
-      "marketCapUsd": 3770312579999.9995,
-      "asOf": "2026-11-18T00:18:44.843Z",
+      "marketCapUsd": 3753892620000,
+      "asOf": "2026-11-18T10:57:54.880Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
-      "marketCapUsd": 135186225374.40001,
-      "asOf": "2026-11-18T00:19:00.055Z",
+      "marketCapUsd": 136371279177.6,
+      "asOf": "2026-11-18T10:58:09.923Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
-      "marketCapUsd": 77517488422.84999,
-      "asOf": "2026-11-18T00:19:15.285Z",
+      "marketCapUsd": 78598599184.14,
+      "asOf": "2026-11-18T10:58:25.004Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "marketCapUsd": 262992468399.71997,
-      "asOf": "2026-11-18T00:19:30.495Z",
+      "marketCapUsd": 267189228504,
+      "asOf": "2026-11-18T10:58:40.067Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
-      "marketCapUsd": 97196765890.21,
-      "asOf": "2026-11-18T00:19:45.715Z",
+      "marketCapUsd": 96099657631.67,
+      "asOf": "2026-11-18T10:58:55.188Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
-      "marketCapUsd": 48738041862.75,
-      "asOf": "2026-11-18T00:20:00.964Z",
+      "marketCapUsd": 48549979122.42,
+      "asOf": "2026-11-18T10:59:10.322Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
-      "marketCapUsd": 15861750503.94,
-      "asOf": "2026-11-18T00:20:16.184Z",
+      "marketCapUsd": 15645819890.25,
+      "asOf": "2026-11-18T10:59:25.432Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
-      "marketCapUsd": 10261500239.76,
-      "asOf": "2026-11-18T00:20:31.411Z",
+      "marketCapUsd": 10172548261.26,
+      "asOf": "2026-11-18T10:59:40.568Z",
       "url": "https://www.boozallen.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
-      "marketCapUsd": 277957504410.75,
-      "asOf": "2026-11-18T00:20:46.680Z",
+      "marketCapUsd": 277148035018.89,
+      "asOf": "2026-11-18T10:59:55.637Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
-      "marketCapUsd": 542199898179.47003,
-      "asOf": "2026-11-18T00:21:01.884Z",
+      "marketCapUsd": 533075133137.61993,
+      "asOf": "2026-11-18T11:00:10.688Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "marketCapUsd": 61820034758.03,
-      "asOf": "2026-11-18T00:21:17.093Z",
+      "marketCapUsd": 61182851664.11001,
+      "asOf": "2026-11-18T11:00:25.805Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
-      "marketCapUsd": 372123358862.95996,
-      "asOf": "2026-11-18T00:21:32.307Z",
+      "marketCapUsd": 374446177120.77997,
+      "asOf": "2026-11-18T11:00:40.947Z",
       "url": "https://www.cisco.com"
     },
     {
       "symbol": "NOK",
       "name": "Nokia Corporation",
-      "marketCapUsd": 43517214910.11,
-      "asOf": "2026-11-18T00:21:47.521Z",
+      "marketCapUsd": 42951321348.21,
+      "asOf": "2026-11-18T11:00:56.078Z",
       "url": "https://www.nokia.com"
     },
     {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
-      "marketCapUsd": 12791216132.8,
-      "asOf": "2026-11-18T00:22:02.730Z",
+      "marketCapUsd": 13040744658.8,
+      "asOf": "2026-11-18T11:01:11.159Z",
       "url": "https://www.sktelecom.com"
     }
   ],
