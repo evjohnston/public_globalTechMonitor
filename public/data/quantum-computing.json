@@ -1,6 +1,6 @@
 {
   "technology": "quantum-computing",
-  "generatedAt": "2026-11-27T15:59:32.496Z",
+  "generatedAt": "2026-11-28T00:59:58.964Z",
   "entries": [
     {
       "id": "seed-ibm-roadmap-2025",
@@ -83892,7 +83892,6 @@
       "url": "https://quantumzeitgeist.com/quantum-machines-academia-sinica-speed/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "Quantum Machines and Academia Sinica showed that a two-qubit gate normally taking about 15 minutes to bring up manually can be calibrated in approximately 25 seconds using a reinforcement-learning agent. Connecting an OPX1000 controller to…",
       "ingestedAt": "2026-08-30T14:14:23.442Z",
       "relevanceScore": 0.75
     },
@@ -83908,7 +83907,6 @@
       "url": "https://quantumzeitgeist.com/quantum-training-academy-quantrolox-qureca/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "QuantrolOx & QURECA partner to launch Quantum EDGE Academy, addressing the skills gap in quantum hardware.",
       "ingestedAt": "2026-08-30T14:14:23.442Z",
       "relevanceScore": 0.75
     },
@@ -83924,7 +83922,6 @@
       "url": "https://quantumzeitgeist.com/max-planck-spin-qubit-coherence-freezing/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "Nuclear spins in solids are a prime candidate for quantum memories in quantum networks and repeaters, but direct all-optical initialization, coherent control, and readout of individual nuclear spin qubits have been an outstanding…",
       "ingestedAt": "2026-08-30T14:14:23.442Z",
       "relevanceScore": 0.75
     },
@@ -83940,7 +83937,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV19mVFU3Vy1Wb2ZPUXZkNjMtQ0dyOUZ0WmR5ZGVUYXAyREFUbjBsdW41OFFqclo1LUNSaHZiTWdxQkdhdHQzTDFFdkE3WkxQWkVwWHZmbFAxZWp5ZHFCdU1JUy05bHFvc2RPRkF2WktaZWl3eF9YSXZYU0l5NmFvSGdvcnY?oc=5",
       "publisher": "quantumzeitgeist.com",
       "countryEvidence": "matched \"Canada\" (auto-classified from Google News RSS, unverified)",
-      "abstract": "Quantum Industry Canada Welcomes Federal Funding For Xanadu quantumzeitgeist.com",
       "ingestedAt": "2026-08-30T14:14:23.442Z",
       "relevanceScore": 0.7
     },
@@ -83971,7 +83967,6 @@
       "url": "https://quantumzeitgeist.com/i-tamm-quantum-interference-nanojunctions-supercurrents/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "A new theory details how quantum interference of Andreev states impacts supercurrents in superconducting nanojunctions, revealing coherent oscillations with barrier transmissions below unity.",
       "ingestedAt": "2026-08-30T23:08:25.365Z",
       "relevanceScore": 0.75
     },
@@ -83987,7 +83982,6 @@
       "url": "https://quantumzeitgeist.com/david-e-shaw/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "David E. Shaw founded one of Wall Street's defining quantitative funds, then left to build Anton, a supercomputer that does nothing but simulate molecules. His career is the case for special-purpose silicon, which is also the case for a…",
       "ingestedAt": "2026-08-30T23:08:25.365Z",
       "relevanceScore": 0.75
     },
@@ -84025,12 +84019,6 @@
       "url": "https://doi.org/10.1007/s12065-026-01248-6",
       "countryEvidence": "institution country codes [CZ, LT, CZ, LT, CZ] → CZ",
       "citations": 0,
-      "authors": [
-        "Vojtěch Novák",
-        "Ivan Zelinka",
-        "Václav Snåšel"
-      ],
-      "venue": "Evolutionary Intelligence",
       "collaboratingCountries": [
         "CZ",
         "LT"
@@ -84051,14 +84039,6 @@
       "url": "https://doi.org/10.1002/qute.70420",
       "countryEvidence": "institution country codes [PL, PL, PL, PL, PL] → PL",
       "citations": 0,
-      "abstract": "ABSTRACT We have constructed and run a Bell test of local realism focusing on the objectivity criterion. Objectivity means that the outcomes are macroscopically confirmed by a few observers at each party. The IBM Quantum and IonQ devices…",
-      "authors": [
-        "Adam Bednorz",
-        "Josep Amengual i Batle",
-        "Tomasz Białecki",
-        "Jarosław K. Korbicz"
-      ],
-      "venue": "Advanced Quantum Technologies",
       "ingestedAt": "2026-08-31T09:12:29.965Z",
       "orgId": "university of warsaw",
       "relevanceScore": 0.6
@@ -84075,15 +84055,6 @@
       "url": "https://doi.org/10.1002/qute.70421",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT We investigate a polarization‐selective transport scheme based on two V‐type atoms chirally coupled to a waveguide, where each atom exhibits polarization‐dependent optical transitions. An external driving field coherently couples…",
-      "authors": [
-        "Gang Li",
-        "Xue SUN",
-        "De-Xiu Qiu",
-        "Ying Qiao Zhang",
-        "Xing Ri Jin"
-      ],
-      "venue": "Advanced Quantum Technologies",
       "ingestedAt": "2026-08-31T09:12:29.965Z",
       "orgId": "yanbian university",
       "relevanceScore": 0.6
@@ -84100,13 +84071,6 @@
       "url": "https://doi.org/10.1038/s41598-026-69227-6",
       "countryEvidence": "institution country codes [IR, IR, TR, IR] → IR",
       "citations": 0,
-      "abstract": "Quantum-dot cellular automata (QCA) is an emerging nanocomputing paradigm in which binary information is represented and propagated through cell polarization and Coulombic interactions. QCA technology provides a potential alternative to…",
-      "authors": [
-        "Saeid Seyedi",
-        "Ali Ghaffari",
-        "Hatam Abdoli"
-      ],
-      "venue": "Scientific Reports",
       "collaboratingCountries": [
         "IR",
         "TR"
@@ -84127,16 +84091,6 @@
       "url": "https://doi.org/10.1002/qute.70426",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
       "citations": 0,
-      "abstract": "ABSTRACT Simultaneous estimation of two optical phases in a three‐mode interferometer assisted by optical parametric amplification (OPA) is investigated. The normally ordered characteristic function formalism is employed to derive…",
-      "authors": [
-        "Huan Zhang",
-        "Guofu Yin",
-        "Ying Xia",
-        "Bing He",
-        "Xiuxing Zhang",
-        "Shoukang Chang"
-      ],
-      "venue": "Advanced Quantum Technologies",
       "ingestedAt": "2026-08-31T09:12:29.965Z",
       "orgId": "weinan normal university",
       "relevanceScore": 0.6
@@ -84153,14 +84107,6 @@
       "url": "https://doi.org/10.1002/qute.70441",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
       "citations": 0,
-      "abstract": "ABSTRACT Shared microwave lines reduce cryogenic wiring in superconducting processors, but a pulse sent through one line drives the dressed circuit instead of an isolated qubit. This network response can reflect energy and load spectator…",
-      "authors": [
-        "Deepanshu Trivedi",
-        "Aditya Bhowmik",
-        "Laraib Niaz",
-        "Alex Krasnok"
-      ],
-      "venue": "Advanced Quantum Technologies",
       "ingestedAt": "2026-08-31T09:12:29.965Z",
       "orgId": "florida international university",
       "relevanceScore": 0.6
@@ -84258,7 +84204,6 @@
       "url": "https://quantumzeitgeist.com/peter-knight/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "no location match (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "The theorist who taught British quantum physics to cost itself honestly, and who now chairs the board advising on a national quantum strategy worth billions.",
       "ingestedAt": "2026-08-31T18:36:10.528Z",
       "relevanceScore": 0.75
     },
@@ -85377,11 +85322,6 @@
       "url": "https://doi.org/10.65161/recivmfdoyuegfyeh",
       "countryEvidence": "no institution country on record",
       "citations": 0,
-      "abstract": "Modern public key cryptosystems rely on two assumptions regarding computational difficulty: the integer factorization problem (RSA) and the discrete logarithm problem (elliptic curve cryptography).These problems have stood the test of time…",
-      "authors": [
-        "Tehzeeb Ali Gows Basha"
-      ],
-      "venue": "Oxford Journal of Student Scholarship",
       "ingestedAt": "2026-09-01T13:55:57.816Z",
       "orgId": "independent researcher",
       "relevanceScore": 0.6
@@ -87206,11 +87146,6 @@
       "url": "https://doi.org/10.3390/stats9050091",
       "countryEvidence": "institution country codes [KR] → KR",
       "citations": 0,
-      "abstract": "Sparse count data, such as patent document–keyword matrices, often contain excessive zeros and overdispersion, making conventional distance-based clustering methods less suitable. This study proposes a zero-inflated likelihood-based graph…",
-      "authors": [
-        "Sunghae Jun"
-      ],
-      "venue": "Stats",
       "ingestedAt": "2026-09-02T23:01:56.135Z",
       "orgId": "cheongju university",
       "relevanceScore": 0.6
@@ -87227,14 +87162,6 @@
       "url": "https://doi.org/10.22247/ijcna/2026/39",
       "countryEvidence": "inferred from raw affiliation text \"Department of Computer Science and Engineering , School of Agriculture Engineering and Technology , Kaveri University , Gowraram , Siddipet , Telangana , India\" → IN",
       "citations": 0,
-      "abstract": "The rapid development of Internet of Things (IoT) applications has led to the large-scale deployment of wireless sensor networks (WSNs) that incessantly generate and transmit sensitive data over wireless networks.Although the current…",
-      "authors": [
-        "Mohammad Sirajuddin",
-        "Ravikumar Thallapalli",
-        "Dr.Burla Srinivas",
-        "Boddupalli Anvesh Kumar"
-      ],
-      "venue": "International Journal of Computer Networks And Applications",
       "ingestedAt": "2026-09-02T23:01:56.135Z",
       "orgId": "department of computer science and engineering",
       "relevanceScore": 0.6
@@ -88232,7 +88159,6 @@
       "url": "https://quantumzeitgeist.com/michael-biercuk/",
       "publisher": "Quantum Zeitgeist",
       "countryEvidence": "matched \"Oxford\" (auto-classified from Quantum Zeitgeist RSS, unverified)",
-      "abstract": "Michael Biercuk founded Q-CTRL in 2017 to sell control software that suppresses qubit errors on any hardware, and by September 2024 IBM, Rigetti, Oxford Quantum Circuits and Diraq were all shipping it inside competing machines. The firmer…",
       "ingestedAt": "2026-09-03T17:08:49.527Z",
       "relevanceScore": 0.75
     },
@@ -180531,8 +180457,8 @@
       "authors": [
         "SANGLE-FERRIERE, Bruno"
       ],
-      "classification": "G06N10/20, G06N10/70",
-      "abstract": "[0000]    A method for transmitting classical information using quantum database teleportation. Classical information is stored as qubits in a first quantum memory. The qubits are transmitted from the first quantum memory to a second…",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/70",
+      "abstract": "A method for transmitting classical information using quantum database teleportation. Classical information is stored as qubits in a first quantum memory. The qubits are transmitted from the first quantum memory to a second quantum memory…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "sangle ferriere bruno",
       "relevanceScore": 0.85
@@ -180553,7 +180479,7 @@
         "VOLYA, Daniel",
         "UTT, Zachery Steven"
       ],
-      "classification": "G06N10/20",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/70, G06N20/00, G06N5/01, G06N7/01",
       "abstract": "A classical computing entity operates a distribution function discriminator to obtain a set of qudit measurements. The set of qudit measurements comprises a plurality of qudit measurements that each correspond to a respective quantum state…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "university of florida research foundation incorporated",
@@ -180576,7 +180502,7 @@
         "Kyaw, Thi Ha",
         "Baker, Jack"
       ],
-      "classification": "G06N10/20, G06N10/70",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/70, G06N20/00, G06N3/047, G06N3/0475, G06N5/01, G06N7/01",
       "abstract": "An error mitigation method for a quantum computing device can receiving specification data defining a quantum circuit configuration. The method can generate updated configurations by applying different numbers of circuit foldings to the…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "lg electronics",
@@ -180599,8 +180525,8 @@
         "Minev, Zlatko Kristev",
         "Majumder, Swarnadeep"
       ],
-      "classification": "G06N10/70",
-      "abstract": "[0000]    Systems/techniques that facilitate asymptotically bias-free error mitigation with bounded residual bias are provided. In various embodiments, a system can comprise a memory that stores computer executable components. In various…",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/70, G06N20/00, G06N5/01",
+      "abstract": "Systems/techniques that facilitate asymptotically bias-free error mitigation with bounded residual bias are provided. In various embodiments, a system can comprise a memory that stores computer executable components. In various…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "ibm",
       "relevanceScore": 0.85
@@ -180623,8 +180549,8 @@
         "Vishwakarma, Sanjay Kumar Lalta Prasad",
         "BRANDHOFER, Razvan Paul Sebastian"
       ],
-      "classification": "G06N10/20, G06N10/40, G06N10/70",
-      "abstract": "[0000]    In an approach to improve quantum computing systems embodiments receive a plurality of quantum circuits and determine a noise model for each of the plurality of quantum circuits. Further, embodiments execute a portion of the…",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/70, G06N10/80, G06N20/00, G06N5/01",
+      "abstract": "In an approach to improve quantum computing systems embodiments receive a plurality of quantum circuits and determine a noise model for each of the plurality of quantum circuits. Further, embodiments execute a portion of the plurality of…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "ibm",
       "relevanceScore": 0.85
@@ -180645,8 +180571,8 @@
         "Singh, Tejinder",
         "Tabet, Said"
       ],
-      "classification": "G06N10/20, G06N10/70",
-      "abstract": "[0000]    The technologies described herein are directed towards a digital twin system coupled to one or more spare (unused in the active quantum circuit) qubits for optimized quantum circuit execution to enhance real-time phase monitoring…",
+      "classification": "G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/70, G06N10/80, G06N20/00, G06N3/006, G06N3/044, G06N3/0442, G06N3/045, G06N3/08, G06N3/084, G06N3/09, G06N3/092, G06N5/01, G06N7/01",
+      "abstract": "The technologies described herein are directed towards a digital twin system coupled to one or more spare (unused in the active quantum circuit) qubits for optimized quantum circuit execution to enhance real-time phase monitoring and error…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "dell products l p",
       "relevanceScore": 0.85
@@ -180669,8 +180595,8 @@
         "Wack, Andrew",
         "Lueck, Einar"
       ],
-      "classification": "G06N10/20",
-      "abstract": "[0000]    Systems and techniques that facilitate preloading of quantum computing tasks are provided. For example, one or more embodiments described herein can comprise a system, which can comprise quantum computer, a memory that can store…",
+      "classification": "G06N10/00, G06N10/20, G06N10/80",
+      "abstract": "Systems and techniques that facilitate preloading of quantum computing tasks are provided. For example, one or more embodiments described herein can comprise a system, which can comprise quantum computer, a memory that can store computer…",
       "ingestedAt": "2026-11-07T00:38:14.822Z",
       "orgId": "ibm",
       "relevanceScore": 0.85
@@ -188767,7 +188693,7 @@
         "MERTIG, Normann"
       ],
       "classification": "G06N10/20, G06N10/40, H10D48/3835, G06N10/70",
-      "abstract": "[0001]    A method of preparing a set of quantum bit units for a quantum logic gate and a quantum device. Each quantum bit unit comprises a data qubit and a reference qubit, and the method comprises steps of: (i) applying a magnetic field…",
+      "abstract": "A method of preparing a set of quantum bit units for a quantum logic gate and a quantum device. Each quantum bit unit comprises a data qubit and a reference qubit, and the method comprises steps of: (i) applying a magnetic field to the set…",
       "ingestedAt": "2026-11-12T05:07:11.044Z",
       "orgId": "hitachi",
       "relevanceScore": 0.85
@@ -188877,7 +188803,7 @@
         "van Eijk, Tijmen Jacobus Walterus"
       ],
       "classification": "G06N10/40, H04B10/70",
-      "abstract": "[0001]    Methods and systems for processing signals associated with a quantum computing system are described wherein the quantum computing system is controlled by at least a control module comprising a plurality of data processing…",
+      "abstract": "Methods and systems for processing signals associated with a quantum computing system are described wherein the quantum computing system is controlled by at least a control module comprising a plurality of data processing channels, each…",
       "ingestedAt": "2026-11-12T05:07:11.044Z",
       "orgId": "qblox holding b v",
       "relevanceScore": 0.85
@@ -214513,6 +214439,174 @@
       "abstract": "Slovenian Research Groups Find Long-term Funding Key To Quantum Progress Quantum Zeitgeist",
       "ingestedAt": "2026-11-27T15:59:32.496Z",
       "relevanceScore": 0.7
+    },
+    {
+      "id": "epo-US20260377747",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "QUANTUM COMPUTATION BY SPIN PARITY MEASUREMENTS WITH ENCODED SPIN QUBITS",
+      "org": "University of Maryland, College Park",
+      "date": "2026-11-26",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260377747",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "BROOKS, Matthew James",
+        "TAHAN, Charles George"
+      ],
+      "classification": "G06N10/20, G06N10/40",
+      "abstract": "[0000]    A quantum computing system includes a plurality of qubits and a controller. The plurality of qubits contains N data qubits and N−1 ancilla qubits. The N data qubits form pairs of qubits that share an ancilla qubit. The controller…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "university of maryland college park",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-DE102025120102",
+      "stage": "innovation",
+      "country": "DE",
+      "provenance": "live",
+      "source": "patent",
+      "title": "Photonenverarbeitungsvorrichtung, die bei kryogenen Temperaturen mit Rückkopplungsschleife betrieben werden kann",
+      "org": "Munich Quantum Instruments GmbH",
+      "date": "2026-11-26",
+      "url": "https://worldwide.espacenet.com/patent/search?q=DE102025120102",
+      "countryEvidence": "EPO filing country DE",
+      "authors": [
+        "Ernst, Sven"
+      ],
+      "classification": "G01J1/0425, G01J1/26, G01J1/4228, G01J1/44, G06N10/40, G01J1/4257, G01J2001/442, G01J2001/444",
+      "abstract": "Die Offenbarung lehrt eine Photonenverarbeitungsvorrichtung, umfassend:- eine photonische integrierte Schaltung, die dazu ausgelegt ist, ein von einer Photonenquelle erhaltenes Photon zu verarbeiten und das verarbeitete Photon zu…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "munich quantum instruments gmbh",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-US20260377746",
+      "stage": "innovation",
+      "country": "US",
+      "provenance": "live",
+      "source": "patent",
+      "title": "METHOD AND APPARATUS FOR QUANTUM CIRCUITS FOR MACHINE LEARNING",
+      "org": "XANADU QUANTUM TECHNOLOGIES INC.",
+      "date": "2026-11-26",
+      "url": "https://worldwide.espacenet.com/patent/search?q=US20260377746",
+      "countryEvidence": "EPO filing country US",
+      "authors": [
+        "EAST, Richard David Petrak",
+        "PARK, Chae-Yeun"
+      ],
+      "classification": "G06N10/40",
+      "abstract": "There is described a method of constructing, and an apparatus for, a quantum circuit that may be suitable as a circuit ansatz for quantum machine learning (QML). The quantum circuit, also referred to herein as a spin-network circuit,…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "xanadu quantum technologies",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-EP4844641",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "QUANTUM PROCESSING ELEMENT, QUANTUM PROCESSING UNIT, QUANTUM CIRCUIT AND METHOD",
+      "org": "Alipour, Sahar",
+      "date": "2026-11-25",
+      "url": "https://worldwide.espacenet.com/patent/search?q=EP4844641",
+      "countryEvidence": "Published by EP, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "Alipour, Sahar",
+        "Tayefeh Rezakhani, Ali"
+      ],
+      "classification": "G06N10/20, G06N10/40",
+      "abstract": "[0001]    A quantum processing element is proposed which comprises a control system in a control state, a quantum signal system and a target system in a target state. The quantum processing element is configured to apply, conditioned on…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "alipour sahar",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-CN123156108",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "patent",
+      "title": "柔性可穿戴的六方氮化硼量子传感器贴片",
+      "org": "丰田自动车工程及制造北美公司",
+      "date": "2026-11-24",
+      "url": "https://worldwide.espacenet.com/patent/search?q=CN123156108",
+      "countryEvidence": "EPO filing country CN",
+      "authors": [
+        "吴松涛",
+        "纳维德·侯赛因",
+        "东相吾",
+        "德巴西什·班纳吉"
+      ],
+      "classification": "G01R33/1284, G01R33/323, G01R33/60, G06N10/40",
+      "abstract": "本发明涉及柔性可穿戴的六方氮化硼量子传感器贴片。可以提供一种传感器贴片传感器贴片，所述传感器贴片包括柔性弹性体基底、耦接至柔性弹性体基底的一个或更多个波导、和耦接至柔性弹性体基底的六方氮化硼（h‑BN），其中h‑BN包括自旋缺陷。该技术还可以提供制造和操作所述传感器贴片以进行量子传感操作和/或光学检测磁共振（ODMR）测量。",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "丰田自动车工程及制造北美公司",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026240747",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "SPATIALLY STRUCTURED OPTICAL FIELD MØLMER-SØRENSEN INTERACTION USING DIPOLE RAMAN TRANSITIONS",
+      "org": "QUANTINUUM LLC",
+      "date": "2026-11-19",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026240747",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "GILBRETH, Christopher N.",
+        "BJORK, Bryce J.",
+        "BOHN, Matthew J.",
+        "FEIG, Michael",
+        "GAEBLER, John Pagnucci",
+        "OLLANIK, Adam Jay",
+        "SCHAFFER, Andrew"
+      ],
+      "classification": "G06N10/40",
+      "abstract": "A system configured for performing a Mølmer-Sørensen (MS) gate is provided. The system includes manipulation sources for generating center, red detuned, and blue detuned manipulation signals. The center and red detuned manipulation signals…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "quantinuum",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "epo-WO2026231058",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "patent",
+      "title": "QUANTUM CONTROL SYSTEM AND METHOD",
+      "org": "AQSOLOTL PTE. LTD.",
+      "date": "2026-11-05",
+      "url": "https://worldwide.espacenet.com/patent/search?q=WO2026231058",
+      "countryEvidence": "Published by WO, a regional or international patent authority rather than a country — not attributable to one nation",
+      "authors": [
+        "BORE, Patrick"
+      ],
+      "classification": "B82Y10/00, G06N10/00, G06N10/20, G06N10/40, G06N10/60, G06N10/80, G06N20/00, G06N5/01",
+      "abstract": "A quantum control system, a distributed quantum control system, and a quantum control method. The control method comprises the steps of using a local controller for receiving quantum control information associated with a quantum algorithm;…",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "orgId": "aqsolotl pte",
+      "relevanceScore": 0.85
+    },
+    {
+      "id": "rss--27-quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time",
+      "stage": "scaling",
+      "country": null,
+      "provenance": "auto",
+      "source": "milestone",
+      "title": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+      "org": "",
+      "date": "2026-11-27",
+      "url": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+      "publisher": "The Quantum Insider",
+      "countryEvidence": "no location match (auto-classified from The Quantum Insider RSS, unverified)",
+      "abstract": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography.",
+      "ingestedAt": "2026-11-28T00:59:58.964Z",
+      "relevanceScore": 0.75
     }
   ],
   "trend": [
@@ -225771,6 +225865,81 @@
       "fundingUsd": 1632104,
       "totalEntries": 11361,
       "windowCap": 600
+    },
+    {
+      "date": "2026-11-28",
+      "counts": {
+        "FR": 12,
+        "TW": 7,
+        "IN": 36,
+        "ID": 3,
+        "VN": 2,
+        "CN": 88,
+        "RU": 8,
+        "JP": 22,
+        "US": 62,
+        "DE": 17,
+        "TR": 4,
+        "IQ": 1,
+        "CH": 6,
+        "BG": 3,
+        "SA": 4,
+        "AE": 5,
+        "IL": 6,
+        "ES": 10,
+        "SE": 3,
+        "GB": 14,
+        "AU": 7,
+        "AR": 2,
+        "KR": 10,
+        "AT": 3,
+        "IT": 8,
+        "BR": 6,
+        "NP": 3,
+        "RS": 1,
+        "CA": 12,
+        "PE": 1,
+        "SG": 3,
+        "MT": 1,
+        "DK": 5,
+        "UA": 1,
+        "GH": 2,
+        "MX": 3,
+        "CZ": 1,
+        "PL": 2,
+        "NL": 1,
+        "JO": 1,
+        "OM": 1,
+        "QA": 1,
+        "FI": 2,
+        "PK": 4,
+        "KZ": 1,
+        "BE": 2,
+        "PT": 1,
+        "IR": 2,
+        "HK": 3,
+        "SK": 1,
+        "CL": 1,
+        "NO": 3,
+        "GR": 1,
+        "KW": 1,
+        "MA": 2,
+        "MO": 1,
+        "AZ": 1,
+        "PG": 1,
+        "BD": 1,
+        "ET": 1,
+        "LK": 1
+      },
+      "stageCounts": {
+        "innovation": 973,
+        "scaling": 282,
+        "adoption": 111,
+        "investment": 79
+      },
+      "fundingUsd": 1632104,
+      "totalEntries": 11369,
+      "windowCap": 600
     }
   ],
   "notes": [
@@ -225806,7 +225975,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -225823,10 +225992,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-10-14",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-10-15",
           "outcome": "not-attempted"
         },
@@ -226001,12 +226166,16 @@
         {
           "date": "2026-11-27",
           "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-28",
+          "outcome": "not-attempted"
         }
       ]
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -226015,7 +226184,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -226024,7 +226193,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -226041,10 +226210,6 @@
       "lastRunOutcome": "not-attempted",
       "recentMisses": [
         {
-          "date": "2026-10-14",
-          "outcome": "not-attempted"
-        },
-        {
           "date": "2026-10-15",
           "outcome": "not-attempted"
         },
@@ -226218,6 +226383,10 @@
         },
         {
           "date": "2026-11-27",
+          "outcome": "not-attempted"
+        },
+        {
+          "date": "2026-11-28",
           "outcome": "not-attempted"
         }
       ]
@@ -226232,10 +226401,6 @@
       "lastRunOutcome": "failed",
       "recentMisses": [
         {
-          "date": "2026-10-14",
-          "outcome": "failed"
-        },
-        {
           "date": "2026-10-15",
           "outcome": "failed"
         },
@@ -226410,12 +226575,16 @@
         {
           "date": "2026-11-27",
           "outcome": "failed"
+        },
+        {
+          "date": "2026-11-28",
+          "outcome": "failed"
         }
       ]
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -226424,7 +226593,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -226443,7 +226612,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -226452,7 +226621,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -226461,7 +226630,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -226470,7 +226639,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -226479,7 +226648,7 @@
     },
     {
       "sourceName": "PitchBook via WRDS (VC + PE funding)",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "manual — re-run `npm run import-pitchbook -- <vertical-id>` locally against WRDS whenever fresh data is wanted; deliberately never automated (see scripts/import-pitchbook.ts's header comment on why this stays a personal-credential, manual pull, not a CI-scheduled one)",
       "structuralLag": "however current the last manual import was — WRDS itself 'does not maintain historical snapshots,' so a real deal that ages out of PitchBook's current-state view isn't detected, just never updated further",
       "coverageGaps": "entity-consolidated by the same heuristic as CapIQ (entityResolution.ts) — a company may appear as a separate row from its CapIQ counterpart rather than one merged entity; quantum coverage is a keyword search against company text (no dedicated PitchBook tag exists), a weaker precision tier than AI's real vertical-tag match",
@@ -226488,7 +226657,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-27T15:59:32.496Z",
+      "lastSuccessfulPull": "2026-11-28T00:59:58.964Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -226501,182 +226670,182 @@
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
       "marketCapUsd": 10896239831.84,
-      "asOf": "2026-11-27T15:52:44.497Z",
+      "asOf": "2026-11-28T00:53:15.259Z",
       "url": "https://www.ionq.com"
     },
     {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc. Common Stock",
       "marketCapUsd": 2690846691.2999997,
-      "asOf": "2026-11-27T15:52:59.730Z",
+      "asOf": "2026-11-28T00:53:30.466Z",
       "url": "https://www.rigetti.com"
     },
     {
       "symbol": "QBTS",
       "name": "D-Wave Quantum Inc. Common Stock",
       "marketCapUsd": 2660440951,
-      "asOf": "2026-11-27T15:53:14.947Z",
+      "asOf": "2026-11-28T00:53:45.646Z",
       "url": "https://www.dwavequantum.com"
     },
     {
       "symbol": "QUBT",
       "name": "Quantum Computing Inc. Common",
       "marketCapUsd": 1041616769.2199999,
-      "asOf": "2026-11-27T15:53:30.189Z",
+      "asOf": "2026-11-28T00:54:00.838Z",
       "url": "https://www.quantumcomputinginc.com"
     },
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. Ordinary Shares",
       "marketCapUsd": 192992737.99,
-      "asOf": "2026-11-27T15:53:45.473Z",
+      "asOf": "2026-11-28T00:54:16.074Z",
       "url": "https://www.arqit.uk"
     },
     {
       "symbol": "LAES",
       "name": "SEALSQ Corp Ordinary Shares",
       "marketCapUsd": 240675703.48000002,
-      "asOf": "2026-11-27T15:54:00.681Z",
+      "asOf": "2026-11-28T00:54:31.262Z",
       "url": "https://www.sealsq.com"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "marketCapUsd": 230108562393.35,
-      "asOf": "2026-11-27T15:54:15.915Z",
+      "asOf": "2026-11-28T00:54:46.475Z",
       "url": "https://www.ibm.com"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
       "marketCapUsd": 3357491400000.0005,
-      "asOf": "2026-11-27T15:54:31.131Z",
+      "asOf": "2026-11-28T00:55:01.663Z",
       "url": "https://www.abc.xyz"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
       "marketCapUsd": 3638315496861.36,
-      "asOf": "2026-11-27T15:54:46.364Z",
+      "asOf": "2026-11-28T00:55:16.855Z",
       "url": "https://www.microsoft.com"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.Com Inc",
       "marketCapUsd": 2643055396135.58,
-      "asOf": "2026-11-27T15:55:01.577Z",
+      "asOf": "2026-11-28T00:55:32.046Z",
       "url": "https://www.amazon.com"
     },
     {
       "symbol": "HON",
       "name": "Honeywell International, Inc.",
       "marketCapUsd": 71437402401.8,
-      "asOf": "2026-11-27T15:55:16.781Z",
+      "asOf": "2026-11-28T00:55:47.237Z",
       "url": "https://www.honeywell.com"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
       "marketCapUsd": 289508050000,
-      "asOf": "2026-11-27T15:55:31.989Z",
+      "asOf": "2026-11-28T00:56:02.424Z",
       "url": "https://www.intel.com"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia Corp",
       "marketCapUsd": 3605147100000.0005,
-      "asOf": "2026-11-27T15:55:47.219Z",
+      "asOf": "2026-11-28T00:56:17.637Z",
       "url": "https://www.nvidia.com"
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp.",
       "marketCapUsd": 138427220473.6,
-      "asOf": "2026-11-27T15:56:02.445Z",
+      "asOf": "2026-11-28T00:56:32.842Z",
       "url": "https://www.lockheedmartin.com"
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
       "marketCapUsd": 78958022341.31,
-      "asOf": "2026-11-27T15:56:17.657Z",
+      "asOf": "2026-11-28T00:56:48.028Z",
       "url": "https://www.northropgrumman.com"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "marketCapUsd": 264746741112.12,
-      "asOf": "2026-11-27T15:56:32.871Z",
+      "asOf": "2026-11-28T00:57:03.212Z",
       "url": "https://www.rtx.com"
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
       "marketCapUsd": 97353495641.43,
-      "asOf": "2026-11-27T15:56:48.106Z",
+      "asOf": "2026-11-28T00:57:18.422Z",
       "url": "https://www.gd.com"
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCapUsd": 48764109965.369995,
-      "asOf": "2026-11-27T15:57:03.312Z",
+      "asOf": "2026-11-28T00:57:33.626Z",
       "url": "https://www.l3harris.com"
     },
     {
       "symbol": "LDOS",
       "name": "Leidos Holdings, Inc.",
       "marketCapUsd": 15934947322.140001,
-      "asOf": "2026-11-27T15:57:18.526Z",
+      "asOf": "2026-11-28T00:57:48.815Z",
       "url": "https://www.leidos.com"
     },
     {
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
       "marketCapUsd": 10426357906.58,
-      "asOf": "2026-11-27T15:57:33.728Z",
+      "asOf": "2026-11-28T00:58:04.036Z",
       "url": "https://www.boozallen.com"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials Inc",
       "marketCapUsd": 246951652312.74,
-      "asOf": "2026-11-27T15:57:48.967Z",
+      "asOf": "2026-11-28T00:58:19.247Z",
       "url": "https://www.appliedmaterials.com"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "marketCapUsd": 502230151245.36,
-      "asOf": "2026-11-27T15:58:04.203Z",
+      "asOf": "2026-11-28T00:58:34.454Z",
       "url": "https://www.asml.com"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "marketCapUsd": 53719120000,
-      "asOf": "2026-11-27T15:58:19.431Z",
+      "asOf": "2026-11-28T00:58:49.642Z",
       "url": "https://www.hpe.com"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "marketCapUsd": 371378618932.8,
-      "asOf": "2026-11-27T15:58:34.673Z",
+      "asOf": "2026-11-28T00:59:04.846Z",
       "url": "https://www.cisco.com"
     },
     {
       "symbol": "NOK",
       "name": "Nokia Corporation",
       "marketCapUsd": 41310230018.7,
-      "asOf": "2026-11-27T15:58:49.895Z",
+      "asOf": "2026-11-28T00:59:20.059Z",
       "url": "https://www.nokia.com"
     },
     {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
       "marketCapUsd": 10265219669.599998,
-      "asOf": "2026-11-27T15:59:05.117Z",
+      "asOf": "2026-11-28T00:59:35.245Z",
       "url": "https://www.sktelecom.com"
     }
   ],
