@@ -1,6 +1,6 @@
 {
   "technology": "biotechnology",
-  "generatedAt": "2026-11-28T01:34:20.962Z",
+  "generatedAt": "2026-11-28T11:48:03.102Z",
   "entries": [
     {
       "id": "seed-samsung-biologics-plant4-2022",
@@ -178220,7 +178220,7 @@
       "date": "2021-07-15",
       "url": "https://doi.org/10.1038/s41586-021-03819-2",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, KR, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 51634,
+      "citations": 51706,
       "collaboratingCountries": [
         "GB",
         "KR"
@@ -178240,7 +178240,7 @@
       "date": "2021-04-23",
       "url": "https://doi.org/10.1093/molbev/msab120",
       "countryEvidence": "institution country codes [JP, US, SA, US] → US",
-      "citations": 24976,
+      "citations": 25026,
       "collaboratingCountries": [
         "JP",
         "SA",
@@ -178277,7 +178277,7 @@
       "date": "2021-01-29",
       "url": "https://doi.org/10.1093/gigascience/giab008",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, US] → GB",
-      "citations": 17956,
+      "citations": 17994,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -178297,7 +178297,7 @@
       "date": "2021-05-31",
       "url": "https://doi.org/10.1016/j.cell.2021.04.048",
       "countryEvidence": "institution country codes [US, US, US, ZA, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 16799,
+      "citations": 16811,
       "collaboratingCountries": [
         "US",
         "ZA"
@@ -178317,7 +178317,7 @@
       "date": "2024-05-08",
       "url": "https://doi.org/10.1038/s41586-024-07487-w",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, US, GB, GB, GB, GB, US, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 19823,
+      "citations": 19883,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -178337,7 +178337,7 @@
       "date": "2021-07-01",
       "url": "https://doi.org/10.1016/j.xinn.2021.100141",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 17095,
+      "citations": 17112,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "southern medical university",
       "relevanceScore": 0.6
@@ -178353,7 +178353,7 @@
       "date": "2021-04-22",
       "url": "https://doi.org/10.1093/nar/gkab301",
       "countryEvidence": "institution country codes [DE, KR, DE, DE] → DE",
-      "citations": 12373,
+      "citations": 12392,
       "collaboratingCountries": [
         "DE",
         "KR"
@@ -178373,7 +178373,7 @@
       "date": "2022-05-30",
       "url": "https://doi.org/10.1038/s41592-022-01488-1",
       "countryEvidence": "institution country codes [DE, KR, JP, JP, US, US, KR] → KR",
-      "citations": 9953,
+      "citations": 9965,
       "collaboratingCountries": [
         "DE",
         "JP",
@@ -178395,7 +178395,7 @@
       "date": "2022-11-12",
       "url": "https://doi.org/10.1093/nar/gkac1000",
       "countryEvidence": "institution country codes [CH, CH, DK, DK, DK, DK, DK, DK, FI, CH, CH, CH, CH, CH, CH, DK, DK, FI, KR, DE, DE, DE, DE, DK, DK, CH, CH] → CH",
-      "citations": 11320,
+      "citations": 11340,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -178418,7 +178418,7 @@
       "date": "2021-11-17",
       "url": "https://doi.org/10.1093/nar/gkab1061",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 8683,
+      "citations": 8691,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "google deepmind united kingdom",
       "relevanceScore": 0.6
@@ -178434,7 +178434,7 @@
       "date": "2022-11-21",
       "url": "https://doi.org/10.1093/nar/gkac1052",
       "countryEvidence": "no institution country on record",
-      "citations": 8212,
+      "citations": 8223,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "relevanceScore": 0.6
     },
@@ -178449,7 +178449,7 @@
       "date": "2021-07-19",
       "url": "https://doi.org/10.1021/acs.jcim.1c00203",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 9085,
+      "citations": 9104,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "scripps research institute",
       "relevanceScore": 0.6
@@ -178465,7 +178465,7 @@
       "date": "2021-11-01",
       "url": "https://doi.org/10.1093/nar/gkab1038",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, DE, DE, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 6354,
+      "citations": 6356,
       "collaboratingCountries": [
         "DE",
         "GB"
@@ -178485,7 +178485,7 @@
       "date": "2022-10-27",
       "url": "https://doi.org/10.1093/nar/gkac963",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP, JP] → JP",
-      "citations": 7181,
+      "citations": 7187,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "kyoto university",
       "relevanceScore": 0.6
@@ -178501,7 +178501,7 @@
       "date": "2022-03-23",
       "url": "https://doi.org/10.1093/nar/gkac194",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US] → US",
-      "citations": 6972,
+      "citations": 6977,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "frederick national laboratory for cancer research",
       "relevanceScore": 0.6
@@ -178517,7 +178517,7 @@
       "date": "2021-07-15",
       "url": "https://doi.org/10.1126/science.abj8754",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, US, US, ZA, ZA, ZA, AT, AT, AT, AT, AT, CA, CA, CA, CA, CA, CA, CA, US, US, US, US, US, US, US, US, US, GB, US, US] → US",
-      "citations": 6258,
+      "citations": 6267,
       "collaboratingCountries": [
         "AT",
         "CA",
@@ -178540,7 +178540,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1038/s41592-020-01056-5",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US] → US",
-      "citations": 6754,
+      "citations": 6762,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "harvard university",
       "relevanceScore": 0.6
@@ -178556,7 +178556,7 @@
       "date": "2023-03-16",
       "url": "https://doi.org/10.1126/science.ade2574",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 7644,
+      "citations": 7670,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "new york university",
       "relevanceScore": 0.6
@@ -178572,7 +178572,7 @@
       "date": "2023-05-25",
       "url": "https://doi.org/10.1038/s41587-023-01767-y",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 6661,
+      "citations": 6680,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "new york university",
       "relevanceScore": 0.6
@@ -178588,7 +178588,7 @@
       "date": "2021-04-01",
       "url": "https://doi.org/10.1038/s41592-021-01101-x",
       "countryEvidence": "institution country codes [DE, DE, DE] → DE",
-      "citations": 5916,
+      "citations": 5931,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "max planck institute for developmental biology",
       "relevanceScore": 0.6
@@ -178644,7 +178644,7 @@
       "date": "2021-10-01",
       "url": "https://doi.org/10.1093/molbev/msab293",
       "countryEvidence": "institution country codes [ES, ES, ES, ES, ES, ES, DE, KR, DE, DE, ES, ES, ES] → ES",
-      "citations": 6187,
+      "citations": 6199,
       "collaboratingCountries": [
         "DE",
         "ES",
@@ -178665,7 +178665,7 @@
       "date": "2023-10-20",
       "url": "https://doi.org/10.1002/pro.4792",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US] → US",
-      "citations": 5354,
+      "citations": 5369,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of california san francisco",
       "relevanceScore": 0.6
@@ -178681,7 +178681,7 @@
       "date": "2024-04-13",
       "url": "https://doi.org/10.1093/nar/gkae268",
       "countryEvidence": "institution country codes [DE, DE, DE] → DE",
-      "citations": 5528,
+      "citations": 5550,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "biobyte solutions germany",
       "relevanceScore": 0.6
@@ -178697,7 +178697,7 @@
       "date": "2023-01-18",
       "url": "https://doi.org/10.1038/s41586-022-05473-8",
       "countryEvidence": "institution country codes [US, FI, US, FI, FI, US, US, FI, US, FI, FI, US, FI, FI, FI, EE, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, US, FI, US, US, FI, FI, US, FI, FI, FI, FI, FI, FI, FI, FI, FI, US, FI, DE, DE, FI, FI, US, US, US, FI, US, FI, FI, US, FI, FI, FI, FI, FI, FI, FI, US, US, US, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, EE, EE, US, GB, GB, GB, FI, FI, EE, FI, FI, US, FI, FI, FI, US, FI, FI, FI, DE, US, FI, FI, FI, FI, US, US, US, US, FI, US, FI, FI, US, FI, FI, FI, US, US, FI, FI, US, SE, FI, FI, FI, FI, FI, US, US, FI, FI, US, US, DE, FI, FI, US, FI, FI, DE, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, EE, FI, EE, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, FI, EE, FI, FI, EE, DE, FI, FI, DE, FI, FI, FI, US, FI, FI, FI, US, EE, EE, FI, FI, FI, US, FI, SE, FI, US, SE, FI, FI, US, FI, GB, US, GB, FI, FI, FI, FI, US] → FI",
-      "citations": 5444,
+      "citations": 5449,
       "collaboratingCountries": [
         "DE",
         "EE",
@@ -178721,7 +178721,7 @@
       "date": "2021-05-21",
       "url": "https://doi.org/10.1093/nar/gkab382",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, US, CA] → CA",
-      "citations": 4297,
+      "citations": 4300,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -178773,7 +178773,7 @@
       "date": "2021-03-01",
       "url": "https://doi.org/10.1002/cpz1.90",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 3913,
+      "citations": 3917,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "icahn school of medicine at mount sinai",
       "relevanceScore": 0.6
@@ -178789,7 +178789,7 @@
       "date": "2023-09-22",
       "url": "https://doi.org/10.1016/j.molp.2023.09.010",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 4479,
+      "citations": 4484,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "south china agricultural university",
       "relevanceScore": 0.6
@@ -178805,7 +178805,7 @@
       "date": "2022-03-31",
       "url": "https://doi.org/10.1126/science.abj6987",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, RU, US, US, RU, RU, US, US, US, US, US, US, CH, US, US, US, US, US, US, US, US, US, US, GB, US, US, GB, GB, RU, US, US, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, IN, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, RU, RU, RU, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, GB, US, US, US, US, US, US, US, US, US, RU, RU, RU, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 3795,
+      "citations": 3803,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -178829,7 +178829,7 @@
       "date": "2022-10-28",
       "url": "https://doi.org/10.1093/nar/gkac956",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 4303,
+      "citations": 4314,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national institutes of health",
       "relevanceScore": 0.6
@@ -178845,7 +178845,7 @@
       "date": "2021-04-05",
       "url": "https://doi.org/10.1073/pnas.2016239118",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 4167,
+      "citations": 4177,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "meta united states",
       "relevanceScore": 0.6
@@ -178861,7 +178861,7 @@
       "date": "2021-09-29",
       "url": "https://doi.org/10.1021/acs.jctc.1c00645",
       "countryEvidence": "institution country codes [CO, CA, CA, CU, CA, CO] → CA",
-      "citations": 3909,
+      "citations": 3917,
       "collaboratingCountries": [
         "CA",
         "CO",
@@ -178882,7 +178882,7 @@
       "date": "2021-07-22",
       "url": "https://doi.org/10.1038/s41586-021-03828-1",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 3256,
+      "citations": 3257,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "google deepmind united kingdom",
       "relevanceScore": 0.6
@@ -178898,7 +178898,7 @@
       "date": "2021-04-28",
       "url": "https://doi.org/10.1038/s41586-021-03451-0",
       "countryEvidence": "institution country codes [US, US, GB, GB, US, US, US, US, US, DE, DE, GB, US, KR, KR, KR, US, US, US, US, US, GB, GB, GB, GB, US, US, DE, DE, US, GB, NL, NL, US, AU, US, US, AU, US, US, NZ, NZ, NZ, US, GB, GB, DE, US, DE, DE, US, NL, BE, AT, US, US, DE, DE, CH, GB, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, ES, ES, ES, US, US, US, GB, GB, GB, GB, GB, GB, US, CN, GB, US, US, US, US, US, DE, DE, DE, MY, IT, KR, US, DE, DE, DE, CN, US, US, US, US, US, US, US, US, US, GB, GB, GB, US, US, US] → US",
-      "citations": 3354,
+      "citations": 3358,
       "collaboratingCountries": [
         "AT",
         "AU",
@@ -178930,7 +178930,7 @@
       "date": "2021-12-01",
       "url": "https://doi.org/10.1093/nar/gkab1112",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 3197,
+      "citations": 3202,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national institutes of health",
       "relevanceScore": 0.6
@@ -178946,7 +178946,7 @@
       "date": "2022-01-03",
       "url": "https://doi.org/10.1038/s41587-021-01156-3",
       "countryEvidence": "institution country codes [CH, DK, DK, DK, US, DK, DK, DK, GB, DK, DK, DK, DK, DK, DK, SE, SE, DK] → DK",
-      "citations": 3462,
+      "citations": 3465,
       "collaboratingCountries": [
         "CH",
         "DK",
@@ -179026,7 +179026,7 @@
       "date": "2021-04-24",
       "url": "https://doi.org/10.1093/nar/gkab255",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, HK, CN, CN, CN, CN, HK] → CN",
-      "citations": 3252,
+      "citations": 3255,
       "collaboratingCountries": [
         "CN",
         "HK"
@@ -179068,7 +179068,7 @@
       "date": "2021-05-12",
       "url": "https://doi.org/10.1093/nar/gkab335",
       "countryEvidence": "institution country codes [DK, DK, DK, DK, NL, NL, NL, NL, NL, DK, DK] → DK",
-      "citations": 2822,
+      "citations": 2826,
       "collaboratingCountries": [
         "DK",
         "NL"
@@ -179152,7 +179152,7 @@
       "date": "2022-11-09",
       "url": "https://doi.org/10.1093/nar/gkac993",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, US, KR, DE, DE, DE, CH, US, GB, GB, GB, US, US, DE, US, US, US, US, US, GB, GB, GB, GB, CH, CH, GB, US, US, US, IT, US, US, US, GB] → GB",
-      "citations": 2737,
+      "citations": 2739,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -179176,7 +179176,7 @@
       "date": "2021-04-21",
       "url": "https://doi.org/10.1056/nejmoa2101544",
       "countryEvidence": "institution country codes [NL, BE, NL, BR, BR, US, BE, BE, BE, BE, NL, US, US, US, US, US, US, US, US, US, BE, US, US, US, US, US, US, US, BE, BE, BE, BE, NL, NL, NL, BE, NL] → US",
-      "citations": 2640,
+      "citations": 2643,
       "collaboratingCountries": [
         "BE",
         "BR",
@@ -179198,7 +179198,7 @@
       "date": "2021-11-19",
       "url": "https://doi.org/10.1093/nar/gkab1062",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, NL, LV, SE, RU, CA, CA] → CA",
-      "citations": 2980,
+      "citations": 2989,
       "collaboratingCountries": [
         "CA",
         "LV",
@@ -179221,7 +179221,7 @@
       "date": "2021-11-12",
       "url": "https://doi.org/10.1093/nar/gkab1028",
       "countryEvidence": "institution country codes [CA, US, CA, CA, CA, CA, CA, BR, GB, AT, GB, US, GB, CN, GB, GB, GB, GB, CA, US, CA, US, US, US, US, GB, GB, CO, GB, CA, CA, CA, CA, US, US, CA, US, CA, CA, GB, US] → CA",
-      "citations": 2246,
+      "citations": 2250,
       "collaboratingCountries": [
         "AT",
         "BR",
@@ -179246,7 +179246,7 @@
       "date": "2021-09-14",
       "url": "https://doi.org/10.1093/nar/gkab776",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, AU] → AU",
-      "citations": 2756,
+      "citations": 2757,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "the university of queensland",
       "relevanceScore": 0.6
@@ -179298,7 +179298,7 @@
       "date": "2023-05-08",
       "url": "https://doi.org/10.1038/s41587-023-01773-0",
       "countryEvidence": "institution country codes [DE, KR, KR, KR, DE, KR, KR, DE, DE, KR] → KR",
-      "citations": 3177,
+      "citations": 3185,
       "collaboratingCountries": [
         "DE",
         "KR"
@@ -179318,7 +179318,7 @@
       "date": "2021-11-29",
       "url": "https://doi.org/10.1093/nar/gkab1045",
       "countryEvidence": "institution country codes [FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, SA, FR, FR, FR, DK, FR, FR, FR, FR] → FR",
-      "citations": 2833,
+      "citations": 2839,
       "collaboratingCountries": [
         "DK",
         "FR",
@@ -179355,7 +179355,7 @@
       "date": "2022-04-12",
       "url": "https://doi.org/10.1093/nar/gkac240",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2471,
+      "citations": 2476,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "european bioinformatics institute",
       "relevanceScore": 0.6
@@ -179371,7 +179371,7 @@
       "date": "2021-02-24",
       "url": "https://doi.org/10.1056/nejmoa2024850",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, ES, ES, FR, FR, FR, FR, BE, IT, DE, DE, DE, DE, DE, IT, IT, CA, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, ES, ES, ES, ES] → US",
-      "citations": 2839,
+      "citations": 2842,
       "collaboratingCountries": [
         "BE",
         "CA",
@@ -179396,7 +179396,7 @@
       "date": "2023-11-09",
       "url": "https://doi.org/10.1371/journal.pone.0294236",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 2931,
+      "citations": 2939,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "central south university",
       "relevanceScore": 0.6
@@ -179412,7 +179412,7 @@
       "date": "2022-12-16",
       "url": "https://doi.org/10.1093/bioinformatics/btac808",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2700,
+      "citations": 2704,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of cambridge",
       "relevanceScore": 0.6
@@ -179449,7 +179449,7 @@
       "date": "2024-10-17",
       "url": "https://doi.org/10.1093/nar/gkae909",
       "countryEvidence": "institution country codes [JP, JP, JP, JP, JP, JP] → JP",
-      "citations": 3462,
+      "citations": 3473,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "kyoto university",
       "relevanceScore": 0.6
@@ -179465,7 +179465,7 @@
       "date": "2021-05-04",
       "url": "https://doi.org/10.7554/elife.65088",
       "countryEvidence": "institution country codes [IT, US, IT, IT, IT, US, US, US, US, US, US, IT, IT, IT, IT, US, US, US, US, US, US, IT, US, US, US, US, US, US, IT, IT] → US",
-      "citations": 2673,
+      "citations": 2676,
       "collaboratingCountries": [
         "IT",
         "US"
@@ -179485,7 +179485,7 @@
       "date": "2021-02-10",
       "url": "https://doi.org/10.1038/s41586-021-03205-y",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, CA, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, AU, AU, AU, US, AT, AT, US, US, IT, AT, AT, US, IT, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2405,
+      "citations": 2406,
       "collaboratingCountries": [
         "AT",
         "AU",
@@ -179509,7 +179509,7 @@
       "date": "2023-05-04",
       "url": "https://doi.org/10.1093/nar/gkad344",
       "countryEvidence": "institution country codes [DK, DK, DK, DK, NL, NL, NL, DE, DE, NL, NL, DE, NL, NL, US, US, DE, DE, NL, NL, DK, DK] → NL",
-      "citations": 2566,
+      "citations": 2572,
       "collaboratingCountries": [
         "DE",
         "DK",
@@ -179531,7 +179531,7 @@
       "date": "2024-11-18",
       "url": "https://doi.org/10.1093/nar/gkae1010",
       "countryEvidence": "no institution country on record",
-      "citations": 3557,
+      "citations": 3568,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "relevanceScore": 0.6
     },
@@ -179632,7 +179632,7 @@
       "date": "2021-10-11",
       "url": "https://doi.org/10.1093/nar/gkab902",
       "countryEvidence": "institution country codes [DE, DE, DE, DE] → DE",
-      "citations": 2451,
+      "citations": 2454,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "leibniz institute dsmz german collection of microorganisms and cell cultures",
       "relevanceScore": 0.6
@@ -179672,7 +179672,7 @@
       "date": "2024-04-08",
       "url": "https://doi.org/10.1093/nar/gkae253",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, US, US, US, CA] → CA",
-      "citations": 2728,
+      "citations": 2733,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -179692,7 +179692,7 @@
       "date": "2021-11-17",
       "url": "https://doi.org/10.1093/nar/gkab1049",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2181,
+      "citations": 2182,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "european bioinformatics institute",
       "relevanceScore": 0.6
@@ -179708,7 +179708,7 @@
       "date": "2023-09-19",
       "url": "https://doi.org/10.1126/science.adg7492",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2556,
+      "citations": 2566,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "google deepmind united kingdom",
       "relevanceScore": 0.6
@@ -179724,7 +179724,7 @@
       "date": "2021-11-30",
       "url": "https://doi.org/10.1093/nar/gkab1113",
       "countryEvidence": "institution country codes [NO, NO, NO, NO, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, NO, US, US, US, BE, BE, CA, CA, CA, CA, CA, CA, CA, CA, CA, FR, FR, FR, US, GB, GB, GB, FR, FR, FR, DK, GB, GB, GB, BE, BE, CA, CA, CA, FR, FR, FR, FR, NO, NO] → FR",
-      "citations": 2173,
+      "citations": 2174,
       "collaboratingCountries": [
         "BE",
         "CA",
@@ -179765,7 +179765,7 @@
       "date": "2023-07-11",
       "url": "https://doi.org/10.1038/s41586-023-06415-8",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, FR, US, FR, US, US, US, US, US, US, FR, FR, GB, US, US, US, US, KR, US, US] → US",
-      "citations": 3508,
+      "citations": 3517,
       "collaboratingCountries": [
         "FR",
         "GB",
@@ -179824,7 +179824,7 @@
       "date": "2023-05-01",
       "url": "https://doi.org/10.1002/imt2.107",
       "countryEvidence": "institution country codes [CN, CN] → CN",
-      "citations": 2541,
+      "citations": 2544,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -179840,7 +179840,7 @@
       "date": "2021-12-23",
       "url": "https://doi.org/10.1038/s41586-021-04385-3",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 2083,
+      "citations": 2085,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "peking university",
       "relevanceScore": 0.6
@@ -179856,7 +179856,7 @@
       "date": "2023-11-02",
       "url": "https://doi.org/10.1093/nar/gkad1011",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, KR, KR, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, KR, GB, GB, GB] → GB",
-      "citations": 2445,
+      "citations": 2449,
       "collaboratingCountries": [
         "GB",
         "KR"
@@ -179876,7 +179876,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1093/gigascience/giaa153",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2178,
+      "citations": 2181,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "wellcome sanger institute",
       "relevanceScore": 0.6
@@ -179892,7 +179892,7 @@
       "date": "2022-10-11",
       "url": "https://doi.org/10.1093/bioinformatics/btac672",
       "countryEvidence": "institution country codes [AU, AU, AU, AU] → AU",
-      "citations": 2415,
+      "citations": 2421,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "the university of queensland",
       "relevanceScore": 0.6
@@ -179908,7 +179908,7 @@
       "date": "2023-10-08",
       "url": "https://doi.org/10.1021/acs.jcim.3c01153",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, DE, DE, US, US, US, US, US, US, US, US, US, CN, CN, US, US, US, UY, US, US, US, US, UY, CN, US, US, DE, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2593,
+      "citations": 2602,
       "collaboratingCountries": [
         "CN",
         "DE",
@@ -179930,7 +179930,7 @@
       "date": "2021-08-20",
       "url": "https://doi.org/10.1093/nar/gkab688",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 2258,
+      "citations": 2260,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of california santa cruz",
       "relevanceScore": 0.6
@@ -179946,7 +179946,7 @@
       "date": "2022-09-15",
       "url": "https://doi.org/10.1126/science.add2187",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, NL, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2897,
+      "citations": 2905,
       "collaboratingCountries": [
         "NL",
         "US"
@@ -179966,7 +179966,7 @@
       "date": "2021-06-07",
       "url": "https://doi.org/10.1021/acs.jctc.1c00302",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2263,
+      "citations": 2269,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "schrodinger united states",
       "relevanceScore": 0.6
@@ -179998,7 +179998,7 @@
       "date": "2021-06-04",
       "url": "https://doi.org/10.1093/nar/gkab447",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 2210,
+      "citations": 2212,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -180014,7 +180014,7 @@
       "date": "2022-05-24",
       "url": "https://doi.org/10.1093/nar/gkac394",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 2503,
+      "citations": 2507,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "sichuan university",
       "relevanceScore": 0.6
@@ -180050,7 +180050,7 @@
       "date": "2022-08-01",
       "url": "https://doi.org/10.1002/imt2.43",
       "countryEvidence": "institution country codes [DE] → DE",
-      "citations": 2200,
+      "citations": 2203,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national center for tumor diseases",
       "relevanceScore": 0.6
@@ -180066,7 +180066,7 @@
       "date": "2024-11-04",
       "url": "https://doi.org/10.1093/nar/gkae1011",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2468,
+      "citations": 2475,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "european bioinformatics institute",
       "relevanceScore": 0.6
@@ -180098,7 +180098,7 @@
       "date": "2021-08-01",
       "url": "https://doi.org/10.1016/j.gpb.2021.08.001",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1973,
+      "citations": 1975,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "chinese academy of sciences",
       "relevanceScore": 0.6
@@ -180114,7 +180114,7 @@
       "date": "2021-11-01",
       "url": "https://doi.org/10.1038/s41592-021-01282-5",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1979,
+      "citations": 1982,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "new york genome center",
       "relevanceScore": 0.6
@@ -180155,7 +180155,7 @@
       "date": "2023-07-18",
       "url": "https://doi.org/10.1186/s12859-023-05385-y",
       "countryEvidence": "institution country codes [GB, BR, BR, BR, GB, GB, GB, GB, GB, US, US, GB, JP, DE, GB, GB, GB, GB, GB] → GB",
-      "citations": 2067,
+      "citations": 2069,
       "collaboratingCountries": [
         "BR",
         "DE",
@@ -180203,7 +180203,7 @@
       "date": "2021-07-28",
       "url": "https://doi.org/10.1126/sciadv.abh2169",
       "countryEvidence": "institution country codes [SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, NO, SE, SE, NO, SE, SE, NO, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, SE, CN, DK, CN, SE, SE, SE, SE, SE] → SE",
-      "citations": 2026,
+      "citations": 2028,
       "collaboratingCountries": [
         "CN",
         "DK",
@@ -180225,7 +180225,7 @@
       "date": "2021-09-01",
       "url": "https://doi.org/10.1038/s41588-021-00911-1",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, SE, SE, US, US, US, US, US, AU, AU, AU, AU, AU, AU, AU, AU, AU, SE, SE, AU, US, US, US, US, AU, AU, FR, FR, FR, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, SG, CN, SG, SG, CN, AU, AU, AU, AU, AU, AU, US, US, US, US, AU, AU, AU, AU, AU, AU, AU, AU, AU, AU, SE, SE, US, US, AU, AU, AU] → AU",
-      "citations": 2030,
+      "citations": 2033,
       "collaboratingCountries": [
         "AU",
         "CN",
@@ -180249,7 +180249,7 @@
       "date": "2023-05-04",
       "url": "https://doi.org/10.1093/nar/gkad326",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA] → CA",
-      "citations": 2157,
+      "citations": 2163,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "public health agency of canada",
       "relevanceScore": 0.6
@@ -180265,7 +180265,7 @@
       "date": "2021-07-26",
       "url": "https://doi.org/10.2196/27633",
       "countryEvidence": "institution country codes [HU, HU, HU, HU, HU, HU] → HU",
-      "citations": 1882,
+      "citations": 1884,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "semmelweis university",
       "relevanceScore": 0.6
@@ -180297,7 +180297,7 @@
       "date": "2021-01-06",
       "url": "https://doi.org/10.1093/nargab/lqaa108",
       "countryEvidence": "institution country codes [US, DE, US, US, DE, US, US] → US",
-      "citations": 1816,
+      "citations": 1817,
       "collaboratingCountries": [
         "DE",
         "US"
@@ -180317,7 +180317,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1016/s0140-6736(21)00234-8",
       "countryEvidence": "institution country codes [RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU, RU] → RU",
-      "citations": 1950,
+      "citations": 1951,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "ministry of health of the russian federation",
       "relevanceScore": 0.6
@@ -180365,7 +180365,7 @@
       "date": "2022-05-01",
       "url": "https://doi.org/10.1016/j.cell.2022.04.003",
       "countryEvidence": "institution country codes [CN, DK, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, US, US, US, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, ES, ES, ES, ES, GB, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, DK, GB, GB, GB, SE, SE, SE, SE, SE, SE, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 2013,
+      "citations": 2016,
       "collaboratingCountries": [
         "CN",
         "DK",
@@ -180409,7 +180409,7 @@
       "date": "2021-11-30",
       "url": "https://doi.org/10.1093/nar/gkab1107",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
-      "citations": 2087,
+      "citations": 2089,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "chinese academy of medical sciences peking union medical college",
       "relevanceScore": 0.6
@@ -180502,7 +180502,7 @@
       "date": "2023-05-05",
       "url": "https://doi.org/10.1093/nar/gkad347",
       "countryEvidence": "institution country codes [EE, EE, EE, EE, EE, EE, EE] → EE",
-      "citations": 1986,
+      "citations": 1993,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of tartu",
       "relevanceScore": 0.6
@@ -180582,7 +180582,7 @@
       "date": "2023-11-11",
       "url": "https://doi.org/10.1093/nar/gkad976",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, EE, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA] → CA",
-      "citations": 2176,
+      "citations": 2179,
       "collaboratingCountries": [
         "CA",
         "EE"
@@ -180602,7 +180602,7 @@
       "date": "2021-06-16",
       "url": "https://doi.org/10.1038/s41598-021-91456-0",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2013,
+      "citations": 2019,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national institutes of health",
       "relevanceScore": 0.6
@@ -180618,7 +180618,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1016/j.cell.2021.01.010",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1814,
+      "citations": 1815,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "peking university",
       "relevanceScore": 0.6
@@ -180634,7 +180634,7 @@
       "date": "2023-10-04",
       "url": "https://doi.org/10.1038/s41586-023-06592-6",
       "countryEvidence": "institution country codes [US, US, US, US, GB, GB, US, US, US, US, US, GB, US, US, US, SE, US, US, JP, US, GB, GB, US, US, US, US, GB, US, DE, DE, US, DE, DE, DE, DE, QA, US, DE, DE, US, US, US, US, US, GB, US, US, US, US, US, US, GB, AU, AU, GB, AU, GB, US, US, US, US, US, US, US, US, US, US, US, GB, AU, US, AU, AU, US, GB, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2183,
+      "citations": 2186,
       "collaboratingCountries": [
         "AU",
         "DE",
@@ -180659,7 +180659,7 @@
       "date": "2021-03-29",
       "url": "https://doi.org/10.1038/s41592-021-01098-3",
       "countryEvidence": "institution country codes [FR, NL, FR, NL, NL, NL, NL, GB, NL, NL, DE, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, NL, FR, FR, CA, CA, NO, US, GB, US, FI, CZ, CZ, FI, CZ, CZ, NO, US, US, FI, FI, FI, FR, FR, DK, CA, NL, NL, NL, NL] → NL",
-      "citations": 1753,
+      "citations": 1757,
       "collaboratingCountries": [
         "CA",
         "CZ",
@@ -180748,7 +180748,7 @@
       "date": "2021-12-11",
       "url": "https://doi.org/10.1056/nejmoa2116133",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, NL, NL, NL, NL, US, US, US, US, US, NL, NL, NL, NL, US, US, US, US, US, NL, NL, NL, NL, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1847,
+      "citations": 1849,
       "collaboratingCountries": [
         "NL",
         "US"
@@ -180837,7 +180837,7 @@
       "date": "2023-07-27",
       "url": "https://doi.org/10.1038/s41592-023-01940-w",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, AU] → AU",
-      "citations": 2075,
+      "citations": 2083,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "translational research institute",
       "relevanceScore": 0.6
@@ -180893,7 +180893,7 @@
       "date": "2022-06-17",
       "url": "https://doi.org/10.1038/s41596-022-00710-w",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA] → CA",
-      "citations": 1578,
+      "citations": 1582,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "mcgill university",
       "relevanceScore": 0.6
@@ -180909,7 +180909,7 @@
       "date": "2022-08-01",
       "url": "https://doi.org/10.1093/molbev/msac174",
       "countryEvidence": "institution country codes [SA, US, US, US, US, US, US, US, US] → US",
-      "citations": 1659,
+      "citations": 1663,
       "collaboratingCountries": [
         "SA",
         "US"
@@ -181022,7 +181022,7 @@
       "date": "2021-02-18",
       "url": "https://doi.org/10.1038/s41587-021-00830-w",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1689,
+      "citations": 1692,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "broad institute",
       "relevanceScore": 0.6
@@ -181038,7 +181038,7 @@
       "date": "2021-02-25",
       "url": "https://doi.org/10.1038/s41588-021-00790-6",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, SA, US, US, US, US, US, US] → US",
-      "citations": 1451,
+      "citations": 1453,
       "collaboratingCountries": [
         "SA",
         "US"
@@ -181058,7 +181058,7 @@
       "date": "2021-12-23",
       "url": "https://doi.org/10.1038/s41592-021-01336-8",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1733,
+      "citations": 1738,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "helmholtz munich",
       "relevanceScore": 0.6
@@ -181138,7 +181138,7 @@
       "date": "2023-11-06",
       "url": "https://doi.org/10.1093/nar/gkad1025",
       "countryEvidence": "institution country codes [CA, US, US, GB, CA, US, GB, AT, CA, CA, US, CA, US, GB, CA, GB, US, CA, SE, GB, GB, GB, CA, CA, US, CA, CA, GB, US] → CA",
-      "citations": 1915,
+      "citations": 1922,
       "collaboratingCountries": [
         "AT",
         "CA",
@@ -181177,7 +181177,7 @@
       "date": "2021-11-05",
       "url": "https://doi.org/10.1099/mgen.0.000685",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1958,
+      "citations": 1963,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "justus liebig universität gießen",
       "relevanceScore": 0.6
@@ -181193,7 +181193,7 @@
       "date": "2024-04-22",
       "url": "https://doi.org/10.1093/nar/gkae303",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 2127,
+      "citations": 2128,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "charité universitätsmedizin berlin",
       "relevanceScore": 0.6
@@ -181209,7 +181209,7 @@
       "date": "2023-02-23",
       "url": "https://doi.org/10.1038/s41587-023-01688-w",
       "countryEvidence": "institution country codes [IT, IT, IT, US, US, US, US, IT, IT, IT, IT, IT, US, US, IT, IT, IT, IT, IT, AT, IT, GB, GB, GB, GB, GB, US, US, IT, IT, US, US, IT, IT] → IT",
-      "citations": 1730,
+      "citations": 1732,
       "collaboratingCountries": [
         "AT",
         "GB",
@@ -181231,7 +181231,7 @@
       "date": "2021-12-16",
       "url": "https://doi.org/10.1126/science.abe6474",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1576,
+      "citations": 1579,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "peking university cancer hospital",
       "relevanceScore": 0.6
@@ -181303,7 +181303,7 @@
       "date": "2021-10-08",
       "url": "https://doi.org/10.1093/bioinformatics/btab705",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 1481,
+      "citations": 1482,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "harvard university",
       "relevanceScore": 0.6
@@ -181319,7 +181319,7 @@
       "date": "2023-12-06",
       "url": "https://doi.org/10.1038/s41586-023-06045-0",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, JP, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, CA, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, MX, GB, US, US, IT, US, US, US, US, US, US, IL, US, US, US, FR, FR, FR, US, US, US, US, US, US, US, US, US, GB, GB, GB, US, US, US, US, US, US, US, US, US, US, US, US, US, GB, GB, GB, HK, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, CA, US, US, ES, ES, ES, ES, ES, ES, US, US, IL, DE, US, EE, US, AU, AU, AU, US, US, US, DE, DE, US, US, US, FI, FI, US, US, US, US, US, US, US, IL, IL, US, US] → US",
-      "citations": 2098,
+      "citations": 2106,
       "collaboratingCountries": [
         "AU",
         "CA",
@@ -181419,7 +181419,7 @@
       "date": "2022-04-21",
       "url": "https://doi.org/10.1093/nar/gkac247",
       "countryEvidence": "institution country codes [US, US, DE, US, US, US, US, US, US, AU, AU, NO, FR, US, US, US, US, DE, FR, DE, FR, FR, FR] → US",
-      "citations": 1329,
+      "citations": 1330,
       "collaboratingCountries": [
         "AU",
         "DE",
@@ -181442,7 +181442,7 @@
       "date": "2021-10-01",
       "url": "https://doi.org/10.1038/s41592-021-01252-x",
       "countryEvidence": "institution country codes [GB, US, GB, GB, GB, GB, GB, GB, GB, US] → GB",
-      "citations": 1829,
+      "citations": 1832,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -181462,7 +181462,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1186/s40168-020-00990-y",
       "countryEvidence": "institution country codes [US, US, US, ZA, US, US, FR, FR, FR, FR, FR, US, US, US, US, US] → US",
-      "citations": 1488,
+      "citations": 1489,
       "collaboratingCountries": [
         "FR",
         "US",
@@ -181483,7 +181483,7 @@
       "date": "2021-12-01",
       "url": "https://doi.org/10.1002/cpz1.323",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 1497,
+      "citations": 1498,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "university of geneva",
       "relevanceScore": 0.6
@@ -181555,7 +181555,7 @@
       "date": "2021-05-20",
       "url": "https://doi.org/10.1016/j.ccell.2021.04.014",
       "countryEvidence": "institution country codes [US] → US",
-      "citations": 1517,
+      "citations": 1519,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "the university of texas md anderson cancer center",
       "relevanceScore": 0.6
@@ -181571,7 +181571,7 @@
       "date": "2023-11-02",
       "url": "https://doi.org/10.1093/nar/gkad1004",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, DE, CH, GB] → GB",
-      "citations": 1994,
+      "citations": 2004,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -181614,7 +181614,7 @@
       "date": "2024-07-17",
       "url": "https://doi.org/10.1038/s41596-024-01020-z",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1794,
+      "citations": 1800,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "southern medical university",
       "relevanceScore": 0.6
@@ -181666,7 +181666,7 @@
       "date": "2022-01-13",
       "url": "https://doi.org/10.1038/s41587-021-01139-4",
       "countryEvidence": "institution country codes [GB, RU, GB, GB, GB, GB, GB, GB, GB, GB, GB, DE, GB, US, GB, GB, GB, GB, GB, GB, GB, GB, GB, DE, GB, GB, DE, GB, DE, GB] → GB",
-      "citations": 1528,
+      "citations": 1530,
       "collaboratingCountries": [
         "DE",
         "GB",
@@ -181740,7 +181740,7 @@
       "date": "2023-05-05",
       "url": "https://doi.org/10.1093/nar/gkad359",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1562,
+      "citations": 1564,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "shantou university",
       "relevanceScore": 0.6
@@ -181756,7 +181756,7 @@
       "date": "2021-02-04",
       "url": "https://doi.org/10.1093/bioinformatics/btab083",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 1797,
+      "citations": 1806,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "northwestern university",
       "relevanceScore": 0.6
@@ -181772,7 +181772,7 @@
       "date": "2022-01-06",
       "url": "https://doi.org/10.1126/science.abm0594",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, CA, CA, US, US, US, US, US, US, US] → US",
-      "citations": 1534,
+      "citations": 1538,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -181813,7 +181813,7 @@
       "date": "2021-02-08",
       "url": "https://doi.org/10.1016/j.chom.2021.02.003",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1220,
+      "citations": 1221,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "fred hutch cancer center",
       "relevanceScore": 0.6
@@ -181829,7 +181829,7 @@
       "date": "2022-10-27",
       "url": "https://doi.org/10.1093/nar/gkac947",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1527,
+      "citations": 1531,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "harbin medical university",
       "relevanceScore": 0.6
@@ -181867,7 +181867,7 @@
       "date": "2021-02-08",
       "url": "https://doi.org/10.1038/s41593-020-00787-0",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1367,
+      "citations": 1369,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "johns hopkins university",
       "relevanceScore": 0.6
@@ -181923,7 +181923,7 @@
       "date": "2022-11-09",
       "url": "https://doi.org/10.1093/nar/gkac1003",
       "countryEvidence": "institution country codes [US, US, LB, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, NZ, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1456,
+      "citations": 1460,
       "collaboratingCountries": [
         "LB",
         "NZ",
@@ -182008,7 +182008,7 @@
       "date": "2022-12-08",
       "url": "https://doi.org/10.1093/nar/gkac1096",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1486,
+      "citations": 1492,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national institutes of health",
       "relevanceScore": 0.6
@@ -182024,7 +182024,7 @@
       "date": "2021-07-30",
       "url": "https://doi.org/10.1093/ve/veab064",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, AU, GB, GB] → GB",
-      "citations": 1165,
+      "citations": 1166,
       "collaboratingCountries": [
         "AU",
         "GB"
@@ -182156,7 +182156,7 @@
       "date": "2024-11-18",
       "url": "https://doi.org/10.1093/nar/gkae1059",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2043,
+      "citations": 2050,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "national institutes of health",
       "relevanceScore": 0.6
@@ -182172,7 +182172,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1158/2159-8290.cd-21-0316",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1385,
+      "citations": 1388,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "fudan university",
       "relevanceScore": 0.6
@@ -182188,7 +182188,7 @@
       "date": "2022-07-07",
       "url": "https://doi.org/10.1093/bioinformatics/btac460",
       "countryEvidence": "institution country codes [US, US, US, US, DE, US, US, US, US] → US",
-      "citations": 1408,
+      "citations": 1411,
       "collaboratingCountries": [
         "DE",
         "US"
@@ -182244,7 +182244,7 @@
       "date": "2023-03-01",
       "url": "https://doi.org/10.1038/s41587-023-01690-2",
       "countryEvidence": "institution country codes [DE, US, CZ, DE, DE, US, US, DK, CZ, US, DE, CN, US, US, DE, DE, DE, CA, CA, DE, CZ, CZ, CZ, CZ, CZ, DE, US, US, DE, ES, ES, ES, US, CH, CH, US, FI, FI, SE, US, US, DE, DE, DE, DE, US, DE, US, CZ] → DE",
-      "citations": 1434,
+      "citations": 1439,
       "collaboratingCountries": [
         "CA",
         "CH",
@@ -182272,7 +182272,7 @@
       "date": "2022-05-12",
       "url": "https://doi.org/10.1126/science.abl5197",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, US, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, US, GB, GB, GB, GB, GB, US, US, US, GB, GB, GB, US, US, GB, GB, GB, GB, GB] → GB",
-      "citations": 1437,
+      "citations": 1445,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -182312,7 +182312,7 @@
       "date": "2021-05-06",
       "url": "https://doi.org/10.1093/nar/gkab314",
       "countryEvidence": "institution country codes [GB, CZ, CZ, US, US, GB, CZ, CZ, CZ, CZ, GB, US, US, US, US, US, CZ, CZ, US, US] → US",
-      "citations": 1334,
+      "citations": 1335,
       "collaboratingCountries": [
         "CZ",
         "GB",
@@ -182333,7 +182333,7 @@
       "date": "2024-02-26",
       "url": "https://doi.org/10.1038/s41592-024-02201-0",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, US, CA, CA, CA] → CA",
-      "citations": 2152,
+      "citations": 2163,
       "collaboratingCountries": [
         "CA",
         "US"
@@ -182353,7 +182353,7 @@
       "date": "2022-06-05",
       "url": "https://doi.org/10.1056/nejmoa2203478",
       "countryEvidence": "institution country codes [SE, FR, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, NL, NL, US, US, NL, NL, SE, ES, FR, FR, US, US, SE, ES, FR, ES, FR, US, US, SE, ES, FR, ES, FR, US, US, SE, US, ES, FR, FR, US, US, US, SE, US, ES, FR, FR, US, US, SE, ES, FR, FR, US, ES, US, SE, ES, FR, FR, US, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, FR, US, US, SE, ES, FR, FR, ES, ES, US, US, SE, CA, ES, FR, FR, US, CA, US, SE, GB, GB, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, DE, SE, ES, ES, FR, FR, ES, US, US, SE, ES, FR, FR, US, US, US, US, SE, ES, FR, FR, US, US, BE, SE, ES, FR, FR, US, US, US, SE, ES, FR, FR, US, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, SE, ES, FR, FR, US, US, US, SE, ES, FR, FR, US, US, US, US, SE, ES, FR, US, FR, US, US, US, SE, ES, FR, US, FR, US, US] → US",
-      "citations": 1478,
+      "citations": 1484,
       "collaboratingCountries": [
         "BE",
         "CA",
@@ -182380,7 +182380,7 @@
       "date": "2022-11-25",
       "url": "https://doi.org/10.1093/bioinformatics/btac757",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 1494,
+      "citations": 1498,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "stanford medicine",
       "relevanceScore": 0.6
@@ -182396,7 +182396,7 @@
       "date": "2022-01-10",
       "url": "https://doi.org/10.1038/s41467-021-27838-9",
       "countryEvidence": "institution country codes [IL, IL, IL, IL, IL, IL] → IL",
-      "citations": 1261,
+      "citations": 1262,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "hebrew university of jerusalem",
       "relevanceScore": 0.6
@@ -182412,7 +182412,7 @@
       "date": "2023-05-10",
       "url": "https://doi.org/10.1038/s41586-023-05896-x",
       "countryEvidence": "institution country codes [US, US, US, DE, DE, US, US, US, US, US, US, IT, IT, US, US, US, US, US, IT, IT, US, US, US, US, US, DK, DK, CA, US, IT, US, DE, DE, GB, US, US, US, GB, US, US, IT, US, US, US, US, US, DK, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, US, US, US, DE, GB, US, US, US, US, GB, US, US, GB, US, US, GB, US, GB, US, US, US, US, US, GB, DE, US, US, US, US, US, US, DE, ES, ES, DE, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, US, US, US, US, US, US, US, US, US, AE, AE, US, US, GB] → US",
-      "citations": 1403,
+      "citations": 1404,
       "collaboratingCountries": [
         "AE",
         "CA",
@@ -182458,7 +182458,7 @@
       "date": "2021-12-23",
       "url": "https://doi.org/10.1038/s41586-021-04387-1",
       "countryEvidence": "institution country codes [ZA, ZA, ZA, AU, AU, ZA, ZA, ZA, ZA, ZA, ZA, AU, AU, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, GB, ZA, ZA, ZA, ZA, US, ZA, GB, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, GB, DK, ZA, ZA, ZA, ZA, GB, ZA, ZA, ZA, ZA, GB, ZA, ZA, ZA, ZA, GB, ZA, ZA, ZA, ZA, US, ZA, US, ZA, DE, US, ZA, US, US, DE, ZA, US, ZA, ZA, ZA, ZA, ZA, US, ZA, US, ZA, ZA, ZA, US, ZA, ZA, ZA, ZA, US, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, AU, AU, US, ZA, ZA, ZA, ZA, ZA, AU, ZA, AU, ZA, US, ZA, ZA, DE, ZA, ZA, ZA, ZA, ZA, ZA, ZA, ZA, DE, ZA, ZA] → ZA",
-      "citations": 1348,
+      "citations": 1350,
       "collaboratingCountries": [
         "AU",
         "DE",
@@ -182581,7 +182581,7 @@
       "date": "2021-05-17",
       "url": "https://doi.org/10.1016/j.cell.2021.04.021",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1141,
+      "citations": 1143,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "allen institute for brain science",
       "relevanceScore": 0.6
@@ -182669,7 +182669,7 @@
       "date": "2023-05-31",
       "url": "https://doi.org/10.1038/s41586-023-06139-9",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1768,
+      "citations": 1775,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "broad institute",
       "relevanceScore": 0.6
@@ -182701,7 +182701,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1038/s41592-020-01033-y",
       "countryEvidence": "no institution country on record",
-      "citations": 1332,
+      "citations": 1335,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "nature methods",
       "relevanceScore": 0.6
@@ -182717,7 +182717,7 @@
       "date": "2021-12-06",
       "url": "https://doi.org/10.1093/nar/gkab1081",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, GB, CN, CN, CN, CN, CN] → CN",
-      "citations": 1323,
+      "citations": 1324,
       "collaboratingCountries": [
         "CN",
         "GB"
@@ -182793,7 +182793,7 @@
       "date": "2022-11-15",
       "url": "https://doi.org/10.1038/s41467-022-34630-w",
       "countryEvidence": "no institution country on record",
-      "citations": 1407,
+      "citations": 1409,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "independent researcher",
       "relevanceScore": 0.6
@@ -182809,7 +182809,7 @@
       "date": "2024-09-16",
       "url": "https://doi.org/10.1038/s41596-024-01045-4",
       "countryEvidence": "institution country codes [CN, US, US] → US",
-      "citations": 1768,
+      "citations": 1774,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -182849,7 +182849,7 @@
       "date": "2021-05-12",
       "url": "https://doi.org/10.1038/s41586-021-03549-5",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1201,
+      "citations": 1204,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "genentech",
       "relevanceScore": 0.6
@@ -182865,7 +182865,7 @@
       "date": "2023-12-13",
       "url": "https://doi.org/10.1038/s41586-023-06812-z",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1383,
+      "citations": 1386,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "allen institute for brain science",
       "relevanceScore": 0.6
@@ -182902,7 +182902,7 @@
       "date": "2021-11-30",
       "url": "https://doi.org/10.21105/joss.03773",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 1176,
+      "citations": 1178,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "sib swiss institute of bioinformatics",
       "relevanceScore": 0.6
@@ -182918,7 +182918,7 @@
       "date": "2024-04-04",
       "url": "https://doi.org/10.1093/nar/gkae236",
       "countryEvidence": "institution country codes [CN, HK, CN, CN, CN, CN, CN, CN, CN, CN, HK, CN, CN, CN, CN] → CN",
-      "citations": 1598,
+      "citations": 1602,
       "collaboratingCountries": [
         "CN",
         "HK"
@@ -182991,7 +182991,7 @@
       "date": "2023-01-26",
       "url": "https://doi.org/10.1038/s41587-022-01618-2",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1463,
+      "citations": 1468,
       "ingestedAt": "2026-09-02T19:27:06.364Z",
       "orgId": "salesforce united states",
       "relevanceScore": 0.6
@@ -183023,7 +183023,7 @@
       "date": "2023-11-14",
       "url": "https://doi.org/10.1093/nar/gkad1059",
       "countryEvidence": "institution country codes [NO, NO, FR, FR, FR, FR, NO, NO, NO, NO, FR, FR, FR, FR, NO, GB, HR, GB, GB, NO, US, US, US, CA, CA, CA, NO, NO, NO, NO, GB, GB, GB, DK, CA, CA, CA, FR, FR, FR, FR, NO, NO] → NO",
-      "citations": 1347,
+      "citations": 1350,
       "collaboratingCountries": [
         "CA",
         "DK",
@@ -289095,7 +289095,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1016/j.csbj.2021.06.043",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 1302,
+      "citations": 1310,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "sib swiss institute of bioinformatics",
       "relevanceScore": 0.6
@@ -289111,7 +289111,7 @@
       "date": "2021-10-28",
       "url": "https://doi.org/10.1093/nar/gkab951",
       "countryEvidence": "no institution country on record",
-      "citations": 1184,
+      "citations": 1186,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "relevanceScore": 0.6
     },
@@ -289203,7 +289203,7 @@
       "date": "2021-07-07",
       "url": "https://doi.org/10.1038/s41467-021-24448-3",
       "countryEvidence": "institution country codes [AU, AU, AU, AU, AU, GB, AU] → AU",
-      "citations": 1249,
+      "citations": 1251,
       "collaboratingCountries": [
         "AU",
         "GB"
@@ -289255,7 +289255,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1093/bioadv/vbac016",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, CZ, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1406,
+      "citations": 1410,
       "collaboratingCountries": [
         "CZ",
         "DE"
@@ -289275,7 +289275,7 @@
       "date": "2023-05-01",
       "url": "https://doi.org/10.1093/nar/gkad328",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 1298,
+      "citations": 1301,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "university of nebraska lincoln",
       "relevanceScore": 0.6
@@ -289307,7 +289307,7 @@
       "date": "2022-09-01",
       "url": "https://doi.org/10.1016/j.cell.2022.08.004",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, GB, GB, US, US, US, US, US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1277,
+      "citations": 1282,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -289343,7 +289343,7 @@
       "date": "2021-09-28",
       "url": "https://doi.org/10.1038/s41467-021-25960-2",
       "countryEvidence": "institution country codes [CA, CH, CA, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CH, CA, CA, US, CH, CH, CH, US, CH, CA, CH, CA, CH, CH, CH, CH, CH] → CH",
-      "citations": 1302,
+      "citations": 1305,
       "collaboratingCountries": [
         "CA",
         "CH",
@@ -289385,7 +289385,7 @@
       "date": "2022-09-15",
       "url": "https://doi.org/10.1038/s41591-022-02017-5",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1264,
+      "citations": 1267,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "friedrich alexander universität erlangen nürnberg",
       "relevanceScore": 0.6
@@ -289433,7 +289433,7 @@
       "date": "2022-03-24",
       "url": "https://doi.org/10.1038/s41587-022-01261-x",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, RU, US, US, NZ, NZ, US, US, US] → US",
-      "citations": 1247,
+      "citations": 1249,
       "collaboratingCountries": [
         "NZ",
         "RU",
@@ -289454,7 +289454,7 @@
       "date": "2022-02-10",
       "url": "https://doi.org/10.1093/bioinformatics/btac020",
       "countryEvidence": "institution country codes [IL, IL, IL, IL] → IL",
-      "citations": 1288,
+      "citations": 1291,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "hebrew university of jerusalem",
       "relevanceScore": 0.6
@@ -289470,7 +289470,7 @@
       "date": "2021-04-13",
       "url": "https://doi.org/10.1093/nar/gkab225",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 1164,
+      "citations": 1166,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "sib swiss institute of bioinformatics",
       "relevanceScore": 0.6
@@ -289486,7 +289486,7 @@
       "date": "2024-02-21",
       "url": "https://doi.org/10.1056/nejmoa2308917",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, IT, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, FR, FR, FR, FR, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, IT, DE, SE, DE, DE] → DE",
-      "citations": 1304,
+      "citations": 1308,
       "collaboratingCountries": [
         "DE",
         "FR",
@@ -289545,7 +289545,7 @@
       "date": "2022-03-10",
       "url": "https://doi.org/10.1038/s41467-022-28865-w",
       "countryEvidence": "institution country codes [SE, SE, SE, SE, SE, SE] → SE",
-      "citations": 1211,
+      "citations": 1215,
       "ingestedAt": "2026-09-09T18:54:21.326Z",
       "orgId": "stockholm university",
       "relevanceScore": 0.6
@@ -289561,7 +289561,7 @@
       "date": "2024-11-20",
       "url": "https://doi.org/10.1093/nar/gkae1082",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, DE, DE, CH, GB, GB, GB, US, US, DE, US, US, GB, CH, US, US, US, GB, GB, GB, IT, CH, CH, US, US, US, US, US, IT, IT, IT, US, US, GB] → GB",
-      "citations": 1479,
+      "citations": 1486,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -318729,7 +318729,7 @@
       "date": "2022-05-12",
       "url": "https://doi.org/10.1126/science.abl4896",
       "countryEvidence": "no institution country on record",
-      "citations": 1429,
+      "citations": 1432,
       "ingestedAt": "2026-09-11T18:41:56.755Z",
       "relevanceScore": 0.6
     },
@@ -475419,7 +475419,7 @@
       "date": "2021-07-28",
       "url": "https://doi.org/10.1093/molbev/msab199",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 6878,
+      "citations": 6885,
       "ingestedAt": "2026-09-25T15:02:12.319Z",
       "orgId": "university of geneva",
       "relevanceScore": 0.6
@@ -475435,7 +475435,7 @@
       "date": "2021-03-08",
       "url": "https://doi.org/10.1038/s41586-021-03398-2",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2385,
+      "citations": 2389,
       "ingestedAt": "2026-09-25T15:02:12.319Z",
       "orgId": "columbia university",
       "relevanceScore": 0.6
@@ -475451,7 +475451,7 @@
       "date": "2022-03-21",
       "url": "https://doi.org/10.1093/bioinformatics/btac166",
       "countryEvidence": "institution country codes [AU, DE, SE, AU, AU, AU] → AU",
-      "citations": 1291,
+      "citations": 1292,
       "collaboratingCountries": [
         "AU",
         "DE",
@@ -495732,7 +495732,7 @@
       "date": "2022-08-16",
       "url": "https://doi.org/10.1038/s41467-022-32552-1",
       "countryEvidence": "institution country codes [US, DE, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1171,
+      "citations": 1174,
       "collaboratingCountries": [
         "DE",
         "US"
@@ -495788,7 +495788,7 @@
       "date": "2021-09-02",
       "url": "https://doi.org/10.1016/j.ajhg.2021.08.005",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 1083,
+      "citations": 1084,
       "ingestedAt": "2026-09-28T09:51:56.433Z",
       "orgId": "university of washington",
       "relevanceScore": 0.6
@@ -495856,7 +495856,7 @@
       "date": "2022-11-09",
       "url": "https://doi.org/10.1038/s41586-022-05400-x",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1062,
+      "citations": 1064,
       "ingestedAt": "2026-09-28T09:51:56.433Z",
       "orgId": "peking university first hospital",
       "relevanceScore": 0.6
@@ -495872,7 +495872,7 @@
       "date": "2021-05-01",
       "url": "https://doi.org/10.1016/j.cell.2021.04.011",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1044,
+      "citations": 1045,
       "ingestedAt": "2026-09-28T09:51:56.433Z",
       "orgId": "harvard university",
       "relevanceScore": 0.6
@@ -495888,7 +495888,7 @@
       "date": "2021-06-24",
       "url": "https://doi.org/10.1016/j.annonc.2021.05.806",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, GB, GB, US] → US",
-      "citations": 1143,
+      "citations": 1144,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -591182,7 +591182,7 @@
       "date": "2021-02-17",
       "url": "https://doi.org/10.1038/s41467-021-21246-9",
       "countryEvidence": "institution country codes [US, US, US, US, US, TW, US, US, US, US] → US",
-      "citations": 9659,
+      "citations": 9672,
       "collaboratingCountries": [
         "TW",
         "US"
@@ -591202,7 +591202,7 @@
       "date": "2024-02-01",
       "url": "https://doi.org/10.1002/jev2.12404",
       "countryEvidence": "institution country codes [US, US, GB, GB, IE, HU, NZ, IT, US, US, NL, US, ES, ES, CN, CN, AU, SI, SG, SG, SG, US, IN, HK, AU, NL, NL, NL, JP, US, BR, BR, CN, CN, US, US, US, US, US, US, US, US, IT, IT, IT, IT, GB, GB, IT, IT, IT, CA, CA, CA, US, US, US, SE, SE, CH, CH, GB, US, US, BE, BE, US, US, US, US, US, US, US, US, CH, CH, SE, US, US, US, SE, US, US, US, NL, NL, US, AU, NL, AT, AT, US, AU, US, US, US, US, US, IR, IR, NZ, US, US, UY, UY, AU, IT, IT, IT, HU, HU, HU, NL, NL, NL, NL, NL, US, IT, IT, IT, US, FR, FR, FR, US, US] → US",
-      "citations": 5875,
+      "citations": 5902,
       "collaboratingCountries": [
         "AT",
         "AU",
@@ -591244,7 +591244,7 @@
       "date": "2021-07-07",
       "url": "https://doi.org/10.1109/tpami.2021.3095381",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, CN, US, US, US, US, KR, US, DE] → DE",
-      "citations": 3007,
+      "citations": 3016,
       "collaboratingCountries": [
         "CN",
         "DE",
@@ -591266,7 +591266,7 @@
       "date": "2024-12-01",
       "url": "https://doi.org/10.1093/molbev/msae263",
       "countryEvidence": "institution country codes [US, US, US, US, US, JP] → US",
-      "citations": 3420,
+      "citations": 3439,
       "collaboratingCountries": [
         "JP",
         "US"
@@ -591286,7 +591286,7 @@
       "date": "2021-05-05",
       "url": "https://doi.org/10.1093/nar/gkab294",
       "countryEvidence": "institution country codes [DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 2271,
+      "citations": 2274,
       "ingestedAt": "2026-10-05T13:45:55.242Z",
       "orgId": "biotechnologisches zentrum",
       "relevanceScore": 0.6
@@ -591302,7 +591302,7 @@
       "date": "2021-12-01",
       "url": "https://doi.org/10.1038/s41588-021-00978-w",
       "countryEvidence": "institution country codes [IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS, IS] → IS",
-      "citations": 1913,
+      "citations": 1914,
       "ingestedAt": "2026-10-05T13:45:55.242Z",
       "orgId": "decode genetics iceland",
       "relevanceScore": 0.6
@@ -591318,7 +591318,7 @@
       "date": "2022-06-17",
       "url": "https://doi.org/10.1038/s41586-022-04980-y",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1399,
+      "citations": 1400,
       "ingestedAt": "2026-10-05T13:45:55.242Z",
       "orgId": "changping laboratory",
       "relevanceScore": 0.6
@@ -591334,7 +591334,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1016/j.gpb.2020.10.005",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1324,
+      "citations": 1325,
       "ingestedAt": "2026-10-05T13:45:55.242Z",
       "orgId": "capital medical university",
       "relevanceScore": 0.6
@@ -591350,7 +591350,7 @@
       "date": "2024-01-05",
       "url": "https://doi.org/10.7717/peerj.16505",
       "countryEvidence": "institution country codes [US, CL] → US",
-      "citations": 1332,
+      "citations": 1334,
       "collaboratingCountries": [
         "CL",
         "US"
@@ -615939,7 +615939,7 @@
       "date": "2021-09-22",
       "url": "https://doi.org/10.1039/d1cp02805g",
       "countryEvidence": "institution country codes [CN] → CN",
-      "citations": 2780,
+      "citations": 2781,
       "ingestedAt": "2026-10-06T13:06:59.966Z",
       "orgId": "shenzhen bay laboratory",
       "relevanceScore": 0.6
@@ -615955,7 +615955,7 @@
       "date": "2022-01-22",
       "url": "https://doi.org/10.1016/j.neo.2022.01.001",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2854,
+      "citations": 2857,
       "ingestedAt": "2026-10-06T13:06:59.966Z",
       "orgId": "university of alabama at birmingham",
       "relevanceScore": 0.6
@@ -615992,7 +615992,7 @@
       "date": "2021-06-04",
       "url": "https://doi.org/10.1056/nejmoa2103695",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, AU, AU, US, DE, DE, DE, FR, FR, DE, DE, DE, DE, US, FR, FR, JP, CH, CA, CA, US, US, US, US, US, JP, FR, FR, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 2094,
+      "citations": 2096,
       "collaboratingCountries": [
         "AU",
         "CA",
@@ -616017,7 +616017,7 @@
       "date": "2021-01-18",
       "url": "https://doi.org/10.12688/f1000research.29032.3",
       "countryEvidence": "institution country codes [DE, DE, CH, CH, GB, GB, US, CA, US, US, US, US, DE, DE, DE, DE, US, US, DE, DE, DE, DE, DK, DE, DE, DE, CH, CH, DE, US, SG, DE, DE, DE, CH, CH, DE, DE, US, DE, DE, US, US, DE, DE, SG, DE, DE, DE, DE, DE, DE, DE, US, DE, DE] → DE",
-      "citations": 2179,
+      "citations": 2183,
       "collaboratingCountries": [
         "CA",
         "CH",
@@ -616042,7 +616042,7 @@
       "date": "2024-04-10",
       "url": "https://doi.org/10.1093/nar/gkae241",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 2077,
+      "citations": 2085,
       "ingestedAt": "2026-10-06T13:06:59.966Z",
       "orgId": "european bioinformatics institute",
       "relevanceScore": 0.6
@@ -616058,7 +616058,7 @@
       "date": "2021-06-26",
       "url": "https://doi.org/10.1056/nejmoa2107454",
       "countryEvidence": "institution country codes [GB, GB, GB, NZ, NZ, NZ, GB, GB, GB, NZ, NZ, NZ, GB, GB, GB, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1991,
+      "citations": 1996,
       "collaboratingCountries": [
         "GB",
         "NZ",
@@ -616116,7 +616116,7 @@
       "date": "2023-11-29",
       "url": "https://doi.org/10.1038/s41586-023-06735-9",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 2487,
+      "citations": 2488,
       "ingestedAt": "2026-10-06T13:06:59.966Z",
       "orgId": "google united states",
       "relevanceScore": 0.6
@@ -616153,7 +616153,7 @@
       "date": "2022-04-27",
       "url": "https://doi.org/10.1038/s41586-022-04599-z",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1346,
+      "citations": 1348,
       "ingestedAt": "2026-10-06T13:06:59.966Z",
       "orgId": "the university of texas at austin",
       "relevanceScore": 0.6
@@ -616169,7 +616169,7 @@
       "date": "2022-06-24",
       "url": "https://doi.org/10.1007/s10875-022-01289-3",
       "countryEvidence": "institution country codes [AU, AU, KW, MA, US, CO, US, US, DE, JP, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, FR, US, US, FI, FI, FI, IL, US, US, US, US, US, BE, BE] → FR",
-      "citations": 1339,
+      "citations": 1342,
       "collaboratingCountries": [
         "AU",
         "BE",
@@ -616214,7 +616214,7 @@
       "date": "2021-03-18",
       "url": "https://doi.org/10.1016/j.annonc.2021.02.006",
       "countryEvidence": "institution country codes [US, US, US, US, NL, NL, NL, NL, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1162,
+      "citations": 1163,
       "collaboratingCountries": [
         "NL",
         "US"
@@ -704984,7 +704984,7 @@
       "date": "2022-11-09",
       "url": "https://doi.org/10.1093/nar/gkac1010",
       "countryEvidence": "institution country codes [GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, US, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, US, US, GB, GB, GB, GB, GB, AU, GB, GB, GB, GB, GB] → GB",
-      "citations": 1840,
+      "citations": 1842,
       "collaboratingCountries": [
         "AU",
         "GB",
@@ -705005,7 +705005,7 @@
       "date": "2021-01-01",
       "url": "https://doi.org/10.1016/j.csbj.2021.07.014",
       "countryEvidence": "institution country codes [HU, HU] → HU",
-      "citations": 1765,
+      "citations": 1766,
       "ingestedAt": "2026-10-06T20:35:45.825Z",
       "orgId": "semmelweis university",
       "relevanceScore": 0.6
@@ -705021,7 +705021,7 @@
       "date": "2021-03-12",
       "url": "https://doi.org/10.1016/j.cell.2021.03.013",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, DE, ZA, ZA, US, US, US, ZA, US, US, US, US] → US",
-      "citations": 1290,
+      "citations": 1292,
       "collaboratingCountries": [
         "DE",
         "US",
@@ -705042,7 +705042,7 @@
       "date": "2022-11-09",
       "url": "https://doi.org/10.1093/nar/gkac1011",
       "countryEvidence": "institution country codes [GB, GB, GB, IT, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB, GB] → GB",
-      "citations": 1606,
+      "citations": 1611,
       "collaboratingCountries": [
         "GB",
         "IT"
@@ -705062,7 +705062,7 @@
       "date": "2021-02-10",
       "url": "https://doi.org/10.1038/s41586-021-03324-6",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1365,
+      "citations": 1367,
       "ingestedAt": "2026-10-06T20:35:45.825Z",
       "orgId": "rockefeller university",
       "relevanceScore": 0.6
@@ -705078,7 +705078,7 @@
       "date": "2021-07-15",
       "url": "https://doi.org/10.1038/s42003-021-02399-1",
       "countryEvidence": "institution country codes [ES, GB, ES, ES, CA, ES, ES, ES, ES, ES, ES, ES, CA] → ES",
-      "citations": 1400,
+      "citations": 1401,
       "collaboratingCountries": [
         "CA",
         "ES",
@@ -705131,7 +705131,7 @@
       "date": "2021-12-16",
       "url": "https://doi.org/10.1042/bcj20210708",
       "countryEvidence": "institution country codes [GB, GB, GB, GB] → GB",
-      "citations": 1100,
+      "citations": 1102,
       "ingestedAt": "2026-10-06T20:35:45.825Z",
       "orgId": "mrc laboratory of molecular biology",
       "relevanceScore": 0.6
@@ -705188,7 +705188,7 @@
       "date": "2021-03-15",
       "url": "https://doi.org/10.1038/s41598-021-84787-5",
       "countryEvidence": "institution country codes [HU, HU, HU, HU] → HU",
-      "citations": 1188,
+      "citations": 1189,
       "ingestedAt": "2026-10-06T20:35:45.825Z",
       "orgId": "semmelweis university",
       "relevanceScore": 0.6
@@ -783263,7 +783263,7 @@
       "date": "2023-12-20",
       "url": "https://doi.org/10.1038/s41586-023-06792-0",
       "countryEvidence": "institution country codes [US, US, US] → US",
-      "citations": 2749,
+      "citations": 2756,
       "ingestedAt": "2026-10-11T12:30:46.223Z",
       "orgId": "carnegie mellon university",
       "relevanceScore": 0.6
@@ -977754,7 +977754,7 @@
       "date": "2023-09-21",
       "url": "https://doi.org/10.1038/s41587-023-01953-y",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1283,
+      "citations": 1286,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "lawrence berkeley national laboratory",
       "relevanceScore": 0.6
@@ -977786,7 +977786,7 @@
       "date": "2022-12-15",
       "url": "https://doi.org/10.1186/s13059-022-02823-7",
       "countryEvidence": "institution country codes [US, CH, US, US, US, US, US, US, US, US, US, CH] → US",
-      "citations": 1171,
+      "citations": 1173,
       "collaboratingCountries": [
         "CH",
         "US"
@@ -977806,7 +977806,7 @@
       "date": "2022-01-17",
       "url": "https://doi.org/10.1038/s41467-022-28034-z",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA] → CA",
-      "citations": 1237,
+      "citations": 1240,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "dalhousie university",
       "relevanceScore": 0.6
@@ -977838,7 +977838,7 @@
       "date": "2022-11-28",
       "url": "https://doi.org/10.1038/s43588-022-00349-3",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 1527,
+      "citations": 1530,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "university of california san diego",
       "relevanceScore": 0.6
@@ -977854,7 +977854,7 @@
       "date": "2022-09-28",
       "url": "https://doi.org/10.1093/nar/gkac833",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 1123,
+      "citations": 1127,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "north carolina state university",
       "relevanceScore": 0.6
@@ -977870,7 +977870,7 @@
       "date": "2022-01-01",
       "url": "https://doi.org/10.1016/j.cell.2021.12.018",
       "countryEvidence": "institution country codes [BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, BE, CH, CH, NL, BE, BE, BE, BE, BE, BE, CH, CH, BE, BE, BE, BE, BE] → BE",
-      "citations": 1091,
+      "citations": 1093,
       "collaboratingCountries": [
         "BE",
         "CH",
@@ -977891,7 +977891,7 @@
       "date": "2021-11-08",
       "url": "https://doi.org/10.1371/journal.pcbi.1009581",
       "countryEvidence": "institution country codes [US, US, AU, CH, CH, US, US, CH, CH] → US",
-      "citations": 1138,
+      "citations": 1139,
       "collaboratingCountries": [
         "AU",
         "CH",
@@ -977912,7 +977912,7 @@
       "date": "2023-01-01",
       "url": "https://doi.org/10.1038/s41588-022-01270-1",
       "countryEvidence": "institution country codes [CA, CA, CA, CA, CA, CA, SE, GB, GB, GB, CA, CA, CA, JP, JP, CA, CA, CA, CA, CA, CA, CA, CA, CA, JP, JP, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, CA, US, CA, CA, US, CA, CA, GB, GB, GB, DE, GB, DE, CA, CA, CA, SE, SE, SE, GB, CA, CA, CA] → CA",
-      "citations": 1132,
+      "citations": 1134,
       "collaboratingCountries": [
         "CA",
         "DE",
@@ -977963,7 +977963,7 @@
       "date": "2024-03-07",
       "url": "https://doi.org/10.1126/science.adl2528",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, GB, US, US, US, US, US, GB, GB, GB, US, US, US, KR, US, US, US] → US",
-      "citations": 1305,
+      "citations": 1314,
       "collaboratingCountries": [
         "GB",
         "KR",
@@ -977984,7 +977984,7 @@
       "date": "2021-09-28",
       "url": "https://doi.org/10.12688/f1000research.73600.2",
       "countryEvidence": "institution country codes [CH, CH, CH, CH, US, CH, CH, CH, CH, CH, CH, CH, CH] → CH",
-      "citations": 1765,
+      "citations": 1769,
       "collaboratingCountries": [
         "CH",
         "US"
@@ -978004,7 +978004,7 @@
       "date": "2022-04-01",
       "url": "https://doi.org/10.1038/s41467-022-29366-6",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, CN, US, SG, CN, SG, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
-      "citations": 1146,
+      "citations": 1148,
       "collaboratingCountries": [
         "CN",
         "SG",
@@ -978025,7 +978025,7 @@
       "date": "2024-05-20",
       "url": "https://doi.org/10.1093/nar/gkae410",
       "countryEvidence": "institution country codes [US, US, AU, US, GB, US, AU, AU, FR, FR, FR, DE, US, IT, FR, FR, AU, AU, US, ES, US, US, BE, BE, GB, IT, US, US, BE, NL, CZ, US, DE, IE, BE, BE, DE, DE, US, NO, DE, FR, US, GB, AU, FR, US, DE, US, NO, AU, AU, AU, CZ, DE, DE, DE, DE, CH, CH, AU, AU, US, GB, US, US, FR, FR, GB, NO, GB, DE, DE, DE, US, DE, DE, US, FR, FR, AU, AU, AU, IT, GB, GB, DE, CH, DE, US, AU, FR, US, AU, GB, CH, US, DE, DE, US, AU, NG, US, DE, GB, AU, AU, AU, AU, NL, US] → US",
-      "citations": 1235,
+      "citations": 1239,
       "collaboratingCountries": [
         "AU",
         "BE",
@@ -978109,7 +978109,7 @@
       "date": "2025-01-16",
       "url": "https://doi.org/10.1126/science.ads0018",
       "countryEvidence": "institution country codes [US, US, US, US, US, US] → US",
-      "citations": 1487,
+      "citations": 1493,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "arc research institute",
       "relevanceScore": 0.6
@@ -978125,7 +978125,7 @@
       "date": "2021-10-20",
       "url": "https://doi.org/10.1099/ijsem.0.005056",
       "countryEvidence": "institution country codes [IL, US] → IL",
-      "citations": 1132,
+      "citations": 1137,
       "collaboratingCountries": [
         "IL",
         "US"
@@ -978145,7 +978145,7 @@
       "date": "2021-03-08",
       "url": "https://doi.org/10.1186/s13059-021-02286-2",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, CN, US, US, US, US, US, US, CN, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1047,
+      "citations": 1048,
       "collaboratingCountries": [
         "CN",
         "US"
@@ -978191,7 +978191,7 @@
       "date": "2023-12-19",
       "url": "https://doi.org/10.1038/s41467-023-43458-x",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1136,
+      "citations": 1138,
       "ingestedAt": "2026-10-27T17:46:17.619Z",
       "orgId": "10x genomics united states",
       "relevanceScore": 0.6
@@ -982930,7 +982930,7 @@
       "date": "2022-02-02",
       "url": "https://doi.org/10.1038/s41586-021-04390-6",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1045,
+      "citations": 1047,
       "ingestedAt": "2026-10-27T22:18:10.706Z",
       "orgId": "university of pennsylvania",
       "relevanceScore": 0.6
@@ -983011,7 +983011,7 @@
       "date": "2021-05-26",
       "url": "https://doi.org/10.1038/s41467-021-23303-9",
       "countryEvidence": "institution country codes [US, US, PL, US, US, US, US, US, US, NZ, US, US, US, US, US, US, US, US, US, US, US, CA, US, US, US, US] → US",
-      "citations": 1182,
+      "citations": 1183,
       "collaboratingCountries": [
         "CA",
         "NZ",
@@ -983432,7 +983432,7 @@
       "date": "2023-03-25",
       "url": "https://doi.org/10.1038/s41524-023-01000-z",
       "countryEvidence": "institution country codes [CN, CN, CN, CN, CN] → CN",
-      "citations": 1138,
+      "citations": 1142,
       "ingestedAt": "2026-10-28T12:31:23.748Z",
       "orgId": "shanghai university",
       "relevanceScore": 0.6
@@ -1096389,7 +1096389,7 @@
       "date": "2024-05-08",
       "url": "https://doi.org/10.1038/s42256-024-00832-8",
       "countryEvidence": "institution country codes [CH, CH, US, US, CH, CH, CH, CH, US, US, CH, CH] → CH",
-      "citations": 2455,
+      "citations": 2464,
       "collaboratingCountries": [
         "CH",
         "US"
@@ -1096409,7 +1096409,7 @@
       "date": "2023-08-07",
       "url": "https://doi.org/10.1038/s41592-023-01943-7",
       "countryEvidence": "institution country codes [US, US, US, US, GB, GB, US, US, US, US] → US",
-      "citations": 1074,
+      "citations": 1075,
       "collaboratingCountries": [
         "GB",
         "US"
@@ -1096429,7 +1096429,7 @@
       "date": "2021-06-09",
       "url": "https://doi.org/10.1186/s13321-021-00522-2",
       "countryEvidence": "institution country codes [US, US, IN, US, GB, US, US, US] → US",
-      "citations": 1176,
+      "citations": 1181,
       "collaboratingCountries": [
         "GB",
         "IN",
@@ -1096466,7 +1096466,7 @@
       "date": "2025-01-11",
       "url": "https://doi.org/10.1093/nar/gkaf018",
       "countryEvidence": "institution country codes [AU, AU, AU, US, AU, AU, AU, AU] → AU",
-      "citations": 1146,
+      "citations": 1148,
       "collaboratingCountries": [
         "AU",
         "US"
@@ -1162821,7 +1162821,7 @@
       "date": "2026-05-19",
       "url": "https://doi.org/10.1038/s41586-026-10644-y",
       "countryEvidence": "institution country codes [CH, US, CH, US, CH, CH, CH, CH, CH, US, US, US, US, US, US, US, US, US, US, US, CH, CH, US, CH, CH, CH, CH, US, US, US, US, US, US, US, US, CH, CH, US, US, US, GB, GB, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1267,
+      "citations": 1278,
       "collaboratingCountries": [
         "CH",
         "GB",
@@ -1162842,7 +1162842,7 @@
       "date": "2022-03-03",
       "url": "https://doi.org/10.1038/s42256-022-00447-x",
       "countryEvidence": "institution country codes [US, US, US, US] → US",
-      "citations": 1250,
+      "citations": 1252,
       "ingestedAt": "2026-11-07T18:10:47.853Z",
       "orgId": "carnegie mellon university",
       "relevanceScore": 0.6
@@ -1206772,7 +1206772,7 @@
       "date": "2024-11-18",
       "url": "https://doi.org/10.1093/nar/gkae1113",
       "countryEvidence": "institution country codes [CH, CH, DK, DK, DK, DK, DK, DK, FI, CH, CH, DK, DK, CH, CH, CH, CH, CH, CH, DK, DK, FI, DE, DE, DE, DE, DK, DK, CH, CH] → CH",
-      "citations": 1157,
+      "citations": 1160,
       "collaboratingCountries": [
         "CH",
         "DE",
@@ -1245560,7 +1245560,7 @@
       "date": "2024-02-19",
       "url": "https://doi.org/10.1038/s41586-023-06957-x",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US] → US",
-      "citations": 1084,
+      "citations": 1085,
       "ingestedAt": "2026-11-12T15:00:19.216Z",
       "orgId": "broad institute",
       "relevanceScore": 0.6
@@ -1310614,7 +1310614,7 @@
       "date": "2025-01-16",
       "url": "https://doi.org/10.1038/s41586-025-08628-5",
       "countryEvidence": "institution country codes [GB, GB, GB, US, GB, CN, CN, GB, GB, GB, GB, GB, US, US, GB, NL, US, US, US, US, US, CN, CN, CN, CN, GB, GB] → GB",
-      "citations": 1244,
+      "citations": 1248,
       "collaboratingCountries": [
         "CN",
         "GB",
@@ -1310636,7 +1310636,7 @@
       "date": "2022-07-27",
       "url": "https://doi.org/10.1038/s41467-022-32007-7",
       "countryEvidence": "institution country codes [ES, DE, DE, DE] → DE",
-      "citations": 1097,
+      "citations": 1099,
       "collaboratingCountries": [
         "DE",
         "ES"
@@ -1310656,7 +1310656,7 @@
       "date": "2021-11-15",
       "url": "https://doi.org/10.1038/s41524-021-00650-1",
       "countryEvidence": "institution country codes [US, US, US, US, US] → US",
-      "citations": 1086,
+      "citations": 1088,
       "ingestedAt": "2026-11-16T22:08:03.839Z",
       "orgId": "national institute of standards and technology",
       "relevanceScore": 0.6
@@ -1310672,7 +1310672,7 @@
       "date": "2024-11-28",
       "url": "https://doi.org/10.1038/s41592-024-02523-z",
       "countryEvidence": "institution country codes [US, US, DE, US] → US",
-      "citations": 1088,
+      "citations": 1094,
       "collaboratingCountries": [
         "DE",
         "US"
@@ -1310692,7 +1310692,7 @@
       "date": "2023-06-01",
       "url": "https://doi.org/10.1016/j.crmeth.2023.100498",
       "countryEvidence": "institution country codes [US, US, US, US, US] → US",
-      "citations": 1057,
+      "citations": 1060,
       "ingestedAt": "2026-11-16T22:08:03.839Z",
       "orgId": "university of california irvine",
       "relevanceScore": 0.6
@@ -1373631,7 +1373631,7 @@
       "date": "2021-05-09",
       "url": "https://doi.org/10.1093/bioinformatics/btaa1016",
       "countryEvidence": "institution country codes [US, US] → US",
-      "citations": 1147,
+      "citations": 1148,
       "ingestedAt": "2026-11-19T20:27:32.309Z",
       "orgId": "johns hopkins university",
       "relevanceScore": 0.6
@@ -1402958,7 +1402958,7 @@
       "date": "2021-02-01",
       "url": "https://doi.org/10.1107/s1600576720013412",
       "countryEvidence": "institution country codes [DE, DE, RU, RU, RU, DE, DE, DE, DE, RU, RU, RU, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE, DE] → DE",
-      "citations": 1053,
+      "citations": 1054,
       "collaboratingCountries": [
         "DE",
         "RU"
@@ -1408781,7 +1408781,7 @@
       "date": "2023-07-06",
       "url": "https://doi.org/10.1158/1541-7786.mcr-23-0411",
       "countryEvidence": "institution country codes [US, US, US, US, US, SE, US, US] → US",
-      "citations": 1081,
+      "citations": 1085,
       "collaboratingCountries": [
         "SE",
         "US"
@@ -1412183,7 +1412183,7 @@
       "date": "2021-11-18",
       "url": "https://doi.org/10.1038/s41587-021-01094-0",
       "countryEvidence": "institution country codes [US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, IL, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, US, IL, US, US, US, US] → US",
-      "citations": 1077,
+      "citations": 1079,
       "collaboratingCountries": [
         "IL",
         "US"
@@ -1466024,7 +1466024,7 @@
       "provenance": "live",
       "source": "paper",
       "title": "AI-Assisted in Silico Modelling Based Optimization of Dextranase-Loaded Hydrogels for Controlled Delivery",
-      "org": "",
+      "org": "Department Of Biotechnology",
       "date": "2026-12-05",
       "url": "https://doi.org/10.64643/ijirt211666",
       "countryEvidence": "no institution country on record",
@@ -1466039,6 +1466039,7 @@
       ],
       "venue": "International Journal of Innovative Research in Technology",
       "ingestedAt": "2026-11-27T16:33:19.769Z",
+      "orgId": "department of biotechnology",
       "relevanceScore": 0.6
     },
     {
@@ -1481547,6 +1481548,1079 @@
       "ingestedAt": "2026-11-28T01:34:20.962Z",
       "orgId": "universidad de burgos",
       "relevanceScore": 0.85
+    },
+    {
+      "id": "oa-W7171550197",
+      "stage": "innovation",
+      "country": "CH",
+      "provenance": "live",
+      "source": "paper",
+      "title": "A modular bio-hybrid skin model for optical testing applications",
+      "org": "ZHAW Zurich University of Applied Sciences",
+      "date": "2027-01-01",
+      "url": "https://doi.org/10.1039/d6lf00312e",
+      "countryEvidence": "institution country codes [CH, CH, CH, CH, CH, CH, CH, CH, CH] → CH",
+      "citations": 0,
+      "abstract": "Bringing optical skin models to life, this modular approach combines tunable artificial epidermal layers with living keratinocytes to study cellular responses under controlled optical conditions.",
+      "authors": [
+        "Dardan Bajrami",
+        "Kongchang Wei",
+        "Fabrizio Spano",
+        "Nolan Agah",
+        "Mathias Bonmarin",
+        "René Michel Rossi"
+      ],
+      "venue": "RSC Applied Interfaces",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "orgId": "zhaw zurich university of applied sciences",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7214975871",
+      "stage": "innovation",
+      "country": "CN",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Deciphering the allosteric mechanism of structural flexibility in governing the activity-stability trade-off of nitrile hydratase",
+      "org": "Jiangnan University",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.mcat.2026.116515",
+      "countryEvidence": "institution country codes [CN, CN, CN, CN, CN, CN, CN, CN, CN, CN] → CN",
+      "citations": 0,
+      "authors": [
+        "Jun Ma",
+        "Heng Gong",
+        "Yiwei Meng",
+        "Ran Gu",
+        "Leyi Zhang",
+        "Naxin Wang"
+      ],
+      "venue": "Molecular Catalysis",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "orgId": "jiangnan university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7239441897",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Continuous generation of functional human iPSC-derived NK cells in a scalable hematopoietic organoid system",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.135792",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Fawaz Saleh",
+        "Lucas Rebuffet",
+        "Roland Jacobs",
+        "Agnes Bonifacius",
+        "Berislav Čuvalo",
+        "Edwin Emilio Valdivia Malqui"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240209380",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Targeting macropinocytosis for cancer drug delivery from biology to translational challenges",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.138850",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Hongfei Tan",
+        "Xia Yao",
+        "Yueyan Wu",
+        "Qiuyu Cheng",
+        "Mengmeng Shi",
+        "Shi Li"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240209751",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "EFFECTS OF LINKER ARCHITECTURE AND DOMAIN ORDER ON THE STRUCTURAL DYNAMICS OF ANTIFREEZE PROTEIN FUSION CONSTRUCTS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105830",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Motahareh Sadeghzadeh",
+        "Hamed Zahraee"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240209843",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "AI-guided bacteriophage genome design: from generation to adaptive evolution",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.143024",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Jongwon Byun",
+        "Hakjin Kim",
+        "Seon-Kyu Kim",
+        "Taeho Kwon"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240211697",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Therapeutic decoupling of restenosis prevention from impaired vascular healing with regenerative nanovesicle-eluting bioresorbable scaffolds",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.138957",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Min-Kyu Kang",
+        "Ji Won Kim",
+        "Yu-Jeong Lee",
+        "Dong‐Sung Won",
+        "Gi Wook Lee",
+        "Weiqiang Liu"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240211812",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "CHARACTERIZATION OF CYTOTOXICITY AND IMMUNOGENICITY IN SUPERCOOLED MULTICELLULAR HEPATIC ORGANOIDS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105784",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Hannah N. LaMond",
+        "Ronald Sellers",
+        "Richie A. Amato",
+        "Matthew J. Powell‐Palm",
+        "Elaheh Rahbar"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240213155",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "LION™: A CLINICAL STAGE AND THERMOSTABLE NANOPARTICLE PLATFORM FOR SAFE AND EFFECTIVE DELIVERY OF REPLICATING RNA (REPRNA) MEDICINES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105742",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Amit Khandhar"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240218796",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "CRYO-ASSISTED PRINTING OF LOW VISCOSITY ALGINATE-AGAROSE-HYDROGEL SCAFFOLDS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105820",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Mohan Dey",
+        "Ram Devireddy"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240218926",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "OPTIMIZATION OF CRYOPROTECTION OF HUMAN CORD BLOOD NUCLEATED CELLS USING CATALASE AND Me2SO",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105867",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Pavlo M. Zubov",
+        "Oksana L. Zubova"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240219904",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "FREEZE-DRYING OF WATER HYACINTH-DERIVED HYDROGEL FOR PHARMACEUTICAL APPLICATIONS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105859",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Aleksi Kröger",
+        "Malak AbuZaid",
+        "Chris S. Pridgeon",
+        "Dahir Mohamed",
+        "Salim Mohamed",
+        "Mari Madetoja"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240221847",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "ENZYME RELEASE FROM POLYVINYL ALCOHOL CRYOHYDROGEL AFTER STORAGE AT –40°C",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105826",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Yevheniia Naumenko",
+        "Iryna Khala"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240222028",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "FROM LANGUAGE TO CRYOPRESERVATION: LLM-DRIVEN DISCOVERY OF NOVEL ICE INHIBITORS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105831",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Sicai Li",
+        "Lingyu Shi",
+        "Gang Zhao"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240224963",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "FORMATION OF TOLEROGENIC POTENTIAL OF DENDRITIC CELLS UNDER LYOPHILIZED CORD BLOOD EFFECT",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105870",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Tetiana G. Dubrava",
+        "Olena D. Lutsenko",
+        "Larysa V. Sokil",
+        "Аnatoliy Goltsev"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240225107",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Extracellular Vesicle Heterogeneity in Colorectal Cancer: From Biological Diversity to Therapeutic Translation and Precision Intervention",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.140085",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Yining Sun",
+        "Xian Zhang",
+        "Feifan Chen",
+        "Binyang Luo",
+        "JinLin Yang",
+        "Zhu Wang"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240226757",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Single-cell RNA-seq Combined with Spatial Transcriptomics Reveals Intrinsic Drug Resistance Mechanisms Associated with SENP6-Regulated AR SUMOylation in Prostate Cancer",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.130088",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Xinan Wang",
+        "Chang Lu",
+        "Hanchu Ye",
+        "Chengdang Xu",
+        "Wei Wu",
+        "Yicong Yao"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240227360",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Spatiotemporal Lineage Tracing Reveals Molecular and Spatial Heterogeneity in Cochlear Sensory Epithelium",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.139343",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Mingxuan Wu",
+        "Jiacheng Fan",
+        "Yuyan Gu",
+        "Zhou Yuqiu",
+        "Tianshi Sun",
+        "Yaoqian Liu"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240231803",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "High-resolution species identification via full-length mitochondrial genome profiling with QNome nanopore sequencing: a proof-of-principle study",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1007/s00414-026-04096-2",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Dongxu Ma",
+        "Jing Liu",
+        "Liu Qin",
+        "Yangyang Zheng",
+        "Mengyao Zhao",
+        "Zheng Wang"
+      ],
+      "venue": "International Journal of Legal Medicine",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240232292",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Lipid-based nanocarriers for combination therapy in lung cancer: pharmacokinetic harmonization, multidrug resistance, toxicological challenges, and translational perspectives",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1007/s00210-026-06130-x",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Daniyal Khan",
+        "Adiba Anees",
+        "Md. Faheem Haider",
+        "Mohammad Abohassan"
+      ],
+      "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240233592",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Research progress on engineered Extracellular Vesicles-based drug delivery systems",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.134566",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Lian Wang",
+        "Xiangyu Li",
+        "Qionghui Chen",
+        "Liwen Zhang",
+        "Xianchuan Xu",
+        "Peng Zhang"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240233702",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "SCALABLE ICE-FREE VITRIFICATION OF COMPLEX TISSUES FOR LIVING BIOLOGICAL LIBRARIES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105772",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Bradley P. Weegman",
+        "Zhenzhen Chen",
+        "Anthony N. Consiglio",
+        "Brooke Chang",
+        "Ronald Sellers",
+        "Jonathan Ting"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240233711",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Activin A directs porcine embryonic stem cell commitment to extraembryonic endoderm lineage",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.133831",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Hanning Wang",
+        "Liang Zhong",
+        "Xiaofeng Yan",
+        "Kaipeng Wang",
+        "Chengchen Zhao",
+        "Jinzhu Xiang"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240237077",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Phage therapy in the context of antimicrobial resistance: recent advances and persisting challenges",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.mib.2026.102852",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Valentin A Rodriguez",
+        "Anna Carla Farano",
+        "Camille Goemans"
+      ],
+      "venue": "Current Opinion in Microbiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240239053",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Targeted delivery of selenomethionine by RGD-functionalized liposomes inhibits AAD progression through dual modulation of inflammation and BRD4 lactylation",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.139857",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Jiamin Xu",
+        "Xi Tan",
+        "Ke Hu",
+        "Xu Zhou",
+        "Xiaohan Fan",
+        "Lihua Tian"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240242373",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "One ligand, two targets: Dual antigen recognition with a single ligand-based CAR",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.omton.2026.201393",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Hirotaka Kumeda",
+        "Koichi Hirabayashi"
+      ],
+      "venue": "Molecular Therapy Oncology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240243975",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "RECOMBINASE-MEDIATED CASSETTE EXCHANGE FOR STABLE SINGLE-LOCUS TRANSGENE INTEGRATION IN ANHYDROBIOTIC PV11 CELLS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105836",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Masahiko Hotta",
+        "Yuki Yoshida",
+        "Takahiro Kikawada"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240244670",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Age-stratified integrative multi-omics analysis identifies ACOT7 as an mtFAO-associated candidate in bladder cancer progression",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1007/s00210-026-06145-4",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Da-Ming Xu",
+        "Xiao-Yu Zhuang",
+        "Ze-Zhou Zhan",
+        "Fu-Gui Wu",
+        "Xu-Wei Chen",
+        "Jun-Quan Chen"
+      ],
+      "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240244776",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "UNRAVELING SOLUTION-PHASE ASSOCIATION LANDSCAPES OF TYPE III ANTIFREEZE PROTEIN ISOFORMS USING MOLECULAR DYNAMICS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105828",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Faranak Abdollahi"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240244978",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Gas diffusion governs the intracellular dissolution of lipid-shelled microbubbles",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.134228",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Yann Ferry",
+        "Andrei Hâncu",
+        "Andrew Kristof",
+        "Pavlos Anastasiadis",
+        "John Blazeck",
+        "Costas Arvanitis"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240246181",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Engineering nanocarriers and nanomaterial-microbe hybrids for gut microbiome modulation: From targeted delivery to gut-X axis therapy",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.142668",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Na Qu",
+        "Ju Guo",
+        "Meng Zhang",
+        "Mingxia Liu",
+        "Huizhong Ma",
+        "Xin Li"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240247783",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Vascularization of Endometrial Organoids: From Basic Biology to Clinical Translation in Reproductive Medicine",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.134435",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Dan Mo",
+        "Zhonghong Zeng",
+        "Dezhi Mao",
+        "Jiayi Ma",
+        "Haiyan Huang",
+        "Jizhou Li"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240247985",
+      "stage": "innovation",
+      "country": "PK",
+      "provenance": "live",
+      "source": "paper",
+      "title": "Efficacy and Safety of HBV RNA-Targeting Oligonucleotide Therapies in Nucleos(t)ide Analogue-Suppressed Chronic Hepatitis B: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+      "org": "Riyadh Elm University",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.69854/jcq.2026.0033",
+      "countryEvidence": "institution country codes [SA, PK, PK, EG, EG] → PK",
+      "citations": 0,
+      "abstract": "Background: RNA-targeting oligonucleotides are being developed to reduce hepatitis B surface antigen (HBsAg) and facilitate functional cure in chronic hepatitis B (CHB). We evaluated the efficacy and safety of small interfering RNA (siRNA)…",
+      "authors": [
+        "Mayar A. Alqahtani",
+        "Simran Pardeep",
+        "Sharjeel Ur Rehman",
+        "Salma Mohamed Awadallah"
+      ],
+      "venue": "Journal of Clinical Question",
+      "collaboratingCountries": [
+        "EG",
+        "PK",
+        "SA"
+      ],
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "orgId": "riyadh elm university",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240248561",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "The development and application of high-resolution Y-chromosome capture panel YHSeqY7.4M for paternal lineage inference in forensic genetics",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1007/s00414-026-04091-7",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Yunhui Liu",
+        "Du Mingxin",
+        "Lintao Luo",
+        "Moru Guo",
+        "Ye Tian",
+        "Zhiyong Wang"
+      ],
+      "venue": "International Journal of Legal Medicine",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240249301",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "TECH-11(V) FABRICATION OF ENGINEERED POROUS ALGINATE CRYOGEL BASED ON A NOVEL METHOD AT TWO DIFFERENT TEMPERATURES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105843",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Fateme Jafari",
+        "Atefeh Solouk",
+        "Somayeh Tavana",
+        "Rouhollah Fathi"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240252778",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Bioinspired ultrasound-responsive piezoelectric topological patches with controlled magnesium release and immunomodulation for bone defect repair",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/thno.141156",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Zhengwei Liu",
+        "Hui Zhang",
+        "Yu Wang",
+        "Yuanjin Zhao",
+        "Yongxiang Wang"
+      ],
+      "venue": "Theranostics",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240253885",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "MeLoDe: detecting DNA methylation from low-depth long-read sequencing data",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.7150/ijbs.135064",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Yujie Cao",
+        "Shufeng Sun",
+        "Shuhua Chen",
+        "Wen Yang",
+        "Xinran Liu",
+        "Feng Xu"
+      ],
+      "venue": "International Journal of Biological Sciences",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240255024",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "VALIDATION OF A NOVEL VERSATILE CLINICAL-GRADE CRYOPRESERVATION MEDIUM FOR CELL THERAPIES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105861",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Jillian L. Kuizenga",
+        "Omar Al-Hanbali",
+        "Samantha Rossman",
+        "John Baust",
+        "Kimberly L. Santucci",
+        "Ye Yuan"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240255408",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "CRYOINJURY AND CELL SURVIVAL IN CRYOPRESERVED AUTOLOGOUS SKIN",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105892",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Juntao Wang",
+        "Xiaodan Zhang",
+        "Hong Zhang",
+        "Yuliang Sun",
+        "Gang Wang",
+        "Qingjia Xu"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240255459",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "OVERCOMING THE CHALLENGE OF SCALABLE FILL/FINISH STRATEGIES FOR CRYOPRESERVED ALLOGENEIC CELL THERAPIES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105744",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Taylor Hilton",
+        "Katie Pollock"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240255897",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "LOWER STORAGE TEMPERATURES ENSURE BETTER PRESERVATION OF ALGINATE- AND ALGINATE-LAPONITE-INCORPORATED SUPEROXIDE DISMUTASE",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105825",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Svetlana Repina",
+        "Iryna Khala",
+        "Oleg A. Nardid"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240260034",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "COMPARATIVE ANALYSIS OF MSC CONTENT IN CRYOPRESERVED FETOPLACENTAL PRODUCTS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105866",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Lina Konoplia",
+        "Anna Feskova",
+        "Oleksandr Feskov",
+        "Yevheniia Zhylkova",
+        "Iryna Bezpechna",
+        "Tetiana Simonenkova"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240260311",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "GENERATIVE DEEP LEARNING FOR COMPUTATIONAL DISCOVERY OF NOVEL CRYOPROTECTANT MOLECULES",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105841",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Xingyue Lei",
+        "Gang Zhao"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240260456",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "IMMUNOMODULATORY EFFECT OF CRYOPRESERVED BONE MARROW MONONUCLEAR CELL DERIVED DENDRITIC CELLS",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105868",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Аnatoliy Goltsev",
+        "Yuliia Haievska",
+        "Mykola O. Bondarovych",
+        "Tetiana Dubrava",
+        "Ihor Grysha",
+        "Maksim V. Ostankov"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240261929",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Core-shell upconversion nanoparticle-based lateral flow immunoassay for rapid and quantitative detection of heparin-binding protein in serum",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1007/s00604-026-08595-2",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Liang He",
+        "Yong Zhen",
+        "Shengya Cao",
+        "Chuan Xu"
+      ],
+      "venue": "Microchimica Acta",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240265282",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "Fully automated system for continuous manufacturing of exosome-mimetic nanoparticles via distribution valve-driven composition control",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cej.2026.184143",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Jinwoo Hwang",
+        "Chanmi Kim",
+        "Jaejeung Kim",
+        "Hairi Jiang",
+        "Hyunjo Seo",
+        "Seong Hoon Jeong"
+      ],
+      "venue": "Chemical Engineering Journal",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
+    },
+    {
+      "id": "oa-W7240268675",
+      "stage": "innovation",
+      "country": null,
+      "provenance": "live",
+      "source": "paper",
+      "title": "LIVING TISSUE BIOREPOSITORIES AND MULTIMODAL ANALYSIS TO ACCELERATE PRECISION CANCER DISCOVERY",
+      "org": "",
+      "date": "2026-11-28",
+      "url": "https://doi.org/10.1016/j.cryobiol.2026.105755",
+      "countryEvidence": "no institution country on record",
+      "citations": 0,
+      "authors": [
+        "Genevieve Marie Boland",
+        "Shannon Tessier",
+        "Sonia Cohen",
+        "Mehmet Toner",
+        "Keith Flaherty"
+      ],
+      "venue": "Cryobiology",
+      "ingestedAt": "2026-11-28T11:48:03.102Z",
+      "relevanceScore": 0.6
     }
   ],
   "trend": [
@@ -1487775,71 +1488849,40 @@
     {
       "date": "2026-11-28",
       "counts": {
-        "CN": 138,
-        "DK": 2,
-        "US": 73,
-        "IR": 5,
-        "KR": 13,
-        "JP": 28,
-        "FR": 6,
-        "IN": 49,
+        "CN": 15,
+        "DK": 1,
+        "US": 6,
+        "IR": 3,
+        "KR": 5,
+        "CH": 1,
+        "JP": 6,
+        "FR": 1,
+        "IN": 27,
         "EG": 2,
-        "BR": 5,
-        "GB": 13,
-        "IE": 3,
-        "DE": 7,
-        "IT": 13,
-        "MX": 4,
-        "RU": 13,
+        "BR": 2,
+        "GB": 1,
+        "IE": 2,
+        "DE": 1,
+        "IT": 1,
+        "MX": 2,
+        "RU": 2,
         "EC": 1,
         "SG": 1,
-        "ID": 3,
+        "ID": 1,
         "IQ": 3,
         "JO": 1,
-        "UA": 6,
+        "UA": 3,
         "KE": 1,
-        "ZA": 1,
-        "NL": 5,
-        "NO": 2,
-        "CH": 6,
-        "LV": 1,
-        "SE": 6,
-        "PK": 4,
-        "BE": 2,
-        "AU": 5,
-        "ES": 7,
-        "TR": 4,
-        "TH": 2,
-        "RS": 2,
-        "PL": 3,
-        "MA": 1,
-        "HU": 1,
-        "RO": 1,
-        "CO": 2,
-        "PT": 2,
-        "UZ": 1,
-        "SI": 1,
-        "MK": 1,
-        "KZ": 1,
-        "SA": 2,
-        "IL": 2,
-        "BG": 1,
-        "PE": 2,
-        "TW": 1,
-        "GR": 2,
-        "CA": 3,
-        "NE": 1,
-        "CL": 1,
-        "SK": 1
+        "PK": 1
       },
       "stageCounts": {
-        "innovation": 9851,
+        "innovation": 9898,
         "scaling": 4,
         "adoption": 2,
         "investment": 22
       },
       "fundingUsd": 0,
-      "totalEntries": 62449,
+      "totalEntries": 62496,
       "windowCap": 600
     }
   ],
@@ -1487876,7 +1488919,7 @@
   "sourceMeta": [
     {
       "sourceName": "OpenAlex (papers)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions cron) — the browser never fetches this source itself, it only reads the committed data file",
       "structuralLag": "journal-publication lag behind an arXiv preprint — weeks to months (a deliberate trade-off for real institution data; see arXiv fallback below)",
       "coverageGaps": "no institution country on works with no structured affiliation match — falls back to raw-affiliation-text inference, tagged provenance \"auto\" when it does",
@@ -1488076,7 +1489119,7 @@
     },
     {
       "sourceName": "EPO Patents",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (the same GitHub Actions run as every other automated source)",
       "structuralLag": "~18 months typical (patent office filing-to-publication lag)",
       "coverageGaps": "needs EPO_KEY/EPO_SECRET — skipped entirely (soft-fail) if unset",
@@ -1488085,7 +1489128,7 @@
     },
     {
       "sourceName": "NSF Awards",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "NSF typically posts an award within days to a few weeks of the funding decision",
       "coverageGaps": "US-only — no public machine-readable feed exists for China's NSFC; investment stage is US/EU-weighted by construction, not a judgment call",
@@ -1488094,7 +1489137,7 @@
     },
     {
       "sourceName": "USASpending.gov (federal awards)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "USASpending typically posts within days to weeks of contract execution",
       "coverageGaps": "US federal contracts only — no state, no non-US, no private-sector procurement; only covers this vertical's hand-picked ticker list, one recipient+keyword query per company, so a company under a slightly different legal name on a given award may be missed",
@@ -1488103,7 +1489146,7 @@
     },
     {
       "sourceName": "Federal research grants by program (USASpending)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key; only configured for verticals where NSF's keyword search is measurably the wrong instrument",
       "structuralLag": "USASpending typically posts within days to weeks of award execution",
       "coverageGaps": "US federal assistance awards only, so the same US weighting NSF carries. Filtered by the funder's own CFDA program number rather than by keyword, which is why it is on-topic where NSF is not — but it is a top-100-by-award-size sample rather than a census, since the real result set is larger than one page. Only space is configured (NASA 43.012 Space Technology); NIH for biotechnology is the obvious next addition and is unbuilt.",
@@ -1488313,7 +1489356,7 @@
     },
     {
       "sourceName": "Trade-press RSS (scaling/adoption)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time — as fast as the trade press publishes",
       "coverageGaps": "keyword-classified, provenance \"auto\" — weakest attribution tier; stage/country calls are a guess, disclosed on every such entry",
@@ -1488322,7 +1489365,7 @@
     },
     {
       "sourceName": "Google News (investment)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time",
       "coverageGaps": "keyword-classified, provenance \"auto\"; personal/non-commercial use license only",
@@ -1488341,7 +1489384,7 @@
     },
     {
       "sourceName": "Massive (public markets)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions)",
       "structuralLag": "near-real-time exchange data, snapshot at fetch time — not live-updating between runs",
       "coverageGaps": "needs MASSIVE_KEY — skipped entirely (soft-fail) if unset; covers only the hand-picked ticker list per vertical, not every company in the space",
@@ -1488350,7 +1489393,7 @@
     },
     {
       "sourceName": "SEC EDGAR (corporate R&D spend)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "every 3 hours (GitHub Actions) — free, no key",
       "structuralLag": "10-K filings post annually, weeks after fiscal year end",
       "coverageGaps": "only covers this vertical's hand-picked ticker list, and only companies that tag a standalone R&D expense concept — Amazon, for one, folds R&D into a broader 'technology and infrastructure' line with no clean tag and is skipped rather than force-fit",
@@ -1488359,7 +1489402,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (foreign R&D spend)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "manual — re-run scripts/import-capiq-rd-export.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "only the specific foreign 20-F filers hand-added to CAPIQ_TICKERS_BY_VERTICAL (fetch-data.ts) — not a general foreign-company feed",
@@ -1488368,7 +1489411,7 @@
     },
     {
       "sourceName": "S&P Capital IQ (VC funding)",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "manual — re-run scripts/import-capiq-transactions.ts after a fresh export, not on any automated schedule",
       "structuralLag": "however current the last manual export was — this can go stale between imports, unlike every live source here",
       "coverageGaps": "entity-consolidated by a heuristic (entityResolution.ts), not a real entity-ID join — the export has no ID column; covers whatever date range and industry tag the export was built with, not necessarily full history",
@@ -1488568,7 +1489611,7 @@
     },
     {
       "sourceName": "Hand-verified seed",
-      "lastSuccessfulPull": "2026-11-28T01:34:20.962Z",
+      "lastSuccessfulPull": "2026-11-28T11:48:03.102Z",
       "pollCadence": "manual — added by a human when a milestone is checked against its source, not on any fetch schedule",
       "structuralLag": "none — verified at the time it's added, dated to the real event",
       "coverageGaps": "only as complete as the hand-curation effort behind it; supplements, does not replace, the live RSS layer",
@@ -1488580,491 +1489623,491 @@
     {
       "symbol": "CRSP",
       "name": "CRISPR Therapeutics AG",
-      "marketCapUsd": 4128354601.28,
-      "asOf": "2026-11-28T01:15:55.240Z",
+      "marketCapUsd": 4109924446.81,
+      "asOf": "2026-11-28T11:29:49.468Z",
       "url": "https://www.crisprtx.com"
     },
     {
       "symbol": "NTLA",
       "name": "Intellia Therapeutics, Inc",
-      "marketCapUsd": 1447096258.72,
-      "asOf": "2026-11-28T01:16:10.439Z",
+      "marketCapUsd": 1448499843.8400002,
+      "asOf": "2026-11-28T11:30:04.625Z",
       "url": "https://www.intelliatx.com"
     },
     {
       "symbol": "BEAM",
       "name": "Beam Therapeutics Inc. Common Stock",
-      "marketCapUsd": 2466301196.52,
-      "asOf": "2026-11-28T01:16:25.678Z",
+      "marketCapUsd": 2488035281.7599998,
+      "asOf": "2026-11-28T11:30:19.716Z",
       "url": "https://www.beamtx.com"
     },
     {
       "symbol": "EDIT",
       "name": "Editas Medicine, Inc. Common Stock",
-      "marketCapUsd": 276268148.92,
-      "asOf": "2026-11-28T01:16:40.936Z",
+      "marketCapUsd": 280898341.36,
+      "asOf": "2026-11-28T11:30:34.789Z",
       "url": "https://www.editasmedicine.com"
     },
     {
       "symbol": "CRBU",
       "name": "Caribou Biosciences, Inc. Common Stock",
-      "marketCapUsd": 36916150.2993,
-      "asOf": "2026-11-28T01:16:56.207Z",
+      "marketCapUsd": 37521155.9817,
+      "asOf": "2026-11-28T11:30:49.875Z",
       "url": "https://www.cariboubio.com"
     },
     {
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics,, Inc. Common Stock",
-      "marketCapUsd": 1604248286.0800002,
-      "asOf": "2026-11-28T01:17:11.413Z",
+      "marketCapUsd": 1598886493.68,
+      "asOf": "2026-11-28T11:31:04.984Z",
       "url": "https://www.sarepta.com"
     },
     {
       "symbol": "RARE",
       "name": "Ultragenyx Pharmaceutical Inc.",
-      "marketCapUsd": 1845844871.48,
-      "asOf": "2026-11-28T01:17:26.600Z",
+      "marketCapUsd": 1870306647.8000002,
+      "asOf": "2026-11-28T11:31:20.052Z",
       "url": "https://www.ultragenyx.com"
     },
     {
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc. Common Stock",
-      "marketCapUsd": 10231548877.439999,
-      "asOf": "2026-11-28T01:17:41.788Z",
+      "marketCapUsd": 10327264992,
+      "asOf": "2026-11-28T11:31:35.128Z",
       "url": "https://www.krystalbio.com"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
-      "marketCapUsd": 22063536894.48,
-      "asOf": "2026-11-28T01:17:56.994Z",
+      "marketCapUsd": 21791643615.199997,
+      "asOf": "2026-11-28T11:31:50.241Z",
       "url": "https://www.alnylam.com"
     },
     {
       "symbol": "IONS",
       "name": "Ionis Pharmaceuticals, Inc. Common Stock",
-      "marketCapUsd": 4989691196,
-      "asOf": "2026-11-28T01:18:12.221Z",
+      "marketCapUsd": 4856455116,
+      "asOf": "2026-11-28T11:32:05.373Z",
       "url": "https://www.ionis.com"
     },
     {
       "symbol": "ARWR",
       "name": "Arrowhead Research Corporation",
-      "marketCapUsd": 7010439318.360001,
-      "asOf": "2026-11-28T01:18:27.423Z",
+      "marketCapUsd": 7061331799.8,
+      "asOf": "2026-11-28T11:32:20.450Z",
       "url": "https://www.arrowheadpharma.com"
     },
     {
       "symbol": "RNA",
       "name": "Atrium Therapeutics, Inc. Common Stock",
-      "marketCapUsd": 163943453.2,
-      "asOf": "2026-11-28T01:18:42.629Z",
+      "marketCapUsd": 157903431.24,
+      "asOf": "2026-11-28T11:32:35.590Z",
       "url": "https://www.aviditybiosciences.com"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
-      "marketCapUsd": 89356496119,
-      "asOf": "2026-11-28T01:18:57.837Z",
+      "marketCapUsd": 92512539724,
+      "asOf": "2026-11-28T11:32:50.680Z",
       "url": "https://www.modernatx.com"
     },
     {
       "symbol": "BNTX",
       "name": "BioNTech SE American Depositary Share",
-      "marketCapUsd": 22417666035.600002,
-      "asOf": "2026-11-28T01:19:13.030Z",
+      "marketCapUsd": 21978833157,
+      "asOf": "2026-11-28T11:33:05.811Z",
       "url": "https://www.biontech.de"
     },
     {
       "symbol": "NVAX",
       "name": "Novavax Inc",
-      "marketCapUsd": 1288720360.29,
-      "asOf": "2026-11-28T01:19:28.218Z",
+      "marketCapUsd": 1308521441.37,
+      "asOf": "2026-11-28T11:33:20.870Z",
       "url": "https://www.novavax.com"
     },
     {
       "symbol": "LEGN",
       "name": "Legend Biotech Corporation American Depositary Shares",
-      "marketCapUsd": 3421613459.88,
-      "asOf": "2026-11-28T01:19:43.445Z",
+      "marketCapUsd": 3512778897.87,
+      "asOf": "2026-11-28T11:33:35.963Z",
       "url": "https://www.legendbiotech.com"
     },
     {
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc. Common Stock",
-      "marketCapUsd": 3298731226.63,
-      "asOf": "2026-11-28T01:19:58.649Z",
+      "marketCapUsd": 3294104675.12,
+      "asOf": "2026-11-28T11:33:51.060Z",
       "url": "https://www.iovance.com"
     },
     {
       "symbol": "ALLO",
       "name": "Allogene Therapeutics, Inc. Common Stock",
-      "marketCapUsd": 228668422.62,
-      "asOf": "2026-11-28T01:20:13.824Z",
+      "marketCapUsd": 253336894.8784,
+      "asOf": "2026-11-28T11:34:06.230Z",
       "url": "https://www.allogene.com"
     },
     {
       "symbol": "SANA",
       "name": "Sana Biotechnology, Inc. Common Stock",
-      "marketCapUsd": 572302756.41,
-      "asOf": "2026-11-28T01:20:29.012Z",
+      "marketCapUsd": 587284503.96,
+      "asOf": "2026-11-28T11:34:21.298Z",
       "url": "https://www.sana.com"
     },
     {
       "symbol": "FATE",
       "name": "Fate Therapeutics, Inc.",
-      "marketCapUsd": 119314416.746,
-      "asOf": "2026-11-28T01:20:44.199Z",
+      "marketCapUsd": 128975404.60000001,
+      "asOf": "2026-11-28T11:34:36.374Z",
       "url": "https://www.fatetherapeutics.com"
     },
     {
       "symbol": "VCEL",
       "name": "Vericel Corporation",
-      "marketCapUsd": 3113326267.7,
-      "asOf": "2026-11-28T01:20:59.409Z",
+      "marketCapUsd": 3131696984.9,
+      "asOf": "2026-11-28T11:34:51.459Z",
       "url": "https://www.vcel.com"
     },
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
-      "marketCapUsd": 101572349316.33,
-      "asOf": "2026-11-28T01:21:14.595Z",
+      "marketCapUsd": 102634758828.26,
+      "asOf": "2026-11-28T11:35:06.555Z",
       "url": "https://www.regeneron.com"
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals Inc",
-      "marketCapUsd": 143025672656.88,
-      "asOf": "2026-11-28T01:21:29.780Z",
+      "marketCapUsd": 135533634390.18001,
+      "asOf": "2026-11-28T11:35:21.646Z",
       "url": "https://www.vrtx.com"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
-      "marketCapUsd": 253817307567.6,
-      "asOf": "2026-11-28T01:21:44.967Z",
+      "marketCapUsd": 256435319179.19998,
+      "asOf": "2026-11-28T11:35:36.734Z",
       "url": "https://www.amgen.com"
     },
     {
       "symbol": "GILD",
       "name": "Gilead Sciences Inc",
-      "marketCapUsd": 219217446638.36002,
-      "asOf": "2026-11-28T01:22:00.177Z",
+      "marketCapUsd": 219539934678,
+      "asOf": "2026-11-28T11:35:51.809Z",
       "url": "https://www.gilead.com"
     },
     {
       "symbol": "BIIB",
       "name": "Biogen Inc. Common Stock",
-      "marketCapUsd": 38646119101.12,
-      "asOf": "2026-11-28T01:22:15.367Z",
+      "marketCapUsd": 39054102916.6,
+      "asOf": "2026-11-28T11:36:06.973Z",
       "url": "https://www.biogen.com"
     },
     {
       "symbol": "ZLAB",
       "name": "Zai Lab Limited American Depositary Shares",
-      "marketCapUsd": 2880133846.71,
-      "asOf": "2026-11-28T01:22:30.595Z",
+      "marketCapUsd": 2960033528.63,
+      "asOf": "2026-11-28T11:36:22.060Z",
       "url": "https://www.zailaboratory.com"
     },
     {
       "symbol": "RXRX",
       "name": "Recursion Pharmaceuticals, Inc. Class A Common Stock",
-      "marketCapUsd": 1642574282.1149998,
-      "asOf": "2026-11-28T01:22:45.773Z",
+      "marketCapUsd": 1689326870.79,
+      "asOf": "2026-11-28T11:36:37.191Z",
       "url": "https://www.recursion.com"
     },
     {
       "symbol": "SDGR",
       "name": "Schrodinger, Inc. Common Stock",
-      "marketCapUsd": 1830396617.72,
-      "asOf": "2026-11-28T01:23:01.003Z",
+      "marketCapUsd": 1840156730.94,
+      "asOf": "2026-11-28T11:36:52.287Z",
       "url": "https://www.schrodinger.com"
     },
     {
       "symbol": "ABSI",
       "name": "Absci Corporation Common Stock",
-      "marketCapUsd": 1554712290,
-      "asOf": "2026-11-28T01:23:16.199Z",
+      "marketCapUsd": 1652313672.6499999,
+      "asOf": "2026-11-28T11:37:07.452Z",
       "url": "https://www.absci.com"
     },
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc. Class A Common Stock",
-      "marketCapUsd": 9984665609.380001,
-      "asOf": "2026-11-28T01:23:31.377Z",
+      "marketCapUsd": 10198075524.67,
+      "asOf": "2026-11-28T11:37:22.517Z",
       "url": "https://www.tempus.com"
     },
     {
       "symbol": "DNA",
       "name": "Ginkgo Bioworks Holdings, Inc.",
-      "marketCapUsd": 464738800.59,
-      "asOf": "2026-11-28T01:23:46.564Z",
+      "marketCapUsd": 483535767.42,
+      "asOf": "2026-11-28T11:37:37.578Z",
       "url": "https://www.ginkgobioworks.com"
     },
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation Common Stock",
-      "marketCapUsd": 7368071244.44,
-      "asOf": "2026-11-28T01:24:01.772Z",
+      "marketCapUsd": 7491474676.96,
+      "asOf": "2026-11-28T11:37:52.736Z",
       "url": "https://www.twistbioscience.com"
     },
     {
       "symbol": "CDXS",
       "name": "Codexis, Inc.",
-      "marketCapUsd": 110693504.29,
-      "asOf": "2026-11-28T01:24:16.955Z",
+      "marketCapUsd": 115077405.45,
+      "asOf": "2026-11-28T11:38:07.852Z",
       "url": "https://www.codexis.com"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
-      "marketCapUsd": 30298967999.999996,
-      "asOf": "2026-11-28T01:24:32.153Z",
+      "marketCapUsd": 31107888000,
+      "asOf": "2026-11-28T11:38:22.910Z",
       "url": "https://www.illumina.com"
     },
     {
       "symbol": "PACB",
       "name": "Pacific Biosciences of California, Inc.",
-      "marketCapUsd": 493334197.72,
-      "asOf": "2026-11-28T01:24:47.333Z",
+      "marketCapUsd": 497553500.70000005,
+      "asOf": "2026-11-28T11:38:37.980Z",
       "url": "https://www.pacb.com"
     },
     {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. Class A Common Stock",
-      "marketCapUsd": 7323823643.5199995,
-      "asOf": "2026-11-28T01:25:02.539Z",
+      "marketCapUsd": 7435627704.17,
+      "asOf": "2026-11-28T11:38:53.063Z",
       "url": "https://www.10xgenomics.com"
     },
     {
       "symbol": "QTRX",
       "name": "Quanterix Corporation Common Stock",
-      "marketCapUsd": 93769883.45,
-      "asOf": "2026-11-28T01:25:17.727Z",
+      "marketCapUsd": 89022041.25,
+      "asOf": "2026-11-28T11:39:08.236Z",
       "url": "https://www.quanterix.com"
     },
     {
       "symbol": "SEER",
       "name": "Seer, Inc. Class A Common Stock",
-      "marketCapUsd": 81489559.82,
-      "asOf": "2026-11-28T01:25:32.913Z",
+      "marketCapUsd": 79815116.81,
+      "asOf": "2026-11-28T11:39:23.387Z",
       "url": "https://www.seer.bio"
     },
     {
       "symbol": "NAUT",
       "name": "Nautilus Biotechnolgy, Inc. Common Stock",
-      "marketCapUsd": 248376228.75,
-      "asOf": "2026-11-28T01:25:48.100Z",
+      "marketCapUsd": 253471125.75,
+      "asOf": "2026-11-28T11:39:38.473Z",
       "url": "https://www.nautilus.bio"
     },
     {
       "symbol": "NTRA",
       "name": "Natera, Inc. Common Stock",
-      "marketCapUsd": 43694212312.93,
-      "asOf": "2026-11-28T01:26:03.306Z",
+      "marketCapUsd": 44085724519.63,
+      "asOf": "2026-11-28T11:39:53.607Z",
       "url": "https://www.natera.com"
     },
     {
       "symbol": "GH",
       "name": "Guardant Health, Inc. Common Stock",
-      "marketCapUsd": 20747457126,
-      "asOf": "2026-11-28T01:26:18.508Z",
+      "marketCapUsd": 21110023539,
+      "asOf": "2026-11-28T11:40:08.707Z",
       "url": "https://www.guardanthealth.com"
     },
     {
       "symbol": "MYGN",
       "name": "Myriad Genetics Inc",
-      "marketCapUsd": 530449743.88,
-      "asOf": "2026-11-28T01:26:33.757Z",
+      "marketCapUsd": 532368187.8,
+      "asOf": "2026-11-28T11:40:23.768Z",
       "url": "https://www.myriad.com"
     },
     {
       "symbol": "QGEN",
       "name": "QIAGEN N.V.",
-      "marketCapUsd": 10223642754.71,
-      "asOf": "2026-11-28T01:26:48.974Z",
+      "marketCapUsd": 10182343450.51,
+      "asOf": "2026-11-28T11:40:38.892Z",
       "url": "https://www.qiagen.com"
     },
     {
       "symbol": "SOPH",
       "name": "SOPHiA GENETICS SA Ordinary Shares",
-      "marketCapUsd": 537505964.275,
-      "asOf": "2026-11-28T01:27:04.191Z",
+      "marketCapUsd": 557635669.71,
+      "asOf": "2026-11-28T11:40:53.959Z",
       "url": "https://www.sophiagenetics.com"
     },
     {
       "symbol": "GRAL",
       "name": "GRAIL, Inc. Common Stock",
-      "marketCapUsd": 4675166540.58,
-      "asOf": "2026-11-28T01:27:19.378Z",
+      "marketCapUsd": 4790269698.34,
+      "asOf": "2026-11-28T11:41:09.045Z",
       "url": "https://www.grail.com"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
-      "marketCapUsd": 253996037831.36,
-      "asOf": "2026-11-28T01:27:34.576Z",
+      "marketCapUsd": 253077158478.72,
+      "asOf": "2026-11-28T11:41:24.106Z",
       "url": "https://www.thermofisher.com"
     },
     {
       "symbol": "DHR",
       "name": "Danaher Corporation",
-      "marketCapUsd": 159947730790.25,
-      "asOf": "2026-11-28T01:27:49.761Z",
+      "marketCapUsd": 161031168245.34998,
+      "asOf": "2026-11-28T11:41:39.172Z",
       "url": "https://www.danaher.com"
     },
     {
       "symbol": "A",
       "name": "Agilent Technologies Inc.",
-      "marketCapUsd": 50293209612.6,
-      "asOf": "2026-11-28T01:28:04.952Z",
+      "marketCapUsd": 50746987170.75,
+      "asOf": "2026-11-28T11:41:54.277Z",
       "url": "https://www.agilent.com"
     },
     {
       "symbol": "RVTY",
       "name": "Revvity, Inc.",
-      "marketCapUsd": 16837357330.74,
-      "asOf": "2026-11-28T01:28:20.148Z",
+      "marketCapUsd": 16887594771.390001,
+      "asOf": "2026-11-28T11:42:09.406Z",
       "url": "https://www.revvity.com"
     },
     {
       "symbol": "BIO",
       "name": "Bio-Rad Laboratories, Inc.Class A",
-      "marketCapUsd": 9826144244.1,
-      "asOf": "2026-11-28T01:28:35.379Z",
+      "marketCapUsd": 9739817890.65,
+      "asOf": "2026-11-28T11:42:24.499Z",
       "url": "https://www.bio-rad.com"
     },
     {
       "symbol": "WAT",
       "name": "Waters Corp",
-      "marketCapUsd": 89409096612.85,
-      "asOf": "2026-11-28T01:28:50.564Z",
+      "marketCapUsd": 90578472395.6,
+      "asOf": "2026-11-28T11:42:39.573Z",
       "url": "https://www.waters.com"
     },
     {
       "symbol": "BRKR",
       "name": "Bruker Corporation",
-      "marketCapUsd": 8650195886.4,
-      "asOf": "2026-11-28T01:29:05.773Z",
+      "marketCapUsd": 8747938212.8,
+      "asOf": "2026-11-28T11:42:54.648Z",
       "url": "https://www.bruker.com"
     },
     {
       "symbol": "RGEN",
       "name": "Repligen Corp",
-      "marketCapUsd": 10747498069.94,
-      "asOf": "2026-11-28T01:29:20.957Z",
+      "marketCapUsd": 10790326974.400002,
+      "asOf": "2026-11-28T11:43:09.758Z",
       "url": "https://www.repligen.com"
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories International, Inc.",
-      "marketCapUsd": 15912432441.359999,
-      "asOf": "2026-11-28T01:29:36.149Z",
+      "marketCapUsd": 16166874191.13,
+      "asOf": "2026-11-28T11:43:24.839Z",
       "url": "https://www.criver.com"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
-      "marketCapUsd": 1240113047058.82,
-      "asOf": "2026-11-28T01:29:51.333Z",
+      "marketCapUsd": 1240255566263.78,
+      "asOf": "2026-11-28T11:43:39.975Z",
       "url": "https://www.lilly.com"
     },
     {
       "symbol": "PFE",
       "name": "Pfizer Inc.",
-      "marketCapUsd": 162217837241.18,
-      "asOf": "2026-11-28T01:30:06.548Z",
+      "marketCapUsd": 162559828465.16,
+      "asOf": "2026-11-28T11:43:55.061Z",
       "url": "https://www.pfizer.com"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
-      "marketCapUsd": 345849317569.51996,
-      "asOf": "2026-11-28T01:30:21.759Z",
+      "marketCapUsd": 348388520628.16,
+      "asOf": "2026-11-28T11:44:10.199Z",
       "url": "https://www.merck.com"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCapUsd": 659458574268.04,
-      "asOf": "2026-11-28T01:30:36.937Z",
+      "marketCapUsd": 663238051385.66,
+      "asOf": "2026-11-28T11:44:25.301Z",
       "url": "https://www.jnj.com"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
-      "marketCapUsd": 520527649790.88,
-      "asOf": "2026-11-28T01:30:52.120Z",
+      "marketCapUsd": 515931847395.27997,
+      "asOf": "2026-11-28T11:44:40.362Z",
       "url": "https://www.abbvie.com"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co.",
-      "marketCapUsd": 125833923756.36,
-      "asOf": "2026-11-28T01:31:07.315Z",
+      "marketCapUsd": 124934525990.72,
+      "asOf": "2026-11-28T11:44:55.533Z",
       "url": "https://www.bms.com"
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
-      "marketCapUsd": 285694648990.4,
-      "asOf": "2026-11-28T01:31:22.517Z",
+      "marketCapUsd": 284888171505.6,
+      "asOf": "2026-11-28T11:45:10.652Z",
       "url": "https://www.astrazeneca.com"
     },
     {
       "symbol": "NVS",
       "name": "Novartis AG",
-      "marketCapUsd": 293284354495.88,
-      "asOf": "2026-11-28T01:31:37.713Z",
+      "marketCapUsd": 290999119973.76,
+      "asOf": "2026-11-28T11:45:25.790Z",
       "url": "https://www.novartis.com"
     },
     {
       "symbol": "SNY",
       "name": "Sanofi American Depositary Shares (Each representing one-half of one ordinary share)",
-      "marketCapUsd": 130601956686.18001,
-      "asOf": "2026-11-28T01:31:52.898Z",
+      "marketCapUsd": 128080683391.08,
+      "asOf": "2026-11-28T11:45:40.852Z",
       "url": "https://www.sanofi.com"
     },
     {
       "symbol": "GSK",
       "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
-      "marketCapUsd": 102305538055.08,
-      "asOf": "2026-11-28T01:32:08.085Z",
+      "marketCapUsd": 102688478406.35,
+      "asOf": "2026-11-28T11:45:55.966Z",
       "url": "https://www.gsk.com"
     },
     {
       "symbol": "NVO",
       "name": "Novo-Nordisk A/S",
-      "marketCapUsd": 180523852282.93,
-      "asOf": "2026-11-28T01:32:23.307Z",
+      "marketCapUsd": 180964476769.83,
+      "asOf": "2026-11-28T11:46:11.099Z",
       "url": "https://www.novonordisk.com"
     },
     {
       "symbol": "TAK",
       "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
-      "marketCapUsd": 73514598239.94,
-      "asOf": "2026-11-28T01:32:38.494Z",
+      "marketCapUsd": 73546547217.88,
+      "asOf": "2026-11-28T11:46:26.189Z",
       "url": "https://www.takeda.com"
     },
     {
       "symbol": "ZTS",
       "name": "ZOETIS INC.",
-      "marketCapUsd": 33561713742.199997,
-      "asOf": "2026-11-28T01:32:53.679Z",
+      "marketCapUsd": 33500766320.15,
+      "asOf": "2026-11-28T11:46:41.320Z",
       "url": "https://www.zoetis.com"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
-      "marketCapUsd": 5492068290,
-      "asOf": "2026-11-28T01:33:08.907Z",
+      "marketCapUsd": 5512087980,
+      "asOf": "2026-11-28T11:46:56.382Z",
       "url": "https://www.corteva.com"
     },
     {
       "symbol": "BIOX",
       "name": "Bioceres Crop Solutions Corp. Ordinary Shares",
-      "marketCapUsd": 11078438.6776,
-      "asOf": "2026-11-28T01:33:24.093Z",
+      "marketCapUsd": 11365610.1871,
+      "asOf": "2026-11-28T11:47:11.474Z",
       "url": "https://www.biocerescrops.com"
     }
   ],
